@@ -1,9 +1,10 @@
 [
   {
     "year": "1914",
+    "era": "Origins",
     "title": {
-      "en": "Mitsuyo Maeda Arrives in Brazil",
-      "fr": "Mitsuyo Maeda arrive au Brésil"
+      "en": "Mitsuyo Maeda",
+      "fr": "Mitsuyo Maeda"
     },
     "description": {
       "en": "🥋 Japanese judoka Mitsuyo Maeda, known as 'Count Koma,' arrives in Brazil after traveling the world in challenge matches.\n💫 Teaches Carlos Gracie in exchange for help from his family, planting the seeds of Brazilian Jiu Jitsu.\n🌍 This cross-cultural exchange would eventually revolutionize martial arts worldwide.",
@@ -14,9 +15,10 @@
   },
   {
     "year": "1925",
+    "era": "Origins",
     "title": {
-      "en": "Carlos and Helio Gracie Open the First Academy",
-      "fr": "Carlos et Helio Gracie ouvrent la première académie"
+      "en": "Carlos Gracie",
+      "fr": "Carlos Gracie"
     },
     "description": {
       "en": "👊 The Gracie brothers open the first BJJ academy in Rio de Janeiro, developing techniques focused on leverage and ground control.\n🔬 Helio, being smaller and frailer, adapts techniques to rely on leverage over strength.\n🏛️ Establishes the foundation of modern Brazilian Jiu Jitsu philosophy.",
@@ -27,9 +29,10 @@
   },
   {
     "year": "1951",
+    "era": "Gracie Challenge Era",
     "title": {
-      "en": "Helio Gracie vs. Masahiko Kimura",
-      "fr": "Helio Gracie contre Masahiko Kimura"
+      "en": "Masahiko Kimura",
+      "fr": "Masahiko Kimura"
     },
     "description": {
       "en": "⚔️ Helio Gracie faces judo champion Masahiko Kimura in Rio de Janeiro before 20,000 spectators.\n💥 The armlock used by Kimura becomes legendary and named after him in BJJ.\n🎖️ Despite losing, Helio's courage against a much larger opponent becomes part of BJJ folklore.",
@@ -39,10 +42,11 @@
     "tags": ["competition","match","technique","history"]
   },
   {
-    "year": "1960s–1970s",
+    "year": "1960s-1970s",
+    "era": "Modernization Era",
     "title": {
-      "en": "Rolls Gracie: The Innovator",
-      "fr": "Rolls Gracie : l'innovateur"
+      "en": "Rolls Gracie",
+      "fr": "Rolls Gracie"
     },
     "description": {
       "en": "💡 Rolls Gracie integrates wrestling, judo, and sambo into BJJ, modernizing the art and breaking from pure tradition.\n🌟 Remembered as one of the greatest technical minds of his time, emphasizing athleticism and cross-training.\n🏄 Tragically dies in a hang-gliding accident in 1982, but his influence shapes modern BJJ forever.",
@@ -53,9 +57,10 @@
   },
   {
     "year": "1980s",
+    "era": "Vale Tudo Era",
     "title": {
-      "en": "Rickson Gracie: The Perfect Fighter",
-      "fr": "Rickson Gracie : le combattant parfait"
+      "en": "Rickson Gracie",
+      "fr": "Rickson Gracie"
     },
     "description": {
       "en": "🔥 Rickson Gracie becomes the symbol of BJJ perfection, claiming hundreds of victories in both BJJ and vale tudo.\n🧘 Teaches the philosophy of jiu-jitsu as a lifestyle, emphasizing invisible jiu-jitsu and connection.\n👑 Widely considered the greatest Gracie fighter of all time by many practitioners.",
@@ -66,9 +71,10 @@
   },
   {
     "year": "1993",
+    "era": "MMA Revolution",
     "title": {
-      "en": "Royce Gracie Dominates UFC 1",
-      "fr": "Royce Gracie domine le premier UFC"
+      "en": "Royce Gracie",
+      "fr": "Royce Gracie"
     },
     "description": {
       "en": "🏆 Royce Gracie shocks the world by winning UFC 1 against larger opponents from different styles.\n💪 Proves the power of technique over strength, introducing BJJ to the American mainstream.\n🌎 This single event triggers a global explosion in BJJ popularity and changes martial arts forever.",
@@ -79,9 +85,10 @@
   },
   {
     "year": "1994",
+    "era": "Sport BJJ Era",
     "title": {
-      "en": "IBJJF Founded - Sport BJJ Formalized",
-      "fr": "Fondation de l'IBJJF - Formalisation du BJJ sportif"
+      "en": "IBJJF",
+      "fr": "IBJJF"
     },
     "description": {
       "en": "📋 The International Brazilian Jiu-Jitsu Federation is established, creating standardized rules, weight classes, and belt rankings.\n🌍 Transforms BJJ from regional challenge matches to an organized global sport.\n🏆 The World Championship (Mundials) becomes the most prestigious gi competition.",
@@ -92,9 +99,10 @@
   },
   {
     "year": "1996",
+    "era": "Sport BJJ Era",
     "title": {
-      "en": "Marcelo Garcia: The People's Champion",
-      "fr": "Marcelo Garcia : le champion du peuple"
+      "en": "Marcelo Garcia",
+      "fr": "Marcelo Garcia"
     },
     "description": {
       "en": "⚡ Marcelo Garcia revolutionizes BJJ with butterfly and x-guard systems, known for humility and unmatched technique.\n🏅 Multiple-time ADCC and World Champion, famous for guillotine expertise.\n🎓 His instructional approach and generous teaching style inspire a generation of grapplers.",
@@ -105,9 +113,10 @@
   },
   {
     "year": "1998",
+    "era": "Submission Grappling Era",
     "title": {
-      "en": "ADCC - The Grappling Olympics",
-      "fr": "ADCC - Les Olympiques du grappling"
+      "en": "ADCC",
+      "fr": "ADCC"
     },
     "description": {
       "en": "🏆 The Abu Dhabi Combat Club launches the first ADCC tournament, bringing together wrestlers, judokas, and BJJ practitioners.\n💰 Large cash prizes attract world-class talent and legitimize submission grappling.\n🌟 Becomes the most prestigious no-gi competition in the world, held every two years.",
@@ -118,23 +127,26 @@
   },
   {
       "year": "2000s",
-      "title": {"en": "Saulo Ribeiro: Jiu-Jitsu University", "fr": "Saulo Ribeiro : Jiu-Jitsu University"},
+      "era": "Modern Champions",
+      "title": {"en": "Saulo Ribeiro", "fr": "Saulo Ribeiro"},
       "description": {"en": "📚 Saulo Ribeiro wins multiple world titles across weight classes and authors 'Jiu-Jitsu University', becoming a foundational coach and instructor worldwide.", "fr": "📚 Saulo Ribeiro remporte plusieurs titres mondiaux toutes catégories et publie 'Jiu-Jitsu University', devenant un coach et instructeur fondamental dans le monde entier."},
       "image": "images/bjj/saulo.jpg",
       "tags": ["saulo","coach","author","champion"]
     },
     {
       "year": "2000s",
-      "title": {"en": "Xande Ribeiro: Heavyweight Maestro", "fr": "Xande Ribeiro : Maestro des lourds"},
+      "era": "Modern Champions",
+      "title": {"en": "Xande Ribeiro", "fr": "Xande Ribeiro"},
       "description": {"en": "🏆 Xande Ribeiro dominates heavyweight competition with technical mastery, collecting world and ADCC medals and influencing guard/passing strategy.", "fr": "🏆 Xande Ribeiro domine la compétition des lourds par sa maîtrise technique, remportant des médailles mondiales et ADCC et influençant les stratégies de garde et de passage."},
       "image": "images/bjj/xande.jpg",
       "tags": ["xande","ribeiro","champion"]
     },
   {
     "year": "2003",
+    "era": "No-Gi Revolution",
     "title": {
-      "en": "Eddie Bravo and 10th Planet Jiu Jitsu",
-      "fr": "Eddie Bravo et 10th Planet Jiu Jitsu"
+      "en": "Eddie Bravo",
+      "fr": "Eddie Bravo"
     },
     "description": {
       "en": "🌟 Eddie Bravo submits Royler Gracie at ADCC with a triangle from closed guard, shocking the BJJ world.\n🚫 Creates 10th Planet Jiu Jitsu - a no-gi only system featuring rubber guard, lockdown, and truck positions.\n🎵 Brings a new culture to BJJ, blending martial arts with music and counterculture, making it more accessible.",
@@ -145,9 +157,10 @@
   },
   {
     "year": "2003",
+    "era": "Modern Champions",
     "title": {
-      "en": "Ronaldo 'Jacaré' Souza Emerges",
-      "fr": "Ronaldo 'Jacaré' Souza émerge"
+      "en": "Ronaldo Souza",
+      "fr": "Ronaldo Souza"
     },
     "description": {
       "en": "🐊 Jacaré becomes one of the most complete BJJ competitors, famous for explosive guard passing and pressure.\n🥇 World Champion and ADCC Champion who successfully transitions to high-level MMA.\n⚡ Known for aggressive style and finishing ability both in gi and no-gi.",
@@ -158,9 +171,10 @@
   },
   {
     "year": "2005",
+    "era": "Modern Champions",
     "title": {
-      "en": "Rodolfo Vieira and Pressure Passing",
-      "fr": "Rodolfo Vieira et le passage de garde en puissance"
+      "en": "Rodolfo Vieira",
+      "fr": "Rodolfo Vieira"
     },
     "description": {
       "en": "💪 Rodolfo Vieira earns fame for his unstoppable pressure passing and dominance in heavyweight divisions.\n🏆 Multiple-time World Champion known for making opponents feel helpless under his control.\n🔥 Represents the evolution of athletic, powerful BJJ combined with technical precision.",
@@ -178,9 +192,10 @@
     },
   {
     "year": "2007",
+    "era": "Modern Champions",
     "title": {
-      "en": "Buchecha - The Heavyweight Phenomenon",
-      "fr": "Buchecha - Le phénomène des poids lourds"
+      "en": "Marcus Almeida",
+      "fr": "Marcus Almeida"
     },
     "description": {
       "en": "🦁 Marcus 'Buchecha' Almeida begins his reign as the most dominant heavyweight in BJJ history.\n🏆 13x World Champion, 4x ADCC Champion - revolutionizes what's possible for larger athletes.\n⚡ Combines power with technical brilliance, incredible flexibility, and relentless pressure.\n🥊 Successfully transitions to MMA with ONE Championship.",
@@ -191,9 +206,10 @@
   },
   {
     "year": "2008",
+    "era": "Modern Champions",
     "title": {
-      "en": "Roger Gracie: Master of Fundamentals",
-      "fr": "Roger Gracie : maître des fondamentaux"
+      "en": "Roger Gracie",
+      "fr": "Roger Gracie"
     },
     "description": {
       "en": "🥋 Roger Gracie submits all opponents at Worlds using pure basics — mount, cross-collar choke, precision.\n🏆 10x World Champion, widely regarded as one of the GOATs of BJJ.\n📚 Proves that perfect execution of fundamentals beats flashy techniques, inspiring back-to-basics movements.",
@@ -204,9 +220,10 @@
   },
   {
     "year": "2010",
+    "era": "Team Era",
     "title": {
-      "en": "André Galvão: Athlete and Mentor",
-      "fr": "André Galvão : athlète et mentor"
+      "en": "André Galvão",
+      "fr": "André Galvão"
     },
     "description": {
       "en": "🔥 André Galvão becomes one of the most decorated BJJ athletes with ADCC and World titles in multiple weight classes.\n🏅 Founder of Atos Jiu Jitsu, producing modern champions like the Mendes brothers, Keenan Cornelius, and more.\n🎯 Known for incredible work ethic, strategic mind, and building a championship team culture.",
@@ -217,16 +234,18 @@
   },
      {
       "year": "2010s",
-      "title": {"en": "Miyao Brothers: Berimbolo & Matrix", "fr": "Les frères Miyao : Berimbolo et Matrix"},
+      "era": "Technical Revolution",
+      "title": {"en": "Miyao Brothers", "fr": "Frères Miyao"},
       "description": {"en": "🔄 Joao and Paulo Miyao popularize berimbolo variations and the matrix back take, becoming technical forces in featherweight competition and influencing modern guard play.", "fr": "🔄 Joao et Paulo Miyao popularisent des variations du berimbolo et le matrix back take, devenant des forces techniques en poids plume et influençant le jeu de garde moderne."},
       "image": "images/bjj/miyao.jpg",
       "tags": ["miyao","berimbolo","matrix","featherweight"]
     },
   {
     "year": "2012",
+    "era": "Technical Revolution",
     "title": {
-      "en": "The Mendes Brothers: Technical Revolution",
-      "fr": "Les frères Mendes : la révolution technique"
+      "en": "Mendes Brothers",
+      "fr": "Frères Mendes"
     },
     "description": {
       "en": "⚙️ Rafael and Guilherme Mendes redefine modern BJJ with berimbolo, inversions, and fluid guard transitions.\n🏅 Multiple World Champions who prove that smaller athletes can dominate through superior technique.\n🎓 Founders of Art of Jiu Jitsu academy, creating comprehensive online instruction that democratizes high-level technique.",
@@ -237,9 +256,10 @@
   },
   {
     "year": "2014",
+    "era": "Systematic Era",
     "title": {
-      "en": "John Danaher and Systematic Jiu Jitsu",
-      "fr": "John Danaher et le Jiu Jitsu systématique"
+      "en": "John Danaher",
+      "fr": "John Danaher"
     },
     "description": {
       "en": "🧠 John Danaher develops comprehensive systems for leg locks, back attacks, pin escapes, and guard passing.\n👥 His Danaher Death Squad (later New Wave/B-Team) dominates competition with systematic approaches.\n📚 Transforms how BJJ is taught through detailed instructional content and philosophical approach.\n🦵 Legitimizes leg locks in sport BJJ, ending the stigma against lower body submissions.",
@@ -250,16 +270,18 @@
   },
     {
       "year": "2015",
-      "title": {"en": "Eddie Cummings: Modern Leg-Lock Wave", "fr": "Eddie Cummings : La vague moderne des leg locks"},
+      "era": "Leg Lock Era",
+      "title": {"en": "Eddie Cummings", "fr": "Eddie Cummings"},
       "description": {"en": "🦵 Eddie Cummings pioneers aggressive leg-lock systems in no-gi competition, helping normalize heel hooks and single-leg entanglement strategies across elite grappling.", "fr": "🦵 Eddie Cummings est un pionnier des systèmes de leg locks agressifs en no-gi, contribuant à normaliser les heel hooks et les stratégies d'enchevêtrement de jambe au sein du grappling d'élite."},
       "image": "images/bjj/cummings.jpg",
       "tags": ["cummings","leg-locks","no-gi"]
     },
   {
     "year": "2015",
+    "era": "Technical Revolution",
     "title": {
-      "en": "Keenan Cornelius and the Lapel Revolution",
-      "fr": "Keenan Cornelius et la révolution du lapel"
+      "en": "Keenan Cornelius",
+      "fr": "Keenan Cornelius"
     },
     "description": {
       "en": "🌀 Keenan Cornelius introduces innovative lapel guards like Worm Guard and Squid Guard, changing gi strategy forever.\n🎨 Creates entirely new positions that require rethinking traditional passing strategies.\n💻 Pioneer in online instruction and opening his training methods to the public through Keenan Online.\n🌍 Represents the YouTube generation of BJJ - sharing knowledge openly rather than keeping secrets.",
@@ -270,9 +292,10 @@
   },
   {
     "year": "2016",
+    "era": "Modern Champions",
     "title": {
-      "en": "Leandro Lo - Poetry in Motion",
-      "fr": "Leandro Lo - La poésie en mouvement"
+      "en": "Leandro Lo",
+      "fr": "Leandro Lo"
     },
     "description": {
       "en": "🎨 Leandro Lo perfects the art of guard passing with unmatched timing, precision, and creativity.\n🏆 8x World Champion known for making difficult techniques look effortless and beautiful.\n🌟 His toreando passing and pressure become the gold standard for technical excellence.\n💔 Tragically killed in 2022, leaving an irreplaceable void in the sport and inspiring memorials worldwide.",
@@ -283,16 +306,18 @@
   },
     {
       "year": "2018",
-      "title": {"en": "Craig Jones: Submission Innovator", "fr": "Craig Jones : Innovateur de la soumission"},
+      "era": "Modern No-Gi",
+      "title": {"en": "Craig Jones", "fr": "Craig Jones"},
       "description": {"en": "🇦🇺 Craig Jones bursts onto the international scene with high-level ADCC performances and a modern leg-lock/back-attack toolkit, becoming one of the most influential competitors of his generation.", "fr": "🇦🇺 Craig Jones explose sur la scène internationale avec des performances ADCC de haut niveau et une boîte à outils moderne de leg locks/attaques du dos, devenant l'un des compétiteurs les plus influents de sa génération."},
       "image": "images/bjj/craig_jones.jpg",
       "tags": ["craig","leg-locks","adcc","innovator"]
     },
   {
     "year": "2019",
+    "era": "Modern No-Gi",
     "title": {
-      "en": "Gordon Ryan: The No-Gi King",
-      "fr": "Gordon Ryan : le roi du No-Gi"
+      "en": "Gordon Ryan",
+      "fr": "Gordon Ryan"
     },
     "description": {
       "en": "👑 Gordon Ryan dominates no-gi grappling with Danaher Death Squad systems, becoming the most accomplished no-gi competitor ever.\n💡 His precision, control, body lock passing, and submission game make him seemingly unbeatable.\n🏆 Multiple ADCC Champion and Who's Number One superfight winner.\n💰 Becomes the face of modern grappling, proving grapplers can earn substantial income through the sport.",
@@ -303,9 +328,10 @@
   },
   {
     "year": "2020s",
+    "era": "Modern Era",
     "title": {
-      "en": "Women Redefine the Sport",
-      "fr": "Les femmes redéfinissent le sport"
+      "en": "Women's BJJ",
+      "fr": "BJJ Féminin"
     },
     "description": {
       "en": "👊 Athletes like Gabi Garcia, Ffion Davies, Mackenzie Dern, Beatriz Mesquita, and Mayssa Bastos lead women's divisions to new heights.\n🌍 Women's divisions gain equal respect, prize money, and media coverage.\n⚡ Technical innovations from female athletes influence the entire sport.\n🎓 More women-led academies and instruction change BJJ culture to be more inclusive.",
@@ -316,9 +342,10 @@
   },
   {
     "year": "2021",
+    "era": "Professional Era",
     "title": {
-      "en": "Mikey Musumeci - The Renaissance Man",
-      "fr": "Mikey Musumeci - L'homme de la Renaissance"
+      "en": "Mikey Musumeci",
+      "fr": "Mikey Musumeci"
     },
     "description": {
       "en": "🤓 Mikey Musumeci becomes the first American IBJJF World Champion, known for his obsessive study of technique and details.\n🦶 Revolutionizes heel hooks and leg entanglements with innovative approaches to inside sankaku and 50/50.\n🎓 Represents the new generation of student-athletes who treat BJJ like a science.\n💼 Signs with ONE Championship, bringing high-level submission grappling to mainstream Asian MMA audiences.",
@@ -328,24 +355,27 @@
     "tags": ["technical","innovation","study","american","professional"]
   },
      {
-      "year": "2010s–2020s",
-      "title": {"en": "Adam Wardzinski: Butterfly Guard Specialist", "fr": "Adam Wardzinski : Spécialiste de la garde papillon"},
+      "year": "2010s-2020s",
+      "era": "Technical Revolution",
+      "title": {"en": "Adam Wardzinski", "fr": "Adam Wardzinski"},
       "description": {"en": "🦋 Adam Wardzinski refines butterfly guard and dynamic passing, earning significant European titles and influencing a generation of regional competitors.", "fr": "🦋 Adam Wardzinski affine la garde papillon et le passage dynamique, remportant des titres européens importants et influençant une génération de compétiteurs régionaux."},
       "image": "images/bjj/wardzinski.jpg",
       "tags": ["wardzinski","butterfly-guard","europe"]
     },
       {
       "year": "2018-2020s",
-      "title": {"en": "CJI & Professional Grappling Events", "fr": "CJI et événements de grappling professionnels"},
+      "era": "Professional Era",
+      "title": {"en": "Craig Jones Invitational", "fr": "Craig Jones Invitational"},
       "description": {"en": "🏟️ Combat Jiu-Jitsu Invitational (CJI) and other promotions professionalize team formats, combat jiu-jitsu rules, and help create more opportunities for pro grapplers.", "fr": "🏟️ Le Combat Jiu-Jitsu Invitational (CJI) et d'autres promotions professionnalisent les formats par équipe, les règles du combat jiu-jitsu et créent davantage d'opportunités pour les grapplers pros."},
       "image": "images/bjj/cji.jpg",
       "tags": ["cji","professional","event"]
     },
   {
     "year": "2022-Present",
+    "era": "Digital Era",
     "title": {
-      "en": "The Digital Age and Global Expansion",
-      "fr": "L'ère numérique et l'expansion mondiale"
+      "en": "Digital BJJ Revolution",
+      "fr": "Révolution numérique du BJJ"
     },
     "description": {
       "en": "🌐 BJJ explodes globally with major academies in every continent and professional leagues emerging.\n📱 Flograppling, UFC Fight Pass, and other platforms bring elite competition to worldwide audiences.\n💻 Online instruction from platforms like BJJ Fanatics democratizes access to world-class technique.\n🏆 New formats emerge: submission-only, team tournaments, and professional grappling circuits.\n💰 Top athletes can now make careers purely from competition, instruction, and sponsorships.",
