@@ -1,0 +1,107 @@
+.text-gray-700 {
+  white-space: pre-line;
+}
+.timeline-card {
+  white-space: pre-line;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.timeline-card:hover {
+  white-space: pre-line;
+  transform: scale(1.02);
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+/* -- Dark mode overrides --
+   These apply only when <body> has the `dark` class (toggled by JS)
+   They purposefully use element selector chains (body.dark ...) so
+   they override Tailwind utility classes applied inline in HTML.
+-- */
+
+body.dark {
+  background-color: #0b1220; /* near-black navy */
+  color: #e6eef6; /* light text */
+  transition: background-color 200ms ease, color 200ms ease;
+}
+
+/* Header */
+body.dark header {
+  background: linear-gradient(135deg,#0f1724 0%,#1f2937 50%,#3b4252 100%);
+}
+body.dark #main-title,
+body.dark #main-desc {
+  color: #f1f5f9; /* ensure header text is readable */
+}
+
+/* Country/topic buttons: reduce gradient and make them darker in dark mode */
+body.dark .country-btn,
+body.dark a[href$="game2.html"],
+body.dark a[href$="quizz.html"],
+body.dark #toggle-tag-bar {
+  background-image: none !important;
+  background-color: #253046 !important;
+  color: #e6eef6 !important;
+  border: 1px solid rgba(255,255,255,0.06);
+}
+body.dark .country-btn:hover,
+body.dark a[href$="game2.html"]:hover,
+body.dark a[href$="quizz.html"]:hover,
+body.dark #toggle-tag-bar:hover {
+  background-color: #334155 !important;
+}
+
+/* Theme toggle button in dark mode */
+body.dark #theme-toggle {
+  background-color: rgba(255,255,255,0.15) !important;
+  color: #e6eef6 !important;
+  border: 1px solid rgba(255,255,255,0.2) !important;
+}
+body.dark #theme-toggle:hover {
+  background-color: rgba(255,255,255,0.25) !important;
+}
+
+/* Timeline cards */
+/* Default .timeline-card keeps existing light appearance; override when dark */
+body.dark .timeline-card {
+  background-color: #172034 !important; /* dark card */
+  color: #e6eef6 !important; /* light text */
+  border: 1px solid rgba(255,255,255,0.06) !important;
+  box-shadow: 0 8px 24px rgba(2,6,23,0.6) !important;
+}
+body.dark .timeline-card:hover {
+  background-color: #1f2937 !important;
+  box-shadow: 0 10px 30px rgba(2,6,23,0.7) !important;
+}
+body.dark .timeline-card h2,
+body.dark .timeline-card p {
+  color: #e6eef6 !important;
+}
+
+/* Inputs and tag bar */
+body.dark input,
+body.dark textarea,
+body.dark select {
+  background-color: #0f1724 !important;
+  color: #e6eef6 !important;
+  border: 1px solid rgba(255,255,255,0.06) !important;
+}
+body.dark ::placeholder {
+  color: rgba(230,238,246,0.6) !important;
+}
+body.dark #tag-bar {
+  background: transparent;
+}
+
+/* Footer and general links */
+body.dark footer {
+  color: #9fb3c8 !important;
+}
+body.dark a {
+  color: #63b3ed !important;
+}
+
+/* Make sure images inside cards have a subtle border in dark mode */
+body.dark .timeline-card img {
+  border-radius: 8px;
+  border: 1px solid rgba(255,255,255,0.04);
+}
+

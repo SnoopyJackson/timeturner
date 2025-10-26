@@ -1,0 +1,56 @@
+[
+  {
+    "year": "753 BC",
+    "title": "Founding of Rome (legend)",
+    "description": "Romulus and Remus mythically found Rome on the Palatine Hill; traditional date for the city's founding.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Romulus_and_Remus.jpg"
+  },
+  {
+    "year": "509 BC",
+    "title": "Roman Republic Established",
+    "description": "Romans overthrew the last king and established the Republic, creating institutions like the Senate and consular system.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Ancient_Rome_Republic.jpg"
+  },
+  {
+    "year": "264–146 BC",
+    "title": "Punic Wars",
+    "description": "Series of wars between Rome and Carthage, including Hannibal's campaign; Rome's victory secured dominance in the western Mediterranean.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Hannibal.jpg"
+  },
+  {
+    "year": "49–44 BC",
+    "title": "Julius Caesar & End of Republic",
+    "description": "Caesar's crossing of the Rubicon, civil war, and eventual assassination led to the end of the Roman Republic.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Julius_Caesar.jpg"
+  },
+  {
+    "year": "27 BC–AD 14",
+    "title": "Augustus & The Principate",
+    "description": "Octavian (Augustus) became Rome's first emperor; established the principate and the Pax Romana—a long period of relative stability.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Augustus_of_Primaporta.jpg"
+  },
+  {
+    "year": "AD 117",
+    "title": "Pax Romana (peak)",
+    "description": "Under Trajan, the empire reached its greatest territorial extent; era of relative peace, infrastructure, and cultural flourishing.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Trajan%27s_Column%2C_Rome.jpg"
+  },
+  {
+    "year": "AD 306–337",
+    "title": "Constantine & Christianity",
+    "description": "Constantine legalized Christianity and moved the capital to Constantinople, reshaping the religious and political landscape of the empire.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Constantine_sculpture.jpg"
+  },
+  {
+    "year": "AD 410",
+    "title": "Sack of Rome (Visigoths)",
+    "description": "The sack of Rome by Alaric's Visigoths marked a symbolic blow to Roman prestige in the West.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Sack_of_Rome_410.jpg"
+  },
+  {
+    "year": "AD 476",
+    "title": "Fall of Western Roman Empire",
+    "description": "Romulus Augustulus deposed; often marked as the end of the Western Roman Empire and the beginning of the Middle Ages in Western Europe.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Fall_of_Rome.jpg"
+  }
+]

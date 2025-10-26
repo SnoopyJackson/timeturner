@@ -1,0 +1,56 @@
+[
+  {
+    "year": "541–542",
+    "title": "Justinianic Plague",
+    "description": "A bubonic plague pandemic that struck the Byzantine Empire and Mediterranean, killing an estimated 25–50 million people and weakening Roman-era states.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Justinian_plague_and_map.svg"
+  },
+  {
+    "year": "1347–1351",
+    "title": "Black Death",
+    "description": "One of the deadliest pandemics in human history (bubonic plague), estimated to have killed 30–60% of Europe's population and reshaped European economics, society, and culture.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Black_Death_Map.png"
+  },
+  {
+    "year": "16th century",
+    "title": "Old World–New World Epidemics",
+    "description": "The Columbian Exchange introduced smallpox, measles, and other diseases to the Americas, causing catastrophic population declines among Indigenous peoples.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Columbian_exchange.svg"
+  },
+  {
+    "year": "1918–1919",
+    "title": "Spanish Flu (H1N1)",
+    "description": "Influenza pandemic that infected a third of the global population and caused tens of millions of deaths; notable for high mortality in young adults.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Spanish_Flu_patient_1918.jpg"
+  },
+  {
+    "year": "1981–present",
+    "title": "HIV/AIDS Pandemic",
+    "description": "Identified in the early 1980s, HIV/AIDS has caused millions of deaths worldwide and led to major advances in virology, medicine, and public health responses.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/HIV_virion.jpg"
+  },
+  {
+    "year": "2002–2004",
+    "title": "SARS",
+    "description": "Severe Acute Respiratory Syndrome emerged in China and spread internationally, causing concern but ultimately contained through public health measures.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/SARS_Ag.png"
+  },
+  {
+    "year": "2009",
+    "title": "H1N1 (Swine Flu)",
+    "description": "A global influenza outbreak declared a pandemic in 2009; generally milder than 1918 but still caused significant morbidity and mortality.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Influenza_virus_TEM.jpg"
+  },
+  {
+    "year": "2014–2016",
+    "title": "West African Ebola Epidemic",
+    "description": "Largest Ebola outbreak in history, causing widespread fatalities and international public health response in Guinea, Liberia, and Sierra Leone.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Ebola_virus_EM.jpg"
+  },
+  {
+    "year": "2019–present",
+    "title": "COVID-19 Pandemic",
+    "description": "Global pandemic caused by SARS-CoV-2 leading to widespread health, economic, and social disruption; spurred vaccine development and public health innovations.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/SARS-CoV-2_without_background.png"
+  }
+]

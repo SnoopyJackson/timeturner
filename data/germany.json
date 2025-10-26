@@ -1,0 +1,58 @@
+[
+  {
+    "year": "c. 9 AD",
+    "title": {"en": "Battle of the Teutoburg Forest", "de": "Schlacht im Teutoburger Wald"},
+    "description": {"en": "Germanic tribes led by Arminius defeat Roman legions, halting Roman expansion east of the Rhine.", "de": "Germanische Stämme unter Arminius besiegen römische Legionen und stoppen die römische Expansion östlich des Rheins."},
+    "image": "images/teutoburg.jpg",
+    "tags": ["ancient", "battle", "arminius"]
+  },
+  {
+    "year": "800–1806",
+    "title": {"en": "Holy Roman Empire", "de": "Heiliges Römisches Reich"},
+    "description": {"en": "Loose confederation of German states and principalities. Charlemagne crowned emperor, centuries of feudal rule.", "de": "Lockerer Zusammenschluss deutscher Staaten und Fürstentümer. Karl der Große wird Kaiser, Jahrhunderte der Feudalherrschaft."},
+    "image": "images/holy_roman_empire.jpg",
+    "tags": ["empire", "charlemagne", "feudalism"]
+  },
+  {
+    "year": "1517",
+    "title": {"en": "Martin Luther & Reformation", "de": "Martin Luther & Reformation"},
+    "description": {"en": "Martin Luther posts 95 Theses, sparking Protestant Reformation and religious upheaval across Europe.", "de": "Martin Luther veröffentlicht 95 Thesen und löst die protestantische Reformation und religiöse Umwälzungen in Europa aus."},
+    "image": "images/luther.jpg",
+    "tags": ["reformation", "protestant", "religion"]
+  },
+  {
+    "year": "1871–1918",
+    "title": {"en": "German Empire", "de": "Deutsches Kaiserreich"},
+    "description": {"en": "Unification of Germany under Prussian leadership. Otto von Bismarck, rapid industrialization, and World War I.", "de": "Vereinigung Deutschlands unter preußischer Führung. Otto von Bismarck, schnelle Industrialisierung und Erster Weltkrieg."},
+    "image": "images/german_empire.jpg",
+    "tags": ["unification", "bismarck", "wwi"]
+  },
+  {
+    "year": "1919–1933",
+    "title": {"en": "Weimar Republic", "de": "Weimarer Republik"},
+    "description": {"en": "Democratic government after WWI. Economic crisis, hyperinflation, and rise of extremism.", "de": "Demokratische Regierung nach dem Ersten Weltkrieg. Wirtschaftskrise, Hyperinflation und Aufstieg des Extremismus."},
+    "image": "images/weimar.jpg",
+    "tags": ["democracy", "crisis", "interwar"]
+  },
+  {
+    "year": "1933–1945",
+    "title": {"en": "Nazi Germany", "de": "Nationalsozialistisches Deutschland"},
+    "description": {"en": "Dictatorship under Adolf Hitler. WWII, Holocaust, and devastation across Europe.", "de": "Diktatur unter Adolf Hitler. Zweiter Weltkrieg, Holocaust und Verwüstung in Europa."},
+    "image": "images/nazi_germany.jpg",
+    "tags": ["dictatorship", "wwii", "holocaust"]
+  },
+  {
+    "year": "1949–1990",
+    "title": {"en": "Divided Germany", "de": "Geteiltes Deutschland"},
+    "description": {"en": "East Germany (GDR) and West Germany (FRG) during the Cold War. Berlin Wall, economic contrast, and reunification movement.", "de": "Ostdeutschland (DDR) und Westdeutschland (BRD) im Kalten Krieg. Berliner Mauer, wirtschaftlicher Gegensatz und Wiedervereinigungsbewegung."},
+    "image": "images/berlin_wall.jpg",
+    "tags": ["cold-war", "division", "berlin-wall"]
+  },
+  {
+    "year": "1990–present",
+    "title": {"en": "Reunified Germany", "de": "Vereinigtes Deutschland"},
+    "description": {"en": "Fall of the Berlin Wall, reunification, European integration, and global leadership.", "de": "Fall der Berliner Mauer, Wiedervereinigung, europäische Integration und globale Führungsrolle."},
+    "image": "images/reunified_germany.jpg",
+    "tags": ["reunification", "europe", "modern"]
+  }
+]

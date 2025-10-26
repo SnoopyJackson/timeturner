@@ -1,0 +1,51 @@
+[
+  {
+    "year": "Creation",
+    "title": {"en": "Creation of the World", "he": "בריאת העולם"},
+    "description": {"en": "God creates the heavens and the earth in six days, resting on the seventh.", "he": "אלוהים בורא את השמים והארץ בשישה ימים ונח ביום השביעי."},
+    "image": "images/creation_judaism.jpg",
+    "tags": ["creation", "genesis", "god"]
+  },
+  {
+    "year": "Adam & Eve",
+    "title": {"en": "Adam and Eve", "he": "אדם וחוה"},
+    "description": {"en": "The first humans, Adam and Eve, live in the Garden of Eden and are expelled after eating the forbidden fruit.", "he": "אדם וחוה, בני האדם הראשונים, חיים בגן עדן ומגורשים לאחר שאכלו מפרי עץ הדעת."},
+    "image": "images/adam_eve_judaism.jpg",
+    "tags": ["adam", "eve", "eden"]
+  },
+  {
+    "year": "Noah's Ark",
+    "title": {"en": "Noah's Ark", "he": "תיבת נח"},
+    "description": {"en": "Noah builds an ark to save his family and animals from the great flood sent by God.", "he": "נח בונה תיבה כדי להציל את משפחתו ובעלי החיים מהמבול ששלח אלוהים."},
+    "image": "images/noah_ark_judaism.jpg",
+    "tags": ["noah", "flood", "ark"]
+  },
+  {
+    "year": "Abraham",
+    "title": {"en": "Abraham's Covenant", "he": "ברית אברהם"},
+    "description": {"en": "God makes a covenant with Abraham, promising descendants and land.", "he": "אלוהים כורת ברית עם אברהם ומבטיח לו צאצאים וארץ."},
+    "image": "images/abraham_judaism.jpg",
+    "tags": ["abraham", "covenant", "promise"]
+  },
+  {
+    "year": "Moses & Exodus",
+    "title": {"en": "Moses and the Exodus", "he": "משה ויציאת מצרים"},
+    "description": {"en": "Moses leads the Israelites out of Egypt, receives the Ten Commandments on Mount Sinai.", "he": "משה מוביל את בני ישראל ממצרים ומקבל את עשרת הדיברות בהר סיני."},
+    "image": "images/moses_exodus_judaism.jpg",
+    "tags": ["moses", "exodus", "commandments"]
+  },
+  {
+    "year": "David & Goliath",
+    "title": {"en": "David and Goliath", "he": "דוד וגוליית"},
+    "description": {"en": "David defeats the giant Goliath, becoming a symbol of faith and courage.", "he": "דוד מנצח את הענק גוליית והופך לסמל לאמונה ואומץ."},
+    "image": "images/david_goliath_judaism.jpg",
+    "tags": ["david", "goliath", "faith"]
+  },
+  {
+    "year": "Solomon",
+    "title": {"en": "Solomon's Wisdom", "he": "חכמת שלמה"},
+    "description": {"en": "King Solomon is renowned for his wisdom and builds the First Temple in Jerusalem.", "he": "המלך שלמה ידוע בחכמתו ובונה את בית המקדש הראשון בירושלים."},
+    "image": "images/solomon_judaism.jpg",
+    "tags": ["solomon", "wisdom", "temple"]
+  }
+]

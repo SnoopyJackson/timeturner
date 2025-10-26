@@ -1,0 +1,37 @@
+[
+  {
+    "year": "Creation",
+    "title": {"en": "Creation of the World", "ar": "خلق العالم"},
+    "description": {"en": "The sun god Ra emerges from the primordial waters of Nun, creates gods and the world.", "ar": "الإله رع يخرج من مياه نون البدائية ويخلق الآلهة والعالم."},
+    "image": "images/ra_creation.jpg",
+    "tags": ["creation", "ra", "myth"]
+  },
+  {
+    "year": "Osiris & Isis",
+    "title": {"en": "Osiris, Isis, and Horus", "ar": "أوزيريس وإيزيس وحورس"},
+    "description": {"en": "Osiris is killed by his brother Set, resurrected by Isis, and their son Horus avenges him.", "ar": "يُقتل أوزيريس على يد أخيه ست، وتعيده إيزيس للحياة، وينتقم ابنه حورس."},
+    "image": "images/osiris_isis_horus.jpg",
+    "tags": ["osiris", "isis", "horus"]
+  },
+  {
+    "year": "Set",
+    "title": {"en": "Set and Chaos", "ar": "ست والفوضى"},
+    "description": {"en": "Set, god of chaos, battles Horus for the throne of Egypt, symbolizing order vs. disorder.", "ar": "الإله ست، إله الفوضى، يقاتل حورس على عرش مصر، رمز النظام مقابل الفوضى."},
+    "image": "images/set_chaos.jpg",
+    "tags": ["set", "chaos", "battle"]
+  },
+  {
+    "year": "Book of the Dead",
+    "title": {"en": "Journey in the Afterlife", "ar": "رحلة في العالم الآخر"},
+    "description": {"en": "Souls are judged by Osiris; heart weighed against the feather of Ma'at. Successful souls enter paradise.", "ar": "الأرواح تُحاكم بواسطة أوزيريس؛ القلب يُوزن مقابل ريشة ماعت. الأرواح الناجحة تدخل الجنة."},
+    "image": "images/book_dead.jpg",
+    "tags": ["afterlife", "osiris", "maat"]
+  },
+  {
+    "year": "Bastet & Anubis",
+    "title": {"en": "Bastet and Anubis", "ar": "باستت وأنوبيس"},
+    "description": {"en": "Bastet, goddess of protection, and Anubis, god of mummification and the dead, guide and protect souls.", "ar": "باستت، إلهة الحماية، وأنوبيس، إله التحنيط والموتى، يوجهان ويحميان الأرواح."},
+    "image": "images/bastet_anubis.jpg",
+    "tags": ["bastet", "anubis", "protection"]
+  }
+]

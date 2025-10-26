@@ -1,0 +1,159 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>History Quiz - Time-Turner</title>
+    <link rel="stylesheet" href="quizz.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header -->
+        <div class="quiz-header">
+            <div class="header-controls">
+                <a href="main.html" class="back-btn">
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M19 12H5M12 19l-7-7 7-7"/>
+                    </svg>
+                    Back
+                </a>
+                <button id="theme-toggle" class="theme-toggle">
+                    <svg class="sun-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <circle cx="12" cy="12" r="5"/>
+                        <line x1="12" y1="1" x2="12" y2="3"/>
+                        <line x1="12" y1="21" x2="12" y2="23"/>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
+                        <line x1="1" y1="12" x2="3" y2="12"/>
+                        <line x1="21" y1="12" x2="23" y2="12"/>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
+                    </svg>
+                    <span class="theme-text light-text">Light Mode</span>
+                    <svg class="moon-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
+                    </svg>
+                    <span class="theme-text dark-text">Dark Mode</span>
+                </button>
+            </div>
+            <h1> History Quiz</h1>
+            <p class="subtitle">Test your knowledge of historical events!</p>
+        </div>
+
+        <!-- Start Screen -->
+        <div class="start-screen active">
+            <!-- Topic Selector -->
+            <div class="topic-selector">
+                <label for="topic-select">Choose a topic:</label>
+                <select id="topic-select">
+                    <option value="france"> France</option>
+                    <option value="germany" selected> Germany</option>
+                    <option value="japan"> Japan</option>
+                    <option value="uk"> UK</option>
+                    <option value="usa"> USA</option>
+                    <option value="china"> China</option>
+                    <option value="india"> India</option>
+                    <option value="egypt"> Egypt</option>
+                    <option value="greece"> Greece</option>
+                    <option value="roman"> Rome</option>
+                    <option value="russia"> Russia</option>
+                    <option value="science"> Science</option>
+                    <option value="wars"> Wars</option>
+                    <option value="bjj"> Brazilian Jiu Jitsu</option>
+                </select>
+            </div>
+
+            <!-- Language Selector -->
+            <div class="language-selector">
+                <button class="language-btn active" data-lang="en">English</button>
+                <button class="language-btn" data-lang="fr">Français</button>
+            </div>
+
+            <!-- Mode Selector -->
+            <div class="mode-selector">
+                <div class="mode-card" data-mode="timeline">
+                    <h3> Timeline Match</h3>
+                    <p>Match events to their correct year</p>
+                </div>
+                <div class="mode-card" data-mode="description">
+                    <h3> Event Description</h3>
+                    <p>Identify events from descriptions</p>
+                </div>
+                <div class="mode-card" data-mode="mixed">
+                    <h3> Mixed Quiz</h3>
+                    <p>Various question types</p>
+                </div>
+                <div class="mode-card" data-mode="timed">
+                    <h3> Timed Challenge</h3>
+                    <p>Answer before time runs out!</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Quiz Screen -->
+        <div class="quiz-screen">
+            <div class="progress-bar">
+                <div class="progress-fill"></div>
+            </div>
+            <div class="score-display">Score: <span id="score">0</span> / <span id="total">0</span></div>
+            <div class="timer" style="display: none;"></div>
+            <div class="question-card">
+                <div class="question-text"></div>
+                <div class="options"></div>
+            </div>
+            <button class="next-btn" disabled>Next Question</button>
+        </div>
+
+        <!-- Result Screen -->
+        <div class="result-screen">
+            <div class="result-card">
+                <h2>Quiz Complete! </h2>
+                <div class="result-score"></div>
+                <div class="result-message"></div>
+                <button class="restart-btn">Play Again</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="quizz.js"></script>
+    <script>
+        // Dark mode sync with main page
+        const currentTheme = localStorage.getItem('theme') || 'light';
+        document.documentElement.setAttribute('data-theme', currentTheme);
+        
+        // Theme toggle functionality
+        const themeToggle = document.getElementById('theme-toggle');
+        const html = document.documentElement;
+        
+        // Update button visibility on load
+        updateThemeButton();
+        
+        themeToggle.addEventListener('click', () => {
+            const theme = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+            html.setAttribute('data-theme', theme);
+            localStorage.setItem('theme', theme);
+            updateThemeButton();
+        });
+        
+        function updateThemeButton() {
+            const isDark = html.getAttribute('data-theme') === 'dark';
+            const sunIcon = themeToggle.querySelector('.sun-icon');
+            const moonIcon = themeToggle.querySelector('.moon-icon');
+            const lightText = themeToggle.querySelector('.light-text');
+            const darkText = themeToggle.querySelector('.dark-text');
+            
+            if (isDark) {
+                sunIcon.style.display = 'block';
+                moonIcon.style.display = 'none';
+                lightText.style.display = 'block';
+                darkText.style.display = 'none';
+            } else {
+                sunIcon.style.display = 'none';
+                moonIcon.style.display = 'block';
+                lightText.style.display = 'none';
+                darkText.style.display = 'block';
+            }
+        }
+    </script>
+</body>
+</html>

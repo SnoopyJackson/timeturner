@@ -1,0 +1,44 @@
+[
+  {
+    "year": "c. 3000–1100 BC",
+    "title": {"en": "Minoan & Mycenaean Civilizations", "el": "Μινωικός & Μυκηναϊκός Πολιτισμός"},
+    "description": {"en": "Early Bronze Age cultures on Crete and mainland Greece. Palaces, Linear A/B script, and mythic origins.", "el": "Πολιτισμοί της Εποχής του Χαλκού στην Κρήτη και την ηπειρωτική Ελλάδα. Ανάκτορα, γραφή Linear A/B, μυθικές απαρχές."},
+    "image": "images/minoan.jpg",
+    "tags": ["bronze-age", "palace", "myth"]
+  },
+  {
+    "year": "c. 800–500 BC",
+    "title": {"en": "Archaic Greece", "el": "Αρχαϊκή Ελλάδα"},
+    "description": {"en": "Rise of city-states (polis), Homeric epics, Olympic Games, and early democracy.", "el": "Άνοδος των πόλεων-κρατών, ομηρικά έπη, Ολυμπιακοί Αγώνες, πρώιμη δημοκρατία."},
+    "image": "images/archaic_greece.jpg",
+    "tags": ["polis", "homer", "olympics"]
+  },
+  {
+    "year": "c. 500–323 BC",
+    "title": {"en": "Classical Greece", "el": "Κλασική Ελλάδα"},
+    "description": {"en": "Golden Age. Athens, Sparta, democracy, philosophy, art, and Persian Wars.", "el": "Χρυσή Εποχή. Αθήνα, Σπάρτη, δημοκρατία, φιλοσοφία, τέχνη, Περσικοί Πόλεμοι."},
+    "image": "images/classical_greece.jpg",
+    "tags": ["democracy", "philosophy", "art"]
+  },
+  {
+    "year": "c. 336–323 BC",
+    "title": {"en": "Alexander the Great", "el": "Αλέξανδρος ο Μέγας"},
+    "description": {"en": "Conquests from Greece to India. Spread of Hellenistic culture and founding of Alexandria.", "el": "Κατακτήσεις από την Ελλάδα ως την Ινδία. Διάδοση του ελληνιστικού πολιτισμού, ίδρυση Αλεξάνδρειας."},
+    "image": "images/alexander.jpg",
+    "tags": ["conquest", "hellenistic", "alexandria"]
+  },
+  {
+    "year": "c. 323–30 BC",
+    "title": {"en": "Hellenistic Period", "el": "Ελληνιστική Περίοδος"},
+    "description": {"en": "Greek kingdoms after Alexander. Science, art, and cultural fusion across the Mediterranean and Near East.", "el": "Ελληνικά βασίλεια μετά τον Αλέξανδρο. Επιστήμη, τέχνη, πολιτισμική σύνθεση στη Μεσόγειο και την Εγγύς Ανατολή."},
+    "image": "images/hellenistic.jpg",
+    "tags": ["science", "fusion", "kingdoms"]
+  },
+  {
+    "year": "c. 146 BC–330 AD",
+    "title": {"en": "Roman Greece & Byzantium", "el": "Ρωμαϊκή Ελλάδα & Βυζάντιο"},
+    "description": {"en": "Greece under Roman rule, then as the heart of the Byzantine Empire. Christianity, art, and learning.", "el": "Η Ελλάδα υπό ρωμαϊκή κυριαρχία, μετά ως κέντρο της Βυζαντινής Αυτοκρατορίας. Χριστιανισμός, τέχνη, μάθηση."},
+    "image": "images/byzantium.jpg",
+    "tags": ["roman", "byzantine", "christianity"]
+  }
+]

@@ -1,0 +1,1065 @@
+[
+  {
+    "year": "52 BC",
+    "era": "Gaul",
+    "title": {
+      "en": "Vercingetorix",
+      "fr": "Vercingétorix"
+    },
+    "description": {
+      "en": "⚔️ Chieftain of the Arverni who united Gauls against Julius Caesar\n🏰 Made heroic last stand at Alesia with 80,000 soldiers\n⛓️ Imprisoned for 6 years, executed by strangulation in Rome (46 BC)\n🗿 Became eternal symbol of French resistance and national identity",
+      "fr": "⚔️ Chef des Arvernes qui unit les Gaulois contre Jules César\n🏰 Livra une résistance héroïque à Alésia avec 80 000 soldats\n⛓️ Emprisonné pendant 6 ans, exécuté par strangulation à Rome (46 av. J.-C.)\n🗿 Devenu symbole éternel de la résistance française et de l'identité nationale"
+    },
+    "image": "images/vercingetorix.png",
+    "tags": ["ancient", "gaul", "military", "resistance", "pre-france"]
+  },
+  {
+    "year": "481-511",
+    "era": "Merovingian Dynasty",
+    "title": {
+      "en": "Clovis I",
+      "fr": "Clovis Ier"
+    },
+    "description": {
+      "en": "👑 First King to unite all Frankish tribes under one rule\n✝️ Converted to Catholic Christianity (~496 AD), aligning Franks with Rome\n🏛️ Established Paris as capital and created Salic Law\n⚜️ Founded Merovingian dynasty that made France 'Eldest Daughter of the Church'",
+      "fr": "👑 Premier roi à unir toutes les tribus franques sous un seul règne\n✝️ Converti au christianisme catholique (~496), alignant les Francs avec Rome\n🏛️ Établit Paris comme capitale et créa la loi salique\n⚜️ Fonda la dynastie mérovingienne qui fit de la France la 'Fille aînée de l'Église'"
+    },
+    "image": "images/clovis.png",
+    "tags": ["merovingian", "dynasty", "king", "christianity", "founding", "paris"]
+  },
+  {
+    "year": "732",
+    "era": "Carolingian Rise",
+    "title": {
+      "en": "Battle of Tours - Charles Martel",
+      "fr": "Bataille de Poitiers - Charles Martel"
+    },
+    "description": {
+      "en": "🔨 'The Hammer' - stopped Muslim advance at Battle of Tours\n🛡️ Saved Western Europe for Christianity through decisive victory\n👨‍👦 Grandfather of Charlemagne, founder of Carolingian power\n⚔️ One of history's most consequential military commanders",
+      "fr": "🔨 'Le Marteau' - arrêta l'avancée musulmane à la bataille de Poitiers\n🛡️ Sauva l'Europe occidentale pour la chrétienté par une victoire décisive\n👨‍👦 Grand-père de Charlemagne, fondateur du pouvoir carolingien\n⚔️ L'un des commandants militaires les plus importants de l'histoire"
+    },
+    "image": "images/charles_martel.png",
+    "tags": ["military", "battle", "carolingian", "christianity", "medieval"]
+  },
+  {
+    "year": "751-768",
+    "era": "Carolingian Dynasty",
+    "title": {
+      "en": "Pepin the Short",
+      "fr": "Pépin le Bref"
+    },
+    "description": {
+      "en": "👑 First Carolingian King of the Franks, father of Charlemagne\n✝️ Crowned by the Pope, strengthening Church-State alliance\n🏰 Consolidated power over Frankish nobility, ended Merovingian dynasty\n⚔️ Expanded borders, laid groundwork for Holy Roman Empire",
+      "fr": "👑 Premier roi carolingien des Francs, père de Charlemagne\n✝️ Couronné par le pape, consolidant l'alliance Église-État\n🏰 Consolida le pouvoir sur la noblesse franque, mit fin à la dynastie mérovingienne\n⚔️ Étendit les frontières, préparant le Saint-Empire romain"
+    },
+    "image": "images/pepin.jpg",
+    "tags": ["carolingian", "dynasty", "king", "church", "papal-alliance"]
+  },
+  {
+    "year": "768-814",
+    "era": "Carolingian Empire",
+    "title": {
+      "en": "Charlemagne",
+      "fr": "Charlemagne"
+    },
+    "description": {
+      "en": "👑 King of Franks, crowned Holy Roman Emperor (800 AD)\n🗺️ Built largest empire since Rome, uniting Western Europe\n📚 Launched Carolingian Renaissance - promoted education and scholarship\n⚖️ Reformed law, currency, and Church - father of modern Europe",
+      "fr": "👑 Roi des Francs, couronné empereur du Saint-Empire romain (800)\n🗺️ Construisit le plus grand empire depuis Rome, unifiant l'Europe occidentale\n📚 Lança la Renaissance carolingienne - promut l'éducation et l'érudition\n⚖️ Réforma la loi, la monnaie et l'Église - père de l'Europe moderne"
+    },
+    "image": "images/charlemagne.png",
+    "tags": ["empire", "carolingian", "emperor", "renaissance", "education", "law"]
+  },
+  {
+    "year": "843",
+    "era": "Carolingian Division",
+    "title": {
+      "en": "Treaty of Verdun",
+      "fr": "Traité de Verdun"
+    },
+    "description": {
+      "en": "📜 Divided Charlemagne's empire among his three grandsons\n🗺️ Created West Francia (France), Middle Francia, and East Francia (Germany)\n👑 Charles the Bald became first King of West Francia\n⚔️ Ended Carolingian unity, began age of regional kingdoms",
+      "fr": "📜 Divisa l'empire de Charlemagne entre ses trois petits-fils\n🗺️ Créa la Francie occidentale (France), la Francie médiane et la Francie orientale (Allemagne)\n👑 Charles le Chauve devint premier roi de Francie occidentale\n⚔️ Mit fin à l'unité carolingienne, débuta l'ère des royaumes régionaux"
+    },
+    "image": "images/treaty_of_verdun.jpg",
+    "tags": ["treaty", "division", "carolingian", "west-francia", "founding-event"]
+  },
+  {
+    "year": "911",
+    "era": "Viking Settlement",
+    "title": {
+      "en": "Rollo of Normandy",
+      "fr": "Rollon de Normandie"
+    },
+    "description": {
+      "en": "⚓ Viking chief granted Normandy by Treaty of Saint-Clair-sur-Epte\n✝️ Converted to Christianity, became first Duke of Normandy\n🏰 His descendants would conquer England (William) and Sicily\n🌊 Transformed from raiders to builders of medieval civilization",
+      "fr": "⚓ Chef viking qui reçut la Normandie par le traité de Saint-Clair-sur-Epte\n✝️ Converti au christianisme, devint premier duc de Normandie\n🏰 Ses descendants conquirent l'Angleterre (Guillaume) et la Sicile\n🌊 Transforma les pillards en bâtisseurs de la civilisation médiévale"
+    },
+    "image": "images/rollo.avif",
+    "tags": ["viking", "normandy", "duke", "founder", "medieval", "treaty"]
+  },
+  {
+    "year": "987-996",
+    "era": "Capetian Dynasty",
+    "title": {
+      "en": "Hugh Capet",
+      "fr": "Hugues Capet"
+    },
+    "description": {
+      "en": "👑 Founded Capetian dynasty - longest ruling in Europe (800+ years)\n🏰 Made Paris the permanent capital of France\n⚜️ Established hereditary monarchy principle\n🇫🇷 His coronation marked true birth of Kingdom of France",
+      "fr": "👑 Fonda la dynastie capétienne - la plus longue d'Europe (800+ ans)\n🏰 Fit de Paris la capitale permanente de la France\n⚜️ Établit le principe de la monarchie héréditaire\n🇫🇷 Son couronnement marqua la véritable naissance du Royaume de France"
+    },
+    "image": "images/hugh_capet.jpg",
+    "tags": ["capetian", "dynasty", "king", "founding", "paris", "monarchy"]
+  },
+  {
+    "year": "1066",
+    "era": "Norman Conquest",
+    "title": {
+      "en": "William the Conqueror",
+      "fr": "Guillaume le Conquérant"
+    },
+    "description": {
+      "en": "⚓ Duke of Normandy who conquered England at Battle of Hastings\n👑 Became King William I, transforming English culture and language\n🏰 Commissioned Domesday Book survey (1086)\n🌍 Created Norman-French ruling class that reshaped medieval Europe",
+      "fr": "⚓ Duc de Normandie qui conquit l'Angleterre à la bataille d'Hastings\n👑 Devint le roi Guillaume Ier, transformant la culture et la langue anglaises\n🏰 Commanda le recensement du Domesday Book (1086)\n🌍 Créa une classe dirigeante normande-française qui remodela l'Europe médiévale"
+    },
+    "image": "images/william.png",
+    "tags": ["normandy", "conquest", "england", "battle", "duke", "medieval"]
+  },
+  {
+    "year": "1096-1099",
+    "era": "First Crusade",
+    "title": {
+      "en": "First Crusade",
+      "fr": "Première Croisade"
+    },
+    "description": {
+      "en": "✝️ French nobility led expedition to retake Jerusalem from Muslim control\n⚔️ Captured Jerusalem (1099), established Crusader states\n🏰 Godfrey of Bouillon became first ruler of Kingdom of Jerusalem\n🌍 Marked beginning of centuries of conflict between Christianity and Islam",
+      "fr": "✝️ La noblesse française mena l'expédition pour reprendre Jérusalem aux musulmans\n⚔️ Prit Jérusalem (1099), établit les États croisés\n🏰 Godefroy de Bouillon devint premier souverain du Royaume de Jérusalem\n🌍 Marqua le début de siècles de conflit entre christianisme et islam"
+    },
+    "image": "images/first_crusade.png",
+    "tags": ["crusade", "religion", "military", "jerusalem", "medieval", "holy-war"]
+  },
+  {
+    "year": "1180-1223",
+    "era": "Capetian Dynasty",
+    "title": {
+      "en": "Philip II Augustus",
+      "fr": "Philippe II Auguste"
+    },
+    "description": {
+      "en": "🗡️ First to style himself 'King of France' (not 'of the Franks')\n🏰 Tripled royal territory, defeated English at Bouvines (1214)\n✝️ Crusader alongside Richard the Lionheart (Third Crusade)\n🏛️ Transformed Paris - built walls, paved streets, founded Louvre fortress",
+      "fr": "🗡️ Premier à se nommer 'Roi de France' (et non 'des Francs')\n🏰 Tripla le territoire royal, vainquit les Anglais à Bouvines (1214)\n✝️ Croisé aux côtés de Richard Cœur de Lion (Troisième Croisade)\n🏛️ Transforma Paris - construisit des remparts, pava les rues, fonda la forteresse du Louvre"
+    },
+    "image": "images/phillipe_augustus.png",
+    "tags": ["capetian", "king", "crusade", "expansion", "paris", "louvre", "medieval"]
+  },
+  {
+    "year": "1226-1270",
+    "era": "Capetian Dynasty",
+    "title": {
+      "en": "Louis IX (Saint Louis)",
+      "fr": "Louis IX (Saint Louis)"
+    },
+    "description": {
+      "en": "😇 Only French king canonized as saint (1297)\n⚖️ Dispensed justice under oak tree, reformed law with presumption of innocence\n✝️ Led Seventh and Eighth Crusades, died in Tunis (1270)\n🕊️ His reign was golden age of medieval French monarchy",
+      "fr": "😇 Seul roi de France canonisé saint (1297)\n⚖️ Rendait la justice sous un chêne, réforma la loi avec la présomption d'innocence\n✝️ Mena les septième et huitième croisades, mourut à Tunis (1270)\n🕊️ Son règne fut l'âge d'or de la monarchie française médiévale"
+    },
+    "image": "images/louis_9.png",
+    "tags": ["capetian", "saint", "king", "justice", "crusade", "medieval", "law-reform"]
+  },
+  {
+    "year": "1285-1314",
+    "era": "Capetian Dynasty",
+    "title": {
+      "en": "Philip IV the Fair",
+      "fr": "Philippe IV le Bel"
+    },
+    "description": {
+      "en": "🏰 Challenged papal power, moved papacy to Avignon (1309-1377)\n⚔️ Dissolved Knights Templar (1307), seizing their vast wealth\n👨‍⚖️ Established Estates-General (1302) - early representative assembly\n💪 Centralized royal authority to unprecedented levels",
+      "fr": "🏰 Défia le pouvoir papal, déplaça la papauté à Avignon (1309-1377)\n⚔️ Dissout l'ordre des Templiers (1307), saisissant leur immense richesse\n👨‍⚖️ Établit les États généraux (1302) - première assemblée représentative\n💪 Centralisa l'autorité royale à des niveaux sans précédent"
+    },
+    "image": "images/phillipe_le_fair.png",
+    "tags": ["capetian", "king", "templar", "law", "papal-conflict", "estates-general", "medieval"]
+  },
+  {
+    "year": "1337-1453",
+    "era": "Hundred Years' War",
+    "title": {
+      "en": "Hundred Years' War",
+      "fr": "Guerre de Cent Ans"
+    },
+    "description": {
+      "en": "⚔️ Prolonged conflict between France and England over French throne\n🏰 Major battles: Crécy (1346), Poitiers (1356), Agincourt (1415)\n👑 English controlled much of France before Joan of Arc's intervention\n🇫🇷 Ended with French victory, solidified national identity",
+      "fr": "⚔️ Conflit prolongé entre la France et l'Angleterre pour le trône français\n🏰 Batailles majeures : Crécy (1346), Poitiers (1356), Azincourt (1415)\n👑 Les Anglais contrôlaient une grande partie de la France avant l'intervention de Jeanne d'Arc\n🇫🇷 S'acheva par la victoire française, consolida l'identité nationale"
+    },
+    "image": "images/hundred_years_war.png",
+    "tags": ["war", "medieval", "england", "battle", "national-identity", "conflict"]
+  },
+  {
+    "year": "1412-1431",
+    "era": "Hundred Years' War",
+    "title": {
+      "en": "Joan of Arc",
+      "fr": "Jeanne d'Arc"
+    },
+    "description": {
+      "en": "🔥 Peasant girl with divine visions who saved France at age 17\n⚔️ Lifted Siege of Orléans (1429), led Charles VII to coronation at Reims\n⛓️ Captured by Burgundians, tried for heresy, burned at stake in Rouen at age 19\n😇 Canonized 1920 - eternal symbol of French courage and faith",
+      "fr": "🔥 Jeune paysanne aux visions divines qui sauva la France à 17 ans\n⚔️ Leva le siège d'Orléans (1429), mena Charles VII au sacre de Reims\n⛓️ Capturée par les Bourguignons, jugée pour hérésie, brûlée vive à Rouen à 19 ans\n😇 Canonisée en 1920 - symbole éternel du courage et de la foi française"
+    },
+    "image": "images/joan_of_arc.jpg",
+    "tags": ["heroine", "war", "saint", "orleans", "medieval", "hundred-years-war", "martyr"]
+  },
+  {
+    "year": "1422-1461",
+    "era": "Valois Dynasty",
+    "title": {
+      "en": "Charles VII",
+      "fr": "Charles VII"
+    },
+    "description": {
+      "en": "👑 'The Victorious' - the dauphin saved by Joan of Arc\n⚜️ Crowned at Reims Cathedral (1429) thanks to Joan's campaign\n⚔️ Completed reconquest of France, ended Hundred Years' War (1453)\n🏰 Transformed France from near-collapse to powerful kingdom",
+      "fr": "👑 'Le Victorieux' - le dauphin sauvé par Jeanne d'Arc\n⚜️ Couronné à la cathédrale de Reims (1429) grâce à la campagne de Jeanne\n⚔️ Acheva la reconquête de la France, mit fin à la guerre de Cent Ans (1453)\n🏰 Transforma la France de l'effondrement en royaume puissant"
+    },
+    "image": "images/charles_7.jpg",
+    "tags": ["valois", "king", "hundred-years-war", "recovery", "medieval", "coronation"]
+  },
+  {
+    "year": "1461-1483",
+    "era": "Valois Dynasty",
+    "title": {
+      "en": "Louis XI",
+      "fr": "Louis XI"
+    },
+    "description": {
+      "en": "🕷️ 'The Universal Spider' - master of intrigue and diplomacy\n🏰 Broke feudal nobility, defeated Charles the Bold of Burgundy\n📜 Established postal service, promoted trade and bourgeoisie\n🧠 Machiavellian methods laid groundwork for absolute monarchy",
+      "fr": "🕷️ 'L'Universelle Aragne' - maître de l'intrigue et de la diplomatie\n🏰 Brisa la noblesse féodale, vainquit Charles le Téméraire de Bourgogne\n📜 Établit le service postal, promut le commerce et la bourgeoisie\n🧠 Ses méthodes machiavéliques posèrent les bases de la monarchie absolue"
+    },
+    "image": "images/louis_11.png",
+    "tags": ["valois", "king", "intrigue", "centralization", "bourgeoisie", "diplomacy"]
+  },
+  {
+    "year": "1515-1547",
+    "era": "Valois-Angoulême Dynasty",
+    "title": {
+      "en": "Francis I",
+      "fr": "François Ier"
+    },
+    "description": {
+      "en": "🎨 Renaissance king who made France cultural powerhouse\n🖼️ Hosted Leonardo da Vinci (died 1519), built Loire châteaux (Chambord, Fontainebleau)\n⚔️ Rival of Charles V and Henry VIII, captured at Pavia (1525)\n📚 Founded Collège de France, began royal art collection (future Louvre)",
+      "fr": "🎨 Roi de la Renaissance qui fit de la France une puissance culturelle\n🖼️ Accueillit Léonard de Vinci (mort en 1519), construisit les châteaux de la Loire (Chambord, Fontainebleau)\n⚔️ Rival de Charles Quint et Henri VIII, fait prisonnier à Pavie (1525)\n📚 Fonda le Collège de France, commença la collection d'art royal (futur Louvre)"
+    },
+    "image": "images/francois_1.png",
+    "tags": ["valois", "renaissance", "king", "art", "culture", "leonardo", "chateaux"]
+  },
+  {
+    "year": "1519-1589",
+    "era": "Valois Dynasty",
+    "title": {
+      "en": "Catherine de' Medici",
+      "fr": "Catherine de Médicis"
+    },
+    "description": {
+      "en": "👑 Italian queen who ruled France for 30 years as queen mother\n⚖️ Regent for 3 sons (Francis II, Charles IX, Henry III)\n🩸 Associated with St. Bartholomew's Day Massacre (1572) - 3,000+ Huguenots killed\n♟️ Master of political intrigue during Wars of Religion (1562-1598)",
+      "fr": "👑 Reine italienne qui gouverna la France pendant 30 ans comme reine mère\n⚖️ Régente pour 3 fils (François II, Charles IX, Henri III)\n🩸 Associée au massacre de la Saint-Barthélemy (1572) - 3 000+ huguenots tués\n♟️ Maîtresse de l'intrigue politique durant les guerres de Religion (1562-1598)"
+    },
+    "image": "images/medicis.jpg",
+    "tags": ["valois", "queen", "regent", "religion", "wars-of-religion", "massacre"]
+  },
+  {
+    "year": "1589-1610",
+    "era": "Bourbon Dynasty",
+    "title": {
+      "en": "Henry IV",
+      "fr": "Henri IV"
+    },
+    "description": {
+      "en": "👑 First Bourbon king - 'Good King Henry', loved by the people\n✝️ Converted Catholic to take throne: 'Paris is worth a Mass'\n📜 Edict of Nantes (1598) granted religious tolerance, ended Wars of Religion\n💔 Assassinated by Catholic fanatic Ravaillac (1610) - 'chicken in every pot' king",
+      "fr": "👑 Premier roi Bourbon - 'Le Bon Roi Henri', aimé du peuple\n✝️ Converti au catholicisme pour prendre le trône : 'Paris vaut bien une messe'\n📜 L'Édit de Nantes (1598) accorda la tolérance religieuse, mit fin aux guerres de Religion\n💔 Assassiné par le fanatique catholique Ravaillac (1610) - roi de 'la poule au pot'"
+    },
+    "image": "images/henri_4.png",
+    "tags": ["bourbon", "king", "religion", "tolerance", "edict-of-nantes", "assassination"]
+  },
+  {
+    "year": "1624-1642",
+    "era": "Bourbon Dynasty",
+    "title": {
+      "en": "Cardinal Richelieu",
+      "fr": "Cardinal de Richelieu"
+    },
+    "description": {
+      "en": "🔴 Chief Minister to Louis XIII - true power behind throne\n⚔️ Crushed Huguenot power (Siege of La Rochelle 1628) and noble conspiracies\n🌍 Made France dominant European power through Thirty Years' War\n🎭 Founded Académie française (1635), inspired 'The Three Musketeers'",
+      "fr": "🔴 Principal ministre de Louis XIII - véritable pouvoir derrière le trône\n⚔️ Écrasa le pouvoir huguenot (siège de La Rochelle 1628) et les conspirations nobiliaires\n🌍 Fit de la France la puissance dominante en Europe durant la guerre de Trente Ans\n🎭 Fonda l'Académie française (1635), inspira 'Les Trois Mousquetaires'"
+    },
+    "image": "images/richelieu.jpg",
+    "tags": ["bourbon", "minister", "thirty-years-war", "academy", "power", "politique"]
+  },
+  {
+    "year": "1643-1715",
+    "era": "Bourbon Dynasty - Ancien Régime",
+    "title": {
+      "en": "Louis XIV",
+      "fr": "Louis XIV"
+    },
+    "description": {
+      "en": "☀️ 'The Sun King' - longest reigning monarch in history (72 years)\n🏰 Built Versailles, epitome of absolute monarchy and French glory\n👑 'L'État, c'est moi' ('I am the State') - divine right personified\n🌍 Made France military, cultural, and political center of Europe",
+      "fr": "☀️ 'Le Roi-Soleil' - règne le plus long de l'histoire (72 ans)\n🏰 Construisit Versailles, incarnation de la monarchie absolue et de la gloire française\n👑 'L'État, c'est moi' - le droit divin personnifié\n🌍 Fit de la France le centre militaire, culturel et politique de l'Europe"
+    },
+    "image": "images/louis_14.avif",
+    "tags": ["bourbon", "absolute-monarchy", "king", "versailles", "culture", "ancien-regime"]
+  },
+  {
+    "year": "1715-1774",
+    "era": "Bourbon Dynasty - Ancien Régime",
+    "title": {
+      "en": "Louis XV",
+      "fr": "Louis XV"
+    },
+    "description": {
+      "en": "👑 'Louis the Beloved' - reigned 59 years from age 5\n🎭 Patron of Enlightenment and Rococo art (Mme de Pompadour, Mme du Barry)\n⚠️ Lost Seven Years' War (1756-1763), ceded Canada to Britain\n💸 Costly wars and resistance to reform set stage for Revolution",
+      "fr": "👑 'Louis le Bien-Aimé' - régna 59 ans dès l'âge de 5 ans\n🎭 Mécène des Lumières et de l'art rococo (Mme de Pompadour, Mme du Barry)\n⚠️ Perdit la guerre de Sept Ans (1756-1763), céda le Canada à la Grande-Bretagne\n💸 Guerres coûteuses et résistance aux réformes préparèrent la Révolution"
+    },
+    "image": "images/louis_15.png",
+    "tags": ["bourbon", "king", "enlightenment", "rococo", "ancien-regime", "seven-years-war"]
+  },
+  {
+    "year": "1774-1792",
+    "era": "Bourbon Dynasty - End of Ancien Régime",
+    "title": {
+      "en": "Louis XVI",
+      "fr": "Louis XVI"
+    },
+    "description": {
+      "en": "👑 Well-meaning but indecisive king who inherited financial crisis\n⚖️ Convened Estates-General (1789), triggering French Revolution\n🏰 Failed escape to Varennes (1791) destroyed remaining support\n⚔️ Executed by guillotine (Jan 21, 1793) - end of absolute monarchy",
+      "fr": "👑 Roi bienveillant mais indécis qui hérita d'une crise financière\n⚖️ Convoqua les États généraux (1789), déclenchant la Révolution française\n🏰 Fuite ratée à Varennes (1791) détruisit le soutien restant\n⚔️ Exécuté par guillotine (21 janvier 1793) - fin de la monarchie absolue"
+    },
+    "image": "images/louis_16.png",
+    "tags": ["bourbon", "king", "revolution", "ancien-regime", "guillotine", "execution"]
+  },
+  {
+    "year": "1789",
+    "era": "French Revolution",
+    "title": {
+      "en": "Storming of the Bastille",
+      "fr": "Prise de la Bastille"
+    },
+    "description": {
+      "en": "🏰 Revolutionary mob stormed Bastille prison on July 14, 1789\n⚔️ Marked beginning of French Revolution, symbol of royal tyranny\n🇫🇷 July 14 became French National Day (Bastille Day)\n🔥 Sparked wave of revolutionary fervor across France and Europe",
+      "fr": "🏰 La foule révolutionnaire prit d'assaut la prison de la Bastille le 14 juillet 1789\n⚔️ Marqua le début de la Révolution française, symbole de la tyrannie royale\n🇫🇷 Le 14 juillet devint la Fête nationale française\n🔥 Déclencha une vague de ferveur révolutionnaire en France et en Europe"
+    },
+    "image": "images/bastille.jpg",
+    "tags": ["revolution", "bastille", "uprising", "national-day", "event"]
+  },
+  {
+    "year": "1789",
+    "era": "French Revolution",
+    "title": {
+      "en": "Declaration of the Rights of Man",
+      "fr": "Déclaration des Droits de l'Homme"
+    },
+    "description": {
+      "en": "📜 Revolutionary document asserting universal human rights (August 26, 1789)\n⚖️ Proclaimed liberty, equality, fraternity, and popular sovereignty\n🌍 Influenced human rights movements worldwide, including US Bill of Rights\n✊ Fundamental text of French republican values",
+      "fr": "📜 Document révolutionnaire affirmant les droits humains universels (26 août 1789)\n⚖️ Proclama la liberté, l'égalité, la fraternité et la souveraineté populaire\n🌍 Influença les mouvements des droits de l'homme dans le monde entier\n✊ Texte fondamental des valeurs républicaines françaises"
+    },
+    "image": "images/declaration_droits_homme.avif",
+    "tags": ["revolution", "rights", "document", "liberty", "equality", "fraternity"]
+  },
+  {
+    "year": "1792-1795",
+    "era": "First Republic",
+    "title": {
+      "en": "First French Republic",
+      "fr": "Première République française"
+    },
+    "description": {
+      "en": "🇫🇷 Monarchy abolished (Sept 21, 1792), Republic proclaimed\n⚖️ National Convention governed, tried and executed Louis XVI\n⚔️ Wars against European monarchies, Reign of Terror\n📅 Revolutionary calendar introduced, dechristianization attempted",
+      "fr": "🇫🇷 Monarchie abolie (21 septembre 1792), République proclamée\n⚖️ Convention nationale gouverna, jugea et exécuta Louis XVI\n⚔️ Guerres contre les monarchies européennes, Règne de la Terreur\n📅 Calendrier révolutionnaire introduit, tentative de déchristianisation"
+    },
+    "image": "images/first_republic.webp",
+    "tags": ["revolution", "first-republic", "convention", "republic", "radical"]
+  },
+  {
+    "year": "1793-1794",
+    "era": "First Republic - Reign of Terror",
+    "title": {
+      "en": "Maximilien Robespierre",
+      "fr": "Maximilien Robespierre"
+    },
+    "description": {
+      "en": "⚖️ 'The Incorruptible' - radical Jacobin revolutionary leader\n🩸 Architect of Reign of Terror: 16,000-40,000 guillotined (1793-1794)\n🔴 Member of Committee of Public Safety, promoted radical republicanism\n⚔️ Overthrown in Thermidorian Reaction, guillotined without trial (July 28, 1794)",
+      "fr": "⚖️ 'L'Incorruptible' - leader révolutionnaire jacobin radical\n🩸 Architecte de la Terreur : 16 000 à 40 000 guillotinés (1793-1794)\n🔴 Membre du Comité de salut public, promut le républicanisme radical\n⚔️ Renversé lors de la Réaction thermidorienne, guillotiné sans procès (28 juillet 1794)"
+    },
+    "image": "images/robespierre.jpg",
+    "tags": ["revolution", "jacobin", "terror", "first-republic", "radical", "guillotine"]
+  },
+  {
+    "year": "1799-1804",
+    "era": "Consulate",
+    "title": {
+      "en": "Napoleon Bonaparte - First Consul",
+      "fr": "Napoléon Bonaparte - Premier Consul"
+    },
+    "description": {
+      "en": "🎖️ Seized power in Coup of 18 Brumaire (November 9, 1799)\n⚖️ Established Consulate, became First Consul for life (1802)\n📜 Created Napoleonic Code (1804) - revolutionary legal system\n🏛️ Stabilized France after Revolution, prepared for Empire",
+      "fr": "🎖️ Prit le pouvoir lors du Coup du 18 Brumaire (9 novembre 1799)\n⚖️ Établit le Consulat, devint Premier Consul à vie (1802)\n📜 Créa le Code Napoléon (1804) - système juridique révolutionnaire\n🏛️ Stabilisa la France après la Révolution, prépara l'Empire"
+    },
+    "image": "images/napoleon_consul.jpg",
+    "tags": ["consulate", "napoleon", "coup", "code-napoleon", "stabilization"]
+  },
+  {
+    "year": "1804-1814/1815",
+    "era": "First Empire",
+    "title": {
+      "en": "Napoleon Bonaparte - Emperor",
+      "fr": "Napoléon Bonaparte - Empereur"
+    },
+    "description": {
+      "en": "🦅 Military genius crowned Emperor of the French (December 2, 1804)\n⚔️ Conquered most of Europe: Austerlitz (1805), Jena (1806), Wagram (1809)\n📜 Spread Napoleonic Code across Europe, reformed institutions\n❄️ Defeated in Russian campaign (1812), abdicated 1814, final defeat at Waterloo (1815)",
+      "fr": "🦅 Génie militaire couronné Empereur des Français (2 décembre 1804)\n⚔️ Conquit la majeure partie de l'Europe : Austerlitz (1805), Iéna (1806), Wagram (1809)\n📜 Diffusa le Code Napoléon en Europe, réforma les institutions\n❄️ Vaincu en Russie (1812), abdiqua en 1814, défaite finale à Waterloo (1815)"
+    },
+    "image": "images/napoleon.jpg",
+    "tags": ["first-empire", "napoleon", "emperor", "war", "code-napoleon", "conquest"]
+  },
+  {
+    "year": "1815",
+    "era": "First Empire",
+    "title": {
+      "en": "Battle of Waterloo",
+      "fr": "Bataille de Waterloo"
+    },
+    "description": {
+      "en": "⚔️ Napoleon's final defeat by Wellington and Blücher (June 18, 1815)\n💔 Ended Hundred Days return from Elba exile\n🏝️ Napoleon exiled to Saint Helena, died 1821\n🇫🇷 Marked end of Napoleonic era, beginning of Restoration",
+      "fr": "⚔️ Défaite finale de Napoléon par Wellington et Blücher (18 juin 1815)\n💔 Mit fin au retour des Cent-Jours après l'exil à l'île d'Elbe\n🏝️ Napoléon exilé à Sainte-Hélène, mort en 1821\n🇫🇷 Marqua la fin de l'ère napoléonienne, début de la Restauration"
+    },
+    "image": "images/waterloo.png",
+    "tags": ["first-empire", "napoleon", "battle", "waterloo", "defeat", "exile"]
+  },
+  {
+    "year": "1815-1824",
+    "era": "Bourbon Restoration",
+    "title": {
+      "en": "Louis XVIII",
+      "fr": "Louis XVIII"
+    },
+    "description": {
+      "en": "👑 Brother of Louis XVI, restored after Napoleon's defeat\n⚖️ Granted Constitutional Charter (1814) - constitutional monarchy\n🕊️ Balanced royalists and liberals with moderate policies\n💼 Briefly interrupted by Napoleon's Hundred Days (March-June 1815)",
+      "fr": "👑 Frère de Louis XVI, restauré après la défaite de Napoléon\n⚖️ Octroya la Charte constitutionnelle (1814) - monarchie constitutionnelle\n🕊️ Équilibra royalistes et libéraux avec des politiques modérées\n💼 Brièvement interrompu par les Cent-Jours de Napoléon (mars-juin 1815)"
+    },
+    "image": "images/louis_18.jpg",
+    "tags": ["bourbon-restoration", "monarchy", "king", "charter", "constitutional-monarchy"]
+  },
+  {
+    "year": "1824-1830",
+    "era": "Bourbon Restoration",
+    "title": {
+      "en": "Charles X",
+      "fr": "Charles X"
+    },
+    "description": {
+      "en": "👑 Ultra-royalist brother of Louis XVI and Louis XVIII\n⛪ Attempted to restore absolute monarchy and Church power\n📜 July Ordinances (1830) suspended freedom of press\n🔥 Sparked July Revolution (1830), forced to abdicate",
+      "fr": "👑 Frère ultra-royaliste de Louis XVI et Louis XVIII\n⛪ Tenta de restaurer la monarchie absolue et le pouvoir de l'Église\n📜 Ordonnances de Juillet (1830) suspendirent la liberté de la presse\n🔥 Déclencha la Révolution de Juillet (1830), contraint d'abdiquer"
+    },
+    "image": "images/charles_10.webp",
+    "tags": ["bourbon-restoration", "monarchy", "king", "ultra-royalist", "july-revolution"]
+  },
+  {
+    "year": "1830",
+    "era": "July Monarchy",
+    "title": {
+      "en": "July Revolution (Three Glorious Days)",
+      "fr": "Révolution de Juillet (Trois Glorieuses)"
+    },
+    "description": {
+      "en": "🗽 Popular uprising in Paris (July 27-29, 1830)\n👑 Overthrew Charles X, ended Bourbon Restoration\n🎨 Immortalized in Delacroix's 'Liberty Leading the People'\n🇫🇷 Established July Monarchy under Louis-Philippe",
+      "fr": "🗽 Soulèvement populaire à Paris (27-29 juillet 1830)\n👑 Renversa Charles X, mit fin à la Restauration bourbon\n🎨 Immortalisé dans 'La Liberté guidant le peuple' de Delacroix\n🇫🇷 Établit la Monarchie de Juillet sous Louis-Philippe"
+    },
+    "image": "images/trois_glorieuses.jpg",
+    "tags": ["july-monarchy", "revolution", "uprising", "paris", "delacroix", "event"]
+  },
+  {
+    "year": "1830-1848",
+    "era": "July Monarchy",
+    "title": {
+      "en": "Louis-Philippe I",
+      "fr": "Louis-Philippe Ier"
+    },
+    "description": {
+      "en": "🕊️ 'The Citizen King' - came to power in July Revolution (1830)\n🎩 Bourgeois monarch who walked streets with umbrella\n🏛️ July Monarchy enriched middle class, ignored working poor\n📉 Economic crisis and repression led to abdication (1848) - last French king",
+      "fr": "🕊️ 'Le Roi Citoyen' - arrivé au pouvoir lors de la Révolution de Juillet (1830)\n🎩 Monarque bourgeois qui marchait dans les rues avec son parapluie\n🏛️ La Monarchie de Juillet enrichit la classe moyenne, ignora les pauvres\n📉 Crise économique et répression menèrent à l'abdication (1848) - dernier roi de France"
+    },
+    "image": "images/louis_philippe.jpg",
+    "tags": ["july-monarchy", "king", "bourgeois", "constitutional-monarchy", "last-king"]
+  },
+  {
+    "year": "1848",
+    "era": "Second Republic",
+    "title": {
+      "en": "February Revolution of 1848",
+      "fr": "Révolution de Février 1848"
+    },
+    "description": {
+      "en": "🔥 Popular uprising overthrew Louis-Philippe (February 22-24, 1848)\n🇫🇷 Second Republic proclaimed, universal male suffrage established\n👨‍🌾 Worker and socialist movements gained prominence\n📅 Sparked revolutions across Europe ('Spring of Nations')",
+      "fr": "🔥 Soulèvement populaire renversa Louis-Philippe (22-24 février 1848)\n🇫🇷 Seconde République proclamée, suffrage universel masculin établi\n👨‍🌾 Mouvements ouvriers et socialistes gagnèrent en importance\n📅 Déclencha des révolutions en Europe ('Printemps des peuples')"
+    },
+    "image": "images/revolution_1848.jpg",
+    "tags": ["second-republic", "revolution", "suffrage", "uprising", "republic", "event"]
+  },
+  {
+    "year": "1848-1852",
+    "era": "Second Republic",
+    "title": {
+      "en": "Louis-Napoleon Bonaparte - President",
+      "fr": "Louis-Napoléon Bonaparte - Président"
+    },
+    "description": {
+      "en": "🎩 Napoleon's nephew elected first President by popular vote (1848)\n⚖️ Promised order and prosperity, appealed to peasants and bourgeoisie\n🎭 Coup d'état (December 2, 1851) dissolved Assembly\n👑 Became President for life, then Emperor Napoleon III (1852)",
+      "fr": "🎩 Neveu de Napoléon élu premier président au suffrage universel (1848)\n⚖️ Promit ordre et prospérité, séduisit paysans et bourgeoisie\n🎭 Coup d'État (2 décembre 1851) dissout l'Assemblée\n👑 Devint Président à vie, puis Empereur Napoléon III (1852)"
+    },
+    "image": "images/louis_napoleon_president.jpg",
+    "tags": ["second-republic", "president", "napoleon", "coup", "election"]
+  },
+  {
+    "year": "1852-1870",
+    "era": "Second Empire",
+    "title": {
+      "en": "Napoleon III",
+      "fr": "Napoléon III"
+    },
+    "description": {
+      "en": "👑 Napoleon's nephew - President (1848), then Emperor (1852-1870)\n🏗️ Modernized France: Haussmann transformed Paris, rapid industrialization\n🌍 Expanded colonial empire (Algeria, Indochina), supported Italian unification\n⚔️ Defeated in Franco-Prussian War (1870), captured at Sedan - ended Second Empire",
+      "fr": "👑 Neveu de Napoléon - Président (1848), puis Empereur (1852-1870)\n🏗️ Modernisa la France : Haussmann transforma Paris, industrialisation rapide\n🌍 Étendit l'empire colonial (Algérie, Indochine), soutint l'unification italienne\n⚔️ Vaincu lors de la guerre franco-prussienne (1870), capturé à Sedan - fin du Second Empire"
+    },
+    "image": "images/napoleon_3.jpg",
+    "tags": ["second-empire", "emperor", "napoleon", "modernization", "haussmann", "paris"]
+  },
+  {
+    "year": "1870-1871",
+    "era": "Franco-Prussian War",
+    "title": {
+      "en": "Franco-Prussian War",
+      "fr": "Guerre franco-prussienne"
+    },
+    "description": {
+      "en": "⚔️ Disastrous war against Prussia led by Bismarck (1870-1871)\n💔 Napoleon III captured at Sedan (September 2, 1870)\n🏰 Prussians besieged Paris, France humiliated\n🇩🇪 Led to German unification and loss of Alsace-Lorraine",
+      "fr": "⚔️ Guerre désastreuse contre la Prusse dirigée par Bismarck (1870-1871)\n💔 Napoléon III capturé à Sedan (2 septembre 1870)\n🏰 Les Prussiens assiégèrent Paris, France humiliée\n🇩🇪 Mena à l'unification allemande et perte de l'Alsace-Lorraine"
+    },
+    "image": "images/franco_prussian_war.jpg",
+    "tags": ["second-empire", "war", "prussia", "defeat", "alsace-lorraine", "bismarck"]
+  },
+  {
+    "year": "1870-1871",
+    "era": "Government of National Defense",
+    "title": {
+      "en": "Siege of Paris & Paris Commune",
+      "fr": "Siège de Paris et Commune de Paris"
+    },
+    "description": {
+      "en": "🏰 Prussian siege of Paris (Sept 1870-Jan 1871), starvation and bombardment\n🔴 Radical Paris Commune proclaimed (March 18, 1871)\n⚔️ 'Bloody Week' (May 21-28, 1871): 10,000-20,000 Communards killed\n🔥 First proletarian revolution, inspired socialist movements worldwide",
+      "fr": "🏰 Siège prussien de Paris (sept 1870-jan 1871), famine et bombardements\n🔴 Commune de Paris radicale proclamée (18 mars 1871)\n⚔️ 'Semaine sanglante' (21-28 mai 1871) : 10 000 à 20 000 Communards tués\n🔥 Première révolution prolétarienne, inspira les mouvements socialistes"
+    },
+    "image": "images/commune_paris.jpg",
+    "tags": ["third-republic", "commune", "uprising", "paris", "siege", "socialism"]
+  },
+  {
+    "year": "1871-1873",
+    "era": "Third Republic",
+    "title": {
+      "en": "Adolphe Thiers",
+      "fr": "Adolphe Thiers"
+    },
+    "description": {
+      "en": "🏛️ First President of Third Republic after Franco-Prussian War\n⚔️ Crushed Paris Commune in 'Bloody Week' (May 1871)\n💰 Negotiated Treaty of Frankfurt, paid 5 billion franc war indemnity rapidly\n🕊️ Stabilized France after devastating war and civil conflict",
+      "fr": "🏛️ Premier président de la IIIe République après la guerre franco-prussienne\n⚔️ Écrasa la Commune de Paris lors de la 'Semaine sanglante' (mai 1871)\n💰 Négocia le Traité de Francfort, paya rapidement 5 milliards de francs\n🕊️ Stabilisa la France après une guerre dévastatrice et un conflit civil"
+    },
+    "image": "images/thiers.webp",
+    "tags": ["third-republic", "president", "commune", "stabilization", "treaty"]
+  },
+  {
+    "year": "1887-1894",
+    "era": "Third Republic",
+    "title": {
+      "en": "Sadi Carnot",
+      "fr": "Sadi Carnot"
+    },
+    "description": {
+      "en": "⚙️ Engineer-President who promoted industrial growth and colonial expansion\n🏛️ Championed Franco-Russian Alliance (1892) against Germany\n🗼 Presided over Eiffel Tower construction for 1889 World's Fair\n🗡️ Assassinated by Italian anarchist Caserio (June 24, 1894) - first president killed",
+      "fr": "⚙️ Président-ingénieur qui promut la croissance industrielle et l'expansion coloniale\n🏛️ Défendit l'Alliance franco-russe (1892) contre l'Allemagne\n🗼 Présida à la construction de la Tour Eiffel pour l'Exposition universelle de 1889\n🗡️ Assassiné par l'anarchiste italien Caserio (24 juin 1894) - premier président tué"
+    },
+    "image": "images/carnot.jpg",
+    "tags": ["third-republic", "president", "eiffel-tower", "assassination", "industry"]
+  },
+  {
+    "year": "1894-1906",
+    "era": "Third Republic",
+    "title": {
+      "en": "Dreyfus Affair",
+      "fr": "Affaire Dreyfus"
+    },
+    "description": {
+      "en": "⚖️ Jewish army captain falsely convicted of treason (1894)\n✍️ Émile Zola's 'J'Accuse...!' (1898) exposed injustice\n🇫🇷 Divided France into Dreyfusards vs anti-Dreyfusards\n✊ Exonerated 1906, highlighted antisemitism and need for justice reform",
+      "fr": "⚖️ Capitaine juif faussement condamné pour trahison (1894)\n✍️ 'J'Accuse...!' d'Émile Zola (1898) exposa l'injustice\n🇫🇷 Divisa la France entre dreyfusards et anti-dreyfusards\n✊ Innocenté en 1906, révéla l'antisémitisme et le besoin de réforme judiciaire"
+    },
+    "image": "images/dreyfus.jpg",
+    "tags": ["third-republic", "justice", "antisemitism", "affair", "zola", "scandal"]
+  },
+  {
+    "year": "1905",
+    "era": "Third Republic",
+    "title": {
+      "en": "Separation of Church and State",
+      "fr": "Séparation de l'Église et de l'État"
+    },
+    "description": {
+      "en": "⛪ Law of 1905 established laïcité (secularism)\n🏛️ Ended Concordat of 1801, separated religion from government\n✊ Guaranteed freedom of conscience and religious practice\n🇫🇷 Fundamental principle of French Republic to this day",
+      "fr": "⛪ Loi de 1905 établit la laïcité\n🏛️ Mit fin au Concordat de 1801, sépara religion et gouvernement\n✊ Garantit la liberté de conscience et de pratique religieuse\n🇫🇷 Principe fondamental de la République française jusqu'à aujourd'hui"
+    },
+    "image": "images/laicite_1905.jpg",
+    "tags": ["third-republic", "laicite", "secularism", "law", "church", "reform"]
+  },
+  {
+    "year": "1913-1920",
+    "era": "Third Republic",
+    "title": {
+      "en": "Raymond Poincaré",
+      "fr": "Raymond Poincaré"
+    },
+    "description": {
+      "en": "🎖️ President during WWI - steadfast leadership through existential crisis\n🇫🇷 Strong nationalist from Lorraine, supported military preparation\n⚔️ Visited front lines regularly, worked with Clemenceau for total victory\n🏆 Saw France victorious, regained Alsace-Lorraine at Versailles (1919)",
+      "fr": "🎖️ Président durant la Première Guerre mondiale - leadership ferme dans la crise\n🇫🇷 Nationaliste convaincu de Lorraine, soutint la préparation militaire\n⚔️ Visita régulièrement le front, travailla avec Clemenceau pour la victoire totale\n🏆 Vit la France victorieuse, récupéra l'Alsace-Lorraine à Versailles (1919)"
+    },
+    "image": "images/poincare.jpg",
+    "tags": ["third-republic", "president", "wwi", "nationalism", "versailles"]
+  },
+  {
+    "year": "1914-1918",
+    "era": "Third Republic - WWI",
+    "title": {
+      "en": "World War I",
+      "fr": "Première Guerre mondiale"
+    },
+    "description": {
+      "en": "⚔️ The Great War - France fought Germany and allies (1914-1918)\n💀 1.4 million French deaths, millions wounded\n🏰 Horrific battles: Verdun (1916), Somme (1916), Marne (1914, 1918)\n🏆 Victory at enormous cost, regained Alsace-Lorraine",
+      "fr": "⚔️ La Grande Guerre - la France combattit l'Allemagne et ses alliés (1914-1918)\n💀 1,4 million de morts français, des millions de blessés\n🏰 Batailles horrifiques : Verdun (1916), Somme (1916), Marne (1914, 1918)\n🏆 Victoire à un coût énorme, récupération de l'Alsace-Lorraine"
+    },
+    "image": "images/wwi.jpg",
+    "tags": ["third-republic", "wwi", "war", "verdun", "great-war", "trenches"]
+  },
+  {
+    "year": "1917-1920",
+    "era": "Third Republic - WWI",
+    "title": {
+      "en": "Georges Clemenceau",
+      "fr": "Georges Clemenceau"
+    },
+    "description": {
+      "en": "🐅 'The Tiger' - Prime Minister who led France to WWI victory\n⚔️ Iron will and fierce determination in darkest hours (1917-1918)\n✍️ Chief negotiator at Treaty of Versailles (1919), demanded harsh German reparations\n🎖️ 'Father of Victory' - embodied French resilience and triumph",
+      "fr": "🐅 'Le Tigre' - Premier ministre qui mena la France à la victoire en 14-18\n⚔️ Volonté de fer et détermination féroce dans les heures les plus sombres (1917-1918)\n✍️ Négociateur en chef au Traité de Versailles (1919), exigea de lourdes réparations allemandes\n🎖️ 'Père de la Victoire' - incarna la résilience et le triomphe français"
+    },
+    "image": "images/clemenceau.jpg",
+    "tags": ["third-republic", "prime-minister", "wwi", "victory", "versailles", "tiger"]
+  },
+  {
+    "year": "1919",
+    "era": "Third Republic",
+    "title": {
+      "en": "Treaty of Versailles",
+      "fr": "Traité de Versailles"
+    },
+    "description": {
+      "en": "📜 Peace treaty ending WWI, signed at Palace of Versailles (June 28, 1919)\n💰 Imposed harsh reparations on Germany, territorial losses\n🇫🇷 France regained Alsace-Lorraine, occupied Rhineland\n⚠️ Sowed seeds of WWII through German resentment",
+      "fr": "📜 Traité de paix mettant fin à la Première Guerre mondiale, signé au château de Versailles (28 juin 1919)\n💰 Imposa de lourdes réparations à l'Allemagne, pertes territoriales\n🇫🇷 La France récupéra l'Alsace-Lorraine, occupa la Rhénanie\n⚠️ Sema les graines de la Seconde Guerre mondiale par le ressentiment allemand"
+    },
+    "image": "images/versailles_treaty.webp",
+    "tags": ["third-republic", "treaty", "versailles", "wwi", "peace", "reparations"]
+  },
+  {
+    "year": "1936-1938",
+    "era": "Third Republic",
+    "title": {
+      "en": "Popular Front - Léon Blum",
+      "fr": "Front populaire - Léon Blum"
+    },
+    "description": {
+      "en": "🌹 First Socialist (and Jewish) Prime Minister of France\n👨‍🏭 Major social reforms: 40-hour week, paid vacations, collective bargaining\n✊ Coalition of left-wing parties against fascism\n💼 Economic difficulties and opposition led to resignation (1938)",
+      "fr": "🌹 Premier Premier ministre socialiste (et juif) de France\n👨‍🏭 Réformes sociales majeures : semaine de 40 heures, congés payés, conventions collectives\n✊ Coalition de partis de gauche contre le fascisme\n💼 Difficultés économiques et opposition menèrent à la démission (1938)"
+    },
+    "image": "images/leon_blum.jpg",
+    "tags": ["third-republic", "prime-minister", "socialist", "popular-front", "reform", "labor"]
+  },
+  {
+    "year": "1939-1945",
+    "era": "WWII",
+    "title": {
+      "en": "World War II",
+      "fr": "Seconde Guerre mondiale"
+    },
+    "description": {
+      "en": "⚔️ France invaded by Nazi Germany (May-June 1940)\n💔 Rapid defeat, armistice signed June 22, 1940\n🇫🇷 France divided: Occupied Zone and Vichy collaborationist regime\n🏆 Liberation began D-Day (June 6, 1944), Paris liberated August 25, 1944",
+      "fr": "⚔️ France envahie par l'Allemagne nazie (mai-juin 1940)\n💔 Défaite rapide, armistice signé le 22 juin 1940\n🇫🇷 France divisée : Zone occupée et régime collaborationniste de Vichy\n🏆 Libération commencée le Jour J (6 juin 1944), Paris libéré le 25 août 1944"
+    },
+    "image": "images/wwii.jpg",
+    "tags": ["wwii", "war", "occupation", "nazi", "liberation", "defeat"]
+  },  {
+    "year": "1940-1944",
+    "era": "Vichy Regime",
+    "title": {
+      "en": "Philippe Pétain - Vichy France",
+      "fr": "Philippe Pétain - France de Vichy"
+    },
+    "description": {
+      "en": "⚔️ WWI hero 'Lion of Verdun' turned collaborationist leader\n🇫🇷 Led Vichy regime in unoccupied southern France, signed armistice with Nazi Germany\n❌ Enacted antisemitic laws (Statut des Juifs), deported 76,000 Jews to death camps\n⚖️ Convicted of high treason (1945), sentence commuted to life imprisonment, died 1951",
+      "fr": "⚔️ Héros de 14-18 'Le Lion de Verdun' devenu leader collaborationniste\n🇫🇷 Dirigea le régime de Vichy en zone libre, signa l'armistice avec l'Allemagne nazie\n❌ Promulgua des lois antisémites (Statut des Juifs), déporta 76 000 Juifs vers les camps de la mort\n⚖️ Condamné pour haute trahison (1945), peine commuée en prison à vie, mort en 1951"
+    },
+    "image": "images/vich.jpg",
+    "tags": ["vichy", "collaboration", "wwii", "antisemitism", "traitor", "deportation"]
+  },
+  {
+    "year": "1940-1944",
+    "era": "Free France",
+    "title": {
+      "en": "Charles de Gaulle - Free France",
+      "fr": "Charles de Gaulle - France Libre"
+    },
+    "description": {
+      "en": "🇫🇷 Led Free France resistance from London after June 18, 1940 BBC appeal\n📻 'France has lost a battle, but France has not lost the war!'\n⚔️ Organized French forces, worked with Allies for liberation\n🏛️ Entered liberated Paris (August 25, 1944), became provisional government head",
+      "fr": "🇫🇷 Dirigea la Résistance de la France Libre depuis Londres après l'appel du 18 juin 1940\n📻 'La France a perdu une bataille, mais la France n'a pas perdu la guerre !'\n⚔️ Organisa les forces françaises, travailla avec les Alliés pour la libération\n🏛️ Entra dans Paris libéré (25 août 1944), devint chef du gouvernement provisoire"
+    },
+    "image": "images/degaulle_free_france.jpg",
+    "tags": ["free-france", "resistance", "wwii", "degaulle", "liberation", "london"]
+  },
+  {
+    "year": "1940-1944",
+    "era": "French Resistance",
+    "title": {
+      "en": "French Resistance",
+      "fr": "Résistance française"
+    },
+    "description": {
+      "en": "✊ Underground movements fought Nazi occupation and Vichy collaboration\n🔫 Sabotage, intelligence gathering, guerrilla warfare\n📰 Jean Moulin unified resistance networks (arrested and killed 1943)\n🏆 Played crucial role in D-Day preparations and liberation of France",
+      "fr": "✊ Mouvements clandestins combattirent l'occupation nazie et la collaboration de Vichy\n🔫 Sabotage, collecte de renseignements, guérilla\n📰 Jean Moulin unifia les réseaux de résistance (arrêté et tué en 1943)\n🏆 Joua un rôle crucial dans les préparatifs du Débarquement et la libération"
+    },
+    "image": "images/resistance.jpg",
+    "tags": ["resistance", "wwii", "occupation", "jean-moulin", "sabotage", "liberation"]
+  },
+  {
+    "year": "1944",
+    "era": "Liberation",
+    "title": {
+      "en": "D-Day and Liberation of France",
+      "fr": "Débarquement et Libération de la France"
+    },
+    "description": {
+      "en": "🏖️ Allied forces landed in Normandy (June 6, 1944)\n⚔️ French 2nd Armored Division (Leclerc) liberated Paris (August 25, 1944)\n🇫🇷 De Gaulle triumphantly walked down Champs-Élysées\n🏆 Most of France liberated by end of 1944, final victory May 8, 1945",
+      "fr": "🏖️ Forces alliées débarquèrent en Normandie (6 juin 1944)\n⚔️ 2e Division blindée française (Leclerc) libéra Paris (25 août 1944)\n🇫🇷 De Gaulle descendit triomphalement les Champs-Élysées\n🏆 La plupart de la France libérée fin 1944, victoire finale le 8 mai 1945"
+    },
+    "image": "images/liberation.jpg",
+    "tags": ["wwii", "liberation", "d-day", "normandy", "paris", "victory"]
+  },
+  {
+    "year": "1944-1946",
+    "era": "Provisional Government",
+    "title": {
+      "en": "Provisional Government - De Gaulle",
+      "fr": "Gouvernement provisoire - De Gaulle"
+    },
+    "description": {
+      "en": "🏛️ De Gaulle headed provisional government after liberation\n⚖️ Purged collaborators (épuration), rebuilt French institutions\n👩‍⚖️ Women granted right to vote (1944)\n💼 Resigned in frustration (1946) over constitutional disputes",
+      "fr": "🏛️ De Gaulle dirigea le gouvernement provisoire après la libération\n⚖️ Épura les collaborateurs, reconstruisit les institutions françaises\n👩‍⚖️ Droit de vote accordé aux femmes (1944)\n💼 Démissionna par frustration (1946) sur des disputes constitutionnelles"
+    },
+    "image": "images/provisional_govt.jpg",
+    "tags": ["provisional-government", "degaulle", "liberation", "reconstruction", "womens-rights"]
+  },
+  {
+    "year": "1946-1958",
+    "era": "Fourth Republic",
+    "title": {
+      "en": "Fourth Republic",
+      "fr": "Quatrième République"
+    },
+    "description": {
+      "en": "🏛️ Parliamentary system with weak executive, unstable governments\n💼 24 different governments in 12 years - constant political crises\n🌍 Decolonization wars: Indochina (1946-1954), Algeria (1954-1962)\n📉 Economic growth but political paralysis led to collapse (1958)",
+      "fr": "🏛️ Système parlementaire avec exécutif faible, gouvernements instables\n💼 24 gouvernements différents en 12 ans - crises politiques constantes\n🌍 Guerres de décolonisation : Indochine (1946-1954), Algérie (1954-1962)\n📉 Croissance économique mais paralysie politique mena à l'effondrement (1958)"
+    },
+    "image": "images/fourth_republic.webp",
+    "tags": ["fourth-republic", "instability", "parliament", "decolonization", "crisis"]
+  },
+  {
+    "year": "1954",
+    "era": "Fourth Republic",
+    "title": {
+      "en": "Battle of Dien Bien Phu",
+      "fr": "Bataille de Diên Biên Phu"
+    },
+    "description": {
+      "en": "⚔️ Catastrophic defeat in Indochina by Viet Minh forces (March-May 1954)\n💔 Ended French colonial rule in Indochina\n🇻🇳 Led to Geneva Accords, partition of Vietnam\n📉 Major humiliation, weakened Fourth Republic",
+      "fr": "⚔️ Défaite catastrophique en Indochine par les forces Viet Minh (mars-mai 1954)\n💔 Mit fin à la domination coloniale française en Indochine\n🇻🇳 Mena aux Accords de Genève, partition du Vietnam\n📉 Humiliation majeure, affaiblit la Quatrième République"
+    },
+    "image": "images/dien_bien_phu.jpg",
+    "tags": ["fourth-republic", "indochina", "war", "defeat", "decolonization", "vietnam"]
+  },
+  {
+    "year": "1954-1962",
+    "era": "Fourth Republic / Fifth Republic",
+    "title": {
+      "en": "Algerian War",
+      "fr": "Guerre d'Algérie"
+    },
+    "description": {
+      "en": "⚔️ Brutal colonial war between France and Algerian independence fighters (FLN)\n💔 Caused Fourth Republic's collapse, brought de Gaulle to power (1958)\n🩸 Hundreds of thousands killed, widespread torture and atrocities\n🇩🇿 Algeria gained independence (1962), mass exodus of pieds-noirs",
+      "fr": "⚔️ Guerre coloniale brutale entre la France et les combattants indépendantistes algériens (FLN)\n💔 Provoqua l'effondrement de la Quatrième République, porta de Gaulle au pouvoir (1958)\n🩸 Des centaines de milliers de morts, torture et atrocités généralisées\n🇩🇿 L'Algérie obtint l'indépendance (1962), exode massif des pieds-noirs"
+    },
+    "image": "images/algerian_war.jpg",
+    "tags": ["fourth-republic", "fifth-republic", "algeria", "war", "decolonization", "independence"]
+  },
+  {
+    "year": "1958",
+    "era": "Fifth Republic",
+    "title": {
+      "en": "Foundation of Fifth Republic",
+      "fr": "Fondation de la Cinquième République"
+    },
+    "description": {
+      "en": "🏛️ De Gaulle called back to power during Algerian crisis (May 1958)\n📜 New constitution approved by referendum (September 1958)\n👑 Strong presidential system replaced weak parliamentary Fourth Republic\n🇫🇷 Fifth Republic continues to this day - France's longest-lasting regime",
+      "fr": "🏛️ De Gaulle rappelé au pouvoir durant la crise algérienne (mai 1958)\n📜 Nouvelle constitution approuvée par référendum (septembre 1958)\n👑 Système présidentiel fort remplaça la faible Quatrième République parlementaire\n🇫🇷 Cinquième République perdure aujourd'hui - régime le plus durable de France"
+    },
+    "image": "images/fifth_republic.jpg",
+    "tags": ["fifth-republic", "constitution", "degaulle", "founding", "presidential", "reform"]
+  },
+  {
+    "year": "1959-1969",
+    "era": "Fifth Republic",
+    "title": {
+      "en": "Charles de Gaulle - President",
+      "fr": "Charles de Gaulle - Président"
+    },
+    "description": {
+      "en": "🇫🇷 First President of Fifth Republic, defined presidential role\n✊ Pursued French independence: nuclear weapons (force de frappe), withdrew from NATO command (1966)\n🌍 Granted independence to African colonies, ended Algerian War (Évian Accords 1962)\n📉 Resigned after failed referendum (1969), died November 9, 1970",
+      "fr": "🇫🇷 Premier président de la Ve République, définit le rôle présidentiel\n✊ Poursuivit l'indépendance française : arme nucléaire (force de frappe), retrait du commandement de l'OTAN (1966)\n🌍 Accorda l'indépendance aux colonies africaines, mit fin à la guerre d'Algérie (Accords d'Évian 1962)\n📉 Démissionna après un référendum raté (1969), décédé le 9 novembre 1970"
+    },
+    "image": "images/degaulle.jpg",
+    "tags": ["fifth-republic", "president", "degaulle", "independence", "nato", "nuclear"]
+  },
+  {
+    "year": "1962",
+    "era": "Fifth Republic",
+    "title": {
+      "en": "Évian Accords - Algerian Independence",
+      "fr": "Accords d'Évian - Indépendance algérienne"
+    },
+    "description": {
+      "en": "📜 Peace agreement ending Algerian War (March 18, 1962)\n🇩🇿 Algeria gained independence after 132 years of French rule\n✊ Controversial decision, opposed by pieds-noirs and OAS terrorists\n🕊️ Ended France's bloodiest decolonization war",
+      "fr": "📜 Accord de paix mettant fin à la guerre d'Algérie (18 mars 1962)\n🇩🇿 L'Algérie obtint l'indépendance après 132 ans de domination française\n✊ Décision controversée, opposée par les pieds-noirs et les terroristes de l'OAS\n🕊️ Mit fin à la guerre de décolonisation la plus sanglante de France"
+    },
+    "image": "images/evian_accords.jpg",
+    "tags": ["fifth-republic", "algeria", "independence", "peace", "treaty", "decolonization"]
+  },
+  {
+    "year": "1968",
+    "era": "Fifth Republic",
+    "title": {
+      "en": "May 1968 - Student Uprising",
+      "fr": "Mai 68 - Révolte étudiante"
+    },
+    "description": {
+      "en": "✊ Massive student protests and general strike paralyzed France\n🏫 Began at Nanterre and Sorbonne universities, spread nationwide\n🔥 'It is forbidden to forbid!' - challenged traditional authority\n🌍 Part of worldwide youth rebellion, nearly toppled de Gaulle",
+      "fr": "✊ Manifestations étudiantes massives et grève générale paralysèrent la France\n🏫 Commença aux universités de Nanterre et la Sorbonne, s'étendit nationalement\n🔥 'Il est interdit d'interdire !' - défia l'autorité traditionnelle\n🌍 Partie de la rébellion mondiale de la jeunesse, faillit renverser de Gaulle"
+    },
+    "image": "images/may_68.avif",
+    "tags": ["fifth-republic", "may-68", "protest", "student", "strike", "revolution"]
+  },
+  {
+    "year": "1969-1974",
+    "era": "Fifth Republic",
+    "title": {
+      "en": "Georges Pompidou",
+      "fr": "Georges Pompidou"
+    },
+    "description": {
+      "en": "🏗️ De Gaulle's successor, promoted industrial modernization and economic growth\n🚄 Launched high-speed rail (TGV), Concorde supersonic jet, nuclear energy expansion\n🎨 Passionate art patron - commissioned Centre Pompidou (opened 1977)\n🇪🇺 Facilitated Britain's entry into European Community (1973), died in office (1974)",
+      "fr": "🏗️ Successeur de De Gaulle, promut la modernisation industrielle et la croissance économique\n🚄 Lança le train à grande vitesse (TGV), Concorde supersonique, expansion de l'énergie nucléaire\n🎨 Mécène passionné d'art - commanda le Centre Pompidou (ouvert en 1977)\n🇪🇺 Facilita l'entrée du Royaume-Uni dans la Communauté européenne (1973), décédé en fonction (1974)"
+    },
+    "image": "images/pompidou.jpg",
+    "tags": ["fifth-republic", "president", "modernization", "art", "pompidou-center", "tgv"]
+  },
+  {
+    "year": "1974-1981",
+    "era": "Fifth Republic",
+    "title": {
+      "en": "Valéry Giscard d'Estaing",
+      "fr": "Valéry Giscard d'Estaing"
+    },
+    "description": {
+      "en": "💡 Young centrist reformer (elected at 48) who modernized French society\n👩‍⚖️ Lowered voting age to 18, legalized abortion (Veil Law 1975), advanced women's rights\n🇪🇺 Strong pro-European, founded European Council with Helmut Schmidt\n🎵 Cultivated intellectual image, reformed criminal justice and divorce laws, lost to Mitterrand (1981)",
+      "fr": "💡 Jeune réformateur centriste (élu à 48 ans) qui modernisa la société française\n👩‍⚖️ Abaissa l'âge de vote à 18 ans, légalisa l'avortement (Loi Veil 1975), fit avancer les droits des femmes\n🇪🇺 Fervent pro-européen, fonda le Conseil européen avec Helmut Schmidt\n🎵 Cultiva une image intellectuelle, réforma la justice pénale et les lois sur le divorce, perdit face à Mitterrand (1981)"
+    },
+    "image": "images/giscard.jpg",
+    "tags": ["fifth-republic", "president", "reform", "abortion", "europe", "modernization"]
+  },
+  {
+    "year": "1981-1995",
+    "era": "Fifth Republic",
+    "title": {
+      "en": "François Mitterrand",
+      "fr": "François Mitterrand"
+    },
+    "description": {
+      "en": "🌹 First Socialist President, longest-serving (14 years, two terms: 1981-1995)\n⚖️ Abolished death penalty (1981), decentralized government, nationalized industries\n🇪🇺 Pushed Maastricht Treaty (1992) creating EU and euro with Helmut Kohl\n🏛️ 'Grands Projets': Louvre Pyramid, Opéra Bastille, Grande Arche, Bibliothèque Nationale",
+      "fr": "🌹 Premier président socialiste, mandat le plus long (14 ans, deux mandats : 1981-1995)\n⚖️ Abolit la peine de mort (1981), décentralisa le gouvernement, nationalisa des industries\n🇪🇺 Poussa le Traité de Maastricht (1992) créant l'UE et l'euro avec Helmut Kohl\n🏛️ 'Grands Projets' : Pyramide du Louvre, Opéra Bastille, Grande Arche, Bibliothèque Nationale"
+    },
+    "image": "images/mitterand.jpg",
+    "tags": ["fifth-republic", "president", "socialist", "death-penalty", "eu", "grands-projets"]
+  },
+  {
+    "year": "1986-1988 & 1993-1995",
+    "era": "Fifth Republic",
+    "title": {
+      "en": "Cohabitation",
+      "fr": "Cohabitation"
+    },
+    "description": {
+      "en": "⚖️ Socialist President Mitterrand with right-wing Prime Minister Chirac (1986-1988)\n🏛️ President and PM from opposing parties sharing power\n💼 Second cohabitation: Mitterrand with PM Balladur (1993-1995)\n🇫🇷 Unique French political arrangement, tested Fifth Republic institutions",
+      "fr": "⚖️ Président socialiste Mitterrand avec Premier ministre de droite Chirac (1986-1988)\n🏛️ Président et PM de partis opposés partageant le pouvoir\n💼 Deuxième cohabitation : Mitterrand avec PM Balladur (1993-1995)\n🇫🇷 Arrangement politique français unique, testa les institutions de la Ve République"
+    },
+    "image": "images/cohabitation.jpg",
+    "tags": ["fifth-republic", "cohabitation", "mitterrand", "chirac", "politics"]
+  },
+  {
+    "year": "1995-2007",
+    "era": "Fifth Republic",
+    "title": {
+      "en": "Jacques Chirac",
+      "fr": "Jacques Chirac"
+    },
+    "description": {
+      "en": "🌍 Gaullist President for 12 years (two terms), former Paris mayor (1977-1995)\n✊ Firmly opposed 2003 Iraq War - championed international law and UN\n🌳 Environmental advocate, promoted climate action and sustainable development\n⚖️ Acknowledged France's Vichy Holocaust role (1995), reduced presidential term to 5 years (2000)",
+      "fr": "🌍 Président gaulliste pendant 12 ans (deux mandats), ancien maire de Paris (1977-1995)\n✊ S'opposa fermement à la guerre en Irak de 2003 - défendit le droit international et l'ONU\n🌳 Défenseur de l'environnement, promut l'action climatique et le développement durable\n⚖️ Reconnut le rôle de la France de Vichy dans la Shoah (1995), réduisit le mandat présidentiel à 5 ans (2000)"
+    },
+    "image": "images/chirac.jpg",
+    "tags": ["fifth-republic", "president", "gaullist", "environment", "iraq-war", "holocaust"]
+  },
+  {
+    "year": "2002",
+    "era": "Fifth Republic",
+    "title": {
+      "en": "Jean-Marie Le Pen - Second Round Shock",
+      "fr": "Jean-Marie Le Pen - Choc du second tour"
+    },
+    "description": {
+      "en": "⚠️ Far-right National Front leader reached presidential runoff (2002)\n🇫🇷 Faced Chirac in second round after Socialist vote split\n✊ Massive mobilization against far-right: 'Vote for the crook, not the fascist'\n📊 Chirac won with 82% - historic rejection of extremism",
+      "fr": "⚠️ Leader d'extrême droite du Front National atteignit le second tour (2002)\n🇫🇷 Affronta Chirac après division du vote socialiste\n✊ Mobilisation massive contre l'extrême droite : 'Votez escroc, pas facho'\n📊 Chirac gagna avec 82% - rejet historique de l'extrémisme"
+    },
+    "image": "images/le_pen_2002.avif",
+    "tags": ["fifth-republic", "election", "far-right", "national-front", "chirac", "extremism"]
+  },
+  {
+    "year": "2007-2012",
+    "era": "Fifth Republic",
+    "title": {
+      "en": "Nicolas Sarkozy",
+      "fr": "Nicolas Sarkozy"
+    },
+    "description": {
+      "en": "⚡ Dynamic, controversial 'Sarko' - energetic hyperactive leadership style\n💰 Responded to 2008 global financial crisis with stimulus packages and bank bailouts\n⚔️ Led NATO intervention in Libya (2011), rejoined NATO integrated command\n🏛️ Pension reform sparked major protests, later convicted of corruption (2021)",
+      "fr": "⚡ 'Sarko' dynamique et controversé - style de leadership énergique et hyperactif\n💰 Répondit à la crise financière mondiale de 2008 avec relance et plans de sauvetage\n⚔️ Mena l'intervention de l'OTAN en Libye (2011), réintégra le commandement intégré de l'OTAN\n🏛️ Réforme des retraites déclencha des manifestations majeures, condamné pour corruption (2021)"
+    },
+    "image": "images/sarkozy.avif",
+    "tags": ["fifth-republic", "president", "financial-crisis", "nato", "libya", "reform"]
+  },
+  {
+    "year": "2012-2017",
+    "era": "Fifth Republic",
+    "title": {
+      "en": "François Hollande",
+      "fr": "François Hollande"
+    },
+    "description": {
+      "en": "🌹 Socialist 'normal' president who faced terrorism, economic crisis, migration\n⚔️ Responded to devastating Paris attacks: Charlie Hebdo (Jan 2015), Bataclan (Nov 2015), Nice truck attack (July 2016)\n👨‍❤️‍👨 Legalized same-sex marriage (2013), military operations in Mali and Syria\n📉 Record low approval ratings (4%), unprecedented decision not to seek reelection",
+      "fr": "🌹 Président socialiste 'normal' confronté au terrorisme, à la crise économique, à la migration\n⚔️ Répondit aux attentats dévastateurs de Paris : Charlie Hebdo (jan 2015), Bataclan (nov 2015), attentat de Nice (juillet 2016)\n👨‍❤️‍👨 Légalisa le mariage pour tous (2013), opérations militaires au Mali et en Syrie\n📉 Popularité historiquement basse (4%), décision inédite de ne pas se représenter"
+    },
+    "image": "images/hollande.jpg",
+    "tags": ["fifth-republic", "president", "socialist", "terrorism", "charlie-hebdo", "bataclan"]
+  },
+  {
+    "year": "2015",
+    "era": "Fifth Republic",
+    "title": {
+      "en": "Paris Terrorist Attacks",
+      "fr": "Attentats terroristes de Paris"
+    },
+    "description": {
+      "en": "💔 Charlie Hebdo shooting (Jan 7, 2015): 12 killed at satirical magazine\n🎭 Bataclan massacre (Nov 13, 2015): coordinated attacks killed 130, wounded 416\n🚛 Nice truck attack (July 14, 2016): 86 killed on Bastille Day\n🇫🇷 'Je suis Charlie' solidarity movement, state of emergency declared",
+      "fr": "💔 Attentat contre Charlie Hebdo (7 jan 2015) : 12 tués au journal satirique\n🎭 Massacre du Bataclan (13 nov 2015) : attaques coordonnées firent 130 morts, 416 blessés\n🚛 Attentat de Nice (14 juillet 2016) : 86 morts le jour de la Fête nationale\n🇫🇷 Mouvement de solidarité 'Je suis Charlie', état d'urgence déclaré"
+    },
+    "image": "images/paris_attacks.webp",
+    "tags": ["fifth-republic", "terrorism", "charlie-hebdo", "bataclan", "nice", "isis"]
+  },
+  {
+    "year": "2017-present",
+    "era": "Fifth Republic",
+    "title": {
+      "en": "Emmanuel Macron",
+      "fr": "Emmanuel Macron"
+    },
+    "description": {
+      "en": "🌐 Youngest President (39), former investment banker, founded En Marche! centrist movement\n💼 Pro-business reforms: labor market flexibility, corporate tax cuts, SNCF railway privatization\n💥 Sparked Yellow Vest (Gilets Jaunes) protests (2018-2019) with fuel tax and pension reforms\n🇪🇺 Leading EU voice, passed controversial pension reform raising retirement age to 64 (2023), reelected 2022",
+      "fr": "🌐 Plus jeune président (39 ans), ancien banquier d'affaires, fonda le mouvement centriste En Marche!\n💼 Réformes pro-entreprises : flexibilité du marché du travail, baisses d'impôts, privatisation SNCF\n💥 Déclencha les manifestations des Gilets jaunes (2018-2019) avec taxe carburant et réformes des retraites\n🇪🇺 Voix majeure de l'UE, fit passer la réforme controversée des retraites à 64 ans (2023), réélu en 2022"
+    },
+    "image": "images/macron.jpg",
+    "tags": ["fifth-republic", "president", "macron", "reform", "yellow-vests", "eu", "current"]
+  },
+  {
+    "year": "2018-2019",
+    "era": "Fifth Republic",
+    "title": {
+      "en": "Yellow Vest Movement",
+      "fr": "Mouvement des Gilets jaunes"
+    },
+    "description": {
+      "en": "🦺 Grassroots protest movement against fuel tax and economic inequality\n🔥 Weekly Saturday protests, some violent clashes with police\n✊ Represented rural/working class frustration with Macron's policies\n💼 Forced government to cancel fuel tax, grant wage increases",
+      "fr": "🦺 Mouvement de protestation populaire contre la taxe carburant et les inégalités économiques\n🔥 Manifestations hebdomadaires du samedi, certains affrontements violents avec la police\n✊ Représenta la frustration rurale/ouvrière face aux politiques de Macron\n💼 Força le gouvernement à annuler la taxe carburant, accorder des hausses de salaire"
+    },
+    "image": "images/gilets_jaunes.jpg",
+    "tags": ["fifth-republic", "protest", "yellow-vests", "macron", "inequality", "social-movement"]
+  },
+  {
+    "year": "2020-2021",
+    "era": "Fifth Republic",
+    "title": {
+      "en": "COVID-19 Pandemic in France",
+      "fr": "Pandémie de COVID-19 en France"
+    },
+    "description": {
+      "en": "🦠 France severely hit by coronavirus pandemic (2020-2021)\n🏥 Multiple lockdowns (confinements), overwhelmed hospitals\n💉 Vaccination campaign launched, health pass (pass sanitaire) controversial\n📉 Economic impact, social tensions, over 150,000 deaths",
+      "fr": "🦠 France sévèrement touchée par la pandémie de coronavirus (2020-2021)\n🏥 Confinements multiples, hôpitaux débordés\n💉 Campagne de vaccination lancée, pass sanitaire controversé\n📉 Impact économique, tensions sociales, plus de 150 000 morts"
+    },
+    "image": "images/covid_france.jpg",
+    "tags": ["fifth-republic", "pandemic", "covid-19", "health", "lockdown", "macron"]
+  },{
+    "year": "2022",
+    "era": "Fifth Republic",
+    "title": {
+      "en": "Macron Reelection - Le Pen Runoff",
+      "fr": "Réélection de Macron - Second tour contre Le Pen"
+    },
+    "description": {
+      "en": "🗳️ Macron defeated Marine Le Pen in second round (58.5% to 41.5%)\n⚠️ Closest far-right has come to French presidency\n📊 High abstention rate (28%) showed political disengagement\n🇫🇷 First president reelected since Chirac (2002), lost parliamentary majority",
+      "fr": "🗳️ Macron vainquit Marine Le Pen au second tour (58,5% contre 41,5%)\n⚠️ L'extrême droite au plus près de la présidence française\n📊 Taux d'abstention élevé (28%) montra le désengagement politique\n🇫🇷 Premier président réélu depuis Chirac (2002), perdit la majorité parlementaire"
+    },
+    "image": "images/macron_2022.jpg",
+    "tags": ["fifth-republic", "election", "macron", "le-pen", "far-right", "reelection"]
+  },
+
+  {
+    "year": "2024",
+    "era": "Fifth Republic",
+    "title": {
+      "en": "Legislative Elections Crisis",
+      "fr": "Crise des élections législatives"
+    },
+    "description": {
+      "en": "🗳️ Macron dissolved National Assembly after far-right EU election victory (June 2024)\n⚠️ Snap elections produced hung parliament: left-wing NFP, centrists, far-right RN\n🏛️ Political deadlock, difficult government formation\n🇫🇷 Unprecedented three-way split weakened presidential authority",
+      "fr": "🗳️ Macron dissout l'Assemblée nationale après la victoire de l'extrême droite aux européennes (juin 2024)\n⚠️ Élections anticipées produisirent un parlement sans majorité : NFP de gauche, centristes, RN d'extrême droite\n🏛️ Impasse politique, formation du gouvernement difficile\n🇫🇷 Division tripartite inédite affaiblit l'autorité présidentielle"
+    },
+    "image": "images/legislative_2024.webp",
+    "tags": ["fifth-republic", "election", "parliament", "crisis", "macron", "hung-parliament", "current"]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "year": "c. 3100–2686 BC",
+    "title": {"en": "Early Dynastic Period", "ar": "العصر العتيق"},
+    "description": {"en": "Unification of Upper and Lower Egypt by Narmer (Menes). Foundation of the first Egyptian dynasties.", "ar": "توحيد مصر العليا والسفلى على يد نارمر (مينا). تأسيس أول الأسرات المصرية."},
+    "image": "images/narmer.jpg",
+    "tags": ["unification", "dynasty", "narmer"]
+  },
+  {
+    "year": "c. 2686–2181 BC",
+    "title": {"en": "Old Kingdom", "ar": "الدولة القديمة"},
+    "description": {"en": "Age of the pyramids. Construction of the Great Pyramid of Giza, Sphinx, and centralized rule.", "ar": "عصر بناء الأهرامات. بناء هرم الجيزة الأكبر وأبو الهول والحكم المركزي."},
+    "image": "images/pyramids.jpg",
+    "tags": ["pyramids", "sphinx", "architecture"]
+  },
+  {
+    "year": "c. 2181–2055 BC",
+    "title": {"en": "First Intermediate Period", "ar": "العصر الانتقالي الأول"},
+    "description": {"en": "Political fragmentation and local rulers. Decline of central authority.", "ar": "تفكك سياسي وحكام محليون. ضعف السلطة المركزية."},
+    "image": "images/first_intermediate.jpg",
+    "tags": ["fragmentation", "local-rulers", "decline"]
+  },
+  {
+    "year": "c. 2055–1650 BC",
+    "title": {"en": "Middle Kingdom", "ar": "الدولة الوسطى"},
+    "description": {"en": "Reunification and prosperity. Literature, art, and expansion into Nubia.", "ar": "إعادة توحيد وازدهار. الأدب والفن والتوسع في النوبة."},
+    "image": "images/middle_kingdom.jpg",
+    "tags": ["prosperity", "literature", "nubia"]
+  },
+  {
+    "year": "c. 1650–1550 BC",
+    "title": {"en": "Second Intermediate Period", "ar": "العصر الانتقالي الثاني"},
+    "description": {"en": "Hyksos invasion and rule. Introduction of horses and chariots.", "ar": "غزو الهكسوس وحكمهم. إدخال الخيول والعربات."},
+    "image": "images/hyksos.jpg",
+    "tags": ["hyksos", "chariots", "invasion"]
+  },
+  {
+    "year": "c. 1550–1069 BC",
+    "title": {"en": "New Kingdom", "ar": "الدولة الحديثة"},
+    "description": {"en": "Egypt's imperial age. Pharaohs like Hatshepsut, Akhenaten, Tutankhamun, Ramses II. Expansion, temples, and art.", "ar": "عصر الإمبراطورية المصرية. الفراعنة مثل حتشبسوت، إخناتون، توت عنخ آمون، رمسيس الثاني. توسع، معابد، وفن."},
+    "image": "images/new_kingdom.jpg",
+    "tags": ["pharaoh", "expansion", "temples"]
+  },
+  {
+    "year": "c. 1069–332 BC",
+    "title": {"en": "Late Period", "ar": "العصر المتأخر"},
+    "description": {"en": "Foreign invasions (Libyans, Nubians, Persians). Decline and end of native rule.", "ar": "غزوات أجنبية (الليبيون، النوبيون، الفرس). تراجع ونهاية الحكم المصري الأصلي."},
+    "image": "images/late_period.jpg",
+    "tags": ["invasion", "decline", "foreign-rule"]
+  },
+  {
+    "year": "332–30 BC",
+    "title": {"en": "Ptolemaic Dynasty", "ar": "الأسرة البطلمية"},
+    "description": {"en": "Greek rule after Alexander the Great. Cleopatra VII, cultural fusion, and Roman conquest.", "ar": "الحكم اليوناني بعد الإسكندر الأكبر. كليوباترا السابعة، اندماج ثقافي، وغزو روماني."},
+    "image": "images/ptolemaic.jpg",
+    "tags": ["greek", "cleopatra", "roman"]
+  },
+  {
+    "year": "30 BC–641 AD",
+    "title": {"en": "Roman & Byzantine Egypt", "ar": "مصر الرومانية والبيزنطية"},
+    "description": {"en": "Egypt as a Roman province, then Byzantine. Christianity spreads, decline of ancient traditions.", "ar": "مصر كمقاطعة رومانية ثم بيزنطية. انتشار المسيحية وتراجع التقاليد القديمة."},
+    "image": "images/roman_egypt.jpg",
+    "tags": ["roman", "byzantine", "christianity"]
+  }
+]
