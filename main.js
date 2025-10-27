@@ -238,8 +238,8 @@ async function loadOnThisDay() {
     : `${day} ${monthNames.fr[month - 1]}`;
   
   titleEl.textContent = currentLang === 'en' 
-    ? `📅 On This Day in History - ${formattedDate}`
-    : `📅 Ce Jour dans l'Histoire - ${formattedDate}`;
+    ? `On This Day in History - ${formattedDate}`
+    : `Ce Jour dans l'Histoire - ${formattedDate}`;
   
   try {
     // Use Wikipedia's "On this day" API
@@ -364,8 +364,8 @@ function displayWikipediaEvent(event) {
     
     // Create image HTML if available
     const imageHtml = thumbnail ? `
-      <div class="mb-4 rounded-lg overflow-hidden">
-        <img src="${thumbnail}" alt="${mainPage.normalizedtitle || ''}" class="w-full h-48 object-cover">
+      <div class="mb-4 rounded-lg overflow-hidden bg-gray-100 flex items-center justify-center" style="min-height: 200px; max-height: 300px;">
+        <img src="${thumbnail}" alt="${mainPage.normalizedtitle || ''}" class="max-w-full max-h-full object-contain">
       </div>
     ` : '';
     
