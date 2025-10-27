@@ -23,9 +23,10 @@ body {
     background: white;
     border-radius: 20px;
     box-shadow: 0 20px 60px rgba(0,0,0,0.3);
-    max-width: 900px;
-    width: 100%;
-    height: 700px;
+    max-width: 1400px;
+    width: 95%;
+    height: 85vh;
+    min-height: 700px;
     display: flex;
     flex-direction: column;
     overflow: hidden;
@@ -150,6 +151,61 @@ body {
     opacity: 0.9;
 }
 
+.topic-selector {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.topic-label {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: white;
+    font-weight: 600;
+}
+
+.topic-label-text {
+    font-size: 0.9em;
+}
+
+.topic-select {
+    padding: 8px 16px;
+    background: rgba(255,255,255,0.2);
+    border: 2px solid rgba(255,255,255,0.3);
+    border-radius: 10px;
+    color: white;
+    font-size: 0.9em;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    outline: none;
+}
+
+.topic-select:hover {
+    background: rgba(255,255,255,0.3);
+    border-color: rgba(255,255,255,0.5);
+}
+
+.topic-select option {
+    background: #667eea;
+    color: white;
+}
+
+[data-theme="dark"] .topic-select {
+    background: rgba(255,255,255,0.15);
+    border-color: rgba(255,255,255,0.2);
+}
+
+[data-theme="dark"] .topic-select:hover {
+    background: rgba(255,255,255,0.25);
+}
+
+[data-theme="dark"] .topic-select option {
+    background: #2a2a3e;
+    color: #e0e0e0;
+}
+
 .language-selector {
     display: flex;
     gap: 10px;
@@ -225,6 +281,7 @@ body {
     border-radius: 15px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     line-height: 1.6;
+    font-size: 1.05em;
 }
 
 .user-message {
@@ -237,7 +294,7 @@ body {
 }
 
 .message-time {
-    font-size: 0.75em;
+    font-size: 0.8em;
     opacity: 0.7;
     margin-top: 5px;
 }
@@ -372,26 +429,49 @@ body {
 .event-card {
     background: #f0f4ff;
     border-left: 4px solid #667eea;
-    padding: 12px;
+    padding: 15px;
     margin: 10px 0;
     border-radius: 8px;
+    position: relative;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.event-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 15px;
+    margin-bottom: 5px;
 }
 
 .event-card-title {
     font-weight: bold;
     color: #667eea;
-    margin-bottom: 5px;
+    font-size: 1.1em;
+    flex: 1;
+}
+
+.event-card-score {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    padding: 4px 10px;
+    border-radius: 12px;
+    font-size: 0.85em;
+    font-weight: bold;
+    white-space: nowrap;
+    flex-shrink: 0;
 }
 
 .event-card-year {
-    font-size: 0.9em;
+    font-size: 1em;
     color: #666;
     margin-bottom: 8px;
 }
 
 .event-card-description {
-    font-size: 0.9em;
-    line-height: 1.5;
+    font-size: 1em;
+    line-height: 1.6;
 }
 
 .welcome-message {
@@ -407,7 +487,7 @@ body {
 .welcome-message h2 {
     color: #667eea;
     margin-bottom: 15px;
-    font-size: 1.8em;
+    font-size: 2em;
 }
 
 [data-theme="dark"] .welcome-message h2 {
@@ -417,6 +497,7 @@ body {
 .welcome-message p {
     margin-bottom: 10px;
     line-height: 1.6;
+    font-size: 1.1em;
 }
 
 /* Dark mode styles */
@@ -480,6 +561,27 @@ body {
 
 [data-theme="dark"] .chat-input:focus {
     border-color: #8b94d4;
+}
+
+[data-theme="dark"] .event-card {
+    background: #2a2a3e;
+    border-left-color: #8b94d4;
+}
+
+[data-theme="dark"] .event-card-title {
+    color: #8b94d4;
+}
+
+[data-theme="dark"] .event-card-year {
+    color: #b0b0b0;
+}
+
+[data-theme="dark"] .event-card-description {
+    color: #d0d0d0;
+}
+
+[data-theme="dark"] .event-card-score {
+    background: linear-gradient(135deg, #5a6a9a 0%, #4a5578 100%);
 }
 
 [data-theme="dark"] .send-btn {

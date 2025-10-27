@@ -38,7 +38,18 @@
             <div class="tutor-avatar">🤖</div>
             <div class="tutor-info">
                 <h1 class="tutor-title">AI History Tutor</h1>
-                <div class="tutor-status">Ready to help you learn history!</div>
+                <div class="tutor-status">
+                    <span class="status-all">Ready to help you learn history!</span>
+                    <span class="status-topic" style="display: none;">Learning about <strong id="current-topic-name"></strong></span>
+                </div>
+            </div>
+            <div class="topic-selector">
+                <label class="topic-label">
+                    <span class="topic-label-text">Topic:</span>
+                    <select id="topic-select" class="topic-select">
+                        <option value="all">All Topics</option>
+                    </select>
+                </label>
             </div>
             <div class="language-selector">
                 <button class="lang-btn active" data-lang="en">🇬🇧 English</button>
