@@ -61,6 +61,20 @@ body.dark #theme-toggle:hover {
   background-color: rgba(255,255,255,0.25) !important;
 }
 
+/* Maps button in header should match other header buttons in dark mode */
+body.dark #maps-btn,
+body.dark #play-game-btn,
+body.dark a[href$="quizz.html"].maps-like {
+  background-image: none !important;
+  background-color: #253046 !important;
+  color: #e6eef6 !important;
+  border: 1px solid rgba(255,255,255,0.06) !important;
+}
+body.dark #maps-btn:hover,
+body.dark #play-game-btn:hover {
+  background-color: #334155 !important;
+}
+
 /* Timeline cards */
 /* Default .timeline-card keeps existing light appearance; override when dark */
 body.dark .timeline-card {
@@ -217,4 +231,50 @@ body.dark #on-this-day-content .text-gray-700 {
   display: box;
   line-clamp: 3;
   overflow: hidden;
+}
+
+/* Era line: small decorative separator and era text shown above description */
+.era-line {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.era-line::before {
+  content: '';
+  flex: 1 1 auto;
+  height: 1px;
+  background: rgba(15, 23, 42, 0.06);
+  border-radius: 2px;
+}
+.era-text {
+  flex: 0 0 auto;
+  padding: 2px 8px;
+  background: rgba(99,102,241,0.06);
+  border-radius: 9999px;
+  color: #4f46e5; /* indigo-600 */
+  font-size: 0.875rem;
+}
+
+/* Dark mode overrides for era line */
+body.dark .era-line::before {
+  background: rgba(255,255,255,0.04);
+}
+body.dark .era-text {
+  background: rgba(139,148,212,0.12);
+  color: #8b94d4;
+}
+
+/* Buy me a coffee button in header */
+#buy-coffee-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  text-decoration: none;
+}
+#buy-coffee-btn:hover {
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);
+}
+body.dark #buy-coffee-btn {
+  background: #b45309; /* darker amber */
+  color: white !important;
 }

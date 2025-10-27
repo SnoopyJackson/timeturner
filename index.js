@@ -37,6 +37,12 @@ const translations = {
   }
 };
 
+// Add buy-me-a-coffee translations
+translations.en.buyCoffee = 'Buy me a coffee';
+translations.en.buyCoffeeTitle = 'Support the project';
+translations.fr.buyCoffee = 'Offrez un café';
+translations.fr.buyCoffeeTitle = 'Soutenez le projet';
+
 function setLanguage(lang) {
   currentLang = lang;
   document.getElementById('main-title').textContent = translations[lang].mainTitle;
@@ -60,6 +66,13 @@ function setLanguage(lang) {
   // Update Play button text if present
   const playBtn = document.getElementById('play-game-btn');
   if (playBtn) playBtn.textContent = translations[lang].playGame;
+  // Update buy-me-a-coffee button
+  const buyBtn = document.getElementById('buy-coffee-btn');
+  if (buyBtn) {
+    buyBtn.title = translations[lang].buyCoffeeTitle || buyBtn.title;
+    // optionally change visible text for smaller screens
+    buyBtn.textContent = translations[lang].buyCoffee || buyBtn.textContent;
+  }
   // Update theme toggle text spans (preserve icons)
   const themeToggle = document.getElementById('theme-toggle');
   if (themeToggle) {
@@ -97,11 +110,13 @@ async function loadCountry(country) {
   const wikiTitle = encodeURIComponent(title.replace(/\s+\(.+\)/, '').replace(/\s+/g, '_'));
   const wikiBase = currentLang === 'fr' ? 'https://fr.wikipedia.org/wiki/' : 'https://en.wikipedia.org/wiki/';
   const wikiUrl = `${wikiBase}${wikiTitle}`;
+      const eraText = typeof event.era === 'object' ? (event.era[currentLang] || event.era.en) : (event.era || '');
       html += `
         <a href="${wikiUrl}" target="_blank" rel="noopener" class="timeline-card bg-white rounded-2xl shadow-md p-5 flex flex-col md:flex-row items-center mb-8 hover:ring-2 hover:ring-blue-400 transition-shadow">
           ${imageHtml}
           <div class="flex-1">
             <h2 class="text-2xl font-semibold mb-2">${event.year} — ${title}</h2>
+            ${eraText ? `<div class="era-line mb-2"><span class="text-sm text-indigo-600 font-medium era-text">${eraText}</span></div>` : ''}
             <p class="text-gray-700">${description}</p>
           </div>
         </a>
@@ -194,11 +209,13 @@ function applyFilters() {
     const wikiTitle = encodeURIComponent(title.replace(/\s+\(.+\)/, '').replace(/\s+/g, '_'));
     const wikiBase = currentLang === 'fr' ? 'https://fr.wikipedia.org/wiki/' : 'https://en.wikipedia.org/wiki/';
     const wikiUrl = `${wikiBase}${wikiTitle}`;
+    const eraText = typeof event.era === 'object' ? (event.era[currentLang] || event.era.en) : (event.era || '');
     html += `
       <a href="${wikiUrl}" target="_blank" rel="noopener" class="timeline-card bg-white rounded-2xl shadow-md p-5 flex flex-col md:flex-row items-center mb-8">
         ${imageHtml}
         <div class="flex-1">
           <h2 class="text-2xl font-semibold mb-2">${event.year} — ${title}</h2>
+          ${eraText ? `<div class="era-line mb-2"><span class="text-sm text-indigo-600 font-medium era-text">${eraText}</span></div>` : ''}
           <p class="text-gray-700">${description}</p>
         </div>
       </a>

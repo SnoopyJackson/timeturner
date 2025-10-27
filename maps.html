@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Historical Maps</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/topojson/3.0.2/topojson.min.js"></script>
+    <link rel="stylesheet" href="maps.css">
+</head>
+<body>
+    <div class="container">
+        <header class="flex items-center justify-between">
+            <div>
+                <h1>Journey Through History</h1>
+                <p class="subtitle">Explore empires, trade routes, and civilizations that shaped our world</p>
+            </div>
+            <div class="header-controls flex items-center gap-3">
+                <button id="back-btn" class="map-btn" style="padding:8px 14px; border-radius:8px;">← Home</button>
+                <button id="theme-toggle" class="map-btn" style="padding:8px 12px; border-radius:8px;">🌓</button>
+            </div>
+        </header>
+
+        <div class="controls">
+            <button class="map-btn active" data-map="silk-road">Silk Road</button>
+            <button class="map-btn" data-map="napoleon">Napoleonic Empire</button>
+            <button class="map-btn" data-map="roman">Roman Empire</button>
+            <button class="map-btn" data-map="mongol">Mongol Empire</button>
+            <button class="map-btn" data-map="ottoman">Ottoman Empire</button>
+        </div>
+
+        <div id="map-container">
+            <svg id="map"></svg>
+        </div>
+
+        <div class="info-panel" id="info-panel">
+            <h2 id="map-title">The Silk Road</h2>
+            <p id="map-description"></p>
+            <div class="legend" id="legend"></div>
+        </div>
+    </div>
+
+    <div class="tooltip" id="tooltip"></div>
+
+    <script src="maps.js"></script>
+</body>
+</html>

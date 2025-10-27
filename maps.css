@@ -1,0 +1,269 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Georgia', serif;
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    color: #e6e6e6;
+    overflow-x: hidden;
+}
+
+/* Light mode overrides when body does not have 'dark' */
+body:not(.dark) {
+    background: linear-gradient(135deg, #f8fafc 0%, #eef2ff 100%);
+    color: #0b1220;
+}
+
+/* Dark-mode specific tweaks: use when body.dark is set */
+body.dark {
+    background: linear-gradient(135deg, #0b1220 0%, #172034 100%);
+    color: #e6eef6;
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    padding: 40px 20px;
+    background: rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    margin-bottom: 30px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+    font-size: 3em;
+    background: linear-gradient(135deg, #ffd700, #ffed4e);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 10px;
+    text-shadow: 0 0 30px rgba(255, 215, 0, 0.3);
+}
+
+.subtitle {
+    font-size: 1.2em;
+    color: #b8b8b8;
+    font-style: italic;
+}
+
+.controls {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.map-btn {
+    padding: 15px 30px;
+    font-size: 1em;
+    border: 2px solid #ffd700;
+    background: rgba(255, 215, 0, 0.1);
+    color: #ffd700;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-weight: bold;
+    backdrop-filter: blur(10px);
+}
+
+.map-btn:hover {
+    background: rgba(255, 215, 0, 0.3);
+    transform: translateY(-2px);
+    box-shadow: 0 5px 20px rgba(255, 215, 0, 0.4);
+}
+
+.map-btn.active {
+    background: linear-gradient(135deg, #ffd700, #ffed4e);
+    color: #1a1a2e;
+    box-shadow: 0 5px 20px rgba(255, 215, 0, 0.5);
+}
+
+body.dark .map-btn {
+    background: rgba(255,255,255,0.03);
+    color: #e6eef6;
+    border-color: rgba(255,255,255,0.04);
+}
+
+body.dark .map-btn.active {
+    background: linear-gradient(135deg, #ffb86b, #ffda7a);
+    color: #0b1220;
+}
+
+/* Light-mode (non-dark) color improvements - replace gold with calm blues for contrast */
+body:not(.dark) .map-btn {
+    background: linear-gradient(135deg, #e6f0ff, #dbeafe);
+    color: #0b1220;
+    border-color: rgba(14, 165, 233, 0.25);
+}
+body:not(.dark) .map-btn:hover {
+    background: linear-gradient(135deg, #dbeafe, #bfdbfe);
+    box-shadow: 0 6px 22px rgba(59,130,246,0.12);
+}
+body:not(.dark) .map-btn.active {
+    background: linear-gradient(135deg, #60a5fa, #3b82f6);
+    color: #ffffff;
+    box-shadow: 0 6px 24px rgba(59,130,246,0.18);
+}
+
+/* Map container and info contrast for light mode */
+body:not(.dark) #map-container {
+    background: #ffffff;
+    border: 1px solid rgba(30,64,175,0.06);
+    box-shadow: 0 6px 30px rgba(2,6,23,0.04);
+}
+body:not(.dark) .info-panel {
+    background: #f8fafc;
+    color: #0b1220;
+    border: 1px solid rgba(14,165,233,0.08);
+}
+body:not(.dark) .info-panel h2 { color: #1e3a8a; }
+
+/* Map feature colors for light mode */
+body:not(.dark) .country {
+    fill: #e6eefc;
+    stroke: #1e293b;
+}
+body:not(.dark) .country:hover {
+    fill: #c7ddff;
+}
+body:not(.dark) .legend-color { border-color: rgba(2,6,23,0.06); }
+body:not(.dark) .tooltip {
+    background: #0b1220;
+    color: #e6eef6;
+    border-color: rgba(59,130,246,0.12);
+}
+
+#map-container {
+    background: rgba(0, 0, 0, 0.4);
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 215, 0, 0.2);
+}
+
+#map {
+    width: 100%;
+    height: 600px;
+    cursor: grab;
+}
+
+#map:active {
+    cursor: grabbing;
+}
+
+.info-panel {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 15px;
+    margin-top: 20px;
+    border: 1px solid rgba(255, 215, 0, 0.3);
+    backdrop-filter: blur(10px);
+}
+
+.info-panel h2 {
+    color: #ffd700;
+    margin-bottom: 15px;
+    font-size: 1.8em;
+}
+
+.info-panel p {
+    line-height: 1.8;
+    margin-bottom: 10px;
+    font-size: 1.1em;
+}
+
+.legend {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px solid rgba(255, 215, 0, 0.3);
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.legend-color {
+    width: 30px;
+    height: 20px;
+    border-radius: 5px;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.country {
+    stroke: #fff;
+    stroke-width: 0.5;
+    fill: #34495e;
+    transition: fill 0.3s ease;
+}
+
+.country:hover {
+    fill: #5a6f85;
+}
+
+.route {
+    fill: none;
+    stroke-width: 2;
+    opacity: 0.8;
+    stroke-dasharray: 5, 5;
+    animation: dash 20s linear infinite;
+}
+
+@keyframes dash {
+    to {
+        stroke-dashoffset: -1000;
+    }
+}
+
+.city {
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.city:hover {
+    transform: scale(1.3);
+}
+
+.city-label {
+    font-size: 12px;
+    fill: #fff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+    pointer-events: none;
+    font-weight: bold;
+}
+
+.territory {
+    opacity: 0.6;
+    stroke: #fff;
+    stroke-width: 1.5;
+    stroke-dasharray: 3, 3;
+}
+
+.tooltip {
+    position: absolute;
+    padding: 12px;
+    background: rgba(0, 0, 0, 0.9);
+    color: #ffd700;
+    border-radius: 8px;
+    pointer-events: none;
+    font-size: 14px;
+    border: 1px solid #ffd700;
+    display: none;
+    z-index: 1000;
+    max-width: 250px;
+}
