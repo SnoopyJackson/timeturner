@@ -70,8 +70,6 @@ function setLanguage(lang) {
   }
   // Re-render loaded events to update titles/descriptions and wiki links
   if (window.__loadedEvents) applyFilters();
-  // Reload "On This Day" with new language
-  loadOnThisDay();
 }
 
 async function loadCountry(country) {
@@ -253,20 +251,23 @@ async function loadOnThisDay() {
     
     console.log('Fetching from Wikipedia API:', apiUrl);
     
-    // Add timeout to fetch
+    // Add timeout to fetch and use CORS mode. Note: browsers disallow setting the Origin header manually.
     const controller = new AbortController();
     const timeoutId = setTimeout(() => controller.abort(), 10000); // 10 second timeout
-    
-    const response = await fetch(apiUrl, {
-      method: 'GET',
-      headers: {
-        'Accept': 'application/json',
-        'Origin': window.location.origin
-      },
-      signal: controller.signal
-    });
-    
-    clearTimeout(timeoutId);
+
+    let response;
+    try {
+      response = await fetch(apiUrl, {
+        method: 'GET',
+        headers: {
+          'Accept': 'application/json'
+        },
+        mode: 'cors',
+        signal: controller.signal
+      });
+    } finally {
+      clearTimeout(timeoutId);
+    }
     
     if (!response.ok) {
       console.error('Wikipedia API response not OK:', response.status, response.statusText);
@@ -283,13 +284,22 @@ async function loadOnThisDay() {
       const randomEvent = eventsToChooseFrom[Math.floor(Math.random() * Math.min(eventsToChooseFrom.length, 20))];
       
       console.log('Selected event:', randomEvent);
+        // Create or reference a small loading hint element that appears after a short delay
+        let loadingHint = document.getElementById('on-this-day-loading-hint');
+        if (!loadingHint) {
+          loadingHint = document.createElement('div');
+          loadingHint.id = 'on-this-day-loading-hint';
+          loadingHint.className = 'text-sm text-gray-500 italic mt-2';
+          loadingHint.style.display = 'none';
+          if (contentDiv && contentDiv.parentNode) contentDiv.parentNode.insertBefore(loadingHint, contentDiv.nextSibling);
+        }
       displayWikipediaEvent(randomEvent);
     } else {
       throw new Error('No events found in API response');
     }
     
   } catch (error) {
-    console.error('Error loading on this day:', error);
+  console.error('Error loading on this day:', error);
     
     // Check if it was a timeout
     const isTimeout = error.name === 'AbortError';
@@ -303,8 +313,9 @@ async function loadOnThisDay() {
             : (currentLang === 'en' ? '⚠️ Could not load event from Wikipedia' : '⚠️ Impossible de charger l\'événement depuis Wikipédia')}
         </p>
         <p class="text-gray-500 text-sm mb-2">
-          ${error.message || (currentLang === 'en' ? 'Unknown error' : 'Erreur inconnue')}
+          ${error.name || ''} ${error.message || (currentLang === 'en' ? 'Unknown error' : 'Erreur inconnue')}
         </p>
+        <pre class="text-xs text-gray-400 mb-2" style="white-space:pre-wrap">${(error.stack || '').substring(0, 500)}</pre>
         <p class="text-gray-500 text-sm">
           ${currentLang === 'en' 
             ? 'Check your internet connection or try again later.' 
@@ -319,20 +330,37 @@ async function loadOnThisDay() {
 }
 
 function displayWikipediaEvent(event) {
+  console.log('displayWikipediaEvent called with:', event);
+  
   const contentDiv = document.getElementById('on-this-day-content');
+  
+  if (!contentDiv) {
+    console.error('on-this-day-content element not found!');
+    return;
+  }
+  
+  console.log('contentDiv found:', contentDiv);
   
   // Get event details
   const year = event.year || 'Unknown';
   const text = event.text || (currentLang === 'en' ? 'No description available' : 'Aucune description disponible');
   
+  console.log('Event year:', year);
+  console.log('Event text:', text);
+  
   // Get related pages/links
   const pages = event.pages || [];
   let linksHtml = '';
   
+  console.log('Event pages:', pages);
+  
   if (pages.length > 0) {
     const mainPage = pages[0];
-    const wikiUrl = mainPage.content_urls?.desktop?.page || '#';
-    const thumbnail = mainPage.thumbnail?.source || mainPage.originalimage?.source || '';
+    const wikiUrl = (mainPage && mainPage.content_urls && mainPage.content_urls.desktop && mainPage.content_urls.desktop.page) ? mainPage.content_urls.desktop.page : '#';
+    const thumbnail = (mainPage && mainPage.thumbnail && mainPage.thumbnail.source) ? mainPage.thumbnail.source : ((mainPage && mainPage.originalimage && mainPage.originalimage.source) ? mainPage.originalimage.source : '');
+    
+  console.log('Wiki URL:', wikiUrl);
+  console.log('Thumbnail:', thumbnail);
     
     // Create image HTML if available
     const imageHtml = thumbnail ? `
@@ -350,7 +378,7 @@ function displayWikipediaEvent(event) {
     `;
   }
   
-  contentDiv.innerHTML = `
+  const htmlContent = `
     <div class="flex items-start gap-3 mb-3">
       <span class="text-3xl">📜</span>
       <div class="flex-1">
@@ -366,5 +394,9 @@ function displayWikipediaEvent(event) {
       ${currentLang === 'en' ? 'Source: Wikipedia' : 'Source : Wikipédia'}
     </div>
   `;
+  
+  console.log('Setting innerHTML with content length:', htmlContent.length);
+  contentDiv.innerHTML = htmlContent;
+  console.log('innerHTML set successfully');
 }
 
