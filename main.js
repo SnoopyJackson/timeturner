@@ -253,12 +253,20 @@ async function loadOnThisDay() {
     
     console.log('Fetching from Wikipedia API:', apiUrl);
     
+    // Add timeout to fetch
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), 10000); // 10 second timeout
+    
     const response = await fetch(apiUrl, {
       method: 'GET',
       headers: {
-        'Accept': 'application/json'
-      }
+        'Accept': 'application/json',
+        'Origin': window.location.origin
+      },
+      signal: controller.signal
     });
+    
+    clearTimeout(timeoutId);
     
     if (!response.ok) {
       console.error('Wikipedia API response not OK:', response.status, response.statusText);
@@ -283,18 +291,24 @@ async function loadOnThisDay() {
   } catch (error) {
     console.error('Error loading on this day:', error);
     
+    // Check if it was a timeout
+    const isTimeout = error.name === 'AbortError';
+    
     // Show error message
     contentDiv.innerHTML = `
       <div class="text-center py-4">
         <p class="text-red-600 mb-2">
-          ${currentLang === 'en' 
-            ? '⚠️ Could not load event from Wikipedia' 
-            : '⚠️ Impossible de charger l\'événement depuis Wikipédia'}
+          ${isTimeout 
+            ? (currentLang === 'en' ? '⏱️ Request timed out' : '⏱️ Délai d\'attente dépassé')
+            : (currentLang === 'en' ? '⚠️ Could not load event from Wikipedia' : '⚠️ Impossible de charger l\'événement depuis Wikipédia')}
+        </p>
+        <p class="text-gray-500 text-sm mb-2">
+          ${error.message || (currentLang === 'en' ? 'Unknown error' : 'Erreur inconnue')}
         </p>
         <p class="text-gray-500 text-sm">
           ${currentLang === 'en' 
-            ? 'This feature requires an internet connection and may not work when opening the file directly. Try hosting it on a web server.' 
-            : 'Cette fonctionnalité nécessite une connexion internet et peut ne pas fonctionner lors de l\'ouverture directe du fichier. Essayez de l\'héberger sur un serveur web.'}
+            ? 'Check your internet connection or try again later.' 
+            : 'Vérifiez votre connexion internet ou réessayez plus tard.'}
         </p>
         <button onclick="loadOnThisDay()" class="mt-3 px-4 py-2 bg-purple-600 text-white rounded-lg hover:bg-purple-700 transition-colors">
           ${currentLang === 'en' ? '🔄 Retry' : '🔄 Réessayer'}
