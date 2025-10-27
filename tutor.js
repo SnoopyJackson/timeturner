@@ -29,6 +29,46 @@ const availableTopics = [
 // Topic data mapping
 const topicDataMap = new Map();
 
+// --- Text helpers for better matching ---
+function normalizeText(s) {
+    if (!s) return '';
+    // lower-case, remove punctuation, and strip diacritics
+    return s.toLowerCase()
+        .normalize('NFD')
+        .replace(/\p{Diacritic}/gu, '')
+        .replace(/[^a-z0-9\s]/g, ' ')
+        .replace(/\s+/g, ' ')
+        .trim();
+}
+
+function tokenize(s) {
+    if (!s) return [];
+    return normalizeText(s).split(/\s+/).filter(Boolean);
+}
+
+function jaccardScore(aTokens, bTokens) {
+    if (!aTokens.length || !bTokens.length) return 0;
+    const a = new Set(aTokens);
+    const b = new Set(bTokens);
+    const intersection = [...a].filter(x => b.has(x)).length;
+    const union = new Set([...a, ...b]).size;
+    return union === 0 ? 0 : intersection / union;
+}
+
+// Dynamic n-gram index (built at load time) to map common multi-word phrases to events/tags
+const ngramIndex = new Map(); // ngram -> Set of event ids
+const ngramTagMap = new Map(); // ngram -> most frequent topic/tag (derived)
+
+function extractNgramsFromTokens(tokens, minN=2, maxN=3) {
+    const out = [];
+    for (let n = minN; n <= Math.min(maxN, tokens.length); n++) {
+        for (let i = 0; i <= tokens.length - n; i++) {
+            out.push(tokens.slice(i, i+n).join(' '));
+        }
+    }
+    return out;
+}
+
 // Load all data from JSON files
 async function loadAllData() {
     historyData = [];
@@ -44,6 +84,38 @@ async function loadAllData() {
         } catch (error) {
             console.log(`Could not load ${topic.id}.json`);
         }
+    }
+    // Build dynamic n-gram index for loaded events
+    ngramIndex.clear();
+    ngramTagMap.clear();
+    historyData.forEach((event, idx) => {
+        // stamp index onto event for lookup
+        event.__index = idx;
+        // create a stable id for the event (use idx)
+        const eventId = idx;
+        const title = event.title[currentLang] || event.title.en || '';
+        const desc = event.description[currentLang] || event.description.en || '';
+        const tokens = tokenize(title).concat(tokenize(desc));
+        const ngrams = extractNgramsFromTokens(tokens, 2, 3);
+        ngrams.forEach(ng => {
+            if (!ngramIndex.has(ng)) ngramIndex.set(ng, new Set());
+            ngramIndex.get(ng).add(eventId);
+            // track tag counts for this ngram
+            const existing = ngramTagMap.get(ng) || {};
+            (event.tags || []).forEach(t => {
+                existing[t] = (existing[t] || 0) + 1;
+            });
+            ngramTagMap.set(ng, existing);
+        });
+    });
+    // reduce ngramTagMap to most frequent tag per ngram
+    for (const [ng, counts] of ngramTagMap.entries()) {
+        let top = null, topCount = 0;
+        for (const t in counts) {
+            if (counts[t] > topCount) { top = t; topCount = counts[t]; }
+        }
+        if (top) ngramTagMap.set(ng, top);
+        else ngramTagMap.delete(ng);
     }
     // Sort by year
     historyData.sort((a, b) => {
@@ -269,77 +341,87 @@ function generateResponse(userMessage) {
     
     console.log(`Searching in ${dataToSearch.length} events for: "${msg}"`);
     
-    // Extract key words from the message (remove common words)
-    const stopWords = ['tell', 'me', 'about', 'what', 'when', 'who', 'why', 'how', 'the', 'a', 'an', 'is', 'was', 'were', 'are', 'parle', 'moi', 'de', 'qu', 'est', 'était', 'sur'];
-    const words = msg.split(/\s+/).filter(word => 
-        word.length > 2 && !stopWords.includes(word)
-    );
-    
-    // Calculate relevance score for each event
+    // Normalize user message and extract tokens
+    const normalizedMsg = normalizeText(userMessage);
+    const msgTokens = tokenize(userMessage);
+
+    // phrase boost: compute n-grams from the query and consult dynamic ngramTagMap
+    let phraseBoostTag = null;
+    const queryNgrams = extractNgramsFromTokens(msgTokens, 2, 3);
+    const matchedNgramEvents = new Set();
+    queryNgrams.forEach(ng => {
+        if (ngramTagMap.has(ng)) {
+            phraseBoostTag = ngramTagMap.get(ng);
+        }
+        const evSet = ngramIndex.get(ng);
+        if (evSet) evSet.forEach(id => matchedNgramEvents.add(id));
+    });
+
+    // Calculate relevance score for each event using normalized comparisons
     const scoredEvents = dataToSearch.map(event => {
         let score = 0;
-        const titleLower = event.title[currentLang]?.toLowerCase() || event.title.en?.toLowerCase() || '';
-        const descLower = event.description[currentLang]?.toLowerCase() || event.description.en?.toLowerCase() || '';
-        const yearStr = event.year.toString().toLowerCase();
-        
-        // Exact title match = 100 points
-        if (titleLower === msg) {
-            score += 100;
-        }
-        // Title contains full query = 50 points
-        else if (titleLower.includes(msg)) {
-            score += 50;
-        }
-        // Query contains title (for longer queries) = 40 points
-        else if (msg.includes(titleLower) && titleLower.length > 5) {
-            score += 40;
-        }
-        
-        // Year exact match = 30 points
-        if (yearStr === msg || msg === yearStr) {
-            score += 30;
-        }
-        // Year contains query or query contains year = 20 points
-        else if (yearStr.includes(msg) || msg.includes(yearStr)) {
-            score += 20;
-        }
-        
-        // Each keyword in title = 15 points
-        words.forEach(word => {
-            if (titleLower.includes(word)) {
-                score += 15;
+        const title = event.title[currentLang] || event.title.en || '';
+        const desc = event.description[currentLang] || event.description.en || '';
+        const titleNorm = normalizeText(title);
+        const descNorm = normalizeText(desc);
+        const titleTokens = tokenize(title);
+        const descTokens = tokenize(desc);
+        const yearStr = event.year ? String(event.year) : '';
+
+        // Exact normalized title match => strong boost
+        if (titleNorm === normalizedMsg) score += 120;
+        // Exact phrase in title
+        if (titleNorm.includes(normalizedMsg) && normalizedMsg.length > 3) score += 60;
+
+        // Jaccard similarity between query tokens and title/description tokens
+        const jaccardTitle = jaccardScore(msgTokens, titleTokens);
+        const jaccardDesc = jaccardScore(msgTokens, descTokens);
+        score += Math.round(jaccardTitle * 100 * 0.8); // weighted
+        score += Math.round(jaccardDesc * 100 * 0.5);
+
+        // n-gram matches (2/3 word sequences) to capture multiword queries like 'french revolution'
+        const ngrams = [];
+        const t = msgTokens;
+        for (let n = 2; n <= Math.min(3, t.length); n++) {
+            for (let i = 0; i <= t.length - n; i++) {
+                ngrams.push(t.slice(i, i+n).join(' '));
             }
-        });
-        
-        // Keywords in description = 8 points each
-        words.forEach(word => {
-            if (descLower.includes(word)) {
-                score += 8;
-            }
-        });
-        
-        // Tag matches = 20 points each
-        event.tags?.forEach(tag => {
-            if (msg.includes(tag.toLowerCase()) || tag.toLowerCase().includes(msg)) {
-                score += 20;
-            }
-            // Partial tag matches = 10 points
-            words.forEach(word => {
-                if (tag.toLowerCase().includes(word)) {
-                    score += 10;
-                }
-            });
-        });
-        
-        // Description contains full query = 15 points
-        if (descLower.includes(msg)) {
-            score += 15;
         }
-        
+        ngrams.forEach(g => {
+            if (titleNorm.includes(g)) score += 25;
+            if (descNorm.includes(g)) score += 12;
+        });
+
+        // Year matching
+        if (yearStr === normalizedMsg) score += 40;
+        else if (normalizedMsg.includes(yearStr) || yearStr.includes(normalizedMsg)) score += 15;
+
+        // Tag matches
+        (event.tags || []).forEach(tag => {
+            const tagNorm = normalizeText(tag);
+            if (normalizedMsg.includes(tagNorm) || tagNorm.includes(normalizedMsg)) score += 25;
+            // partial token match
+            msgTokens.forEach(w => { if (tagNorm.includes(w)) score += 8; });
+        });
+
+        // Phrase boost: if user's ngram matches indicated this event (by index) or maps to a tag
+        if (matchedNgramEvents.has(event.__index)) {
+            score += 90;
+        }
+        if (phraseBoostTag && (event.tags || []).includes(phraseBoostTag)) {
+            score += 70;
+        }
+
+        // Small boost for title/desc containing almost exact words
+        msgTokens.forEach(w => {
+            if (titleTokens.includes(w)) score += 10;
+            if (descTokens.includes(w)) score += 5;
+        });
+
         return { event, score };
     })
-    .filter(item => item.score > 0)  // Only keep matches
-    .sort((a, b) => b.score - a.score);  // Sort by score descending
+    .filter(item => item.score > 0)
+    .sort((a, b) => b.score - a.score);
     
     console.log(`Found ${scoredEvents.length} relevant events with scores`);
     if (scoredEvents.length > 0) {
