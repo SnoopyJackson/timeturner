@@ -505,16 +505,20 @@ function generateResponse(userMessage) {
 function generateEventCard(event, score, truncated = false) {
     const title = event.title[currentLang] || event.title.en || 'Unknown Event';
     const description = event.description[currentLang] || event.description.en || 'No description available';
-    const displayDesc = truncated ? description.substring(0, 200) + '...' : description;
+    // Always show full description - CSS will handle the collapsing
     const scorePercent = Math.min(100, Math.round(score));
+    const cardId = 'card-' + Math.random().toString(36).substr(2, 9);
     
-    return `<div class="event-card">
+    const expandHint = currentLang === 'en' ? 'Click to expand' : 'Cliquer pour agrandir';
+    
+    return `<div class="event-card" id="${cardId}" onclick="toggleCardExpansion('${cardId}')">
         <div class="event-card-header">
             <div class="event-card-title">${title}</div>
             <div class="event-card-score" title="${currentLang === 'en' ? 'Relevance score' : 'Score de pertinence'}">${scorePercent}%</div>
         </div>
         <div class="event-card-year">📅 ${event.year}</div>
-        <div class="event-card-description">${displayDesc}</div>
+        <div class="event-card-description">${description}</div>
+        <div class="event-card-expand-hint">👆 ${expandHint}</div>
     </div>`;
 }
 
@@ -603,6 +607,21 @@ function generateTimelineResponse() {
     }
     
     return response;
+}
+
+// Toggle card expansion
+function toggleCardExpansion(cardId) {
+    const card = document.getElementById(cardId);
+    if (card) {
+        card.classList.toggle('expanded');
+        
+        // Scroll the card into view if it's expanding and partially off-screen
+        if (card.classList.contains('expanded')) {
+            setTimeout(() => {
+                card.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+            }, 100);
+        }
+    }
 }
 
 // Initialize - Load data and setup

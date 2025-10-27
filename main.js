@@ -1,4 +1,4 @@
-// main.js for main.html
+// main.js for index.html
 let currentLang = 'en';
 const translations = {
   en: {
@@ -13,7 +13,10 @@ const translations = {
     searchPlaceholder: 'Search titles, descriptions, tags...',
     playGame: '📅 Play Timeline',
     darkMode: 'Dark Mode',
-    lightMode: 'Light Mode'
+    lightMode: 'Light Mode',
+    onThisDay: 'On This Day in History',
+    fromTimeline: source => `From the ${source} timeline`,
+    noExactMatch: '(No exact match for today, but here\'s an interesting historical event!)'
   },
   fr: {
     mainTitle: '⏳ Time-Turner',
@@ -27,7 +30,10 @@ const translations = {
     searchPlaceholder: 'Rechercher titres, descriptions, tags...',
     playGame: '📅 Jouer Timeline',
     darkMode: 'Mode sombre',
-    lightMode: 'Mode clair'
+    lightMode: 'Mode clair',
+    onThisDay: 'Ce Jour dans l\'Histoire',
+    fromTimeline: source => `De la chronologie ${source}`,
+    noExactMatch: '(Aucune correspondance exacte pour aujourd\'hui, mais voici un événement historique intéressant !)'
   }
 };
 
@@ -64,6 +70,8 @@ function setLanguage(lang) {
   }
   // Re-render loaded events to update titles/descriptions and wiki links
   if (window.__loadedEvents) applyFilters();
+  // Reload "On This Day" with new language
+  loadOnThisDay();
 }
 
 async function loadCountry(country) {
@@ -202,4 +210,147 @@ function applyFilters() {
 }
 
 // Set default language on load
-window.onload = () => setLanguage(currentLang);
+window.onload = () => {
+  setLanguage(currentLang);
+  loadOnThisDay();
+};
+
+// On This Day in History Feature - Using Wikipedia API
+async function loadOnThisDay() {
+  const today = new Date();
+  const month = today.getMonth() + 1; // 1-12
+  const day = today.getDate(); // 1-31
+  
+  const contentDiv = document.getElementById('on-this-day-content');
+  const titleEl = document.getElementById('on-this-day-title');
+  
+  if (!contentDiv || !titleEl) {
+    console.log('On this day elements not found in DOM');
+    return;
+  }
+  
+  // Update title with current date
+  const monthNames = {
+    en: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
+    fr: ['Janvier', 'Février', 'Mars', 'Avril', 'Mai', 'Juin', 'Juillet', 'Août', 'Septembre', 'Octobre', 'Novembre', 'Décembre']
+  };
+  
+  const formattedDate = currentLang === 'en' 
+    ? `${monthNames.en[month - 1]} ${day}`
+    : `${day} ${monthNames.fr[month - 1]}`;
+  
+  titleEl.textContent = currentLang === 'en' 
+    ? `📅 On This Day in History - ${formattedDate}`
+    : `📅 Ce Jour dans l'Histoire - ${formattedDate}`;
+  
+  try {
+    // Use Wikipedia's "On this day" API
+    const langCode = currentLang === 'en' ? 'en' : 'fr';
+    const monthStr = String(month).padStart(2, '0');
+    const dayStr = String(day).padStart(2, '0');
+    
+    const apiUrl = `https://${langCode}.wikipedia.org/api/rest_v1/feed/onthisday/events/${monthStr}/${dayStr}`;
+    
+    console.log('Fetching from Wikipedia API:', apiUrl);
+    
+    const response = await fetch(apiUrl, {
+      method: 'GET',
+      headers: {
+        'Accept': 'application/json'
+      }
+    });
+    
+    if (!response.ok) {
+      console.error('Wikipedia API response not OK:', response.status, response.statusText);
+      throw new Error(`API returned ${response.status}`);
+    }
+    
+    const data = await response.json();
+    console.log('Wikipedia API data received:', data);
+    
+    if (data.events && data.events.length > 0) {
+      // Get a random event from the list (prefer historical events)
+      const importantEvents = data.events.filter(e => e.year && e.year < 2000);
+      const eventsToChooseFrom = importantEvents.length > 0 ? importantEvents : data.events;
+      const randomEvent = eventsToChooseFrom[Math.floor(Math.random() * Math.min(eventsToChooseFrom.length, 20))];
+      
+      console.log('Selected event:', randomEvent);
+      displayWikipediaEvent(randomEvent);
+    } else {
+      throw new Error('No events found in API response');
+    }
+    
+  } catch (error) {
+    console.error('Error loading on this day:', error);
+    
+    // Show error message
+    contentDiv.innerHTML = `
+      <div class="text-center py-4">
+        <p class="text-red-600 mb-2">
+          ${currentLang === 'en' 
+            ? '⚠️ Could not load event from Wikipedia' 
+            : '⚠️ Impossible de charger l\'événement depuis Wikipédia'}
+        </p>
+        <p class="text-gray-500 text-sm">
+          ${currentLang === 'en' 
+            ? 'This feature requires an internet connection and may not work when opening the file directly. Try hosting it on a web server.' 
+            : 'Cette fonctionnalité nécessite une connexion internet et peut ne pas fonctionner lors de l\'ouverture directe du fichier. Essayez de l\'héberger sur un serveur web.'}
+        </p>
+        <button onclick="loadOnThisDay()" class="mt-3 px-4 py-2 bg-purple-600 text-white rounded-lg hover:bg-purple-700 transition-colors">
+          ${currentLang === 'en' ? '🔄 Retry' : '🔄 Réessayer'}
+        </button>
+      </div>
+    `;
+  }
+}
+
+function displayWikipediaEvent(event) {
+  const contentDiv = document.getElementById('on-this-day-content');
+  
+  // Get event details
+  const year = event.year || 'Unknown';
+  const text = event.text || (currentLang === 'en' ? 'No description available' : 'Aucune description disponible');
+  
+  // Get related pages/links
+  const pages = event.pages || [];
+  let linksHtml = '';
+  
+  if (pages.length > 0) {
+    const mainPage = pages[0];
+    const wikiUrl = mainPage.content_urls?.desktop?.page || '#';
+    const thumbnail = mainPage.thumbnail?.source || mainPage.originalimage?.source || '';
+    
+    // Create image HTML if available
+    const imageHtml = thumbnail ? `
+      <div class="mb-4 rounded-lg overflow-hidden">
+        <img src="${thumbnail}" alt="${mainPage.normalizedtitle || ''}" class="w-full h-48 object-cover">
+      </div>
+    ` : '';
+    
+    // Create link to full Wikipedia article
+    linksHtml = `
+      ${imageHtml}
+      <a href="${wikiUrl}" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 text-blue-600 hover:text-blue-800 font-semibold mt-3">
+        ${currentLang === 'en' ? 'Read more on Wikipedia' : 'Lire plus sur Wikipédia'} →
+      </a>
+    `;
+  }
+  
+  contentDiv.innerHTML = `
+    <div class="flex items-start gap-3 mb-3">
+      <span class="text-3xl">📜</span>
+      <div class="flex-1">
+        <h3 class="text-xl font-bold text-purple-800 mb-2">${year}</h3>
+        <p class="text-gray-700 leading-relaxed mb-3">${text}</p>
+        ${linksHtml}
+      </div>
+    </div>
+    <div class="mt-4 text-sm text-gray-500 italic flex items-center gap-2">
+      <svg class="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zm0 2c5.5 0 10 4.5 10 10s-4.5 10-10 10S2 17.5 2 12 6.5 2 12 2z"/>
+      </svg>
+      ${currentLang === 'en' ? 'Source: Wikipedia' : 'Source : Wikipédia'}
+    </div>
+  `;
+}
+

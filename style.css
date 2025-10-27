@@ -107,3 +107,28 @@ body.dark .timeline-card img {
   border: 1px solid rgba(255,255,255,0.04);
 }
 
+/* On This Day section - dark mode */
+body.dark #on-this-day {
+  background: linear-gradient(135deg, #1f2937 0%, #253046 100%) !important;
+  border-color: rgba(139, 148, 212, 0.3) !important;
+}
+body.dark #on-this-day-title {
+  color: #8b94d4 !important;
+}
+body.dark #on-this-day-content {
+  background-color: #172034 !important;
+  color: #e6eef6 !important;
+  border: 1px solid rgba(255,255,255,0.06) !important;
+}
+body.dark #on-this-day-content h3 {
+  color: #8b94d4 !important;
+}
+body.dark #on-this-day-content p {
+  color: #d0d0d0 !important;
+}
+body.dark #on-this-day-content .text-gray-500 {
+  color: #9fb3c8 !important;
+}
+body.dark #on-this-day-content .text-gray-700 {
+  color: #d0d0d0 !important;
+}
