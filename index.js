@@ -188,11 +188,19 @@ function applyFilters() {
     const wikiTitle = encodeURIComponent(title.replace(/\s+\(.+\)/, '').replace(/\s+/g, '_'));
     const wikiBase = currentLang === 'fr' ? 'https://fr.wikipedia.org/wiki/' : 'https://en.wikipedia.org/wiki/';
     const wikiUrl = `${wikiBase}${wikiTitle}`;
+    
+    // Add era badge if present
+    const eraBadge = event.era ? `<span class="inline-block bg-purple-600 text-white text-xs font-semibold px-3 py-1 rounded-full mr-2">${event.era}</span>` : '';
+    
     html += `
       <a href="${wikiUrl}" target="_blank" rel="noopener" class="timeline-card bg-white rounded-2xl shadow-md p-5 flex flex-col md:flex-row items-center mb-8">
         ${imageHtml}
         <div class="flex-1">
-          <h2 class="text-2xl font-semibold mb-2">${event.year} — ${title}</h2>
+          <div class="mb-2">
+            ${eraBadge}
+            <span class="text-gray-500 text-sm">${event.year}</span>
+          </div>
+          <h2 class="text-2xl font-semibold mb-2">${title}</h2>
           <p class="text-gray-700">${description}</p>
         </div>
       </a>

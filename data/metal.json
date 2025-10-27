@@ -1,146 +1,716 @@
 [
   {
+    "year": "1968-1969",
+    "era": "Proto-Metal",
+    "title": {
+      "en": "Led Zeppelin",
+      "fr": "Led Zeppelin"
+    },
+    "description": {
+      "en": "⚡ Led Zeppelin forms from the ashes of The Yardbirds, creating the blueprint for heavy rock.\n🎸 Jimmy Page's riffs, Robert Plant's vocals, and John Bonham's thunderous drums define the proto-metal sound.\n📀 Albums like 'Led Zeppelin I' and 'II' feature heavy blues-based rock that influences all metal to come.\n🎵 Songs like 'Whole Lotta Love' and 'Immigrant Song' push the boundaries of heaviness and volume.",
+      "fr": "⚡ Led Zeppelin se forme des cendres de The Yardbirds, créant le modèle du rock lourd.\n🎸 Les riffs de Jimmy Page, la voix de Robert Plant et la batterie tonitruante de John Bonham définissent le son proto-metal.\n📀 Des albums comme 'Led Zeppelin I' et 'II' présentent un rock lourd basé sur le blues qui influence tout le metal à venir.\n🎵 Des chansons comme 'Whole Lotta Love' et 'Immigrant Song' repoussent les limites de la lourdeur et du volume."
+    },
+    "image": "images/metal/led_zeppelin.jpg",
+    "tags": ["proto-metal", "led-zeppelin", "blues-rock", "origins"]
+  },
+  {
+    "year": "1969",
+    "era": "Proto-Metal",
+    "title": {
+      "en": "Deep Purple",
+      "fr": "Deep Purple"
+    },
+    "description": {
+      "en": "🎹 Deep Purple pioneers hard rock with virtuoso musicianship and classical influences.\n⚡ Ritchie Blackmore's guitar and Jon Lord's organ create a proto-metal template.\n🔥 'Smoke on the Water' becomes one of the most iconic riffs in rock history.\n🎸 Albums like 'In Rock' and 'Machine Head' push rock music to unprecedented heaviness.",
+      "fr": "🎹 Deep Purple pionnier du hard rock avec une virtuosité musicale et des influences classiques.\n⚡ La guitare de Ritchie Blackmore et l'orgue de Jon Lord créent un modèle proto-metal.\n🔥 'Smoke on the Water' devient l'un des riffs les plus iconiques de l'histoire du rock.\n🎸 Des albums comme 'In Rock' et 'Machine Head' poussent la musique rock vers une lourdeur sans précédent."
+    },
+    "image": "images/metal/deep_purple.jpg",
+    "tags": ["proto-metal", "deep-purple", "hard-rock", "origins"]
+  },
+  {
     "year": "1970",
+    "era": "Birth of Metal",
     "title": {
-      "en": "Black Sabbath Releases Debut Album",
-      "fr": "Black Sabbath sort son premier album"
+      "en": "Heavy Metal",
+      "fr": "Heavy Metal"
     },
     "description": {
-      "en": "🎸 Black Sabbath's self-titled album marks the birth of heavy metal.\n🌑 Dark riffs and occult themes lay the foundation of the genre.",
-      "fr": "🎸 L'album éponyme de Black Sabbath marque la naissance du heavy metal.\n🌑 Riffs sombres et thèmes occultes posent les bases du genre."
+      "en": "🎸 Heavy Metal is born as a distinct genre, separate from hard rock.\n⚡ Characterized by distorted guitars, powerful drums, dark themes, and occult imagery.\n🔊 Louder, heavier, and more aggressive than anything that came before.\n🌑 Black Sabbath's debut defines the sound: doom-laden, heavy riffs with blues roots.\n📿 Occultism, fantasy, and social critique become lyrical staples.",
+      "fr": "🎸 Le Heavy Metal naît comme un genre distinct, séparé du hard rock.\n⚡ Caractérisé par des guitares distordues, une batterie puissante, des thèmes sombres et une imagerie occulte.\n🔊 Plus fort, plus lourd et plus agressif que tout ce qui a existé avant.\n🌑 Le premier album de Black Sabbath définit le son : riffs lourds et chargés de doom avec des racines blues.\n📿 L'occultisme, la fantasy et la critique sociale deviennent des piliers lyriques."
     },
-    "image": "https://upload.wikimedia.org/wikipedia/en/6/65/Black_Sabbath_debut_album.jpg"
+    "image": "images/metal/heavy_metal_genre.jpg",
+    "tags": ["genre", "heavy-metal", "origins", "style"]
   },
   {
-    "year": "1974–1978",
+    "year": "1970",
+    "era": "Birth of Metal",
     "title": {
-      "en": "Judas Priest and Iron Maiden Define Heavy Metal",
-      "fr": "Judas Priest et Iron Maiden définissent le heavy metal"
+      "en": "Black Sabbath",
+      "fr": "Black Sabbath"
     },
     "description": {
-      "en": "⚔️ Judas Priest sharpens metal’s sound with twin guitars and leather-clad aesthetics.\n🛡️ Iron Maiden leads the New Wave of British Heavy Metal (NWOBHM) with galloping riffs and storytelling.",
-      "fr": "⚔️ Judas Priest affine le son du metal avec des guitares jumelles et un look cuir emblématique.\n🛡️ Iron Maiden mène la New Wave of British Heavy Metal (NWOBHM) avec des riffs galopants et des récits épiques."
+      "en": "🌑 Black Sabbath releases their self-titled debut album on Friday the 13th, February 1970 - metal is born.\n😈 Tony Iommi's down-tuned riffs, Ozzy's haunting vocals, and occult themes create something entirely new.\n🎸 'Black Sabbath' and 'Paranoid' establish the dark, heavy sound that defines heavy metal.\n⚡ Born in Birmingham's industrial wasteland, they channel working-class rage into crushing heaviness.",
+      "fr": "🌑 Black Sabbath sort son album éponyme un vendredi 13 février 1970 - le metal est né.\n😈 Les riffs désaccordés de Tony Iommi, la voix hantée d'Ozzy et les thèmes occultes créent quelque chose d'entièrement nouveau.\n🎸 'Black Sabbath' et 'Paranoid' établissent le son sombre et lourd qui définit le heavy metal.\n⚡ Nés dans le désert industriel de Birmingham, ils canalisent la rage ouvrière en une lourdeur écrasante."
     },
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Iron_Maiden_at_O2_Arena_2011_2.jpg"
+    "image": "images/metal/black_sabbath.jpg",
+    "tags": ["black-sabbath", "origins", "doom", "ozzy"]
   },
   {
-    "year": "1980s",
+    "year": "1974",
+    "era": "Classic Metal",
     "title": {
-      "en": "Rise of Thrash and Glam Metal",
-      "fr": "Essor du thrash et du glam metal"
+      "en": "Judas Priest",
+      "fr": "Judas Priest"
     },
     "description": {
-      "en": "⚡ Metallica, Slayer, and Megadeth unleash thrash metal’s aggression and speed.\n💄 Mötley Crüe, Poison, and Def Leppard glamorize metal with catchy hooks and excess.",
-      "fr": "⚡ Metallica, Slayer et Megadeth libèrent l’agressivité et la vitesse du thrash metal.\n💄 Mötley Crüe, Poison et Def Leppard rendent le metal glamour avec des refrains accrocheurs et l’excès."
+      "en": "🔥 Judas Priest strips away blues influences, creating pure, aggressive heavy metal.\n🎸 Twin guitar attack of K.K. Downing and Glenn Tipton becomes metal standard.\n🦅 Rob Halford's operatic voice sets the bar for metal vocals.\n🔗 Leather and studs aesthetic becomes synonymous with heavy metal fashion.",
+      "fr": "🔥 Judas Priest élimine les influences blues, créant un heavy metal pur et agressif.\n🎸 L'attaque de guitares jumelles de K.K. Downing et Glenn Tipton devient le standard du metal.\n🦅 La voix lyrique de Rob Halford établit la référence pour le chant metal.\n🔗 L'esthétique cuir et clous devient synonyme de la mode heavy metal."
     },
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Metallica_at_The_O2_London_2008.jpg"
+    "image": "images/metal/judas_priest.jpg",
+    "tags": ["judas-priest", "nwobhm", "classic-metal", "vocals"]
   },
   {
-    "year": "1986",
+    "year": "1975",
+    "era": "Classic Metal",
     "title": {
-      "en": "Metallica’s 'Master of Puppets' Defines an Era",
-      "fr": "‘Master of Puppets’ de Metallica définit une époque"
+      "en": "Motörhead",
+      "fr": "Motörhead"
     },
     "description": {
-      "en": "🔥 Metallica’s landmark album blends precision, melody, and aggression, setting the gold standard for thrash metal.",
-      "fr": "🔥 L’album emblématique de Metallica mêle précision, mélodie et agressivité, devenant la référence du thrash metal."
+      "en": "⚡ Lemmy Kilmister forms Motörhead, playing faster and louder than anyone before.\n🎸 Bridges heavy metal and punk rock, creating speed metal before it had a name.\n🔊 'Overkill' and 'Ace of Spades' define the 'louder than everything else' ethos.\n🏴‍☠️ Lemmy becomes metal's ultimate outlaw figure, living the rock and roll lifestyle to the extreme.",
+      "fr": "⚡ Lemmy Kilmister forme Motörhead, jouant plus vite et plus fort que quiconque auparavant.\n🎸 Fait le pont entre heavy metal et punk rock, créant le speed metal avant qu'il n'ait un nom.\n🔊 'Overkill' et 'Ace of Spades' définissent l'éthique 'plus fort que tout le reste'.\n🏴‍☠️ Lemmy devient la figure ultime du hors-la-loi metal, vivant le style de vie rock and roll à l'extrême."
     },
-    "image": "https://upload.wikimedia.org/wikipedia/en/b/b2/Metallica_-_Master_of_Puppets_cover.jpg"
+    "image": "images/metal/motorhead.jpg",
+    "tags": ["motorhead", "lemmy", "speed-metal", "punk"]
   },
   {
-    "year": "1990s",
+    "year": "1980",
+    "era": "NWOBHM",
     "title": {
-      "en": "Alternative and Nu Metal Revolution",
-      "fr": "Révolution du metal alternatif et du nu metal"
+      "en": "John Bonham Death",
+      "fr": "Mort de John Bonham"
     },
     "description": {
-      "en": "🤘 Pantera and Sepultura make groove metal mainstream.\n🎤 Korn, Slipknot, and Linkin Park mix rap, funk, and angst into nu metal’s rise.",
-      "fr": "🤘 Pantera et Sepultura popularisent le groove metal.\n🎤 Korn, Slipknot et Linkin Park fusionnent rap, funk et colère dans la montée du nu metal."
+      "en": "💔 John Bonham, Led Zeppelin's legendary drummer, dies on September 25, 1980.\n🍺 Dies from asphyxiation after heavy drinking session - found dead at Jimmy Page's house.\n⚡ Led Zeppelin disbands shortly after, unable to continue without their thunderous backbone.\n🥁 His death marks the end of an era for proto-metal pioneers.\n🎵 Bonham's drumming style influenced every metal drummer that followed.",
+      "fr": "💔 John Bonham, le légendaire batteur de Led Zeppelin, décède le 25 septembre 1980.\n🍺 Meurt d'asphyxie après une session de beuverie - trouvé mort chez Jimmy Page.\n⚡ Led Zeppelin se sépare peu après, incapable de continuer sans leur colonne vertébrale tonitruante.\n🥁 Sa mort marque la fin d'une ère pour les pionniers du proto-metal.\n🎵 Le style de batterie de Bonham a influencé tous les batteurs metal qui ont suivi."
     },
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Korn_-_Rock_am_Ring_2016-AL2328.jpg"
+    "image": "images/metal/john_bonham.jpg",
+    "tags": ["death", "tragedy", "led-zeppelin", "bonham", "event"]
+  },
+  {
+    "year": "1979-1980",
+    "era": "NWOBHM",
+    "title": {
+      "en": "Iron Maiden",
+      "fr": "Iron Maiden"
+    },
+    "description": {
+      "en": "🦅 Iron Maiden leads the New Wave of British Heavy Metal with epic storytelling and galloping rhythms.\n🎸 Steve Harris's bass-driven compositions and dual guitar harmonies create their signature sound.\n👹 Eddie the Head becomes metal's most iconic mascot.\n📚 Songs based on literature, history, and mythology elevate metal's artistic ambitions.",
+      "fr": "🦅 Iron Maiden mène la New Wave of British Heavy Metal avec des récits épiques et des rythmes galopants.\n🎸 Les compositions menées par la basse de Steve Harris et les harmonies de guitares jumelles créent leur son signature.\n👹 Eddie the Head devient la mascotte la plus iconique du metal.\n📚 Des chansons basées sur la littérature, l'histoire et la mythologie élèvent les ambitions artistiques du metal."
+    },
+    "image": "images/metal/iron_maiden.jpg",
+    "tags": ["iron-maiden", "nwobhm", "eddie", "epic"]
+  },
+  {
+    "year": "1980",
+    "era": "NWOBHM",
+    "title": {
+      "en": "Saxon",
+      "fr": "Saxon"
+    },
+    "description": {
+      "en": "⚔️ Saxon emerges as one of NWOBHM's most successful bands with anthems like 'Wheels of Steel'.\n🇬🇧 Working-class themes and straightforward heavy metal resonate with British youth.\n🎸 Help establish the template for traditional heavy metal that continues today.\n🏭 Keep the flame of classic metal burning through decades of trends.",
+      "fr": "⚔️ Saxon émerge comme l'un des groupes les plus réussis de la NWOBHM avec des hymnes comme 'Wheels of Steel'.\n🇬🇧 Les thèmes de la classe ouvrière et le heavy metal direct résonnent auprès de la jeunesse britannique.\n🎸 Aide à établir le modèle du heavy metal traditionnel qui continue aujourd'hui.\n🏭 Garde la flamme du metal classique allumée à travers des décennies de tendances."
+    },
+    "image": "images/metal/saxon.jpg",
+    "tags": ["saxon", "nwobhm", "traditional-metal", "british"]
+  },
+  {
+    "year": "1981",
+    "era": "Thrash Origins",
+    "title": {
+      "en": "Venom",
+      "fr": "Venom"
+    },
+    "description": {
+      "en": "😈 Venom releases 'Welcome to Hell', creating the blueprint for extreme metal.\n🔥 Raw production, satanic imagery, and aggressive speed influence thrash and black metal.\n⚡ Coin the term 'black metal' with their second album.\n🎸 Prove you don't need virtuosity to create powerful, influential music.",
+      "fr": "😈 Venom sort 'Welcome to Hell', créant le modèle du metal extrême.\n🔥 Production brute, imagerie satanique et vitesse agressive influencent le thrash et le black metal.\n⚡ Inventent le terme 'black metal' avec leur deuxième album.\n🎸 Prouvent qu'on n'a pas besoin de virtuosité pour créer une musique puissante et influente."
+    },
+    "image": "images/metal/venom.jpg",
+    "tags": ["venom", "extreme-metal", "black-metal-origins", "speed"]
+  },
+  {
+    "year": "1983",
+    "era": "Thrash Metal",
+    "title": {
+      "en": "Thrash Metal",
+      "fr": "Thrash Metal"
+    },
+    "description": {
+      "en": "⚡ Thrash Metal explodes combining NWOBHM speed with punk aggression.\n🎸 Fast tempos, aggressive riffing, shouted vocals, and complex song structures.\n🔥 Bay Area (Metallica, Exodus, Testament) and Germany (Kreator, Sodom, Destruction) lead the movement.\n💀 Lyrics focus on social issues, warfare, and dystopian themes.\n🌊 The Big 4 (Metallica, Slayer, Megadeth, Anthrax) define the genre and bring metal to new heights.",
+      "fr": "⚡ Le Thrash Metal explose en combinant la vitesse NWOBHM avec l'agressivité punk.\n🎸 Tempos rapides, riffing agressif, vocaux criés et structures de chansons complexes.\n🔥 La Bay Area (Metallica, Exodus, Testament) et l'Allemagne (Kreator, Sodom, Destruction) mènent le mouvement.\n💀 Les paroles se concentrent sur les problèmes sociaux, la guerre et les thèmes dystopiques.\n🌊 Les Big 4 (Metallica, Slayer, Megadeth, Anthrax) définissent le genre et portent le metal vers de nouveaux sommets."
+    },
+    "image": "images/metal/thrash_metal.jpg",
+    "tags": ["genre", "thrash-metal", "style", "speed", "aggression"]
+  },
+  {
+    "year": "1983",
+    "era": "NWOBHM",
+    "title": {
+      "en": "NWOBHM",
+      "fr": "NWOBHM"
+    },
+    "description": {
+      "en": "🇬🇧 New Wave of British Heavy Metal revolutionizes the genre in the late '70s/early '80s.\n⚡ Faster, more aggressive than classic metal - Iron Maiden, Saxon, Diamond Head lead the charge.\n🎸 Twin guitar harmonies, galloping bass, and epic themes become signatures.\n📼 DIY ethic with independent labels and demo tapes democratizes metal.\n🌊 Influences thrash, power metal, and every metal subgenre that follows.",
+      "fr": "🇬🇧 La New Wave of British Heavy Metal révolutionne le genre à la fin des années 70/début 80.\n⚡ Plus rapide, plus agressif que le metal classique - Iron Maiden, Saxon, Diamond Head mènent la charge.\n🎸 Les harmonies de guitares jumelles, la basse galopante et les thèmes épiques deviennent des signatures.\n📼 L'éthique DIY avec des labels indépendants et des cassettes démo démocratise le metal.\n🌊 Influence le thrash, le power metal et tous les sous-genres metal qui suivent."
+    },
+    "image": "images/metal/nwobhm.jpg",
+    "tags": ["genre", "nwobhm", "british", "style", "movement"]
+  },
+  {
+    "year": "1983",
+    "era": "Thrash Metal",
+    "title": {
+      "en": "Metallica",
+      "fr": "Metallica"
+    },
+    "description": {
+      "en": "⚡ Metallica releases 'Kill 'Em All', launching the thrash metal revolution.\n🎸 James Hetfield and Lars Ulrich combine NWOBHM melodies with punk aggression and speed.\n🔥 'Ride the Lightning' and 'Master of Puppets' elevate thrash to an art form.\n🌍 Become the biggest metal band in the world, bringing thrash to the mainstream.",
+      "fr": "⚡ Metallica sort 'Kill 'Em All', lançant la révolution thrash metal.\n🎸 James Hetfield et Lars Ulrich combinent les mélodies NWOBHM avec l'agressivité et la vitesse punk.\n🔥 'Ride the Lightning' et 'Master of Puppets' élèvent le thrash au rang d'art.\n🌍 Deviennent le plus grand groupe de metal au monde, apportant le thrash au grand public."
+    },
+    "image": "images/metal/metallica.jpg",
+    "tags": ["metallica", "thrash-metal", "bay-area", "mainstream"]
+  },
+  {
+    "year": "1983",
+    "era": "Thrash Metal",
+    "title": {
+      "en": "Slayer",
+      "fr": "Slayer"
+    },
+    "description": {
+      "en": "😈 Slayer forms, taking thrash metal to its most extreme and violent form.\n🔥 Kerry King and Jeff Hanneman create the most aggressive riffs in metal.\n💀 'Reign in Blood' (1986) becomes the ultimate thrash album - 29 minutes of pure brutality.\n⚡ Tom Araya's screams and Dave Lombardo's double bass set new standards for intensity.",
+      "fr": "😈 Slayer se forme, poussant le thrash metal à sa forme la plus extrême et violente.\n🔥 Kerry King et Jeff Hanneman créent les riffs les plus agressifs du metal.\n💀 'Reign in Blood' (1986) devient l'album thrash ultime - 29 minutes de brutalité pure.\n⚡ Les cris de Tom Araya et la double pédale de Dave Lombardo établissent de nouveaux standards d'intensité."
+    },
+    "image": "images/metal/slayer.jpg",
+    "tags": ["slayer", "thrash-metal", "extreme", "speed"]
+  },
+  {
+    "year": "1983",
+    "era": "Thrash Metal",
+    "title": {
+      "en": "Megadeth",
+      "fr": "Megadeth"
+    },
+    "description": {
+      "en": "🎸 Dave Mustaine forms Megadeth after being fired from Metallica, creating technical thrash.\n⚡ More complex and politically charged than other thrash bands.\n🔥 'Peace Sells... But Who's Buying?' and 'Rust in Peace' showcase virtuoso musicianship.\n🎖️ The Big 4 of thrash (Metallica, Slayer, Megadeth, Anthrax) dominate the '80s metal scene.",
+      "fr": "🎸 Dave Mustaine forme Megadeth après avoir été viré de Metallica, créant le thrash technique.\n⚡ Plus complexe et politiquement engagé que les autres groupes thrash.\n🔥 'Peace Sells... But Who's Buying?' et 'Rust in Peace' présentent une virtuosité musicale.\n🎖️ Les Big 4 du thrash (Metallica, Slayer, Megadeth, Anthrax) dominent la scène metal des années 80."
+    },
+    "image": "images/metal/megadeth.jpg",
+    "tags": ["megadeth", "thrash-metal", "technical", "political"]
+  },
+  {
+    "year": "1984",
+    "era": "Glam Metal",
+    "title": {
+      "en": "Mötley Crüe",
+      "fr": "Mötley Crüe"
+    },
+    "description": {
+      "en": "💄 Mötley Crüe epitomizes glam metal excess with 'Shout at the Devil' and 'Theatre of Pain'.\n🎸 Catchy hooks, power ballads, and outrageous image dominate MTV.\n🍾 Embody sex, drugs, and rock 'n' roll lifestyle to the extreme.\n📺 Make metal accessible to mainstream audiences through visual spectacle.",
+      "fr": "💄 Mötley Crüe incarne l'excès du glam metal avec 'Shout at the Devil' et 'Theatre of Pain'.\n🎸 Refrains accrocheurs, ballades puissantes et image outrageuse dominent MTV.\n🍾 Incarnent le style de vie sexe, drogues et rock 'n' roll à l'extrême.\n📺 Rendent le metal accessible au grand public par le spectacle visuel."
+    },
+    "image": "images/metal/motley_crue.jpg",
+    "tags": ["motley-crue", "glam-metal", "hair-metal", "mtv"]
+  },
+  {
+    "year": "1985",
+    "era": "Power Metal",
+    "title": {
+      "en": "Helloween",
+      "fr": "Helloween"
+    },
+    "description": {
+      "en": "🎃 Helloween invents power metal with 'Walls of Jericho' and the 'Keeper of the Seven Keys' albums.\n⚡ Fast tempos, melodic vocals, fantasy themes, and uplifting atmosphere.\n🎸 Kai Hansen and Michael Weikath create the dual guitar template for power metal.\n🇩🇪 Launch the German metal scene that produces countless power metal bands.",
+      "fr": "🎃 Helloween invente le power metal avec 'Walls of Jericho' et les albums 'Keeper of the Seven Keys'.\n⚡ Tempos rapides, chants mélodiques, thèmes fantasy et atmosphère énergisante.\n🎸 Kai Hansen et Michael Weikath créent le modèle de guitares jumelles pour le power metal.\n🇩🇪 Lancent la scène metal allemande qui produit d'innombrables groupes de power metal."
+    },
+    "image": "images/metal/helloween.jpg",
+    "tags": ["helloween", "power-metal", "melodic", "german"]
+  },
+  {
+    "year": "1985",
+    "era": "Death Metal Origins",
+    "title": {
+      "en": "Possessed",
+      "fr": "Possessed"
+    },
+    "description": {
+      "en": "💀 Possessed releases 'Seven Churches', creating the template for death metal.\n🎸 Faster and more brutal than thrash, with guttural vocals and dark themes.\n😈 First band to use the term 'death metal' in their song of the same name.\n🔥 Bridge between thrash and the emerging death metal scene.",
+      "fr": "💀 Possessed sort 'Seven Churches', créant le modèle du death metal.\n🎸 Plus rapide et plus brutal que le thrash, avec des vocaux gutturaux et des thèmes sombres.\n😈 Premier groupe à utiliser le terme 'death metal' dans leur chanson du même nom.\n🔥 Pont entre le thrash et la scène death metal émergente."
+    },
+    "image": "images/metal/possessed.jpg",
+    "tags": ["possessed", "death-metal-origins", "extreme", "brutal"]
+  },
+  {
+    "year": "1987",
+    "era": "Death Metal",
+    "title": {
+      "en": "Death Metal",
+      "fr": "Death Metal"
+    },
+    "description": {
+      "en": "💀 Death Metal emerges as metal's most extreme form.\n🎤 Guttural vocals, blast beats, tremolo picking, and brutal intensity.\n🔥 Florida (Death, Morbid Angel, Obituary) and Sweden (Entombed, Dismember) create distinct regional sounds.\n😈 Lyrics explore death, gore, horror, and existential themes.\n⚡ Chuck Schuldiner's Death creates the template with 'Scream Bloody Gore'.",
+      "fr": "💀 Le Death Metal émerge comme la forme la plus extrême du metal.\n🎤 Vocaux gutturaux, blast beats, tremolo picking et intensité brutale.\n🔥 La Floride (Death, Morbid Angel, Obituary) et la Suède (Entombed, Dismember) créent des sons régionaux distincts.\n😈 Les paroles explorent la mort, le gore, l'horreur et les thèmes existentiels.\n⚡ Death de Chuck Schuldiner crée le modèle avec 'Scream Bloody Gore'."
+    },
+    "image": "images/metal/death_metal.jpg",
+    "tags": ["genre", "death-metal", "style", "extreme", "brutal"]
+  },
+  {
+    "year": "1987",
+    "era": "Thrash Metal",
+    "title": {
+      "en": "Cliff Burton Death",
+      "fr": "Mort de Cliff Burton"
+    },
+    "description": {
+      "en": "💔 Metallica's bassist Cliff Burton dies in tour bus accident in Sweden on September 27, 1986.\n🚌 Bus skids on ice and overturns, crushing Burton - he was only 24 years old.\n🎸 His bass solos and classical influences shaped Metallica's progressive approach.\n⚡ Metal's first major tragedy - fans worldwide mourn the loss.\n🌹 '(Anesthesia) Pulling Teeth' and 'Orion' remain testaments to his genius.",
+      "fr": "💔 Le bassiste de Metallica Cliff Burton meurt dans un accident de bus en Suède le 27 septembre 1986.\n🚌 Le bus dérape sur la glace et se renverse, écrasant Burton - il n'avait que 24 ans.\n🎸 Ses solos de basse et influences classiques ont façonné l'approche progressive de Metallica.\n⚡ Première tragédie majeure du metal - des fans du monde entier pleurent la perte.\n🌹 '(Anesthesia) Pulling Teeth' et 'Orion' restent des témoignages de son génie."
+    },
+    "image": "images/metal/cliff_burton.jpg",
+    "tags": ["death", "tragedy", "metallica", "cliff-burton", "event"]
+  },
+  {
+    "year": "1987",
+    "era": "Death Metal",
+    "title": {
+      "en": "Death",
+      "fr": "Death"
+    },
+    "description": {
+      "en": "💀 Chuck Schuldiner and Death release 'Scream Bloody Gore', the first pure death metal album.\n🎸 Technical precision, philosophical lyrics, and constant evolution.\n🔥 Each album pushes death metal's boundaries, from brutal to progressive.\n👑 Chuck becomes known as the 'Father of Death Metal' before his tragic death in 2001.",
+      "fr": "💀 Chuck Schuldiner et Death sortent 'Scream Bloody Gore', le premier album death metal pur.\n🎸 Précision technique, paroles philosophiques et évolution constante.\n🔥 Chaque album repousse les limites du death metal, du brutal au progressif.\n👑 Chuck devient connu comme le 'Père du Death Metal' avant sa mort tragique en 2001."
+    },
+    "image": "images/metal/death.jpg",
+    "tags": ["death", "death-metal", "chuck-schuldiner", "technical"]
+  },
+  {
+    "year": "1989",
+    "era": "Death Metal",
+    "title": {
+      "en": "Morbid Angel",
+      "fr": "Morbid Angel"
+    },
+    "description": {
+      "en": "😈 Morbid Angel releases 'Altars of Madness', perfecting Tampa death metal sound.\n🎸 Trey Azagthoth's chaotic solos and complex riffing elevate death metal musicianship.\n💀 Occult themes and Lovecraftian horror imagery become death metal staples.\n🔥 Florida death metal scene (with Obituary, Deicide) rivals Bay Area thrash.",
+      "fr": "😈 Morbid Angel sort 'Altars of Madness', perfectionnant le son death metal de Tampa.\n🎸 Les solos chaotiques de Trey Azagthoth et le riffing complexe élèvent la maîtrise du death metal.\n💀 Les thèmes occultes et l'imagerie lovecraftienne deviennent des piliers du death metal.\n🔥 La scène death metal de Floride (avec Obituary, Deicide) rivalise avec le thrash de la Bay Area."
+    },
+    "image": "images/metal/morbid_angel.jpg",
+    "tags": ["morbid-angel", "death-metal", "florida", "technical"]
+  },
+  {
+    "year": "1990",
+    "era": "Groove Metal",
+    "title": {
+      "en": "Pantera",
+      "fr": "Pantera"
+    },
+    "description": {
+      "en": "🔥 Pantera releases 'Cowboys from Hell', reinventing themselves with groove metal.\n🎸 Dimebag Darrell's crushing riffs and Phil Anselmo's aggressive vocals define '90s metal.\n💪 'Vulgar Display of Power' becomes the anthem of groove-driven heaviness.\n⚡ Bridge thrash's aggression with slower, heavier grooves that dominate the '90s.",
+      "fr": "🔥 Pantera sort 'Cowboys from Hell', se réinventant avec le groove metal.\n🎸 Les riffs écrasants de Dimebag Darrell et les vocaux agressifs de Phil Anselmo définissent le metal des années 90.\n💪 'Vulgar Display of Power' devient l'hymne de la lourdeur basée sur le groove.\n⚡ Fait le pont entre l'agressivité thrash et les grooves plus lents et lourds qui dominent les années 90."
+    },
+    "image": "images/metal/pantera.jpg",
+    "tags": ["pantera", "groove-metal", "dimebag", "90s"]
   },
   {
     "year": "1991",
+    "era": "Black Metal",
     "title": {
-      "en": "Metallica’s Black Album Brings Metal to the Masses",
-      "fr": "L’album noir de Metallica rend le metal grand public"
+      "en": "Black Metal",
+      "fr": "Black Metal"
     },
     "description": {
-      "en": "💿 Simpler, heavier, and more melodic — Metallica’s ‘Black Album’ becomes a global success and gateway for millions of new fans.",
-      "fr": "💿 Plus simple, plus lourd et plus mélodique — le ‘Black Album’ de Metallica devient un succès mondial et une porte d’entrée pour des millions de fans."
+      "en": "🔥 Black Metal's second wave erupts from Norway with unprecedented extremity.\n❄️ Raw production, corpse paint, blast beats, tremolo riffs, and shrieked vocals.\n😈 Anti-Christian ideology, paganism, and misanthropy define the philosophy.\n🏔️ Norwegian bands (Mayhem, Burzum, Darkthrone, Emperor) create the archetype.\n🌑 Atmosphere and darkness prioritized over technical proficiency.",
+      "fr": "🔥 La deuxième vague du Black Metal éclate de Norvège avec une extrémité sans précédent.\n❄️ Production brute, corpse paint, blast beats, riffs tremolo et vocaux criés.\n😈 L'idéologie anti-chrétienne, le paganisme et la misanthropie définissent la philosophie.\n🏔️ Les groupes norvégiens (Mayhem, Burzum, Darkthrone, Emperor) créent l'archétype.\n🌑 L'atmosphère et l'obscurité sont prioritaires sur la maîtrise technique."
     },
-    "image": "https://upload.wikimedia.org/wikipedia/en/2/2c/Metallica_-_Metallica_cover.jpg"
+    "image": "images/metal/black_metal.jpg",
+    "tags": ["genre", "black-metal", "style", "norwegian", "extreme"]
   },
   {
-    "year": "1992",
+    "year": "1991",
+    "era": "Black Metal",
     "title": {
-      "en": "Death Metal and Black Metal Emerge",
-      "fr": "L’émergence du death et du black metal"
+      "en": "Mayhem",
+      "fr": "Mayhem"
     },
     "description": {
-      "en": "💀 Bands like Death, Morbid Angel, and Cannibal Corpse push technical brutality.\n🔥 Norway’s Mayhem and Burzum define black metal with raw sound and dark mystique.",
-      "fr": "💀 Des groupes comme Death, Morbid Angel et Cannibal Corpse explorent la brutalité technique.\n🔥 Mayhem et Burzum, en Norvège, définissent le black metal par un son cru et une aura mystique."
+      "en": "🔥 Norwegian black metal explodes with Mayhem leading the second wave.\n❄️ Raw production, corpse paint, blast beats, and anti-Christian themes define the genre.\n😈 Church burnings and violent acts bring infamy to the scene.\n🎸 'De Mysteriis Dom Sathanas' becomes black metal's most influential album.",
+      "fr": "🔥 Le black metal norvégien explose avec Mayhem menant la deuxième vague.\n❄️ Production brute, corpse paint, blast beats et thèmes anti-chrétiens définissent le genre.\n😈 Incendies d'églises et actes violents apportent l'infamie à la scène.\n🎸 'De Mysteriis Dom Sathanas' devient l'album le plus influent du black metal."
     },
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Mayhem_-_Party.San_2016_01.jpg"
+    "image": "images/metal/mayhem.jpg",
+    "tags": ["mayhem", "black-metal", "norwegian", "extreme"]
   },
   {
-    "year": "2000s",
+    "year": "1991",
+    "era": "Black Metal",
     "title": {
-      "en": "Metal Goes Global",
-      "fr": "Le metal devient mondial"
+      "en": "Dead's Suicide",
+      "fr": "Suicide de Dead"
     },
     "description": {
-      "en": "🌍 Metal scenes thrive worldwide: Scandinavia’s melodic death metal (In Flames, Amon Amarth), Japan’s Visual Kei, and Brazil’s Sepultura legacy.\n🎶 Festivals like Wacken Open Air unite fans across continents.",
-      "fr": "🌍 Le metal prospère partout : death mélodique scandinave (In Flames, Amon Amarth), Visual Kei japonais, héritage brésilien de Sepultura.\n🎶 Des festivals comme Wacken Open Air unissent les fans du monde entier."
+      "en": "💀 Per 'Dead' Yngve Ohlin, Mayhem's vocalist, commits suicide on April 8, 1991.\n🔪 Slits wrists and throat, then shoots himself - leaves note saying 'Excuse all the blood'.\n📸 Euronymous discovers body and takes photos before calling police - used for bootleg album cover.\n😈 His death becomes part of black metal's dark mythology.\n🎤 Dead pioneered corpse paint and extreme stage presence in black metal.",
+      "fr": "💀 Per 'Dead' Yngve Ohlin, chanteur de Mayhem, se suicide le 8 avril 1991.\n🔪 Se tranche les poignets et la gorge, puis se tire dessus - laisse une note disant 'Excusez tout le sang'.\n📸 Euronymous découvre le corps et prend des photos avant d'appeler la police - utilisées pour une pochette d'album bootleg.\n😈 Sa mort fait partie de la mythologie sombre du black metal.\n🎤 Dead a été pionnier du corpse paint et de la présence scénique extrême dans le black metal."
     },
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Wacken_Open_Air_2013_-_Main_Stage.jpg"
+    "image": "images/metal/dead_mayhem.jpg",
+    "tags": ["death", "tragedy", "mayhem", "black-metal", "norway", "event"]
+  },
+  {
+    "year": "1991",
+    "era": "Mainstream Success",
+    "title": {
+      "en": "Metallica - Black Album",
+      "fr": "Metallica - Album noir"
+    },
+    "description": {
+      "en": "💿 Metallica's self-titled 'Black Album' sells 30+ million copies worldwide.\n🎸 'Enter Sandman' and 'Nothing Else Matters' become cultural phenomena.\n📺 Brings metal to absolute mainstream dominance.\n⚖️ Controversy over 'selling out' vs. legitimate artistic evolution divides fans.",
+      "fr": "💿 L'album éponyme 'Black Album' de Metallica se vend à plus de 30 millions d'exemplaires dans le monde.\n🎸 'Enter Sandman' et 'Nothing Else Matters' deviennent des phénomènes culturels.\n📺 Apporte le metal à la domination absolue du grand public.\n⚖️ Controverse sur le 'sell out' vs évolution artistique légitime divise les fans."
+    },
+    "image": "images/metal/metallica_black.jpg",
+    "tags": ["metallica", "mainstream", "black-album", "commercial"]
+  },
+  {
+    "year": "1992-1993",
+    "era": "Black Metal",
+    "title": {
+      "en": "Norwegian Church Burnings",
+      "fr": "Incendies d'églises norvégiennes"
+    },
+    "description": {
+      "en": "🔥 Norwegian black metal scene burns over 50 churches between 1992-1996.\n⛪ Fantoft Stave Church (built 1150) burned by Varg Vikernes on June 6, 1992.\n😈 Members of Mayhem, Burzum, Emperor participate in arsons as anti-Christian statement.\n🚔 Media hysteria brings international attention to black metal scene.\n📰 Controversy makes black metal infamous worldwide and defines its rebellious image.",
+      "fr": "🔥 La scène black metal norvégienne brûle plus de 50 églises entre 1992-1996.\n⛪ L'église en bois debout de Fantoft (construite en 1150) brûlée par Varg Vikernes le 6 juin 1992.\n😈 Des membres de Mayhem, Burzum, Emperor participent aux incendies criminels comme déclaration anti-chrétienne.\n🚔 L'hystérie médiatique apporte une attention internationale à la scène black metal.\n📰 La controverse rend le black metal infâme dans le monde entier et définit son image rebelle."
+    },
+    "image": "images/metal/church_burnings.jpg",
+    "tags": ["event", "controversy", "norway", "black-metal", "crime"]
+  },
+  {
+    "year": "1993",
+    "era": "Black Metal",
+    "title": {
+      "en": "Euronymous Murder",
+      "fr": "Meurtre d'Euronymous"
+    },
+    "description": {
+      "en": "🔪 Varg Vikernes (Burzum) murders Øystein 'Euronymous' Aarseth (Mayhem) on August 10, 1993.\n💀 Stabs Euronymous 23 times in his Oslo apartment - rivalry and ideology clash.\n⚖️ Varg sentenced to 21 years (Norway's maximum) for murder and church arsons.\n😈 The murder shocks even the extreme metal world and ends the inner circle.\n📰 International media coverage brings black metal into mainstream consciousness.",
+      "fr": "🔪 Varg Vikernes (Burzum) assassine Øystein 'Euronymous' Aarseth (Mayhem) le 10 août 1993.\n💀 Poignarde Euronymous 23 fois dans son appartement d'Oslo - rivalité et conflit idéologique.\n⚖️ Varg condamné à 21 ans (le maximum en Norvège) pour meurtre et incendies criminels.\n😈 Le meurtre choque même le monde du metal extrême et met fin au cercle intérieur.\n📰 La couverture médiatique internationale amène le black metal dans la conscience mainstream."
+    },
+    "image": "images/metal/euronymous.jpg",
+    "tags": ["death", "murder", "mayhem", "burzum", "norway", "event", "tragedy"]
+  },
+  {
+    "year": "1994",
+    "era": "Doom Metal",
+    "title": {
+      "en": "My Dying Bride",
+      "fr": "My Dying Bride"
+    },
+    "description": {
+      "en": "🌑 My Dying Bride perfects doom/death metal with 'Turn Loose the Swans'.\n🎻 Violins, gothic atmosphere, and crushing heaviness create new emotional depths.\n💔 British doom scene (Paradise Lost, Anathema) explores melancholy and despair.\n🎸 Slower tempos and emotional weight provide counterpoint to speed metal dominance.",
+      "fr": "🌑 My Dying Bride perfectionne le doom/death metal avec 'Turn Loose the Swans'.\n🎻 Violons, atmosphère gothique et lourdeur écrasante créent de nouvelles profondeurs émotionnelles.\n💔 La scène doom britannique (Paradise Lost, Anathema) explore la mélancolie et le désespoir.\n🎸 Tempos plus lents et poids émotionnel offrent un contrepoint à la domination du speed metal."
+    },
+    "image": "images/metal/my_dying_bride.jpg",
+    "tags": ["my-dying-bride", "doom-metal", "gothic", "atmospheric"]
+  },
+  {
+    "year": "1995",
+    "era": "Melodic Death Metal",
+    "title": {
+      "en": "At the Gates",
+      "fr": "At the Gates"
+    },
+    "description": {
+      "en": "🇸🇪 At the Gates releases 'Slaughter of the Soul', defining melodic death metal.\n🎸 Swedish death metal combines melody with brutality, creating the 'Gothenburg sound'.\n⚡ Influences metalcore and modern metal more than any other death metal album.\n🔥 In Flames, Dark Tranquillity, and Soilwork follow, creating a Swedish metal movement.",
+      "fr": "🇸🇪 At the Gates sort 'Slaughter of the Soul', définissant le death metal mélodique.\n🎸 Le death metal suédois combine mélodie et brutalité, créant le 'son de Göteborg'.\n⚡ Influence le metalcore et le metal moderne plus que tout autre album death metal.\n🔥 In Flames, Dark Tranquillity et Soilwork suivent, créant un mouvement metal suédois."
+    },
+    "image": "images/metal/at_the_gates.jpg",
+    "tags": ["at-the-gates", "melodic-death", "swedish", "gothenburg"]
+  },
+  {
+    "year": "1996",
+    "era": "Progressive Metal",
+    "title": {
+      "en": "Dream Theater",
+      "fr": "Dream Theater"
+    },
+    "description": {
+      "en": "🎹 Dream Theater establishes progressive metal with virtuoso musicianship and complex compositions.\n🎸 John Petrucci and Jordan Rudess push technical boundaries.\n⏰ 20+ minute epics with multiple movements become prog metal signature.\n🎓 Berklee-trained musicians bring jazz and classical sophistication to metal.",
+      "fr": "🎹 Dream Theater établit le metal progressif avec une virtuosité musicale et des compositions complexes.\n🎸 John Petrucci et Jordan Rudess repoussent les limites techniques.\n⏰ Des épopées de plus de 20 minutes avec plusieurs mouvements deviennent la signature du prog metal.\n🎓 Des musiciens formés au Berklee apportent la sophistication du jazz et du classique au metal."
+    },
+    "image": "images/metal/dream_theater.jpg",
+    "tags": ["dream-theater", "progressive-metal", "technical", "virtuoso"]
+  },
+  {
+    "year": "1998",
+    "era": "Nu Metal",
+    "title": {
+      "en": "Korn",
+      "fr": "Korn"
+    },
+    "description": {
+      "en": "🎤 Korn pioneers nu metal, blending metal with hip-hop, funk, and angst.\n🎸 Jonathan Davis's raw emotional vocals and seven-string guitars create new sound.\n💔 Addresses trauma, abuse, and mental health, connecting with troubled youth.\n📺 MTV dominance brings metal to new generation through 'Freak on a Leash' and 'Falling Away from Me'.",
+      "fr": "🎤 Korn pionnier du nu metal, mélangeant metal avec hip-hop, funk et angoisse.\n🎸 Les vocaux émotionnels bruts de Jonathan Davis et les guitares à sept cordes créent un nouveau son.\n💔 Aborde le traumatisme, l'abus et la santé mentale, se connectant avec une jeunesse troublée.\n📺 La domination MTV apporte le metal à une nouvelle génération via 'Freak on a Leash' et 'Falling Away from Me'."
+    },
+    "image": "images/metal/korn.jpg",
+    "tags": ["korn", "nu-metal", "emotional", "downtune"]
+  },
+  {
+    "year": "1998",
+    "era": "Nu Metal",
+    "title": {
+      "en": "Nu Metal",
+      "fr": "Nu Metal"
+    },
+    "description": {
+      "en": "🎤 Nu Metal dominates late '90s/early 2000s blending metal with alternative, hip-hop, and funk.\n🎸 Down-tuned 7-string guitars, DJ scratching, rapped/sung vocals, and emotional lyrics.\n💔 Addresses personal trauma, angst, and mental health - connects with mainstream youth.\n📺 MTV rotation and Ozzfest tours bring metal to new generation.\n🔥 Korn, Limp Bizkit, Linkin Park, and Slipknot achieve massive commercial success.",
+      "fr": "🎤 Le Nu Metal domine la fin des années 90/début 2000 en mélangeant metal avec alternatif, hip-hop et funk.\n🎸 Guitares 7 cordes désaccordées, scratching de DJ, vocaux rappés/chantés et paroles émotionnelles.\n💔 Aborde le traumatisme personnel, l'angoisse et la santé mentale - se connecte avec la jeunesse mainstream.\n📺 La rotation MTV et les tournées Ozzfest amènent le metal à une nouvelle génération.\n🔥 Korn, Limp Bizkit, Linkin Park et Slipknot connaissent un succès commercial massif."
+    },
+    "image": "images/metal/nu_metal.jpg",
+    "tags": ["genre", "nu-metal", "style", "mainstream", "alternative"]
+  },
+  {
+    "year": "1998",
+    "era": "Nu Metal",
+    "title": {
+      "en": "Slipknot",
+      "fr": "Slipknot"
+    },
+    "description": {
+      "en": "🎭 Slipknot explodes with masks, jumpsuits, and nine-member chaos.\n🔥 Combines nu metal aggression with death metal brutality and theatrical spectacle.\n🥁 Three percussionists and DJ create wall of sound unlike anything before.\n⚡ 'Iowa' pushes nu metal to its most extreme, influencing metalcore generation.",
+      "fr": "🎭 Slipknot explose avec masques, combinaisons et chaos à neuf membres.\n🔥 Combine l'agressivité nu metal avec la brutalité death metal et le spectacle théâtral.\n🥁 Trois percussionnistes et un DJ créent un mur de son sans précédent.\n⚡ 'Iowa' pousse le nu metal à son extrême, influençant la génération metalcore."
+    },
+    "image": "images/metal/slipknot.jpg",
+    "tags": ["slipknot", "nu-metal", "masks", "theatrical"]
+  },
+  {
+    "year": "2001",
+    "era": "Death Metal",
+    "title": {
+      "en": "Chuck Schuldiner Death",
+      "fr": "Mort de Chuck Schuldiner"
+    },
+    "description": {
+      "en": "💔 Chuck Schuldiner, 'Father of Death Metal', dies of brain cancer on December 13, 2001, at age 34.\n👑 Death's founder revolutionized death metal from brutal to progressive over seven albums.\n🎸 His philosophical lyrics and technical evolution elevated the genre's artistry.\n🌍 Global metal community mourns - benefit concerts raised funds for his medical treatment.\n🕯️ Legacy lives on through every death metal band that followed.",
+      "fr": "💔 Chuck Schuldiner, 'Père du Death Metal', meurt d'un cancer du cerveau le 13 décembre 2001, à 34 ans.\n👑 Le fondateur de Death a révolutionné le death metal du brutal au progressif sur sept albums.\n🎸 Ses paroles philosophiques et son évolution technique ont élevé l'art du genre.\n🌍 La communauté metal mondiale pleure - des concerts de bienfaisance ont levé des fonds pour son traitement médical.\n🕯️ Son héritage perdure à travers chaque groupe de death metal qui a suivi."
+    },
+    "image": "images/metal/chuck_schuldiner.jpg",
+    "tags": ["death", "tragedy", "death-band", "chuck-schuldiner", "event"]
+  },
+  {
+    "year": "2002",
+    "era": "Metalcore",
+    "title": {
+      "en": "Killswitch Engage",
+      "fr": "Killswitch Engage"
+    },
+    "description": {
+      "en": "💥 Killswitch Engage perfects metalcore with 'Alive or Just Breathing'.\n🎸 Melodic choruses, harsh verses, and breakdowns become metalcore template.\n⚡ Howard Jones's clean vocals make metal accessible while maintaining heaviness.\n🌊 New wave of American metal dominates 2000s with Lamb of God, Trivium, and As I Lay Dying.",
+      "fr": "💥 Killswitch Engage perfectionne le metalcore avec 'Alive or Just Breathing'.\n🎸 Refrains mélodiques, couplets harsh et breakdowns deviennent le modèle metalcore.\n⚡ Les vocaux clairs de Howard Jones rendent le metal accessible tout en maintenant la lourdeur.\n🌊 La nouvelle vague du metal américain domine les années 2000 avec Lamb of God, Trivium et As I Lay Dying."
+    },
+    "image": "images/metal/killswitch_engage.jpg",
+    "tags": ["killswitch-engage", "metalcore", "melodic", "breakdown"]
+  },
+  {
+    "year": "2002",
+    "era": "Metalcore",
+    "title": {
+      "en": "Metalcore",
+      "fr": "Metalcore"
+    },
+    "description": {
+      "en": "💥 Metalcore fuses melodic death metal with hardcore punk in the 2000s.\n🎸 Breakdown-heavy song structures, melodic choruses with harsh verses.\n⚡ Clean/harsh vocal contrasts become signature - accessibility meets aggression.\n🌊 Killswitch Engage, As I Lay Dying, Trivium, Parkway Drive lead the movement.\n🎭 Emphasis on live energy and emotional catharsis connects with youth.",
+      "fr": "💥 Le Metalcore fusionne le death metal mélodique avec le punk hardcore dans les années 2000.\n🎸 Structures de chansons lourdes en breakdowns, refrains mélodiques avec couplets harsh.\n⚡ Les contrastes vocaux clairs/harsh deviennent la signature - accessibilité rencontre agressivité.\n🌊 Killswitch Engage, As I Lay Dying, Trivium, Parkway Drive mènent le mouvement.\n🎭 L'accent sur l'énergie live et la catharsis émotionnelle se connecte avec la jeunesse."
+    },
+    "image": "images/metal/metalcore.jpg",
+    "tags": ["genre", "metalcore", "style", "hardcore", "melodic"]
   },
   {
     "year": "2004",
+    "era": "Extreme Metal",
     "title": {
-      "en": "Metalcore and the New Wave",
-      "fr": "Metalcore et la nouvelle vague"
+      "en": "Mastodon",
+      "fr": "Mastodon"
     },
     "description": {
-      "en": "💥 Bands like Killswitch Engage, Trivium, and As I Lay Dying merge hardcore energy with melodic metal.\n🎸 A new generation of fans embraces breakdowns and emotion.",
-      "fr": "💥 Killswitch Engage, Trivium et As I Lay Dying fusionnent l’énergie du hardcore avec le metal mélodique.\n🎸 Une nouvelle génération de fans adopte les breakdowns et l’émotion."
+      "en": "🐋 Mastodon releases 'Leviathan', progressive sludge metal masterpiece based on Moby Dick.\n🎸 Complex time signatures, crushing riffs, and conceptual ambition.\n🔥 Atlanta sludge scene brings Southern heaviness to progressive metal.\n🏆 'Crack the Skye' receives Grammy nomination, bringing prog metal critical respect.",
+      "fr": "🐋 Mastodon sort 'Leviathan', chef-d'œuvre de sludge metal progressif basé sur Moby Dick.\n🎸 Signatures rythmiques complexes, riffs écrasants et ambition conceptuelle.\n🔥 La scène sludge d'Atlanta apporte la lourdeur sudiste au metal progressif.\n🏆 'Crack the Skye' reçoit une nomination aux Grammy, apportant le respect critique au prog metal."
     },
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Killswitch_Engage_2018.jpg"
+    "image": "images/metal/mastodon.jpg",
+    "tags": ["mastodon", "progressive-metal", "sludge", "conceptual"]
   },
   {
-    "year": "2010s",
+    "year": "2004",
+    "era": "Groove Metal",
     "title": {
-      "en": "Modern Metal Diversity",
-      "fr": "Diversité du metal moderne"
+      "en": "Dimebag Darrell Murder",
+      "fr": "Meurtre de Dimebag Darrell"
     },
     "description": {
-      "en": "🔥 Genres blend: djent (Periphery, Meshuggah), symphonic (Nightwish), progressive (Opeth), and folk metal (Eluveitie).\n🌐 Bands like Gojira, Babymetal, and Ghost push creative boundaries.",
-      "fr": "🔥 Les genres se mélangent : djent (Periphery, Meshuggah), symphonique (Nightwish), progressif (Opeth) et folk metal (Eluveitie).\n🌐 Gojira, Babymetal et Ghost repoussent les limites créatives."
+      "en": "💔 Dimebag Darrell Abbott shot and killed onstage on December 8, 2004, during Damageplan show in Columbus, Ohio.\n🔫 Gunman Nathan Gale kills Dimebag and 3 others before being shot by police officer.\n⚡ Pantera guitarist's death shocks metal world - fans and musicians worldwide mourn.\n🎸 Memorial concerts and tributes celebrate his legacy as one of metal's greatest guitarists.\n🕯️ Buried with Eddie Van Halen's yellow-and-black guitar in his casket.",
+      "fr": "💔 Dimebag Darrell Abbott abattu sur scène le 8 décembre 2004, pendant un concert de Damageplan à Columbus, Ohio.\n🔫 Le tireur Nathan Gale tue Dimebag et 3 autres personnes avant d'être abattu par un policier.\n⚡ La mort du guitariste de Pantera choque le monde du metal - fans et musiciens du monde entier pleurent.\n🎸 Des concerts mémoriaux et hommages célèbrent son héritage comme l'un des plus grands guitaristes metal.\n🕯️ Enterré avec la guitare jaune et noire d'Eddie Van Halen dans son cercueil."
     },
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Gojira_-_Rock_am_Ring_2016-AL2328.jpg"
+    "image": "images/metal/dimebag_darrell.jpg",
+    "tags": ["death", "murder", "tragedy", "pantera", "dimebag", "event"]
+  },
+  {
+    "year": "2005",
+    "era": "Djent",
+    "title": {
+      "en": "Meshuggah",
+      "fr": "Meshuggah"
+    },
+    "description": {
+      "en": "🎸 Meshuggah's polyrhythmic complexity and eight-string guitars create djent.\n🔧 'Catch Thirtythree' and 'obZen' showcase mathematical precision and crushing heaviness.\n⚡ Swedish masters influence entire generation with technical innovation.\n🌊 Periphery, TesseracT, and Animals as Leaders carry djent forward.",
+      "fr": "🎸 La complexité polyrythmique de Meshuggah et les guitares à huit cordes créent le djent.\n🔧 'Catch Thirtythree' et 'obZen' présentent la précision mathématique et la lourdeur écrasante.\n⚡ Les maîtres suédois influencent toute une génération avec l'innovation technique.\n🌊 Periphery, TesseracT et Animals as Leaders portent le djent vers l'avant."
+    },
+    "image": "images/metal/meshuggah.jpg",
+    "tags": ["meshuggah", "djent", "technical", "polyrhythmic"]
+  },
+  {
+    "year": "2008",
+    "era": "Modern Metal",
+    "title": {
+      "en": "Gojira",
+      "fr": "Gojira"
+    },
+    "description": {
+      "en": "🌊 French progressive death metal band Gojira brings environmental themes to metal.\n🎸 Technical proficiency meets spiritual and ecological consciousness.\n🔥 'From Mars to Sirius' and 'Magma' showcase evolution from brutal to atmospheric.\n🏆 Grammy nominations and mainstream festivals prove metal's artistic legitimacy.",
+      "fr": "🌊 Le groupe français de death metal progressif Gojira apporte des thèmes environnementaux au metal.\n🎸 La maîtrise technique rencontre la conscience spirituelle et écologique.\n🔥 'From Mars to Sirius' et 'Magma' montrent l'évolution du brutal à l'atmosphérique.\n🏆 Les nominations aux Grammy et les festivals grand public prouvent la légitimité artistique du metal."
+    },
+    "image": "images/metal/gojira.jpg",
+    "tags": ["gojira", "progressive-death", "environmental", "french"]
+  },
+  {
+    "year": "2010",
+    "era": "Heavy Metal",
+    "title": {
+      "en": "Ronnie James Dio Death",
+      "fr": "Mort de Ronnie James Dio"
+    },
+    "description": {
+      "en": "💔 Ronnie James Dio dies of stomach cancer on May 16, 2010, at age 67.\n🤘 Legendary vocalist (Rainbow, Black Sabbath, Dio) popularized the 'devil horns' hand gesture.\n👑 One of metal's greatest voices - powerful, operatic range influenced countless singers.\n⚡ His contributions to Black Sabbath's 'Heaven and Hell' era reinvigorated the band.\n🕯️ Metal community worldwide mourns the loss of one of its founding fathers.",
+      "fr": "💔 Ronnie James Dio meurt d'un cancer de l'estomac le 16 mai 2010, à 67 ans.\n🤘 Chanteur légendaire (Rainbow, Black Sabbath, Dio) a popularisé le geste des 'cornes du diable'.\n👑 L'une des plus grandes voix du metal - puissance et tessiture lyrique ont influencé d'innombrables chanteurs.\n⚡ Ses contributions à l'ère 'Heaven and Hell' de Black Sabbath ont revitalisé le groupe.\n🕯️ La communauté metal mondiale pleure la perte de l'un de ses pères fondateurs."
+    },
+    "image": "images/metal/ronnie_james_dio.jpg",
+    "tags": ["death", "tragedy", "dio", "black-sabbath", "legend", "event"]
+  },
+  {
+    "year": "2010",
+    "era": "Symphonic Metal",
+    "title": {
+      "en": "Nightwish",
+      "fr": "Nightwish"
+    },
+    "description": {
+      "en": "🎭 Finnish symphonic metal pioneers Nightwish combine metal with orchestral arrangements.\n👸 Floor Jansen's operatic vocals and Tuomas Holopainen's compositions create cinematic metal.\n🎻 Full orchestras and choirs elevate metal to symphonic heights.\n🇫🇮 Nordic symphonic metal scene flourishes with Epica, Within Temptation, and Delain.",
+      "fr": "🎭 Les pionniers finlandais du metal symphonique Nightwish combinent metal et arrangements orchestraux.\n👸 Les vocaux lyriques de Floor Jansen et les compositions de Tuomas Holopainen créent un metal cinématographique.\n🎻 Orchestres complets et chœurs élèvent le metal à des sommets symphoniques.\n🇫🇮 La scène metal symphonique nordique prospère avec Epica, Within Temptation et Delain."
+    },
+    "image": "images/metal/nightwish.jpg",
+    "tags": ["nightwish", "symphonic-metal", "operatic", "finnish"]
+  },
+  {
+    "year": "2011",
+    "era": "Thrash Metal",
+    "title": {
+      "en": "Big 4 Concert",
+      "fr": "Concert des Big 4"
+    },
+    "description": {
+      "en": "🎸 The Big 4 of Thrash (Metallica, Slayer, Megadeth, Anthrax) perform together for historic concerts.\n🌍 Shows in Europe and USA unite thrash metal's founding fathers on one stage.\n🔥 Yankeestadium (September 14, 2011) becomes legendary with 50,000+ fans.\n📽️ Concerts filmed and broadcast worldwide, cementing thrash metal's legacy.\n⚡ Rare moment of unity showcases genre's enduring power and influence.",
+      "fr": "🎸 Les Big 4 du Thrash (Metallica, Slayer, Megadeth, Anthrax) se produisent ensemble pour des concerts historiques.\n🌍 Des concerts en Europe et aux USA réunissent les pères fondateurs du thrash metal sur une scène.\n🔥 Le Yankee Stadium (14 septembre 2011) devient légendaire avec plus de 50 000 fans.\n📽️ Les concerts sont filmés et diffusés dans le monde entier, cimentant l'héritage du thrash metal.\n⚡ Moment rare d'unité qui montre le pouvoir et l'influence durables du genre."
+    },
+    "image": "images/metal/big4.jpg",
+    "tags": ["event", "thrash-metal", "big-4", "concert", "historic"]
+  },
+  {
+    "year": "2013",
+    "era": "Thrash Metal",
+    "title": {
+      "en": "Jeff Hanneman Death",
+      "fr": "Mort de Jeff Hanneman"
+    },
+    "description": {
+      "en": "💔 Jeff Hanneman, Slayer's legendary guitarist, dies on May 2, 2013, at age 49.\n🎸 Wrote some of metal's most brutal songs including 'Raining Blood' and 'Angel of Death'.\n🕷️ Never fully recovered from necrotizing fasciitis (flesh-eating disease) from spider bite in 2011.\n⚡ His death marks the end of Slayer's classic era - band continues but is never the same.\n🔥 His riffs and solos defined the most extreme elements of thrash metal.",
+      "fr": "💔 Jeff Hanneman, le légendaire guitariste de Slayer, décède le 2 mai 2013, à 49 ans.\n🎸 A écrit certaines des chansons les plus brutales du metal dont 'Raining Blood' et 'Angel of Death'.\n🕷️ Ne s'est jamais complètement remis de la fasciite nécrosante (maladie mangeuse de chair) d'une morsure d'araignée en 2011.\n⚡ Sa mort marque la fin de l'ère classique de Slayer - le groupe continue mais n'est plus jamais le même.\n🔥 Ses riffs et solos ont défini les éléments les plus extrêmes du thrash metal."
+    },
+    "image": "images/metal/jeff_hanneman.jpg",
+    "tags": ["death", "tragedy", "slayer", "thrash-metal", "event"]
+  },
+  {
+    "year": "2013",
+    "era": "Alternative Metal",
+    "title": {
+      "en": "Ghost",
+      "fr": "Ghost"
+    },
+    "description": {
+      "en": "👻 Swedish band Ghost brings theatricality and accessibility to metal with satanic themes.\n🎭 Papa Emeritus character and nameless ghouls create mysterious persona.\n🎸 '70s rock influences meet modern metal production.\n🏆 Grammy wins prove metal can be both heavy and commercially successful.",
+      "fr": "👻 Le groupe suédois Ghost apporte théâtralité et accessibilité au metal avec des thèmes sataniques.\n🎭 Le personnage de Papa Emeritus et les goules sans nom créent une persona mystérieuse.\n🎸 Les influences rock des années 70 rencontrent la production metal moderne.\n🏆 Les victoires aux Grammy prouvent que le metal peut être à la fois lourd et commercialement réussi."
+    },
+    "image": "images/metal/ghost.jpg",
+    "tags": ["ghost", "theatrical", "swedish", "accessible"]
+  },
+  {
+    "year": "2015",
+    "era": "Speed Metal",
+    "title": {
+      "en": "Lemmy Kilmister Death",
+      "fr": "Mort de Lemmy Kilmister"
+    },
+    "description": {
+      "en": "💔 Lemmy Kilmister, Motörhead frontman, dies on December 28, 2015, at age 70.\n🏴‍☠️ Metal's ultimate outlaw lived fast and loud - died just 2 days after cancer diagnosis.\n⚡ 40 years of Motörhead defined speed metal and influenced thrash, punk, and rock.\n🍺 Famous for Jack Daniel's, cigarettes, and playing louder than everyone else.\n🕯️ 'Born to lose, lived to win' - his legacy as metal icon remains eternal.",
+      "fr": "💔 Lemmy Kilmister, leader de Motörhead, décède le 28 décembre 2015, à 70 ans.\n🏴‍☠️ Le hors-la-loi ultime du metal a vécu vite et fort - décédé seulement 2 jours après le diagnostic de cancer.\n⚡ 40 ans de Motörhead ont défini le speed metal et influencé le thrash, le punk et le rock.\n🍺 Célèbre pour le Jack Daniel's, les cigarettes et jouer plus fort que tout le monde.\n🕯️ 'Né pour perdre, vécu pour gagner' - son héritage comme icône du metal reste éternel."
+    },
+    "image": "images/metal/lemmy.jpg",
+    "tags": ["death", "tragedy", "motorhead", "lemmy", "legend", "event"]
   },
   {
     "year": "2016",
+    "era": "Kawaii Metal",
     "title": {
-      "en": "Gojira and the Eco-Conscious Metal Movement",
-      "fr": "Gojira et le metal éco-conscient"
+      "en": "Babymetal",
+      "fr": "Babymetal"
     },
     "description": {
-      "en": "🌊 Gojira rises as a global force with environmental and spiritual themes.\n🌍 Their success symbolizes metal’s global and intellectual evolution.",
-      "fr": "🌊 Gojira s’impose mondialement avec des thèmes environnementaux et spirituels.\n🌍 Leur succès symbolise l’évolution mondiale et intellectuelle du metal."
+      "en": "🎌 Japanese phenomenon Babymetal fuses J-pop with heavy metal.\n🎤 Three teenage girls fronting veteran metal musicians create unprecedented fusion.\n🌍 Global tours with metal legends prove genre boundaries can be shattered.\n💫 Inspire new generation of fans and prove metal's limitless creativity.",
+      "fr": "🎌 Le phénomène japonais Babymetal fusionne J-pop et heavy metal.\n🎤 Trois adolescentes devant des musiciens metal vétérans créent une fusion sans précédent.\n🌍 Tournées mondiales avec des légendes du metal prouvent que les frontières de genre peuvent être brisées.\n💫 Inspirent une nouvelle génération de fans et prouvent la créativité illimitée du metal."
     },
-    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Gojira_2016_Rock_im_Revier_08.jpg"
+    "image": "images/metal/babymetal.jpg",
+    "tags": ["babymetal", "kawaii-metal", "japanese", "fusion"]
   },
   {
-    "year": "2020s",
+    "year": "2018",
+    "era": "Deathcore",
     "title": {
-      "en": "Metal’s Digital and Global Era",
-      "fr": "L’ère numérique et mondiale du metal"
+      "en": "Lorna Shore",
+      "fr": "Lorna Shore"
     },
     "description": {
-      "en": "📱 Social media and streaming help underground scenes thrive.\n🎧 Bands from India, Indonesia, and Africa join the global metal map.\n🤖 Fusion with electronic, trap, and experimental sounds expands the frontier.",
-      "fr": "📱 Les réseaux sociaux et le streaming font prospérer les scènes underground.\n🎧 Des groupes d’Inde, d’Indonésie et d’Afrique rejoignent la carte mondiale du metal.\n🤖 La fusion avec des sons électroniques, trap et expérimentaux élargit les frontières."
+      "en": "💀 Lorna Shore pushes deathcore to symphonic extremes with blackened influences.\n🎤 Will Ramos's vocal range from gutturals to highs becomes viral phenomenon.\n🎻 Orchestral elements meet devastating breakdowns.\n📱 Social media helps extreme metal reach mainstream audiences.",
+      "fr": "💀 Lorna Shore pousse le deathcore à des extrêmes symphoniques avec des influences blackened.\n🎤 L'étendue vocale de Will Ramos des gutturaux aux aigus devient un phénomène viral.\n🎻 Les éléments orchestraux rencontrent des breakdowns dévastateurs.\n📱 Les réseaux sociaux aident le metal extrême à atteindre le grand public."
     },
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Babymetal_Live_in_London_2014.jpg"
+    "image": "images/metal/lorna_shore.jpg",
+    "tags": ["lorna-shore", "deathcore", "symphonic", "modern"]
+  },
+  {
+    "year": "2020-Present",
+    "era": "Digital Era",
+    "title": {
+      "en": "Global Metal Scene",
+      "fr": "Scène metal mondiale"
+    },
+    "description": {
+      "en": "🌍 Metal thrives globally: Bloodywood (India), Voice of Baceprot (Indonesia), Alien Weaponry (New Zealand).\n📱 Streaming and social media democratize metal, giving underground bands worldwide reach.\n🎸 Genre boundaries blur as artists freely mix styles.\n🔥 Metal proves to be the most diverse and creative it's ever been, with new scenes emerging everywhere.",
+      "fr": "🌍 Le metal prospère mondialement : Bloodywood (Inde), Voice of Baceprot (Indonésie), Alien Weaponry (Nouvelle-Zélande).\n📱 Le streaming et les réseaux sociaux démocratisent le metal, donnant aux groupes underground une portée mondiale.\n🎸 Les frontières de genre s'estompent alors que les artistes mélangent librement les styles.\n🔥 Le metal se révèle le plus divers et créatif qu'il n'ait jamais été, avec de nouvelles scènes émergeant partout."
+    },
+    "image": "images/metal/global_metal.jpg",
+    "tags": ["global", "streaming", "diversity", "modern-era"]
   }
 ]

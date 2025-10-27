@@ -36,6 +36,7 @@ body.dark #main-desc {
 body.dark .country-btn,
 body.dark a[href$="game2.html"],
 body.dark a[href$="quizz.html"],
+body.dark a[href$="tutor.html"],
 body.dark #toggle-tag-bar {
   background-image: none !important;
   background-color: #253046 !important;
@@ -45,6 +46,7 @@ body.dark #toggle-tag-bar {
 body.dark .country-btn:hover,
 body.dark a[href$="game2.html"]:hover,
 body.dark a[href$="quizz.html"]:hover,
+body.dark a[href$="tutor.html"]:hover,
 body.dark #toggle-tag-bar:hover {
   background-color: #334155 !important;
 }

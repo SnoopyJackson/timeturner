@@ -1,37 +1,506 @@
 [
   {
-    "year": "Creation",
-    "title": {"en": "Creation of the World", "ar": "خلق العالم"},
-    "description": {"en": "The sun god Ra emerges from the primordial waters of Nun, creates gods and the world.", "ar": "الإله رع يخرج من مياه نون البدائية ويخلق الآلهة والعالم."},
-    "image": "images/ra_creation.jpg",
-    "tags": ["creation", "ra", "myth"]
+    "year": "Beginning of Time",
+    "era": "Creation",
+    "title": {
+      "en": "Nun - The Primordial Waters",
+      "fr": "Noun - Les eaux primordiales"
+    },
+    "description": {
+      "en": "🌊 Before creation, only Nun existed - the infinite dark waters of chaos and potential.\n💫 From these waters, all creation would emerge, representing the state before existence.\n🌌 Nun embodies both nothingness and infinite possibility, the womb of the universe.",
+      "fr": "🌊 Avant la création, seul Noun existait - les eaux sombres infinies du chaos et du potentiel.\n💫 De ces eaux, toute la création émergerait, représentant l'état avant l'existence.\n🌌 Noun incarne à la fois le néant et la possibilité infinie, le ventre de l'univers."
+    },
+    "image": "images/egypt_myth/nun.jpg",
+    "tags": ["creation", "primordial", "chaos", "beginning"]
   },
   {
-    "year": "Osiris & Isis",
-    "title": {"en": "Osiris, Isis, and Horus", "ar": "أوزيريس وإيزيس وحورس"},
-    "description": {"en": "Osiris is killed by his brother Set, resurrected by Isis, and their son Horus avenges him.", "ar": "يُقتل أوزيريس على يد أخيه ست، وتعيده إيزيس للحياة، وينتقم ابنه حورس."},
-    "image": "images/osiris_isis_horus.jpg",
-    "tags": ["osiris", "isis", "horus"]
+    "year": "First Dawn",
+    "era": "Creation",
+    "title": {
+      "en": "Atum-Ra",
+      "fr": "Atoum-Rê"
+    },
+    "description": {
+      "en": "☀️ Atum-Ra emerges from Nun as the self-created god, the first spark of consciousness in the void.\n🏔️ Creates the primordial mound (benben) from which all creation unfolds.\n✨ Through his will alone, brings light, form, and order to the formless chaos.\n👁️ The original creator deity who contains all future gods within himself.",
+      "fr": "☀️ Atoum-Rê émerge de Noun en tant que dieu auto-créé, la première étincelle de conscience dans le vide.\n🏔️ Crée la butte primordiale (benben) d'où toute création se déploie.\n✨ Par sa seule volonté, apporte lumière, forme et ordre au chaos informe.\n👁️ La divinité créatrice originelle qui contient tous les dieux futurs en lui-même."
+    },
+    "image": "images/egypt_myth/atum_ra.webp",
+    "tags": ["creation", "sun", "creator", "atum", "ra"]
   },
   {
-    "year": "Set",
-    "title": {"en": "Set and Chaos", "ar": "ست والفوضى"},
-    "description": {"en": "Set, god of chaos, battles Horus for the throne of Egypt, symbolizing order vs. disorder.", "ar": "الإله ست، إله الفوضى، يقاتل حورس على عرش مصر، رمز النظام مقابل الفوضى."},
-    "image": "images/set_chaos.jpg",
-    "tags": ["set", "chaos", "battle"]
+    "year": "Birth of Air and Moisture",
+    "era": "Creation",
+    "title": {
+      "en": "Shu and Tefnut",
+      "fr": "Chou et Tefnout"
+    },
+    "description": {
+      "en": "💨 Atum creates Shu (air/dryness) and Tefnut (moisture) through divine speech or breath.\n☁️ First divine couple representing the fundamental elements of atmosphere and water.\n🌫️ They separate the sky from the earth, creating space for life to exist.\n👫 Their union establishes the pattern of divine couples in Egyptian cosmology.",
+      "fr": "💨 Atoum crée Chou (air/sécheresse) et Tefnout (humidité) par la parole ou le souffle divin.\n☁️ Premier couple divin représentant les éléments fondamentaux de l'atmosphère et de l'eau.\n🌫️ Ils séparent le ciel de la terre, créant l'espace pour que la vie existe.\n👫 Leur union établit le modèle des couples divins dans la cosmologie égyptienne."
+    },
+    "image": "images/egypt_myth/shu_tefnut.png",
+    "tags": ["creation", "air", "moisture", "elements", "couple"]
   },
   {
-    "year": "Book of the Dead",
-    "title": {"en": "Journey in the Afterlife", "ar": "رحلة في العالم الآخر"},
-    "description": {"en": "Souls are judged by Osiris; heart weighed against the feather of Ma'at. Successful souls enter paradise.", "ar": "الأرواح تُحاكم بواسطة أوزيريس؛ القلب يُوزن مقابل ريشة ماعت. الأرواح الناجحة تدخل الجنة."},
-    "image": "images/book_dead.jpg",
-    "tags": ["afterlife", "osiris", "maat"]
+    "year": "Earth and Sky",
+    "era": "Creation",
+    "title": {
+      "en": "Geb and Nut",
+      "fr": "Geb et Nout"
+    },
+    "description": {
+      "en": "🌍 Geb (earth) and Nut (sky) are born from Shu and Tefnut, locked in eternal embrace.\n⭐ Shu separates them, holding Nut above while Geb lies below, creating the world.\n🌟 Nut's body arches over the earth, covered in stars, swallowing and rebirthing the sun daily.\n💚 Geb provides fertility to the land, while Nut protects from above - the cosmic couple.",
+      "fr": "🌍 Geb (terre) et Nout (ciel) naissent de Chou et Tefnout, enfermés dans une étreinte éternelle.\n⭐ Chou les sépare, tenant Nout au-dessus tandis que Geb repose en dessous, créant le monde.\n🌟 Le corps de Nout s'arque au-dessus de la terre, couvert d'étoiles, avalant et renaissant le soleil chaque jour.\n💚 Geb apporte la fertilité à la terre, tandis que Nout protège d'en haut - le couple cosmique."
+    },
+    "image": "images/egypt_myth/geb_nut.jpg",
+    "tags": ["creation", "earth", "sky", "stars", "cosmos"]
   },
   {
-    "year": "Bastet & Anubis",
-    "title": {"en": "Bastet and Anubis", "ar": "باستت وأنوبيس"},
-    "description": {"en": "Bastet, goddess of protection, and Anubis, god of mummification and the dead, guide and protect souls.", "ar": "باستت، إلهة الحماية، وأنوبيس، إله التحنيط والموتى، يوجهان ويحميان الأرواح."},
-    "image": "images/bastet_anubis.jpg",
-    "tags": ["bastet", "anubis", "protection"]
+    "year": "The First Gods of Earth",
+    "era": "Ennead",
+    "title": {
+      "en": "The Great Ennead",
+      "fr": "La Grande Ennéade"
+    },
+    "description": {
+      "en": "👑 Geb and Nut give birth to the five great gods: Osiris, Isis, Set, Nephthys, and Horus the Elder.\n⚖️ This completes the Ennead (nine gods) of Heliopolis - the first divine family.\n🏛️ These gods will shape the fate of Egypt and humanity through their myths and conflicts.\n✨ Represents the transition from cosmic creation to earthly rule and human concerns.",
+      "fr": "👑 Geb et Nout donnent naissance aux cinq grands dieux : Osiris, Isis, Seth, Nephtys et Horus l'Ancien.\n⚖️ Cela complète l'Ennéade (neuf dieux) d'Héliopolis - la première famille divine.\n🏛️ Ces dieux façonneront le destin de l'Égypte et de l'humanité à travers leurs mythes et conflits.\n✨ Représente la transition de la création cosmique au règne terrestre et aux préoccupations humaines."
+    },
+    "image": "images/egypt_myth/ennead.jpg",
+    "tags": ["ennead", "gods", "family", "heliopolis", "divine"]
+  },
+  {
+    "year": "The Perfect King",
+    "era": "Golden Age",
+    "title": {
+      "en": "Osiris",
+      "fr": "Osiris"
+    },
+    "description": {
+      "en": "👑 Osiris becomes the first divine king of Egypt, ruling with wisdom, justice, and compassion.\n🌾 Teaches humanity agriculture, law, civilization, and proper worship of the gods.\n💚 The green-skinned god represents fertility, renewal, and the life-giving Nile floods.\n✨ Creates a golden age where gods and humans live in harmony, establishing Ma'at (cosmic order).",
+      "fr": "👑 Osiris devient le premier roi divin d'Égypte, régnant avec sagesse, justice et compassion.\n🌾 Enseigne à l'humanité l'agriculture, la loi, la civilisation et le culte approprié des dieux.\n💚 Le dieu à peau verte représente la fertilité, le renouveau et les crues vivifiantes du Nil.\n✨ Crée un âge d'or où dieux et humains vivent en harmonie, établissant Maât (ordre cosmique)."
+    },
+    "image": "images/egypt_myth/osiris.jpg",
+    "tags": ["osiris", "king", "fertility", "agriculture", "golden-age"]
+  },
+  {
+    "year": "The Great Goddess",
+    "era": "Golden Age",
+    "title": {
+      "en": "Isis",
+      "fr": "Isis"
+    },
+    "description": {
+      "en": "👸 Isis, queen and wife of Osiris, goddess of magic, healing, and motherhood.\n🔮 Most powerful magician among gods, knows the secret names that grant power over all beings.\n💫 Represents the ideal wife, mother, and queen - devoted, clever, and infinitely resourceful.\n⭐ Her cult will spread throughout the ancient world, becoming one of the most important deities.",
+      "fr": "👸 Isis, reine et épouse d'Osiris, déesse de la magie, de la guérison et de la maternité.\n🔮 Magicienne la plus puissante parmi les dieux, connaît les noms secrets qui donnent pouvoir sur tous les êtres.\n💫 Représente l'épouse, la mère et la reine idéales - dévouée, intelligente et infiniment ingénieuse.\n⭐ Son culte se répandra dans tout le monde antique, devenant l'une des divinités les plus importantes."
+    },
+    "image": "images/egypt_myth/isis.png",
+    "tags": ["isis", "magic", "queen", "goddess", "motherhood"]
+  },
+  {
+    "year": "The Red God",
+    "era": "Age of Conflict",
+    "title": {
+      "en": "Set",
+      "fr": "Seth"
+    },
+    "description": {
+      "en": "⚡ Set, god of chaos, storms, desert, and violence - brother of Osiris and Isis.\n🏜️ Rules the barren desert while Osiris rules the fertile Nile valley, creating cosmic balance.\n😠 Grows jealous of Osiris' perfect reign and beloved status among gods and mortals.\n🌪️ Represents necessary chaos, strength, and the wild untamed forces of nature.",
+      "fr": "⚡ Seth, dieu du chaos, des tempêtes, du désert et de la violence - frère d'Osiris et d'Isis.\n🏜️ Règne sur le désert stérile tandis qu'Osiris règne sur la vallée fertile du Nil, créant l'équilibre cosmique.\n😠 Devient jaloux du règne parfait d'Osiris et de son statut adoré parmi les dieux et les mortels.\n🌪️ Représente le chaos nécessaire, la force et les forces sauvages et indomptées de la nature."
+    },
+    "image": "images/egypt_myth/set.webp",
+    "tags": ["set", "chaos", "desert", "storm", "violence"]
+  },
+  {
+    "year": "The Great Betrayal",
+    "era": "Age of Conflict",
+    "title": {
+      "en": "Murder of Osiris",
+      "fr": "Meurtre d'Osiris"
+    },
+    "description": {
+      "en": "⚔️ Set plots against Osiris, creating a beautiful coffin perfectly fitted to Osiris' measurements.\n🎭 At a great feast, Set tricks Osiris into the coffin, seals it, and casts it into the Nile.\n💀 Osiris drowns, and his body drifts to Byblos where it becomes encased in a tamarisk tree.\n😢 The golden age ends, and death enters the world for the first time through betrayal and murder.",
+      "fr": "⚔️ Seth complote contre Osiris, créant un beau cercueil parfaitement ajusté aux mesures d'Osiris.\n🎭 Lors d'un grand festin, Seth piège Osiris dans le cercueil, le scelle et le jette dans le Nil.\n💀 Osiris se noie, et son corps dérive jusqu'à Byblos où il est enfermé dans un tamaris.\n😢 L'âge d'or prend fin, et la mort entre dans le monde pour la première fois par la trahison et le meurtre."
+    },
+    "image": "images/egypt_myth/osiris_murder.webp",
+    "tags": ["osiris", "set", "murder", "betrayal", "death"]
+  },
+  {
+    "year": "The Quest",
+    "era": "Age of Conflict",
+    "title": {
+      "en": "Isis' Search",
+      "fr": "La quête d'Isis"
+    },
+    "description": {
+      "en": "🔍 Isis searches the world for Osiris' body, mourning and refusing to abandon her beloved.\n🌊 Finds the coffin in Byblos, embedded in a pillar of the palace, and brings it back to Egypt.\n💔 Her tears and lamentations create the annual Nile flood that brings life to Egypt.\n✨ Demonstrates the power of love, loyalty, and determination that transcends even death.",
+      "fr": "🔍 Isis parcourt le monde à la recherche du corps d'Osiris, pleurant et refusant d'abandonner son bien-aimé.\n🌊 Trouve le cercueil à Byblos, encastré dans un pilier du palais, et le ramène en Égypte.\n💔 Ses larmes et lamentations créent la crue annuelle du Nil qui apporte la vie à l'Égypte.\n✨ Démontre le pouvoir de l'amour, de la loyauté et de la détermination qui transcende même la mort."
+    },
+    "image": "images/egypt_myth/isis_search.jpg",
+    "tags": ["isis", "quest", "love", "mourning", "nile"]
+  },
+  {
+    "year": "The Dismemberment",
+    "era": "Age of Conflict",
+    "title": {
+      "en": "Set's Second Crime",
+      "fr": "Le second crime de Seth"
+    },
+    "description": {
+      "en": "😈 Set discovers Osiris' body and in rage, tears it into 14 (or 42) pieces, scattering them across Egypt.\n🗺️ Each piece falls in a different location, later marked by temples and sacred sites.\n💀 The most important piece, the phallus, is swallowed by a fish in the Nile.\n⚡ This act represents the complete destruction of order and the ultimate triumph of chaos.",
+      "fr": "😈 Seth découvre le corps d'Osiris et, enragé, le déchire en 14 (ou 42) morceaux, les dispersant à travers l'Égypte.\n🗺️ Chaque morceau tombe dans un lieu différent, marqué plus tard par des temples et sites sacrés.\n💀 Le morceau le plus important, le phallus, est avalé par un poisson dans le Nil.\n⚡ Cet acte représente la destruction complète de l'ordre et le triomphe ultime du chaos."
+    },
+    "image": "images/egypt_myth/osiris_dismembered.jpg",
+    "tags": ["set", "osiris", "dismemberment", "chaos", "destruction"]
+  },
+  {
+    "year": "The Reconstruction",
+    "era": "Resurrection",
+    "title": {
+      "en": "Isis and Nephthys",
+      "fr": "Isis et Nephtys"
+    },
+    "description": {
+      "en": "🦅 Isis transforms into a kite (bird) and searches all Egypt with her sister Nephthys for the pieces.\n🔮 Using her powerful magic, she reassembles Osiris' body piece by piece.\n🎨 Creates a golden phallus to replace the lost piece, establishing the art of embalming.\n👭 The two sisters' devotion creates the first mummy, the prototype for all Egyptian funerary practices.",
+      "fr": "🦅 Isis se transforme en milan (oiseau) et parcourt toute l'Égypte avec sa sœur Nephtys à la recherche des morceaux.\n🔮 Utilisant sa puissante magie, elle réassemble le corps d'Osiris morceau par morceau.\n🎨 Crée un phallus en or pour remplacer le morceau perdu, établissant l'art de l'embaumement.\n👭 La dévotion des deux sœurs crée la première momie, le prototype de toutes les pratiques funéraires égyptiennes."
+    },
+    "image": "images/egypt_myth/isis_nephthys.jpg",
+    "tags": ["isis", "nephthys", "magic", "resurrection", "mummy"]
+  },
+  {
+    "year": "The Conception",
+    "era": "Resurrection",
+    "title": {
+      "en": "Birth of Horus",
+      "fr": "Naissance d'Horus"
+    },
+    "description": {
+      "en": "🌟 Isis uses magic to resurrect Osiris temporarily and conceives their son Horus.\n🦅 Horus will be the avenger, destined to restore Ma'at and reclaim his father's throne.\n💫 This miraculous conception establishes the principle of divine kingship passing through generations.\n👶 Isis hides in the marshes of the Delta to protect the infant Horus from Set's wrath.",
+      "fr": "🌟 Isis utilise la magie pour ressusciter temporairement Osiris et conçoit leur fils Horus.\n🦅 Horus sera le vengeur, destiné à restaurer Maât et reconquérir le trône de son père.\n💫 Cette conception miraculeuse établit le principe de la royauté divine transmise à travers les générations.\n👶 Isis se cache dans les marais du Delta pour protéger le bébé Horus de la colère de Seth."
+    },
+    "image": "images/egypt_myth/horus_birth.jpg",
+    "tags": ["horus", "birth", "isis", "conception", "destiny"]
+  },
+  {
+    "year": "Lord of the Duat",
+    "era": "Resurrection",
+    "title": {
+      "en": "Osiris - Judge of the Dead",
+      "fr": "Osiris - Juge des morts"
+    },
+    "description": {
+      "en": "⚖️ Unable to return to the world of the living, Osiris descends to rule the Duat (underworld).\n👑 Becomes judge of the dead, weighing hearts against the feather of Ma'at for all eternity.\n💚 Transforms from god of life to god of death and resurrection, embodying eternal renewal.\n🌾 Promises resurrection to all who follow proper rituals, making death not an end but a transformation.",
+      "fr": "⚖️ Incapable de retourner au monde des vivants, Osiris descend régner sur le Duat (monde souterrain).\n👑 Devient juge des morts, pesant les cœurs contre la plume de Maât pour l'éternité.\n💚 Se transforme de dieu de la vie en dieu de la mort et de la résurrection, incarnant le renouveau éternel.\n🌾 Promet la résurrection à tous ceux qui suivent les rituels appropriés, faisant de la mort non pas une fin mais une transformation."
+    },
+    "image": "images/egypt_myth/osiris_judge.jpg",
+    "tags": ["osiris", "underworld", "judgment", "resurrection", "duat"]
+  },
+  {
+    "year": "The Hidden Child",
+    "era": "Age of Horus",
+    "title": {
+      "en": "Horus the Child",
+      "fr": "Horus l'enfant"
+    },
+    "description": {
+      "en": "👶 Young Horus (Harpocrates) grows up hidden in the Delta marshes, protected by Isis' magic.\n🐍 Survives Set's attempts to kill him, including scorpion stings and serpent attacks.\n🔮 Isis uses her magic to heal him each time, teaching the spells later used by mortal healers.\n💪 Grows strong and learns warfare, magic, and kingship, preparing for his destiny.",
+      "fr": "👶 Le jeune Horus (Harpocrate) grandit caché dans les marais du Delta, protégé par la magie d'Isis.\n🐍 Survit aux tentatives de Seth de le tuer, y compris les piqûres de scorpion et les attaques de serpents.\n🔮 Isis utilise sa magie pour le guérir à chaque fois, enseignant les sorts utilisés plus tard par les guérisseurs mortels.\n💪 Devient fort et apprend la guerre, la magie et la royauté, se préparant à son destin."
+    },
+    "image": "images/egypt_myth/horus_child.jpg",
+    "tags": ["horus", "childhood", "protection", "isis", "survival"]
+  },
+  {
+    "year": "The Challenge",
+    "era": "Age of Horus",
+    "title": {
+      "en": "Horus vs Set",
+      "fr": "Horus contre Seth"
+    },
+    "description": {
+      "en": "⚔️ Horus comes of age and challenges Set for the throne of Egypt before the divine tribunal.\n🦅 The battle lasts 80 years, fought across Egypt in various forms and contests.\n👁️ Set tears out Horus' eye; Horus castrates Set - both wounded but neither defeated.\n⚖️ The gods are divided, some supporting order (Horus) and others chaos (Set).",
+      "fr": "⚔️ Horus atteint l'âge adulte et défie Seth pour le trône d'Égypte devant le tribunal divin.\n🦅 La bataille dure 80 ans, menée à travers l'Égypte sous diverses formes et épreuves.\n👁️ Seth arrache l'œil d'Horus ; Horus castre Seth - tous deux blessés mais aucun vaincu.\n⚖️ Les dieux sont divisés, certains soutenant l'ordre (Horus) et d'autres le chaos (Seth)."
+    },
+    "image": "images/egypt_myth/horus_set_battle.avif",
+    "tags": ["horus", "set", "battle", "conflict", "throne"]
+  },
+  {
+    "year": "The Sacred Eye",
+    "era": "Age of Horus",
+    "title": {
+      "en": "Eye of Horus - Wedjat",
+      "fr": "Œil d'Horus - Oudjat"
+    },
+    "description": {
+      "en": "👁️ Thoth heals Horus' torn eye, which becomes the Wedjat - symbol of healing, protection, and royal power.\n✨ Horus offers the restored eye to Osiris, bringing him partial restoration in the underworld.\n🔮 The Eye becomes Egypt's most powerful amulet, representing wholeness and divine protection.\n⚕️ Each part of the eye corresponds to a fraction, used in medicine and mathematics.",
+      "fr": "👁️ Thot guérit l'œil déchiré d'Horus, qui devient le Oudjat - symbole de guérison, protection et pouvoir royal.\n✨ Horus offre l'œil restauré à Osiris, lui apportant une restauration partielle dans le monde souterrain.\n🔮 L'Œil devient l'amulette la plus puissante d'Égypte, représentant la plénitude et la protection divine.\n⚕️ Chaque partie de l'œil correspond à une fraction, utilisée en médecine et mathématiques."
+    },
+    "image": "images/egypt_myth/eye_horus.jpg",
+    "tags": ["horus", "eye", "wedjat", "healing", "protection"]
+  },
+  {
+    "year": "The Verdict",
+    "era": "Age of Horus",
+    "title": {
+      "en": "Divine Judgment",
+      "fr": "Jugement divin"
+    },
+    "description": {
+      "en": "⚖️ After 80 years of conflict, the Ennead finally rules in favor of Horus as rightful king.\n👑 Horus receives the crown of Upper and Lower Egypt, uniting the Two Lands.\n🏜️ Set is not destroyed but given dominion over the desert and foreign lands, maintaining cosmic balance.\n✨ Establishes the principle: every pharaoh is the living Horus, maintaining Ma'at on earth.",
+      "fr": "⚖️ Après 80 ans de conflit, l'Ennéade statue finalement en faveur d'Horus comme roi légitime.\n👑 Horus reçoit la couronne de Haute et Basse-Égypte, unissant les Deux Terres.\n🏜️ Seth n'est pas détruit mais reçoit la domination sur le désert et les terres étrangères, maintenant l'équilibre cosmique.\n✨ Établit le principe : chaque pharaon est l'Horus vivant, maintenant Maât sur terre."
+    },
+    "image": "images/egypt_myth/divine_judgment.webp",
+    "tags": ["horus", "judgment", "kingship", "victory", "maat"]
+  },
+  {
+    "year": "The Scribe of Gods",
+    "era": "Divine Order",
+    "title": {
+      "en": "Thoth",
+      "fr": "Thot"
+    },
+    "description": {
+      "en": "📚 Thoth, ibis-headed god of wisdom, writing, magic, and measurement.\n⚖️ Serves as scribe and mediator of the gods, recording the judgment of souls.\n🌙 Invented hieroglyphs, mathematics, astronomy, and all sciences.\n🔮 His words have creative power; what he writes becomes reality, maintaining cosmic order.",
+      "fr": "📚 Thot, dieu à tête d'ibis de la sagesse, de l'écriture, de la magie et de la mesure.\n⚖️ Sert de scribe et médiateur des dieux, enregistrant le jugement des âmes.\n🌙 A inventé les hiéroglyphes, les mathématiques, l'astronomie et toutes les sciences.\n🔮 Ses mots ont un pouvoir créatif ; ce qu'il écrit devient réalité, maintenant l'ordre cosmique."
+    },
+    "image": "images/egypt_myth/thoth.jpg",
+    "tags": ["thoth", "wisdom", "writing", "magic", "knowledge"]
+  },
+  {
+    "year": "Guardian of the Dead",
+    "era": "Divine Order",
+    "title": {
+      "en": "Anubis",
+      "fr": "Anubis"
+    },
+    "description": {
+      "en": "🐺 Anubis, jackal-headed god of mummification, embalming, and guardian of the necropolis.\n⚖️ Invented mummification when he embalmed Osiris, becoming patron of embalmers.\n💀 Guides souls through the Duat and oversees the weighing of hearts in judgment.\n🏛️ Protects tombs and graves from desecration, guardian between life and death.",
+      "fr": "🐺 Anubis, dieu à tête de chacal de la momification, de l'embaumement et gardien de la nécropole.\n⚖️ A inventé la momification en embaumant Osiris, devenant patron des embaumeurs.\n💀 Guide les âmes à travers le Duat et supervise la pesée des cœurs lors du jugement.\n🏛️ Protège les tombes et sépultures de la profanation, gardien entre la vie et la mort."
+    },
+    "image": "images/egypt_myth/anubis.jpg",
+    "tags": ["anubis", "death", "mummification", "guardian", "underworld"]
+  },
+  {
+    "year": "The Weighing",
+    "era": "Divine Order",
+    "title": {
+      "en": "Judgment of the Dead",
+      "fr": "Jugement des morts"
+    },
+    "description": {
+      "en": "⚖️ The deceased's heart is weighed against Ma'at's feather of truth in the Hall of Two Truths.\n📚 The person must recite the 'Negative Confessions' - 42 sins they did not commit.\n👹 If the heart is heavy with sin, Ammit the Devourer consumes it - the second death, permanent.\n✨ If pure, the soul joins Osiris in the Field of Reeds, an eternal paradise.",
+      "fr": "⚖️ Le cœur du défunt est pesé contre la plume de vérité de Maât dans la Salle des Deux Vérités.\n📚 La personne doit réciter les 'Confessions négatives' - 42 péchés qu'elle n'a pas commis.\n👹 Si le cœur est lourd de péchés, Ammit la Dévoreuse le consume - la seconde mort, permanente.\n✨ Si pur, l'âme rejoint Osiris dans le Champ des Roseaux, un paradis éternel."
+    },
+    "image": "images/egypt_myth/weighing_heart.jpg",
+    "tags": ["judgment", "maat", "heart", "afterlife", "osiris"]
+  },
+  {
+    "year": "Cosmic Order",
+    "era": "Divine Order",
+    "title": {
+      "en": "Ma'at",
+      "fr": "Maât"
+    },
+    "description": {
+      "en": "⚖️ Ma'at, goddess of truth, justice, harmony, and cosmic order - the fundamental principle of existence.\n🪶 Represented by the ostrich feather against which hearts are weighed.\n✨ Not just a goddess but the concept that holds the universe together against chaos.\n👑 Every pharaoh's primary duty is to maintain Ma'at through just rule, proper rituals, and offerings.",
+      "fr": "⚖️ Maât, déesse de la vérité, de la justice, de l'harmonie et de l'ordre cosmique - le principe fondamental de l'existence.\n🪶 Représentée par la plume d'autruche contre laquelle les cœurs sont pesés.\n✨ Pas seulement une déesse mais le concept qui maintient l'univers ensemble contre le chaos.\n👑 Le devoir premier de chaque pharaon est de maintenir Maât par un règne juste, des rituels appropriés et des offrandes."
+    },
+    "image": "images/egypt_myth/maat.jpg",
+    "tags": ["maat", "order", "truth", "justice", "balance"]
+  },
+  {
+    "year": "Divine Craftsman",
+    "era": "Divine Order",
+    "title": {
+      "en": "Ptah",
+      "fr": "Ptah"
+    },
+    "description": {
+      "en": "🔨 Ptah, creator god of Memphis, divine craftsman and architect of the universe.\n💭 Creates through thought and speech - thinking and naming things brings them into existence.\n⚒️ Patron of craftsmen, artists, and builders; created the first artworks and tools.\n🏛️ Alternative creation myth: Ptah creates Atum-Ra through his thoughts, making him the ultimate creator.",
+      "fr": "🔨 Ptah, dieu créateur de Memphis, artisan divin et architecte de l'univers.\n💭 Crée par la pensée et la parole - penser et nommer les choses les fait exister.\n⚒️ Patron des artisans, artistes et bâtisseurs ; a créé les premières œuvres d'art et outils.\n🏛️ Mythe de création alternatif : Ptah crée Atoum-Rê par ses pensées, faisant de lui le créateur ultime."
+    },
+    "image": "images/egypt_myth/ptah.jpg",
+    "tags": ["ptah", "creation", "craftsman", "memphis", "architect"]
+  },
+  {
+    "year": "Lady of Joy",
+    "era": "Divine Order",
+    "title": {
+      "en": "Hathor",
+      "fr": "Hathor"
+    },
+    "description": {
+      "en": "🐄 Hathor, cow goddess of love, beauty, music, joy, motherhood, and the sky.\n🎵 Goddess of music and dance, celebrations and festivals held in her honor.\n👁️ Daughter of Ra, can transform into Sekhmet when angered - the duality of gentle and fierce.\n💫 Protects women in childbirth and welcomes the dead to the afterlife with food and drink.",
+      "fr": "🐄 Hathor, déesse vache de l'amour, de la beauté, de la musique, de la joie, de la maternité et du ciel.\n🎵 Déesse de la musique et de la danse, célébrations et festivals tenus en son honneur.\n👁️ Fille de Rê, peut se transformer en Sekhmet lorsqu'elle est en colère - la dualité du doux et du féroce.\n💫 Protège les femmes lors de l'accouchement et accueille les morts dans l'au-delà avec nourriture et boisson."
+    },
+    "image": "images/egypt_myth/hathor.jpg",
+    "tags": ["hathor", "love", "music", "joy", "motherhood"]
+  },
+  {
+    "year": "The Lioness",
+    "era": "Divine Order",
+    "title": {
+      "en": "Sekhmet",
+      "fr": "Sekhmet"
+    },
+    "description": {
+      "en": "🦁 Sekhmet, lioness goddess of war, healing, and divine retribution.\n🔥 Ra sends her to punish humanity's rebellion, nearly destroying all mankind in her bloodlust.\n🍺 Stopped only when Ra tricks her with beer dyed red like blood, which makes her too drunk to continue killing.\n⚕️ Transforms from destroyer to healer, embodying the dual nature of disease and cure.",
+      "fr": "🦁 Sekhmet, déesse lionne de la guerre, de la guérison et de la rétribution divine.\n🔥 Rê l'envoie punir la rébellion de l'humanité, détruisant presque toute l'humanité dans sa soif de sang.\n🍺 Arrêtée seulement quand Rê la trompe avec de la bière teinte en rouge comme du sang, qui la rend trop ivre pour continuer à tuer.\n⚕️ Se transforme de destructrice en guérisseuse, incarnant la double nature de la maladie et du remède."
+    },
+    "image": "images/egypt_myth/sekhmet.jpg",
+    "tags": ["sekhmet", "war", "healing", "lioness", "destruction"]
+  },
+  {
+    "year": "Protector Goddess",
+    "era": "Divine Order",
+    "title": {
+      "en": "Bastet",
+      "fr": "Bastet"
+    },
+    "description": {
+      "en": "🐱 Bastet, cat goddess of protection, home, fertility, and women's secrets.\n🏠 Guardian of homes and families, protector against evil spirits and disease.\n🌙 Originally a lioness (like Sekhmet) but softened into a domestic cat over time.\n🎉 Her festivals were among the most popular, filled with music, dancing, and celebration.",
+      "fr": "🐱 Bastet, déesse chat de la protection, du foyer, de la fertilité et des secrets des femmes.\n🏠 Gardienne des foyers et des familles, protectrice contre les mauvais esprits et les maladies.\n🌙 À l'origine une lionne (comme Sekhmet) mais adoucie en chat domestique avec le temps.\n🎉 Ses festivals étaient parmi les plus populaires, remplis de musique, de danse et de célébration."
+    },
+    "image": "images/egypt_myth/bastet.jpg",
+    "tags": ["bastet", "cat", "protection", "home", "fertility"]
+  },
+  {
+    "year": "Lady of Sorrows",
+    "era": "Divine Order",
+    "title": {
+      "en": "Nephthys",
+      "fr": "Nephtys"
+    },
+    "description": {
+      "en": "🌙 Nephthys, sister of Isis and wife of Set, goddess of mourning, night, and service to the dead.\n💔 Despite being Set's wife, aids Isis in finding and resurrecting Osiris out of compassion.\n🦅 With Isis, forms the two kites whose cries of mourning become the model for funeral lamentations.\n👻 Protects the dead and assists in their journey through the underworld, the 'Friend of the Dead'.",
+      "fr": "🌙 Nephtys, sœur d'Isis et épouse de Seth, déesse du deuil, de la nuit et du service aux morts.\n💔 Bien qu'épouse de Seth, aide Isis à retrouver et ressusciter Osiris par compassion.\n🦅 Avec Isis, forme les deux milans dont les cris de deuil deviennent le modèle des lamentations funéraires.\n👻 Protège les morts et les assiste dans leur voyage à travers le monde souterrain, l''Amie des Morts'."
+    },
+    "image": "images/egypt_myth/nephthys.webp",
+    "tags": ["nephthys", "mourning", "death", "protection", "compassion"]
+  },
+  {
+    "year": "The Devourer",
+    "era": "Divine Order",
+    "title": {
+      "en": "Ammit",
+      "fr": "Ammit"
+    },
+    "description": {
+      "en": "👹 Ammit, the Devourer - part crocodile, hippopotamus, and lion, embodiment of divine retribution.\n⚖️ Waits beside the scales during the weighing of the heart in the Hall of Judgment.\n💀 Devours hearts heavy with sin, causing the 'second death' - permanent annihilation of the soul.\n😱 Not evil but necessary, the ultimate punishment for those who lived unjustly.",
+      "fr": "👹 Ammit, la Dévoreuse - mi-crocodile, hippopotame et lion, incarnation de la rétribution divine.\n⚖️ Attend à côté des balances pendant la pesée du cœur dans la Salle du Jugement.\n💀 Dévore les cœurs lourds de péchés, causant la 'seconde mort' - annihilation permanente de l'âme.\n😱 Pas maléfique mais nécessaire, la punition ultime pour ceux qui ont vécu injustement."
+    },
+    "image": "images/egypt_myth/ammit.jpg",
+    "tags": ["ammit", "judgment", "devourer", "punishment", "death"]
+  },
+  {
+    "year": "The Nile God",
+    "era": "Divine Order",
+    "title": {
+      "en": "Hapi",
+      "fr": "Hapi"
+    },
+    "description": {
+      "en": "🌊 Hapi, god of the annual Nile flood that brings life and fertility to Egypt.\n💚 Depicted with a large belly and breasts, representing abundance and nourishment.\n🌾 The flood is seen as Hapi's blessing, bringing rich silt that makes Egypt's farmland fertile.\n🎉 Celebrated with festivals when the flood arrives, as survival depends on his generosity.",
+      "fr": "🌊 Hapi, dieu de la crue annuelle du Nil qui apporte vie et fertilité à l'Égypte.\n💚 Représenté avec un gros ventre et des seins, symbolisant l'abondance et la nourriture.\n🌾 La crue est vue comme la bénédiction d'Hapi, apportant le limon riche qui rend les terres agricoles d'Égypte fertiles.\n🎉 Célébré par des festivals à l'arrivée de la crue, car la survie dépend de sa générosité."
+    },
+    "image": "images/egypt_myth/hapi.jpg",
+    "tags": ["hapi", "nile", "flood", "fertility", "abundance"]
+  },
+  {
+    "year": "The Primordial Serpent",
+    "era": "Forces of Chaos",
+    "title": {
+      "en": "Apophis",
+      "fr": "Apophis"
+    },
+    "description": {
+      "en": "🐍 Apophis (Apep), the giant serpent of chaos dwelling in the Duat, enemy of Ra and all creation.\n🌑 Each night attempts to swallow Ra's solar barque as it travels through the underworld.\n⚔️ Set, in his positive aspect, defends Ra by battling Apophis nightly with a spear.\n🌅 If Apophis succeeds, the sun will not rise and creation will return to primordial chaos.",
+      "fr": "🐍 Apophis (Apep), le serpent géant du chaos habitant le Duat, ennemi de Rê et de toute création.\n🌑 Chaque nuit tente d'avaler la barque solaire de Rê alors qu'elle traverse le monde souterrain.\n⚔️ Seth, dans son aspect positif, défend Rê en combattant Apophis chaque nuit avec une lance.\n🌅 Si Apophis réussit, le soleil ne se lèvera pas et la création retournera au chaos primordial."
+    },
+    "image": "images/egypt_myth/apophis.webp",
+    "tags": ["apophis", "chaos", "serpent", "ra", "darkness"]
+  },
+  {
+    "year": "The Solar Journey",
+    "era": "Cosmic Cycle",
+    "title": {
+      "en": "Ra's Daily Cycle",
+      "fr": "Le cycle quotidien de Rê"
+    },
+    "description": {
+      "en": "☀️ Ra travels across the sky in his solar barque each day, bringing light and life to the world.\n🌅 At dawn, he is Khepri the scarab; at noon, Ra in full power; at dusk, Atum the old man.\n🌃 At night, descends into the Duat to battle Apophis and bring light to the dead.\n♾️ This eternal cycle represents life, death, and rebirth - the fundamental rhythm of existence.",
+      "fr": "☀️ Rê traverse le ciel dans sa barque solaire chaque jour, apportant lumière et vie au monde.\n🌅 À l'aube, il est Khépri le scarabée ; à midi, Rê en pleine puissance ; au crépuscule, Atoum le vieil homme.\n🌃 La nuit, descend dans le Duat pour combattre Apophis et apporter la lumière aux morts.\n♾️ Ce cycle éternel représente la vie, la mort et la renaissance - le rythme fondamental de l'existence."
+    },
+    "image": "images/egypt_myth/ra_cycle.jpg",
+    "tags": ["ra", "sun", "cycle", "rebirth", "journey"]
+  },
+  {
+    "year": "The Sacred Books",
+    "era": "Divine Wisdom",
+    "title": {
+      "en": "Book of the Dead",
+      "fr": "Livre des Morts"
+    },
+    "description": {
+      "en": "📜 Collection of spells, prayers, and instructions to guide the dead through the Duat to paradise.\n🔮 Contains the Negative Confessions, protective spells, and passwords for the gates of the underworld.\n✨ Each person's book is customized with their name inserted into the spells for personalized protection.\n💎 Buried with the deceased as their guidebook to navigate the dangers of the afterlife.",
+      "fr": "📜 Collection de sorts, prières et instructions pour guider les morts à travers le Duat vers le paradis.\n🔮 Contient les Confessions Négatives, les sorts de protection et les mots de passe pour les portes du monde souterrain.\n✨ Le livre de chaque personne est personnalisé avec son nom inséré dans les sorts pour une protection personnalisée.\n💎 Enterré avec le défunt comme guide pour naviguer dans les dangers de l'au-delà."
+    },
+    "image": "images/egypt_myth/book_dead.webp",
+    "tags": ["book-of-dead", "afterlife", "spells", "guidance", "wisdom"]
+  },
+  {
+    "year": "Field of Reeds",
+    "era": "Divine Wisdom",
+    "title": {
+      "en": "Aaru - The Paradise",
+      "fr": "Aarou - Le paradis"
+    },
+    "description": {
+      "en": "🌾 The Field of Reeds (Aaru), the Egyptian paradise where the justified dead live eternally.\n🏝️ A perfect reflection of Egypt: abundant crops, no work, eternal peace and pleasure.\n👨‍🌾 The deceased continue their earthly activities but in perfected form, reunited with loved ones.\n⭐ Located in the eastern sky, where the sun rises - the realm of rebirth and eternal life.",
+      "fr": "🌾 Le Champ des Roseaux (Aarou), le paradis égyptien où les morts justifiés vivent éternellement.\n🏝️ Un reflet parfait de l'Égypte : récoltes abondantes, pas de travail, paix et plaisir éternels.\n👨‍🌾 Les défunts continuent leurs activités terrestres mais sous forme perfectionnée, réunis avec leurs proches.\n⭐ Situé dans le ciel oriental, où le soleil se lève - le royaume de la renaissance et de la vie éternelle."
+    },
+    "image": "images/egypt_myth/aaru.jpg",
+    "tags": ["aaru", "paradise", "afterlife", "eternal-life", "peace"]
+  },
+  {
+    "year": "Sacred Animals",
+    "era": "Divine Manifestations",
+    "title": {
+      "en": "Animal Forms of Gods",
+      "fr": "Formes animales des dieux"
+    },
+    "description": {
+      "en": "🐂 Gods manifest in sacred animals: Apis bull (Ptah), crocodile (Sobek), ibis (Thoth), cat (Bastet).\n🦅 Animals represent different aspects of divine power: strength, wisdom, ferocity, protection.\n⚱️ Sacred animals are mummified and buried with honors, treated as physical vessels of the gods.\n✨ The practice shows the Egyptians saw the divine in all living things, not separate from nature.",
+      "fr": "🐂 Les dieux se manifestent dans les animaux sacrés : taureau Apis (Ptah), crocodile (Sobek), ibis (Thot), chat (Bastet).\n🦅 Les animaux représentent différents aspects du pouvoir divin : force, sagesse, férocité, protection.\n⚱️ Les animaux sacrés sont momifiés et enterrés avec les honneurs, traités comme vaisseaux physiques des dieux.\n✨ La pratique montre que les Égyptiens voyaient le divin dans tous les êtres vivants, pas séparés de la nature."
+    },
+    "image": "images/egypt_myth/sacred_animals.jpg",
+    "tags": ["animals", "sacred", "manifestation", "gods", "nature"]
+  },
+  {
+    "year": "The Pharaoh",
+    "era": "Divine Kingship",
+    "title": {
+      "en": "Living Horus",
+      "fr": "Horus vivant"
+    },
+    "description": {
+      "en": "👑 Every pharaoh is the living incarnation of Horus on earth, maintaining Ma'at through their rule.\n⚱️ At death, the pharaoh becomes Osiris, joining the gods in the afterlife while the new king becomes Horus.\n🔄 This cycle ensures eternal divine kingship, linking heaven and earth through the royal person.\n✨ The pharaoh is both human and divine, the necessary intermediary between gods and mortals.",
+      "fr": "👑 Chaque pharaon est l'incarnation vivante d'Horus sur terre, maintenant Maât par leur règne.\n⚱️ À la mort, le pharaon devient Osiris, rejoignant les dieux dans l'au-delà tandis que le nouveau roi devient Horus.\n🔄 Ce cycle assure une royauté divine éternelle, liant le ciel et la terre à travers la personne royale.\n✨ Le pharaon est à la fois humain et divin, l'intermédiaire nécessaire entre les dieux et les mortels."
+    },
+    "image": "images/egypt_myth/pharaoh_horus.jpg",
+    "tags": ["pharaoh", "horus", "kingship", "divine", "ruler"]
+  },
+  {
+    "year": "Eternal Legacy",
+    "era": "Legacy",
+    "title": {
+      "en": "Egyptian Mythology's Influence",
+      "fr": "L'influence de la mythologie égyptienne"
+    },
+    "description": {
+      "en": "🌍 Egyptian mythology influences Greek, Roman, and later Western religions and philosophies.\n📚 Concepts of judgment after death, resurrection, and divine kingship spread throughout the ancient world.\n⭐ Isis becomes one of the most worshipped goddesses across the Roman Empire.\n✨ Modern fascination continues: the myths inspire art, literature, film, and spiritual movements worldwide.",
+      "fr": "🌍 La mythologie égyptienne influence les religions et philosophies grecques, romaines et occidentales ultérieures.\n📚 Les concepts de jugement après la mort, résurrection et royauté divine se répandent dans le monde antique.\n⭐ Isis devient l'une des déesses les plus vénérées dans tout l'Empire romain.\n✨ La fascination moderne continue : les mythes inspirent l'art, la littérature, le cinéma et les mouvements spirituels dans le monde entier."
+    },
+    "image": "images/egypt_myth/legacy.jpg",
+    "tags": ["legacy", "influence", "culture", "modern", "history"]
   }
 ]
