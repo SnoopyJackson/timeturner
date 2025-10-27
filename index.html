@@ -53,9 +53,22 @@
       <h2 class="text-2xl font-bold mb-4 text-purple-700 flex items-center justify-center gap-2">
         📅 <span id="on-this-day-title">On This Day in History...</span>
       </h2>
-      <div id="on-this-day-content" class="text-left bg-white p-5 rounded-xl shadow-md">
+      <!-- Flippable card container -->
+      <div class="flip-container relative">
+        <div class="flip-controls flex justify-end mb-2">
+          <button id="flip-btn" class="px-3 py-1 rounded bg-indigo-600 text-white text-sm">Today</button>
+        </div>
+        <div class="flip-card">
+          <div class="flip-card-inner">
+            <div id="on-this-day-content" class="flip-card-front text-left bg-white p-5 rounded-xl shadow-md">
         <div class="flex items-center justify-center py-8">
           <div class="animate-spin rounded-full h-8 w-8 border-b-2 border-purple-700"></div>
+        </div>
+            </div>
+            <div id="today-news-content" class="flip-card-back text-left bg-white p-5 rounded-xl shadow-md">
+              <div class="text-gray-600" id="news-loading">Select "Today" to load news...</div>
+            </div>
+          </div>
         </div>
       </div>
     </div>

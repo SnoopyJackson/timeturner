@@ -398,5 +398,134 @@ function displayWikipediaEvent(event) {
   console.log('Setting innerHTML with content length:', htmlContent.length);
   contentDiv.innerHTML = htmlContent;
   console.log('innerHTML set successfully');
+
+  // Ensure front of flip card is visible when loading wikipedia event
+  const flipCard = document.querySelector('.flip-card');
+  const inner = document.querySelector('.flip-card-inner');
+  if (flipCard && inner) {
+    inner.classList.remove('flipped');
+    flipCard.classList.remove('flipped');
+    const back = document.getElementById('today-news-content');
+    if (back) back.classList.remove('visible');
+  }
 }
+
+// --- Today / News flip feature ---
+const NEWS_PROXY = 'https://api.allorigins.win/raw?url='; // simple CORS proxy (no guarantee)
+
+function pickRandomTopicFilename() {
+  // List of topics available in data/ - filter duplicates and copy names
+  const files = [
+    'france','bjj','egypt_myth','metal','japan','greece','india','china','egypt','uk','usa','science','pandemics','revolutions','roman','wars','russia','bible','islam','judaism'
+  ];
+  return files[Math.floor(Math.random() * files.length)];
+}
+
+async function fetchNewsForTopic(topic, lang = 'en') {
+  // Use Google News RSS search for the topic
+  const query = encodeURIComponent(topic);
+  const langParam = lang === 'fr' ? 'fr' : 'en';
+  const rssUrl = `https://news.google.com/rss/search?q=${query}&hl=${langParam}&gl=${langParam}&ceid=${langParam}:${langParam}`;
+  const proxyUrl = NEWS_PROXY + encodeURIComponent(rssUrl);
+  try {
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 10000);
+    const resp = await fetch(proxyUrl, { signal: controller.signal });
+    clearTimeout(timeout);
+    if (!resp.ok) throw new Error('Network response not ok: ' + resp.status);
+    const text = await resp.text();
+    return parseRss(text);
+  } catch (err) {
+    console.warn('News fetch failed', err);
+    return { error: err };
+  }
+}
+
+function parseRss(xmlString) {
+  try {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(xmlString, 'application/xml');
+    const items = Array.from(doc.querySelectorAll('item')).slice(0,3).map(it => {
+      const title = it.querySelector('title') ? it.querySelector('title').textContent : '';
+      const link = it.querySelector('link') ? it.querySelector('link').textContent : '';
+      const pubDate = it.querySelector('pubDate') ? it.querySelector('pubDate').textContent : '';
+      const description = it.querySelector('description') ? it.querySelector('description').textContent : '';
+      return { title, link, pubDate, description };
+    });
+    return { items };
+  } catch (err) {
+    console.warn('RSS parse error', err);
+    return { error: err };
+  }
+}
+
+function renderNewsItems(items, container) {
+  if (!container) return;
+  if (!items || items.length === 0) {
+    container.innerHTML = `<div class="text-center text-gray-500">${currentLang === 'en' ? 'No news found.' : 'Aucune actualité trouvée.'}</div>`;
+    return;
+  }
+  const html = items.map(it => `
+    <a href="${it.link}" target="_blank" rel="noopener" class="block p-3 rounded-lg hover:bg-gray-50 mb-2">
+      <div class="font-semibold text-gray-800">${it.title}</div>
+      <div class="text-sm text-gray-500">${it.pubDate}</div>
+      <div class="text-sm text-gray-700 mt-1">${it.description}</div>
+    </a>
+  `).join('');
+  container.innerHTML = html;
+}
+
+async function loadTodayNews(opts = {}) {
+  const topic = opts.topic || pickRandomTopicFilename();
+  const lang = opts.lang || currentLang || 'en';
+  const container = document.getElementById('today-news-content');
+  const loading = document.getElementById('news-loading');
+  if (loading) loading.textContent = currentLang === 'en' ? 'Loading news...' : 'Chargement des actualités...';
+
+  // show loading UI
+  if (container) container.innerHTML = '<div class="text-center py-6"><div class="animate-spin rounded-full h-8 w-8 border-b-2 border-gray-700 mx-auto"></div><div class="mt-3 text-sm text-gray-500">' + (currentLang === 'en' ? 'Fetching news...' : 'Récupération des actualités...') + '</div></div>';
+
+  const result = await fetchNewsForTopic(topic, lang);
+  if (result && result.items) {
+    renderNewsItems(result.items, container);
+  } else {
+    // fallback sample
+    container.innerHTML = `
+      <div class="text-center text-gray-600 mb-2">${currentLang === 'en' ? 'Could not fetch live news. Showing a sample item.' : 'Impossible de récupérer les actualités en direct. Voici un exemple.'}</div>
+      <div class="p-3 rounded-lg bg-gray-50">
+        <div class="font-semibold">${lang === 'fr' ? 'Exemple d’actualité' : 'Sample news item'}</div>
+        <div class="text-sm text-gray-500">${new Date().toLocaleString()}</div>
+        <div class="mt-2 text-gray-700">${lang === 'fr' ? 'Difficultés à récupérer le flux. Vérifiez votre connexion ou le proxy CORS.' : 'Unable to fetch feed. Check your connection or CORS proxy.'}</div>
+      </div>
+    `;
+  }
+}
+
+// Wire flip button
+document.addEventListener('click', (e) => {
+  if (e.target && e.target.id === 'flip-btn') {
+    const flipCard = document.querySelector('.flip-card');
+    const inner = document.querySelector('.flip-card-inner');
+    const back = document.getElementById('today-news-content');
+    if (flipCard && inner) {
+      const flipped = inner.classList.toggle('flipped');
+      flipCard.classList.toggle('flipped');
+      if (flipped) {
+        // load news when showing back
+        loadTodayNews();
+        e.target.textContent = currentLang === 'en' ? 'Back' : 'Retour';
+      } else {
+        e.target.textContent = currentLang === 'en' ? 'Today' : 'Aujourd\'hui';
+      }
+    }
+  }
+});
+
+// update button text when language changes
+const originalSetLanguage = setLanguage;
+setLanguage = function(lang) {
+  originalSetLanguage(lang);
+  const flipBtn = document.getElementById('flip-btn');
+  if (flipBtn) flipBtn.textContent = lang === 'en' ? 'Today' : 'Aujourd\'hui';
+};
 

@@ -132,3 +132,89 @@ body.dark #on-this-day-content .text-gray-500 {
 body.dark #on-this-day-content .text-gray-700 {
   color: #d0d0d0 !important;
 }
+
+/* Flip card styles for On This Day / Today news */
+.flip-container {
+  perspective: 1200px;
+}
+.flip-card {
+  width: 100%;
+}
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  transform-style: preserve-3d;
+  transition: transform 0.6s;
+}
+.flip-card-front,
+.flip-card-back {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  position: relative;
+  width: 100%;
+}
+.flip-card-back {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: rotateY(180deg);
+}
+.flip-card.flipped .flip-card-inner,
+.flip-card-inner.flipped {
+  transform: rotateY(180deg);
+}
+
+/* Slightly different background for back side */
+.flip-card-back {
+  background: linear-gradient(180deg,#ffffff,#f7fafc);
+}
+
+.flip-controls button {
+  cursor: pointer;
+}
+
+/* Back-side sizing: keep a fixed rectangle and allow internal scrolling */
+.flip-card-front,
+.flip-card-back {
+  box-sizing: border-box;
+  min-height: 220px;
+  max-height: 420px;
+  overflow: hidden;
+}
+.flip-card-back .news-list {
+  max-height: 360px;
+  overflow-y: auto;
+  padding-right: 8px; /* give space for scrollbar */
+}
+.flip-card-back .news-list a {
+  display: block;
+  padding: 12px;
+  border-radius: 8px;
+}
+.flip-card-back .news-list a .title {
+  font-weight: 600;
+  color: #1f2937;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  /* modern spec */
+  display: box;
+  line-clamp: 2;
+  overflow: hidden;
+}
+.flip-card-back .news-list a .meta {
+  font-size: 12px;
+  color: #6b7280;
+}
+.flip-card-back .news-list a .desc {
+  margin-top: 6px;
+  color: #374151;
+  font-size: 14px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  /* modern spec */
+  display: box;
+  line-clamp: 3;
+  overflow: hidden;
+}
