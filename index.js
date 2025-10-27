@@ -1,4 +1,4 @@
-// index.js for index.html
+// main.js for index.html
 let currentLang = 'en';
 const translations = {
   en: {
@@ -13,7 +13,10 @@ const translations = {
     searchPlaceholder: 'Search titles, descriptions, tags...',
     playGame: '📅 Play Timeline',
     darkMode: 'Dark Mode',
-    lightMode: 'Light Mode'
+    lightMode: 'Light Mode',
+    onThisDay: 'On This Day in History',
+    fromTimeline: source => `From the ${source} timeline`,
+    noExactMatch: '(No exact match for today, but here\'s an interesting historical event!)'
   },
   fr: {
     mainTitle: '⏳ Time-Turner',
@@ -27,7 +30,10 @@ const translations = {
     searchPlaceholder: 'Rechercher titres, descriptions, tags...',
     playGame: '📅 Jouer Timeline',
     darkMode: 'Mode sombre',
-    lightMode: 'Mode clair'
+    lightMode: 'Mode clair',
+    onThisDay: 'Ce Jour dans l\'Histoire',
+    fromTimeline: source => `De la chronologie ${source}`,
+    noExactMatch: '(Aucune correspondance exacte pour aujourd\'hui, mais voici un événement historique intéressant !)'
   }
 };
 
@@ -188,19 +194,11 @@ function applyFilters() {
     const wikiTitle = encodeURIComponent(title.replace(/\s+\(.+\)/, '').replace(/\s+/g, '_'));
     const wikiBase = currentLang === 'fr' ? 'https://fr.wikipedia.org/wiki/' : 'https://en.wikipedia.org/wiki/';
     const wikiUrl = `${wikiBase}${wikiTitle}`;
-    
-    // Add era badge if present
-    const eraBadge = event.era ? `<span class="inline-block bg-purple-600 text-white text-xs font-semibold px-3 py-1 rounded-full mr-2">${event.era}</span>` : '';
-    
     html += `
       <a href="${wikiUrl}" target="_blank" rel="noopener" class="timeline-card bg-white rounded-2xl shadow-md p-5 flex flex-col md:flex-row items-center mb-8">
         ${imageHtml}
         <div class="flex-1">
-          <div class="mb-2">
-            ${eraBadge}
-            <span class="text-gray-500 text-sm">${event.year}</span>
-          </div>
-          <h2 class="text-2xl font-semibold mb-2">${title}</h2>
+          <h2 class="text-2xl font-semibold mb-2">${event.year} — ${title}</h2>
           <p class="text-gray-700">${description}</p>
         </div>
       </a>
@@ -210,4 +208,195 @@ function applyFilters() {
 }
 
 // Set default language on load
-window.onload = () => setLanguage(currentLang);
+window.onload = () => {
+  setLanguage(currentLang);
+  loadOnThisDay();
+};
+
+// On This Day in History Feature - Using Wikipedia API
+async function loadOnThisDay() {
+  const today = new Date();
+  const month = today.getMonth() + 1; // 1-12
+  const day = today.getDate(); // 1-31
+  
+  const contentDiv = document.getElementById('on-this-day-content');
+  const titleEl = document.getElementById('on-this-day-title');
+  
+  if (!contentDiv || !titleEl) {
+    console.log('On this day elements not found in DOM');
+    return;
+  }
+  
+  // Update title with current date
+  const monthNames = {
+    en: ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'],
+    fr: ['Janvier', 'Février', 'Mars', 'Avril', 'Mai', 'Juin', 'Juillet', 'Août', 'Septembre', 'Octobre', 'Novembre', 'Décembre']
+  };
+  
+  const formattedDate = currentLang === 'en' 
+    ? `${monthNames.en[month - 1]} ${day}`
+    : `${day} ${monthNames.fr[month - 1]}`;
+  
+  titleEl.textContent = currentLang === 'en' 
+    ? `📅 On This Day in History - ${formattedDate}`
+    : `📅 Ce Jour dans l'Histoire - ${formattedDate}`;
+  
+  try {
+    // Use Wikipedia's "On this day" API
+    const langCode = currentLang === 'en' ? 'en' : 'fr';
+    const monthStr = String(month).padStart(2, '0');
+    const dayStr = String(day).padStart(2, '0');
+    
+    const apiUrl = `https://${langCode}.wikipedia.org/api/rest_v1/feed/onthisday/events/${monthStr}/${dayStr}`;
+    
+    console.log('Fetching from Wikipedia API:', apiUrl);
+    
+    // Add timeout to fetch and use CORS mode. Note: browsers disallow setting the Origin header manually.
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), 10000); // 10 second timeout
+
+    let response;
+    try {
+      response = await fetch(apiUrl, {
+        method: 'GET',
+        headers: {
+          'Accept': 'application/json'
+        },
+        mode: 'cors',
+        signal: controller.signal
+      });
+    } finally {
+      clearTimeout(timeoutId);
+    }
+    
+    if (!response.ok) {
+      console.error('Wikipedia API response not OK:', response.status, response.statusText);
+      throw new Error(`API returned ${response.status}`);
+    }
+    
+    const data = await response.json();
+    console.log('Wikipedia API data received:', data);
+    
+    if (data.events && data.events.length > 0) {
+      // Get a random event from the list (prefer historical events)
+      const importantEvents = data.events.filter(e => e.year && e.year < 2000);
+      const eventsToChooseFrom = importantEvents.length > 0 ? importantEvents : data.events;
+      const randomEvent = eventsToChooseFrom[Math.floor(Math.random() * Math.min(eventsToChooseFrom.length, 20))];
+      
+      console.log('Selected event:', randomEvent);
+        // Create or reference a small loading hint element that appears after a short delay
+        let loadingHint = document.getElementById('on-this-day-loading-hint');
+        if (!loadingHint) {
+          loadingHint = document.createElement('div');
+          loadingHint.id = 'on-this-day-loading-hint';
+          loadingHint.className = 'text-sm text-gray-500 italic mt-2';
+          loadingHint.style.display = 'none';
+          if (contentDiv && contentDiv.parentNode) contentDiv.parentNode.insertBefore(loadingHint, contentDiv.nextSibling);
+        }
+      displayWikipediaEvent(randomEvent);
+    } else {
+      throw new Error('No events found in API response');
+    }
+    
+  } catch (error) {
+  console.error('Error loading on this day:', error);
+    
+    // Check if it was a timeout
+    const isTimeout = error.name === 'AbortError';
+    
+    // Show error message
+    contentDiv.innerHTML = `
+      <div class="text-center py-4">
+        <p class="text-red-600 mb-2">
+          ${isTimeout 
+            ? (currentLang === 'en' ? '⏱️ Request timed out' : '⏱️ Délai d\'attente dépassé')
+            : (currentLang === 'en' ? '⚠️ Could not load event from Wikipedia' : '⚠️ Impossible de charger l\'événement depuis Wikipédia')}
+        </p>
+        <p class="text-gray-500 text-sm mb-2">
+          ${error.name || ''} ${error.message || (currentLang === 'en' ? 'Unknown error' : 'Erreur inconnue')}
+        </p>
+        <pre class="text-xs text-gray-400 mb-2" style="white-space:pre-wrap">${(error.stack || '').substring(0, 500)}</pre>
+        <p class="text-gray-500 text-sm">
+          ${currentLang === 'en' 
+            ? 'Check your internet connection or try again later.' 
+            : 'Vérifiez votre connexion internet ou réessayez plus tard.'}
+        </p>
+        <button onclick="loadOnThisDay()" class="mt-3 px-4 py-2 bg-purple-600 text-white rounded-lg hover:bg-purple-700 transition-colors">
+          ${currentLang === 'en' ? '🔄 Retry' : '🔄 Réessayer'}
+        </button>
+      </div>
+    `;
+  }
+}
+
+function displayWikipediaEvent(event) {
+  console.log('displayWikipediaEvent called with:', event);
+  
+  const contentDiv = document.getElementById('on-this-day-content');
+  
+  if (!contentDiv) {
+    console.error('on-this-day-content element not found!');
+    return;
+  }
+  
+  console.log('contentDiv found:', contentDiv);
+  
+  // Get event details
+  const year = event.year || 'Unknown';
+  const text = event.text || (currentLang === 'en' ? 'No description available' : 'Aucune description disponible');
+  
+  console.log('Event year:', year);
+  console.log('Event text:', text);
+  
+  // Get related pages/links
+  const pages = event.pages || [];
+  let linksHtml = '';
+  
+  console.log('Event pages:', pages);
+  
+  if (pages.length > 0) {
+    const mainPage = pages[0];
+    const wikiUrl = (mainPage && mainPage.content_urls && mainPage.content_urls.desktop && mainPage.content_urls.desktop.page) ? mainPage.content_urls.desktop.page : '#';
+    const thumbnail = (mainPage && mainPage.thumbnail && mainPage.thumbnail.source) ? mainPage.thumbnail.source : ((mainPage && mainPage.originalimage && mainPage.originalimage.source) ? mainPage.originalimage.source : '');
+    
+  console.log('Wiki URL:', wikiUrl);
+  console.log('Thumbnail:', thumbnail);
+    
+    // Create image HTML if available
+    const imageHtml = thumbnail ? `
+      <div class="mb-4 rounded-lg overflow-hidden">
+        <img src="${thumbnail}" alt="${mainPage.normalizedtitle || ''}" class="w-full h-48 object-cover">
+      </div>
+    ` : '';
+    
+    // Create link to full Wikipedia article
+    linksHtml = `
+      ${imageHtml}
+      <a href="${wikiUrl}" target="_blank" rel="noopener noreferrer" class="inline-flex items-center gap-2 text-blue-600 hover:text-blue-800 font-semibold mt-3">
+        ${currentLang === 'en' ? 'Read more on Wikipedia' : 'Lire plus sur Wikipédia'} →
+      </a>
+    `;
+  }
+  
+  const htmlContent = `
+    <div class="flex items-start gap-3 mb-3">
+      <span class="text-3xl">📜</span>
+      <div class="flex-1">
+        <h3 class="text-xl font-bold text-purple-800 mb-2">${year}</h3>
+        <p class="text-gray-700 leading-relaxed mb-3">${text}</p>
+        ${linksHtml}
+      </div>
+    </div>
+    <div class="mt-4 text-sm text-gray-500 italic flex items-center gap-2">
+      <svg class="w-4 h-4" viewBox="0 0 24 24" fill="currentColor">
+        <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.6 0 12 0zm0 2c5.5 0 10 4.5 10 10s-4.5 10-10 10S2 17.5 2 12 6.5 2 12 2z"/>
+      </svg>
+      ${currentLang === 'en' ? 'Source: Wikipedia' : 'Source : Wikipédia'}
+    </div>
+  `;
+  
+  console.log('Setting innerHTML with content length:', htmlContent.length);
+  contentDiv.innerHTML = htmlContent;
+  console.log('innerHTML set successfully');
+}
+
