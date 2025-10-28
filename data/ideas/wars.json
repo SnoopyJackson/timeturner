@@ -1,0 +1,282 @@
+[
+  {
+    "year": "c. 1274 BCE",
+    "era": "Bronze Age",
+    "title": {
+      "en": "Battle of Kadesh",
+      "la": "Pugna apud Kadeshem"
+    },
+    "description": {
+      "en": "⚔️ First recorded major battle in history\n🏺 Fought between Egypt (Ramses II) and the Hittites (Muwatalli II)\n🤝 Ended in the world’s first known peace treaty",
+      "la": "⚔️ Prima pugna magna notata in historia\n🏺 Inter Aegyptios (Ramses II) et Hethaeos (Muwatalli II)\n🤝 Finita foedere pacis primo in orbe terrarum"
+    },
+    "image": "images/kadesh.png",
+    "tags": ["ancient", "egypt", "hittites", "treaty"]
+  },
+  {
+    "year": "499–449 BCE",
+    "era": "Classical Antiquity",
+    "title": {
+      "en": "Greco-Persian Wars",
+      "la": "Bella Graeco-Persica"
+    },
+    "description": {
+      "en": "🏛️ Greek city-states vs Persian Empire\n⚔️ Famous battles: Marathon, Thermopylae, Salamis\n🔥 Greek victory preserved Western civilization’s independence",
+      "la": "🏛️ Civitates Graecae contra Imperium Persarum\n⚔️ Pugnae clarae: Marathon, Thermopylae, Salamis\n🔥 Victoria Graecorum libertatem servavit"
+    },
+    "image": "images/greco_persian.png",
+    "tags": ["greece", "persia", "marathon", "antiquity"]
+  },
+  {
+    "year": "431–404 BCE",
+    "era": "Classical Greece",
+    "title": {
+      "en": "Peloponnesian War",
+      "la": "Bellum Peloponnesiacum"
+    },
+    "description": {
+      "en": "⚔️ Athens vs Sparta — democracy vs militarism\n🏛️ Chronicled by Thucydides\n💀 Weakened Greece, paving way for Macedonian conquest",
+      "la": "⚔️ Athenarum civitas contra Spartam — democratia contra disciplinam militarem\n🏛️ A Thucydide narratum\n💀 Graeciam debilitavit, viam aperuit Macedonibus"
+    },
+    "image": "images/peloponnesian.png",
+    "tags": ["greece", "sparta", "athens", "thucydides"]
+  },
+  {
+    "year": "264–146 BCE",
+    "era": "Roman Republic",
+    "title": {
+      "en": "Punic Wars",
+      "la": "Bella Punica"
+    },
+    "description": {
+      "en": "🚢 Rome vs Carthage — struggle for Mediterranean dominance\n🐘 Hannibal crossed the Alps with elephants\n🔥 Carthage destroyed, Rome became supreme power",
+      "la": "🚢 Roma contra Carthaginem — de imperio Mediterranei certatum\n🐘 Hannibal Alpes cum elephantis transiit\n🔥 Carthago deleta, Roma dominatrix facta est"
+    },
+    "image": "images/punic.png",
+    "tags": ["rome", "carthage", "hannibal", "empire"]
+  },
+  {
+    "year": "58–50 BCE",
+    "era": "Roman Republic",
+    "title": {
+      "en": "Gallic Wars",
+      "la": "Bella Gallica"
+    },
+    "description": {
+      "en": "⚔️ Julius Caesar’s campaigns in Gaul\n🇫🇷 Conquest of modern France and Belgium\n📜 Expanded Roman territory and Caesar’s fame",
+      "la": "⚔️ Expeditiones Caesaris in Gallia\n🇫🇷 Galliam atque Belgicam subegit\n📜 Terras auxit et gloriam suam ampliavit"
+    },
+    "image": "images/gallic.png",
+    "tags": ["rome", "caesar", "gaul", "conquest"]
+  },
+  {
+    "year": "1096–1291",
+    "era": "Middle Ages",
+    "title": {
+      "en": "Crusades",
+      "la": "Cruciata"
+    },
+    "description": {
+      "en": "✝️ Religious wars between Christians and Muslims\n🏰 Aimed to reclaim the Holy Land\n⚔️ Left deep cultural and political impact on Europe and the Middle East",
+      "la": "✝️ Bella religiosa inter Christianos et Mahometanos\n🏰 Pro Terra Sancta recuperanda\n⚔️ Cultura et politica Europae atque Orientis commutata sunt"
+    },
+    "image": "images/crusades.png",
+    "tags": ["religion", "holy-land", "islam", "christianity"]
+  },
+  {
+    "year": "1337–1453",
+    "era": "Late Middle Ages",
+    "title": {
+      "en": "Hundred Years’ War",
+      "fr": "Guerre de Cent Ans"
+    },
+    "description": {
+      "en": "⚔️ France vs England — dynastic struggle for French throne\n👑 Key figures: Joan of Arc, Edward III\n🇫🇷 Ended with French victory and rise of nationalism",
+      "fr": "⚔️ France contre Angleterre — querelle dynastique pour le trône\n👑 Jeanne d’Arc, Édouard III\n🇫🇷 Victoire française et naissance du sentiment national"
+    },
+    "image": "images/hundred_years.png",
+    "tags": ["france", "england", "joan-of-arc", "dynasty"]
+  },
+  {
+    "year": "1618–1648",
+    "era": "Early Modern Europe",
+    "title": {
+      "en": "Thirty Years’ War",
+      "la": "Bellum Tricennale"
+    },
+    "description": {
+      "en": "🔥 One of Europe’s deadliest wars\n✝️ Protestant vs Catholic — power struggle in the Holy Roman Empire\n📜 Ended with Peace of Westphalia (1648)",
+      "la": "🔥 Bellum Europae cruentissimum\n✝️ Protestantes contra Catholicos in Sacro Imperio Romano\n📜 Pacem Westphalicam finem fecit (1648)"
+    },
+    "image": "images/thirty_years.png",
+    "tags": ["religious", "europe", "empire", "westphalia"]
+  },
+  {
+    "year": "1756–1763",
+    "era": "Enlightenment Era",
+    "title": {
+      "en": "Seven Years’ War",
+      "fr": "Guerre de Sept Ans"
+    },
+    "description": {
+      "en": "🌍 First 'world war' involving Europe, America, and Asia\n⚔️ Britain vs France for global supremacy\n🇬🇧 British victory laid foundation for empire",
+      "fr": "🌍 Première 'guerre mondiale' reliant Europe, Amérique et Asie\n⚔️ Royaume-Uni contre France pour la suprématie mondiale\n🇬🇧 Victoire britannique et naissance de l'Empire"
+    },
+    "image": "images/seven_years.png",
+    "tags": ["britain", "france", "colonial", "global"]
+  },
+  {
+    "year": "1775–1783",
+    "era": "Revolutions",
+    "title": {
+      "en": "American Revolutionary War",
+      "fr": "Guerre d’Indépendance Américaine"
+    },
+    "description": {
+      "en": "🇺🇸 13 colonies rebelled against British rule\n📜 Declaration of Independence (1776)\n🤝 French alliance led to American victory",
+      "fr": "🇺🇸 13 colonies se révoltent contre la domination britannique\n📜 Déclaration d’indépendance (1776)\n🤝 Alliance française aboutit à la victoire américaine"
+    },
+    "image": "images/american_revolution.png",
+    "tags": ["america", "independence", "britain", "revolution"]
+  },
+  {
+    "year": "1792–1815",
+    "era": "Napoleonic Era",
+    "title": {
+      "en": "Napoleonic Wars",
+      "fr": "Guerres Napoléoniennes"
+    },
+    "description": {
+      "en": "⚔️ France under Napoleon vs Europe’s coalitions\n🏰 Battles: Austerlitz, Leipzig, Waterloo\n🌍 Redefined European borders and nationalism",
+      "fr": "⚔️ La France napoléonienne contre les coalitions européennes\n🏰 Batailles: Austerlitz, Leipzig, Waterloo\n🌍 Redéfinition des frontières et du nationalisme européen"
+    },
+    "image": "images/napoleonic.png",
+    "tags": ["napoleon", "france", "europe", "waterloo"]
+  },
+  {
+    "year": "1861–1865",
+    "era": "Industrial Age",
+    "title": {
+      "en": "American Civil War",
+      "fr": "Guerre de Sécession"
+    },
+    "description": {
+      "en": "⚔️ Union (North) vs Confederacy (South)\n💣 Bloodiest conflict in U.S. history\n🕊️ Ended slavery and preserved the Union",
+      "fr": "⚔️ Union (Nord) contre Confédération (Sud)\n💣 Guerre la plus meurtrière des États-Unis\n🕊️ Abolition de l’esclavage et préservation de l’Union"
+    },
+    "image": "images/american_civil.png",
+    "tags": ["america", "civil-war", "slavery", "union"]
+  },
+  {
+    "year": "1914–1918",
+    "era": "Modern Era",
+    "title": {
+      "en": "World War I",
+      "fr": "Première Guerre mondiale"
+    },
+    "description": {
+      "en": "🌍 'The Great War' — first industrial global conflict\n⚔️ Central Powers vs Allies\n💀 16 million dead; ended with Treaty of Versailles (1919)",
+      "fr": "🌍 'La Grande Guerre' — premier conflit mondial industriel\n⚔️ Empires centraux contre Alliés\n💀 16 millions de morts; Traité de Versailles (1919)"
+    },
+    "image": "images/ww1.png",
+    "tags": ["world-war", "allies", "europe", "trench"]
+  },
+  {
+    "year": "1939–1945",
+    "era": "20th Century",
+    "title": {
+      "en": "World War II",
+      "fr": "Seconde Guerre mondiale"
+    },
+    "description": {
+      "en": "🔥 Largest conflict in human history\n⚔️ Allies vs Axis (Hitler, Mussolini, Japan)\n☢️ Ended with atomic bombings and UN creation",
+      "fr": "🔥 Plus grand conflit de l’histoire humaine\n⚔️ Alliés contre Axe (Hitler, Mussolini, Japon)\n☢️ Fin avec les bombes atomiques et la création de l’ONU"
+    },
+    "image": "images/ww2.png",
+    "tags": ["axis", "allies", "holocaust", "atomic", "un"]
+  },
+  {
+    "year": "1947–1991",
+    "era": "Cold War",
+    "title": {
+      "en": "Cold War",
+      "fr": "Guerre froide"
+    },
+    "description": {
+      "en": "🛰️ Ideological standoff between USA and USSR\n🚀 Nuclear arms race and space race\n🌍 Proxy wars in Korea, Vietnam, Afghanistan",
+      "fr": "🛰️ Confrontation idéologique entre États-Unis et URSS\n🚀 Course aux armements nucléaires et à l’espace\n🌍 Guerres indirectes en Corée, Vietnam, Afghanistan"
+    },
+    "image": "images/cold_war.png",
+    "tags": ["usa", "ussr", "nuclear", "proxy", "space"]
+  },
+  {
+    "year": "1950–1953",
+    "era": "Cold War Conflicts",
+    "title": {
+      "en": "Korean War",
+      "ko": "한국전쟁"
+    },
+    "description": {
+      "en": "⚔️ North Korea (China, USSR) vs South Korea (UN, USA)\n🧊 First major Cold War conflict\n🕊️ Armistice left peninsula divided at 38th parallel",
+      "ko": "⚔️ 북한(중국, 소련) 대 남한(UN, 미국)\n🧊 냉전의 첫 주요 전쟁\n🕊️ 정전 후 한반도는 38선에서 분단됨"
+    },
+    "image": "images/korea.png",
+    "tags": ["korea", "cold-war", "un", "division"]
+  },
+  {
+    "year": "1955–1975",
+    "era": "Cold War Conflicts",
+    "title": {
+      "en": "Vietnam War",
+      "vi": "Chiến tranh Việt Nam"
+    },
+    "description": {
+      "en": "🌴 Guerrilla war between communist North and U.S.-backed South\n💣 Heavy U.S. involvement, mass protests\n🕊️ Ended with communist victory and unification",
+      "vi": "🌴 Chiến tranh du kích giữa miền Bắc cộng sản và miền Nam được Mỹ hậu thuẫn\n💣 Sự can thiệp lớn của Hoa Kỳ, các cuộc biểu tình quy mô lớn\n🕊️ Kết thúc bằng chiến thắng và thống nhất của miền Bắc"
+    },
+    "image": "images/vietnam.png",
+    "tags": ["vietnam", "america", "cold-war", "protest"]
+  },
+  {
+    "year": "1990–1991",
+    "era": "Post-Cold War",
+    "title": {
+      "en": "Gulf War",
+      "ar": "حرب الخليج"
+    },
+    "description": {
+      "en": "🛢️ Iraq invaded Kuwait — U.S.-led coalition intervened\n💥 Precision air campaign ('Operation Desert Storm')\n🌍 First televised modern war",
+      "ar": "🛢️ غزت العراق الكويت — تدخل تحالف بقيادة الولايات المتحدة\n💥 حملة جوية دقيقة (عاصفة الصحراء)\n🌍 أول حرب حديثة متلفزة"
+    },
+    "image": "images/gulf_war.png",
+    "tags": ["iraq", "kuwait", "usa", "oil", "desert-storm"]
+  },
+  {
+    "year": "2001–present",
+    "era": "21st Century",
+    "title": {
+      "en": "War on Terror",
+      "ar": "الحرب على الإرهاب"
+    },
+    "description": {
+      "en": "🕋 Began after September 11 attacks (2001)\n⚔️ U.S. invasions of Afghanistan and Iraq\n🌍 Ongoing global fight against terrorism",
+      "ar": "🕋 بدأت بعد هجمات 11 سبتمبر (2001)\n⚔️ غزو الولايات المتحدة لأفغانستان والعراق\n🌍 استمرار الحرب العالمية ضد الإرهاب"
+    },
+    "image": "images/war_on_terror.png",
+    "tags": ["terrorism", "afghanistan", "iraq", "usa", "global"]
+  },
+  {
+    "year": "2022–present",
+    "era": "Modern Conflicts",
+    "title": {
+      "en": "Russia–Ukraine War",
+      "uk": "Війна Росії проти України"
+    },
+    "description": {
+      "en": "⚔️ Russia invaded Ukraine in 2022\n💣 Massive destruction and displacement\n🌍 Sparked global geopolitical realignment",
+      "uk": "⚔️ Росія вторглася в Україну у 2022 році\n💣 Масові руйнування та біженці\n🌍 Спричинила глобальні геополітичні зрушення"
+    },
+    "image": "images/ukraine_war.png",
+    "tags": ["ukraine", "russia", "invasion", "europe", "modern"]
+  }
+]

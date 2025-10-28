@@ -1,0 +1,44 @@
+[
+  {
+    "year": "c. 862–1240",
+    "title": {"en": "Kievan Rus'", "ru": "Киевская Русь"},
+    "description": {"en": "Federation of Slavic tribes. Adoption of Christianity (988), trade, and early Russian culture.", "ru": "Федерация славянских племен. Принятие христианства (988), торговля, ранняя русская культура."},
+    "image": "images/kievan_rus.jpg",
+    "tags": ["slavic", "christianity", "trade"]
+  },
+  {
+    "year": "1240–1480",
+    "title": {"en": "Mongol Yoke & Muscovy", "ru": "Монгольское нашествие и Московия"},
+    "description": {"en": "Mongol rule, rise of Moscow, and gradual independence.", "ru": "Монгольское владычество, возвышение Москвы, постепенное освобождение."},
+    "image": "images/mongol_russia.jpg",
+    "tags": ["mongol", "moscow", "independence"]
+  },
+  {
+    "year": "1547–1721",
+    "title": {"en": "Tsardom of Russia", "ru": "Царство Русское"},
+    "description": {"en": "Ivan the Terrible, expansion, Romanov dynasty, and westernization under Peter the Great.", "ru": "Иван Грозный, расширение, династия Романовых, европеизация при Петре Великом."},
+    "image": "images/tsardom.jpg",
+    "tags": ["tsar", "romanov", "expansion"]
+  },
+  {
+    "year": "1721–1917",
+    "title": {"en": "Russian Empire", "ru": "Российская империя"},
+    "description": {"en": "Imperial Russia, Catherine the Great, Napoleonic Wars, and serfdom abolition.", "ru": "Императорская Россия, Екатерина Великая, войны с Наполеоном, отмена крепостного права."},
+    "image": "images/russian_empire.jpg",
+    "tags": ["empire", "catherine", "napoleon"]
+  },
+  {
+    "year": "1917–1991",
+    "title": {"en": "Soviet Union", "ru": "Советский Союз"},
+    "description": {"en": "Bolshevik Revolution, Lenin, Stalin, WWII, Cold War, and collapse in 1991.", "ru": "Октябрьская революция, Ленин, Сталин, Вторая мировая война, Холодная война, распад в 1991."},
+    "image": "images/soviet_union.jpg",
+    "tags": ["soviet", "revolution", "cold-war"]
+  },
+  {
+    "year": "1991–present",
+    "title": {"en": "Russian Federation", "ru": "Российская Федерация"},
+    "description": {"en": "Post-Soviet Russia. Economic reforms, Putin era, and global influence.", "ru": "Постсоветская Россия. Экономические реформы, эпоха Путина, мировое влияние."},
+    "image": "images/russian_federation.jpg",
+    "tags": ["post-soviet", "putin", "modern"]
+  }
+]

@@ -1,0 +1,310 @@
+[
+  {
+    "year": "c. 1000 BCE – 1492 CE",
+    "era": "Pre-Colonial America",
+    "title": {
+      "en": "Indigenous Nations of North America",
+      "es": "Naciones Indígenas de América del Norte"
+    },
+    "description": {
+      "en": "🌽 Rich cultures of Native American civilizations — Mississippians, Ancestral Puebloans, Iroquois, and more\n🏹 Sophisticated trade, governance, and spiritual systems long before European contact",
+      "es": "🌽 Ricas culturas de las civilizaciones nativas americanas — misisipianos, anasazi, iroqueses y más\n🏹 Comercio, gobierno y espiritualidad desarrollados mucho antes del contacto europeo"
+    },
+    "image": "images/indigenous.png",
+    "tags": ["native-american", "pre-colonial", "tribes", "civilization"]
+  },
+  {
+    "year": "1492–1607",
+    "era": "Age of Exploration",
+    "title": {
+      "en": "European Exploration and Colonization",
+      "es": "Exploración y Colonización Europea"
+    },
+    "description": {
+      "en": "⛵ Spanish, French, and English explorers arrive in the Americas\n🏴‍☠️ Columbus, Cabot, de Soto, and Cartier claim territories\n⚓ Seeds of colonization sown across the continent",
+      "es": "⛵ Exploradores españoles, franceses e ingleses llegan a América\n🏴‍☠️ Colón, Caboto, de Soto y Cartier reclaman territorios\n⚓ Nacen las primeras colonias en el continente"
+    },
+    "image": "images/exploration.png",
+    "tags": ["colonial", "exploration", "spanish", "french", "english"]
+  },
+  {
+    "year": "1607",
+    "era": "Colonial America",
+    "title": {
+      "en": "Founding of Jamestown",
+      "es": "Fundación de Jamestown"
+    },
+    "description": {
+      "en": "🏰 First permanent English settlement in North America\n🌾 Survived famine and conflict with Powhatan tribes\n💰 Tobacco farming became economic foundation",
+      "es": "🏰 Primer asentamiento inglés permanente en América del Norte\n🌾 Sobrevive al hambre y a los conflictos con los Powhatan\n💰 El tabaco se convierte en base económica"
+    },
+    "image": "images/jamestown.png",
+    "tags": ["colonial", "virginia", "england", "settlement"]
+  },
+  {
+    "year": "1620",
+    "era": "Colonial America",
+    "title": {
+      "en": "Mayflower and the Pilgrims",
+      "es": "El Mayflower y los Peregrinos"
+    },
+    "description": {
+      "en": "⚓ English Pilgrims land at Plymouth Rock\n📜 Signed the Mayflower Compact — early form of self-government\n🦃 Celebrated first Thanksgiving with Wampanoag tribe",
+      "es": "⚓ Peregrinos ingleses llegan a Plymouth Rock\n📜 Firman el Compromiso del Mayflower — forma temprana de autogobierno\n🦃 Celebran el primer Día de Acción de Gracias con los Wampanoag"
+    },
+    "image": "images/mayflower.png",
+    "tags": ["pilgrims", "plymouth", "thanksgiving", "colonial"]
+  },
+  {
+    "year": "1754–1763",
+    "era": "Colonial Wars",
+    "title": {
+      "en": "French and Indian War",
+      "fr": "Guerre de la Conquête"
+    },
+    "description": {
+      "en": "⚔️ British vs French with Native allies for control of North America\n🏕️ Ended with British victory and French loss of Canada\n💸 Sparked colonial taxation that led to revolution",
+      "fr": "⚔️ Britanniques contre Français avec alliés autochtones\n🏕️ Victoire britannique, perte du Canada par la France\n💸 Débouche sur la taxation coloniale et la Révolution"
+    },
+    "image": "images/french_indian.png",
+    "tags": ["france", "britain", "colonial", "war"]
+  },
+  {
+    "year": "1775–1783",
+    "era": "Revolutionary Era",
+    "title": {
+      "en": "American Revolution",
+      "fr": "Révolution Américaine"
+    },
+    "description": {
+      "en": "🇺🇸 13 colonies rebel against British rule\n📜 Declaration of Independence (1776)\n🤝 French aid leads to victory at Yorktown (1781)",
+      "fr": "🇺🇸 13 colonies se révoltent contre la domination britannique\n📜 Déclaration d’Indépendance (1776)\n🤝 Aide française mène à la victoire de Yorktown (1781)"
+    },
+    "image": "images/american_revolution.png",
+    "tags": ["revolution", "independence", "britain", "france"]
+  },
+  {
+    "year": "1787–1789",
+    "era": "Founding of the Republic",
+    "title": {
+      "en": "U.S. Constitution & Bill of Rights",
+      "fr": "Constitution et Déclaration des Droits"
+    },
+    "description": {
+      "en": "📜 U.S. Constitution ratified — framework of federal government\n⚖️ Bill of Rights (1791) guarantees individual freedoms\n🏛️ Washington becomes first President",
+      "fr": "📜 Constitution américaine ratifiée — base du gouvernement fédéral\n⚖️ Déclaration des droits (1791) garantit les libertés individuelles\n🏛️ Washington devient le premier président"
+    },
+    "image": "images/constitution.png",
+    "tags": ["constitution", "bill-of-rights", "founding", "washington"]
+  },
+  {
+    "year": "1803",
+    "era": "Early Republic",
+    "title": {
+      "en": "Louisiana Purchase",
+      "fr": "Achat de la Louisiane"
+    },
+    "description": {
+      "en": "🗺️ U.S. buys Louisiana Territory from France (Napoleon)\n🌎 Doubles U.S. size — opens path for westward expansion",
+      "fr": "🗺️ Les États-Unis achètent la Louisiane à la France (Napoléon)\n🌎 Double la taille du pays — ouvre la voie à l’expansion vers l’ouest"
+    },
+    "image": "images/louisiana_purchase.png",
+    "tags": ["territory", "france", "expansion", "jefferson"]
+  },
+  {
+    "year": "1846–1848",
+    "era": "Manifest Destiny",
+    "title": {
+      "en": "Mexican–American War",
+      "es": "Guerra México–Estados Unidos"
+    },
+    "description": {
+      "en": "⚔️ Conflict over Texas and western territories\n🏜️ U.S. victory annexes California, Arizona, New Mexico\n🇲🇽 Deep legacy of border and identity issues",
+      "es": "⚔️ Conflicto por Texas y los territorios del oeste\n🏜️ La victoria de EE.UU. anexa California, Arizona y Nuevo México\n🇲🇽 Deja una herencia duradera de cuestiones fronterizas"
+    },
+    "image": "images/mexican_war.png",
+    "tags": ["mexico", "expansion", "manifest-destiny", "texas"]
+  },
+  {
+    "year": "1861–1865",
+    "era": "Civil War Era",
+    "title": {
+      "en": "American Civil War",
+      "es": "Guerra de Secesión"
+    },
+    "description": {
+      "en": "⚔️ Union (North) vs Confederacy (South)\n💣 Fought over slavery and states’ rights\n🕊️ Lincoln’s Emancipation Proclamation — end of slavery",
+      "es": "⚔️ Unión (Norte) contra Confederación (Sur)\n💣 Guerra por la esclavitud y los derechos de los estados\n🕊️ Proclamación de Emancipación de Lincoln — fin de la esclavitud"
+    },
+    "image": "images/civil_war.png",
+    "tags": ["civil-war", "slavery", "lincoln", "union"]
+  },
+  {
+    "year": "1865–1877",
+    "era": "Reconstruction",
+    "title": {
+      "en": "Rebuilding the Nation",
+      "es": "Reconstrucción Nacional"
+    },
+    "description": {
+      "en": "🏛️ Reconstruction of the South under federal control\n🗳️ Freedmen gain rights; rise of Jim Crow laws later reverse gains",
+      "es": "🏛️ Reconstrucción del Sur bajo control federal\n🗳️ Los libertos obtienen derechos; las leyes Jim Crow los revierten más tarde"
+    },
+    "image": "images/reconstruction.png",
+    "tags": ["civil-rights", "reconstruction", "jim-crow", "freedmen"]
+  },
+  {
+    "year": "1898",
+    "era": "Industrial Expansion",
+    "title": {
+      "en": "Spanish–American War",
+      "es": "Guerra Hispano–Estadounidense"
+    },
+    "description": {
+      "en": "🚢 Short war marking U.S. rise as global power\n🇨🇺 Cuba, Puerto Rico, Guam, Philippines gained from Spain\n🌍 Beginning of American imperialism",
+      "es": "🚢 Guerra breve que marca el ascenso de EE.UU. como potencia mundial\n🇨🇺 Cuba, Puerto Rico, Guam y Filipinas ganadas a España\n🌍 Comienzo del imperialismo estadounidense"
+    },
+    "image": "images/spanish_american.png",
+    "tags": ["war", "spain", "imperialism", "cuba", "philippines"]
+  },
+  {
+    "year": "1914–1918",
+    "era": "World War I",
+    "title": {
+      "en": "America Joins the Great War",
+      "fr": "Les États-Unis dans la Grande Guerre"
+    },
+    "description": {
+      "en": "🇺🇸 U.S. joins Allies in 1917\n⚔️ 'Make the world safe for democracy'\n🕊️ Leads to Treaty of Versailles and League of Nations",
+      "fr": "🇺🇸 Les États-Unis rejoignent les Alliés en 1917\n⚔️ 'Rendre le monde sûr pour la démocratie'\n🕊️ Mène au Traité de Versailles et à la SDN"
+    },
+    "image": "images/ww1_us.png",
+    "tags": ["ww1", "democracy", "wilson", "allies"]
+  },
+  {
+    "year": "1929–1939",
+    "era": "Interwar Period",
+    "title": {
+      "en": "Great Depression",
+      "es": "Gran Depresión"
+    },
+    "description": {
+      "en": "📉 Stock market crash of 1929 devastates economy\n🍞 Widespread unemployment, poverty, and Dust Bowl migration\n🏛️ FDR’s New Deal reshapes U.S. government role",
+      "es": "📉 El colapso bursátil de 1929 destruye la economía\n🍞 Desempleo, pobreza y migración del Dust Bowl\n🏛️ El New Deal de FDR redefine el papel del gobierno"
+    },
+    "image": "images/great_depression.png",
+    "tags": ["economy", "fdr", "new-deal", "crisis"]
+  },
+  {
+    "year": "1941–1945",
+    "era": "World War II",
+    "title": {
+      "en": "World War II and the Arsenal of Democracy",
+      "fr": "Seconde Guerre mondiale"
+    },
+    "description": {
+      "en": "⚔️ U.S. joins Allies after Pearl Harbor attack\n🏭 Massive mobilization — end of Great Depression\n🇯🇵 Ends war with atomic bombs on Hiroshima & Nagasaki",
+      "fr": "⚔️ Entrée des États-Unis après l’attaque de Pearl Harbor\n🏭 Mobilisation massive — fin de la Grande Dépression\n🇯🇵 Fin de la guerre par les bombes atomiques sur Hiroshima et Nagasaki"
+    },
+    "image": "images/ww2_us.png",
+    "tags": ["ww2", "pearl-harbor", "atomic", "allies"]
+  },
+  {
+    "year": "1947–1991",
+    "era": "Cold War America",
+    "title": {
+      "en": "The Cold War and American Leadership",
+      "ru": "Холодная война"
+    },
+    "description": {
+      "en": "🛰️ Rivalry with Soviet Union — nuclear arms race\n🚀 Space Race: Moon landing (1969)\n🌎 U.S. becomes global superpower",
+      "ru": "🛰️ Соперничество с СССР — гонка вооружений\n🚀 Космическая гонка: высадка на Луну (1969)\n🌎 США становится мировой сверхдержавой"
+    },
+    "image": "images/cold_war_us.png",
+    "tags": ["cold-war", "space", "nuclear", "superpower"]
+  },
+  {
+    "year": "1954–1968",
+    "era": "Civil Rights Movement",
+    "title": {
+      "en": "Civil Rights Era",
+      "es": "Movimiento por los Derechos Civiles"
+    },
+    "description": {
+      "en": "✊ Struggle for racial equality — MLK Jr., Rosa Parks\n🚌 Montgomery Bus Boycott, March on Washington\n⚖️ Civil Rights Act (1964), Voting Rights Act (1965)",
+      "es": "✊ Lucha por la igualdad racial — MLK Jr., Rosa Parks\n🚌 Boicot de autobuses de Montgomery, Marcha sobre Washington\n⚖️ Ley de Derechos Civiles (1964), Ley de Derecho al Voto (1965)"
+    },
+    "image": "images/civil_rights.png",
+    "tags": ["mlk", "civil-rights", "equality", "segregation"]
+  },
+  {
+    "year": "1969",
+    "era": "Space Age",
+    "title": {
+      "en": "Moon Landing",
+      "fr": "Alunissage d’Apollo 11"
+    },
+    "description": {
+      "en": "🌕 Apollo 11 lands first humans on the Moon\n🚀 Neil Armstrong: 'One small step for man…'\n🇺🇸 Triumph of U.S. space technology and ambition",
+      "fr": "🌕 Apollo 11 fait atterrir les premiers humains sur la Lune\n🚀 Neil Armstrong : 'Un petit pas pour l'homme…'\n🇺🇸 Triomphe technologique et symbolique américain"
+    },
+    "image": "images/moon_landing.png",
+    "tags": ["space", "nasa", "apollo", "moon"]
+  },
+  {
+    "year": "1991–2001",
+    "era": "Post–Cold War",
+    "title": {
+      "en": "End of Cold War and Globalization",
+      "fr": "Fin de la Guerre froide et mondialisation"
+    },
+    "description": {
+      "en": "🌎 U.S. emerges as sole superpower\n💻 Internet revolution begins\n🏛️ Economic boom and optimism of the 1990s",
+      "fr": "🌎 Les États-Unis deviennent la seule superpuissance\n💻 Révolution d’Internet\n🏛️ Croissance économique et optimisme des années 1990"
+    },
+    "image": "images/globalization.png",
+    "tags": ["globalization", "economy", "internet", "cold-war"]
+  },
+  {
+    "year": "2001–present",
+    "era": "21st Century America",
+    "title": {
+      "en": "War on Terror and Modern Challenges",
+      "ar": "الحرب على الإرهاب"
+    },
+    "description": {
+      "en": "🕊️ 9/11 attacks reshape global politics\n⚔️ Wars in Afghanistan and Iraq\n💥 Rise of terrorism, surveillance, and polarization",
+      "ar": "🕊️ هجمات 11 سبتمبر تعيد تشكيل السياسة العالمية\n⚔️ الحروب في أفغانستان والعراق\n💥 صعود الإرهاب والمراقبة والانقسام"
+    },
+    "image": "images/war_on_terror_us.png",
+    "tags": ["9-11", "terrorism", "iraq", "afghanistan", "security"]
+  },
+  {
+    "year": "2008",
+    "era": "Modern America",
+    "title": {
+      "en": "Election of Barack Obama",
+      "es": "Elección de Barack Obama"
+    },
+    "description": {
+      "en": "🇺🇸 First African American President\n📜 'Yes We Can' — message of hope and unity\n💸 Guided nation through Great Recession recovery",
+      "es": "🇺🇸 Primer presidente afroamericano\n📜 'Yes We Can' — mensaje de esperanza y unidad\n💸 Condujo la recuperación tras la Gran Recesión"
+    },
+    "image": "images/obama.png",
+    "tags": ["obama", "election", "diversity", "recession"]
+  },
+  {
+    "year": "2020–present",
+    "era": "Contemporary America",
+    "title": {
+      "en": "Pandemic, Division, and Resilience",
+      "es": "Pandemia, División y Resiliencia"
+    },
+    "description": {
+      "en": "🦠 COVID-19 pandemic transforms society\n⚖️ Deep political polarization and social activism\n🌎 Renewed focus on climate, equity, and technology",
+      "es": "🦠 La pandemia de COVID-19 transforma la sociedad\n⚖️ Polarización política y activismo social\n🌎 Nuevo enfoque en el clima, la equidad y la tecnología"
+    },
+    "image": "images/modern_america.png",
+    "tags": ["covid", "politics", "society", "climate", "technology"]
+  }
+]

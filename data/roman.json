@@ -1,56 +1,604 @@
 [
   {
-    "year": "753 BC",
-    "title": "Founding of Rome (legend)",
-    "description": "Romulus and Remus mythically found Rome on the Palatine Hill; traditional date for the city's founding.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Romulus_and_Remus.jpg"
+    "year": "753–509 BCE",
+    "era": "Roman Kingdom",
+    "title": {
+      "en": "Romulus and the Founding of Rome",
+      "fr": "Romulus et la Fondation de Rome"
+    },
+    "description": {
+      "en": "🏛️ Legendary founder and first King of Rome\n🐺 Raised by a she-wolf with his brother Remus\n⚔️ Killed Remus, founded Rome on the Palatine Hill\n👑 Established early Roman institutions and the Senate",
+      "fr": "🏛️ Fondateur légendaire et premier roi de Rome\n🐺 Élevé par une louve avec son frère Rémus\n⚔️ Tua Rémus, fonda Rome sur le mont Palatin\n👑 Établit les premières institutions romaines et le Sénat"
+    },
+    "image": "images/roman/romulus.jpg",
+    "tags": ["founding", "kingdom", "myth", "romulus"]
   },
   {
-    "year": "509 BC",
-    "title": "Roman Republic Established",
-    "description": "Romans overthrew the last king and established the Republic, creating institutions like the Senate and consular system.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Ancient_Rome_Republic.jpg"
+    "year": "509 BCE",
+    "era": "Early Republic",
+    "title": {
+      "en": "Overthrow of the Kings / Establishment of the Republic",
+      "fr": "Renversement des Rois / Établissement de la République"
+    },
+    "description": {
+      "en": "⚖️ Expulsion of Tarquin the Proud after the rape of Lucretia\n🏛️ Romans abolish monarchy and create the Republic with consuls and Senate\n🔑 Start of Roman republican institutions and political culture",
+      "fr": "⚖️ Expulsion de Tarquin le Superbe après le viol de Lucrèce\n🏛️ Les Romains abolissent la monarchie et créent la République avec les consuls et le Sénat\n🔑 Début des institutions républicaines et de la culture politique romaine"
+    },
+    "image": "images/roman/expulsion_of_kings.jpg",
+    "tags": ["republic", "founding", "tarquin", "lucretia"]
   },
   {
-    "year": "264–146 BC",
-    "title": "Punic Wars",
-    "description": "Series of wars between Rome and Carthage, including Hannibal's campaign; Rome's victory secured dominance in the western Mediterranean.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Hannibal.jpg"
+    "year": "458 BCE",
+    "era": "Roman Republic - Early",
+    "title": {
+      "en": "Cincinnatus",
+      "fr": "Cincinnatus"
+    },
+    "description": {
+      "en": "🌾 Model of Roman virtue — farmer called to be dictator, returned to plow\n⚔️ Saved Rome from threat, then relinquished absolute power\n🏛️ Emblematic story of civic duty",
+      "fr": "🌾 Modèle de vertu romaine — fermier appelé à devenir dictateur, retourné à sa charrue\n⚔️ Sauva Rome d'une menace, puis renonça au pouvoir absolu\n🏛️ Histoire emblématique du devoir civique"
+    },
+    "image": "images/roman/cincinnatus.webp",
+    "tags": ["virtue", "dictator", "republic", "civic-duty"]
   },
   {
-    "year": "49–44 BC",
-    "title": "Julius Caesar & End of Republic",
-    "description": "Caesar's crossing of the Rubicon, civil war, and eventual assassination led to the end of the Roman Republic.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Julius_Caesar.jpg"
+    "year": "264–241 BCE",
+    "era": "Roman Republic — First Punic War",
+    "title": {
+      "en": "First Punic War",
+      "fr": "Première Guerre Punique"
+    },
+    "description": {
+      "en": "⚓ Rome's first great naval war against Carthage over Sicily\n🏝️ Resulted in Roman victory and Rome's emergence as a Mediterranean naval power\n💰 Heavy costs; set stage for further Punic conflicts",
+      "fr": "⚓ Première grande guerre navale de Rome contre Carthage pour la Sicile\n🏝️ Victoire romaine ; Rome devint une puissance navale méditerranéenne\n💰 Coûts élevés — préparation aux guerres futures"
+    },
+    "image": "images/roman/first_punic_war.jpg",
+    "tags": ["punic-wars", "carthage", "naval-war", "republic"]
   },
   {
-    "year": "27 BC–AD 14",
-    "title": "Augustus & The Principate",
-    "description": "Octavian (Augustus) became Rome's first emperor; established the principate and the Pax Romana—a long period of relative stability.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Augustus_of_Primaporta.jpg"
+    "year": "218–201 BCE",
+    "era": "Roman Republic — Second Punic War",
+    "title": {
+      "en": "Hannibal and the Second Punic War",
+      "fr": "Hannibal et la Deuxième Guerre Punique"
+    },
+    "description": {
+      "en": "🐘 Hannibal Barca's crossing of the Alps and victories at Trebia, Trasimene, Cannae\n⚔️ Rome endured massive defeats but ultimately prevailed under Scipio Africanus\n🌍 War cemented Rome's dominance in the western Mediterranean",
+      "fr": "🐘 Traversée des Alpes par Hannibal et victoires à la Trébie, Trasimène, Cannes\n⚔️ Rome subit des défaites massives mais finalement triompha sous Scipion l'Africain\n🌍 Domination romaine en Méditerranée occidentale confirmée"
+    },
+    "image": "images/roman/hannibal.jpg",
+    "tags": ["hannibal", "punic-wars", "scipio", "cannae"]
   },
   {
-    "year": "AD 117",
-    "title": "Pax Romana (peak)",
-    "description": "Under Trajan, the empire reached its greatest territorial extent; era of relative peace, infrastructure, and cultural flourishing.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Trajan%27s_Column%2C_Rome.jpg"
+    "year": "133–121 BCE",
+    "era": "Late Republic — Social/Political Crisis",
+    "title": {
+      "en": "The Gracchi Brothers",
+      "fr": "Les Frères Gracques"
+    },
+    "description": {
+      "en": "⚖️ Tiberius and Gaius advocated land reform and rights for veterans and the poor\n🏛️ Political violence escalated; both were killed\n🔺 Their deaths mark intensifying social conflicts leading to the Republic's fall",
+      "fr": "⚖️ Tibérius et Caius plaidèrent pour la réforme agraire et les droits des vétérans et des pauvres\n🏛️ Violence politique accrue ; tous deux furent tués\n🔺 Leurs morts marquent l'intensification des conflits sociaux menant à la chute de la République"
+    },
+    "image": "images/roman/gracchi.webp",
+    "tags": ["gracchi", "reform", "land-reform", "late-republic"]
   },
   {
-    "year": "AD 306–337",
-    "title": "Constantine & Christianity",
-    "description": "Constantine legalized Christianity and moved the capital to Constantinople, reshaping the religious and political landscape of the empire.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Constantine_sculpture.jpg"
+    "year": "157–86 BCE",
+    "era": "Late Republic — Military Reform",
+    "title": {
+      "en": "Gaius Marius",
+      "fr": "Caius Marius"
+    },
+    "description": {
+      "en": "🛡️ Military reforms: recruited landless citizens and professionalized the legions\n⚔️ Won major victories in North Africa and against Germanic tribes\n🔁 His reforms increased generals' loyalty from soldiers, destabilizing the Republic",
+      "fr": "🛡️ Réformes militaires : recruta des citoyens sans terre et professionnalisa les légions\n⚔️ Victoires majeures en Afrique du Nord et contre les tribus germaniques\n🔁 Ses réformes transférèrent la loyauté des soldats aux généraux — instabilité politique"
+    },
+    "image": "images/roman/marius.jpg",
+    "tags": ["marius", "military-reform", "legions", "late-republic"]
   },
   {
-    "year": "AD 410",
-    "title": "Sack of Rome (Visigoths)",
-    "description": "The sack of Rome by Alaric's Visigoths marked a symbolic blow to Roman prestige in the West.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Sack_of_Rome_410.jpg"
+    "year": "138–78 BCE",
+    "era": "Late Republic — Sulla's Era",
+    "title": {
+      "en": "Lucius Cornelius Sulla",
+      "fr": "Lucius Cornelius Sylla"
+    },
+    "description": {
+      "en": "⚔️ March on Rome, civil war, and dictatorship\n🏛️ Proscriptions and constitutional reforms aimed at strengthening the Senate\n🔁 Showed that force could settle Rome's politics",
+      "fr": "⚔️ Marche sur Rome, guerre civile et dictature\n🏛️ Proscriptions et réformes constitutionnelles visant à renforcer le Sénat\n🔁 Montra que la force pouvait régler la politique romaine"
+    },
+    "image": "images/roman/sulla.jpg",
+    "tags": ["sulla", "civil-war", "proscriptions", "republic"]
   },
   {
-    "year": "AD 476",
-    "title": "Fall of Western Roman Empire",
-    "description": "Romulus Augustulus deposed; often marked as the end of the Western Roman Empire and the beginning of the Middle Ages in Western Europe.",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Fall_of_Rome.jpg"
+    "year": "73–71 BCE",
+    "era": "Late Republic",
+    "title": {
+      "en": "Spartacus and the Slave Revolt",
+      "fr": "Spartacus et la Révolte des Esclaves"
+    },
+    "description": {
+      "en": "🔥 Gladiator-led slave uprising that threatened Roman Italy\n⚔️ Crushed by Crassus and Pompey's legions\n🔒 Highlighted internal stresses and inequality",
+      "fr": "🔥 Soulèvement d'esclaves mené par un gladiateur qui menaça l'Italie romaine\n⚔️ Écrasé par les légions de Crassus et Pompée\n🔒 Révéla les tensions internes et l'inégalité"
+    },
+    "image": "images/roman/spartacus.jpg",
+    "tags": ["spartacus", "slave-revolt", "crassus", "inequality"]
+  },
+  {
+    "year": "60–53 BCE",
+    "era": "Late Republic — First Triumvirate",
+    "title": {
+      "en": "First Triumvirate: Caesar, Pompey & Crassus",
+      "fr": "Premier Triumvirat : César, Pompée et Crassus"
+    },
+    "description": {
+      "en": "🤝 Informal political alliance concentrating power: Julius Caesar, Pompey the Great, Marcus Crassus\n🏛️ Bypassed traditional republican checks\n⚔️ Fell apart after Crassus' death (Carrhae) and Pompey's rivalry with Caesar",
+      "fr": "🤝 Alliance politique informelle concentrant le pouvoir : Jules César, Pompée le Grand, Marcus Crassus\n🏛️ Contourna les contrôles républicains traditionnels\n⚔️ Se disloqua après la mort de Crassus (Carrhes) et la rivalité entre Pompée et César"
+    },
+    "image": "images/roman/first_triumvirate.png",
+    "tags": ["triumvirate", "caesar", "pompey", "crassus"]
+  },
+  {
+    "year": "49–44 BCE",
+    "era": "End of Republic — Julius Caesar",
+    "title": {
+      "en": "Julius Caesar",
+      "fr": "Jules César"
+    },
+    "description": {
+      "en": "⚔️ Conqueror of Gaul; crossed the Rubicon (49 BCE) and initiated civil war\n👑 Appointed dictator perpetuo (dictator for life)\n🗡️ Assassinated on the Ides of March (44 BCE) — immediate crisis for the Republic",
+      "fr": "⚔️ Conquérant de la Gaule ; franchit le Rubicon (49 av. J.-C.) et déclencha la guerre civile\n👑 Nommé dictateur à vie\n🗡️ Assassiné aux Ides de Mars (44 av. J.-C.) — crise immédiate pour la République"
+    },
+    "image": "images/roman/julius_caesar.jpg",
+    "tags": ["caesar", "rubicon", "assassination", "republic-fall"]
+  },
+  {
+    "year": "43–30 BCE",
+    "era": "End of Republic — Second Triumvirate",
+    "title": {
+      "en": "Second Triumvirate: Octavian, Antony & Lepidus",
+      "fr": "Second Triumvirat : Octave, Antoine et Lépide"
+    },
+    "description": {
+      "en": "🤝 Legalized three-man rule to defeat Caesar's assassins (Philippi) and consolidate power\n⚖️ Proscriptions and redistribution of power\n⚔️ Rivalry culminated in the Battle of Actium (31 BCE)",
+      "fr": "🤝 Gouvernement légalisé à trois pour vaincre les assassins de César (Philippes) et consolider le pouvoir\n⚖️ Proscriptions et redistribution du pouvoir\n⚔️ Rivalité culminant à la bataille d'Actium (31 av. J.-C.)"
+    },
+    "image": "images/roman/second_triumvirate.jpg",
+    "tags": ["second-triumvirate", "octavian", "antony", "lepidus"]
+  },
+  {
+    "year": "31–30 BCE",
+    "era": "End of Republic — Actium & Egypt",
+    "title": {
+      "en": "Mark Antony & Cleopatra — Actium",
+      "fr": "Marc Antoine et Cléopâtre — Actium"
+    },
+    "description": {
+      "en": "🌊 Naval defeat at Actium (31 BCE) ended Antony and Cleopatra's bid for power\n👑 Egypt absorbed into Rome after their suicides (30 BCE)\n📜 Marked the final step toward imperial rule under Octavian",
+      "fr": "🌊 Défaite navale à Actium (31 av. J.-C.) mit fin aux ambitions d'Antoine et Cléopâtre\n👑 L'Égypte fut absorbée par Rome après leurs suicides (30 av. J.-C.)\n📜 Étape finale vers le régime impérial sous Octave"
+    },
+    "image": "images/roman/actium_cleopatra.jpg",
+    "tags": ["actium", "cleopatra", "antony", "egypt"]
+  },
+  {
+    "year": "27 BCE–14 CE",
+    "era": "Early Roman Empire (Principate)",
+    "title": {
+      "en": "Augustus (Octavian)",
+      "fr": "Auguste (Octave)"
+    },
+    "description": {
+      "en": "👑 First Roman Emperor — established the Principate and long-lasting administrative reforms\n🏛️ Began the Pax Romana (era of relative peace)\n🦅 Reorganized the army, finances, and provinces",
+      "fr": "👑 Premier empereur romain — établit le Principat et des réformes administratives durables\n🏛️ Début de la Pax Romana (ère de paix relative)\n🦅 Réorganisa l'armée, les finances et les provinces"
+    },
+    "image": "images/roman/augustus.jpg",
+    "tags": ["augustus", "principate", "pax-romana", "founder"]
+  },
+  {
+    "year": "14–37 CE",
+    "era": "Early Empire - Julio-Claudian",
+    "title": {
+      "en": "Tiberius",
+      "fr": "Tibère"
+    },
+    "description": {
+      "en": "👑 Shrewd but reclusive emperor; moved to Capri in later years\n⚖️ Maintained Augustus' system but presided over political paranoia and treason trials\n🔒 Period of consolidation and also growing repression",
+      "fr": "👑 Empereur prudent mais reclus ; se retira à Capri dans ses dernières années\n⚖️ Maintint le système d'Auguste mais présida à la paranoïa politique et aux procès de trahison\n🔒 Période de consolidation et de répression croissante"
+    },
+    "image": "images/roman/tiberius.jpg",
+    "tags": ["tiberius", "julio-claudian", "consolidation", "repression"]
+  },
+  {
+    "year": "37–41 CE",
+    "era": "Early Empire - Julio-Claudian",
+    "title": {
+      "en": "Caligula",
+      "fr": "Caligula"
+    },
+    "description": {
+      "en": "🎭 Notorious for cruelty, extravagance, and erratic behavior\n⚔️ Popular early but later faced conspiracies\n🗡️ Assassinated by the Praetorian Guard",
+      "fr": "🎭 Notoire pour sa cruauté, son extravagance et son comportement erratique\n⚔️ Populaire au début mais confronté plus tard à des conspirations\n🗡️ Assassiné par la Garde prétorienne"
+    },
+    "image": "images/roman/caligula.jpg",
+    "tags": ["caligula", "tyrant", "assassination", "julio-claudian"]
+  },
+  {
+    "year": "41–54 CE",
+    "era": "Early Empire - Julio-Claudian",
+    "title": {
+      "en": "Claudius",
+      "fr": "Claude"
+    },
+    "description": {
+      "en": "🏛️ Competent administrator who expanded the empire (Britain, 43 CE)\n📚 Scholar-emperor who improved bureaucracy\n⚠️ Influence of court factions (Agrippina, Nero) shaped succession",
+      "fr": "🏛️ Administrateur compétent qui étendit l'empire (Bretagne, 43 apr. J.-C.)\n📚 Empereur érudit qui améliora la bureaucratie\n⚠️ Influence des factions de cour (Agrippine, Néron) sur la succession"
+    },
+    "image": "images/roman/claudius.webp",
+    "tags": ["claudius", "britain", "administration", "julio-claudian"]
+  },
+  {
+    "year": "54–68 CE",
+    "era": "Early Empire - Julio-Claudian",
+    "title": {
+      "en": "Nero",
+      "fr": "Néron"
+    },
+    "description": {
+      "en": "🔥 Patron of the arts, later infamous for tyranny and the Great Fire of Rome (64 CE)\n🏛️ Persecutions of Christians; political purges\n🗡️ Rebellion and suicide ended the Julio-Claudian dynasty",
+      "fr": "🔥 Mécène des arts, plus tard infâme pour sa tyrannie et le Grand Incendie de Rome (64 apr. J.-C.)\n🏛️ Persécution des chrétiens ; purges politiques\n🗡️ Rébellion et suicide mirent fin à la dynastie julio-claudienne"
+    },
+    "image": "images/roman/nero.jpg",
+    "tags": ["nero", "fire-of-rome", "persecution", "julio-claudian"]
+  },
+  {
+    "year": "69 CE",
+    "era": "Year of the Four Emperors",
+    "title": {
+      "en": "Year of the Four Emperors (Galba, Otho, Vitellius, Vespasian)",
+      "fr": "Année des Quatre Empereurs (Galba, Othon, Vitellius, Vespasien)"
+    },
+    "description": {
+      "en": "⚔️ Rapid succession of claimants after Nero's death\n🏛️ Civil wars ended with Vespasian establishing stability\n🔁 Demonstrated army's decisive political role",
+      "fr": "⚔️ Succession rapide de prétendants après la mort de Néron\n🏛️ Guerres civiles terminées avec Vespasien établissant la stabilité\n🔁 Rôle politique décisif de l'armée démontré"
+    },
+    "image": "images/roman/year_of_four_emperors.jpg",
+    "tags": ["69-ce", "vespasian", "civil-war", "year-of-four-emperors"]
+  },
+  {
+    "year": "69–79 CE",
+    "era": "Flavian Dynasty",
+    "title": {
+      "en": "Vespasian",
+      "fr": "Vespasien"
+    },
+    "description": {
+      "en": "🛠️ Restored fiscal stability after civil war and began Flavian building projects (Colosseum)\n⚖️ Reasserted central authority and stabilized the empire\n🌍 Military successes in Judea and elsewhere",
+      "fr": "🛠️ Restaura la stabilité fiscale après la guerre civile et lança les projets de construction flaviens (Colisée)\n⚖️ Réaffirma l'autorité centrale et stabilisa l'empire\n🌍 Succès militaires en Judée et ailleurs"
+    },
+    "image": "images/roman/vespasian.jpg",
+    "tags": ["vespasian", "flavian", "colosseum", "stability"]
+  },
+  {
+    "year": "79–81 CE",
+    "era": "Flavian Dynasty",
+    "title": {
+      "en": "Titus",
+      "fr": "Titus"
+    },
+    "description": {
+      "en": "🌋 Emperor during Vesuvius eruption (79 CE) and the completion of the Colosseum\n🏛️ Popular for disaster relief and generosity\n⚔️ Successful general in the Jewish War",
+      "fr": "🌋 Empereur lors de l'éruption du Vésuve (79 apr. J.-C.) et de l'achèvement du Colisée\n🏛️ Populaire pour l'aide aux sinistrés et sa générosité\n⚔️ Général victorieux dans la guerre juive"
+    },
+    "image": "images/roman/titus.jpg",
+    "tags": ["titus", "vesuvius", "colosseum", "jewish-war"]
+  },
+  {
+    "year": "81–96 CE",
+    "era": "Flavian Dynasty",
+    "title": {
+      "en": "Domitian",
+      "fr": "Domitien"
+    },
+    "description": {
+      "en": "🛡️ Strong autocratic rule; reorganized the army and frontiers\n⚖️ Repressive toward senatorial class; increased imperial cult\n🗡️ Assassinated; end of Flavian line",
+      "fr": "🛡️ Régime autocratique fort ; réorganisa l'armée et les frontières\n⚖️ Répressif envers la classe sénatoriale ; augmenta le culte impérial\n🗡️ Assassiné ; fin de la lignée flavienne"
+    },
+    "image": "images/roman/domitian.jpg",
+    "tags": ["domitian", "autocracy", "flavian", "assassination"]
+  },
+  {
+    "year": "96–98 CE",
+    "era": "Five Good Emperors — Start",
+    "title": {
+      "en": "Nerva",
+      "fr": "Nerva"
+    },
+    "description": {
+      "en": "⚖️ Short reign; ushered in era of 'adoptive' emperors and relative stability\n🏛️ Began policies to redress injustices and restore senatorial dignity\n🔁 Preceded Trajan's expansion",
+      "fr": "⚖️ Règne bref ; inaugura l'ère des empereurs « adoptifs » et de stabilité relative\n🏛️ Lança des politiques pour réparer les injustices et restaurer la dignité sénatoriale\n🔁 Précéda l'expansion de Trajan"
+    },
+    "image": "images/roman/nerva.webp",
+    "tags": ["nerva", "adoption", "five-good-emperors", "stability"]
+  },
+  {
+    "year": "98–117 CE",
+    "era": "Five Good Emperors",
+    "title": {
+      "en": "Trajan",
+      "fr": "Trajan"
+    },
+    "description": {
+      "en": "🏛️ Empire reached greatest territorial extent under Trajan (Dacia conquest)\n⚙️ Major public works, roads, and social welfare (alimenta)\n🦅 Celebrated as an ideal soldier-emperor",
+      "fr": "🏛️ L'empire atteignit sa plus grande extension territoriale sous Trajan (conquête de la Dacie)\n⚙️ Grands travaux publics, routes et aide sociale (alimenta)\n🦅 Célébré comme un empereur-soldat idéal"
+    },
+    "image": "images/roman/trajan.jpg",
+    "tags": ["trajan", "expansion", "dacia", "public-works"]
+  },
+  {
+    "year": "117–138 CE",
+    "era": "Five Good Emperors",
+    "title": {
+      "en": "Hadrian",
+      "fr": "Hadrien"
+    },
+    "description": {
+      "en": "🏰 Consolidated borders (Hadrian's Wall) and focused on administration\n🎨 Patron of arts and architecture; traveled the provinces\n🔒 Shift from expansion to defense",
+      "fr": "🏰 Consolida les frontières (Mur d'Hadrien) et se concentra sur l'administration\n🎨 Mécène des arts et de l'architecture ; voyagea dans les provinces\n🔒 Passage de l'expansion à la défense"
+    },
+    "image": "images/roman/hadrian.jpg",
+    "tags": ["hadrian", "frontiers", "wall", "administration"]
+  },
+  {
+    "year": "138–161 CE",
+    "era": "Five Good Emperors",
+    "title": {
+      "en": "Antoninus Pius",
+      "fr": "Antonin le Pieux"
+    },
+    "description": {
+      "en": "🏛️ Peaceful and prosperous reign with legal reforms and stability\n🌾 Not known for military exploits but for good governance\n📜 Continued Trajanic/Hadrianic policies",
+      "fr": "🏛️ Règne paisible et prospère avec des réformes légales et de la stabilité\n🌾 Pas connu pour ses exploits militaires mais pour sa bonne gouvernance\n📜 Continua les politiques de Trajan et Hadrien"
+    },
+    "image": "images/roman/antoninus_pius.jpg",
+    "tags": ["antoninus-pius", "peace", "governance", "five-good-emperors"]
+  },
+  {
+    "year": "161–180 CE",
+    "era": "Antonine Dynasty",
+    "title": {
+      "en": "Marcus Aurelius",
+      "fr": "Marc Aurèle"
+    },
+    "description": {
+      "en": "📚 Philosopher-emperor (Meditations)\n⚔️ Defended the empire against Germanic invasions (Marcomannic Wars)\n🔁 Reign marked by war, plague (Antonine Plague), and stoic virtue",
+      "fr": "📚 Empereur philosophe (Méditations)\n⚔️ Défendit l'empire contre les invasions germaniques (Guerres marcomanes)\n🔁 Règne marqué par la guerre, la peste (Peste antonine) et la vertu stoïcienne"
+    },
+    "image": "images/roman/marcus_aurelius.jpg",
+    "tags": ["marcus-aurelius", "stoicism", "marcomannic-wars", "plague"]
+  },
+  {
+    "year": "180–192 CE",
+    "era": "Severan Transition",
+    "title": {
+      "en": "Commodus",
+      "fr": "Commode"
+    },
+    "description": {
+      "en": "🎭 Son of Marcus Aurelius; eccentric and autocratic rule\n⚔️ His misrule and political violence undermined stability\n🗡️ Assassinated — opened path to the Severan dynasty and later crises",
+      "fr": "🎭 Fils de Marc Aurèle ; règne excentrique et autocratique\n⚔️ Sa mauvaise gestion et la violence politique sapèrent la stabilité\n🗡️ Assassiné — ouvrit la voie à la dynastie des Sévères et aux crises ultérieures"
+    },
+    "image": "images/roman/commodus.webp",
+    "tags": ["commodus", "autocracy", "assassination", "severan-transition"]
+  },
+  {
+    "year": "193–211 CE",
+    "era": "Severan Dynasty",
+    "title": {
+      "en": "Septimius Severus",
+      "fr": "Septime Sévère"
+    },
+    "description": {
+      "en": "⚔️ Rose to power after 'Year of the Five Emperors' (193 CE)\n🛡️ Strengthened the army and military rule; increased pay and privileges\n🏛️ Began longer-term trend of military influence in politics",
+      "fr": "⚔️ Accéda au pouvoir après l'« Année des Cinq Empereurs » (193 apr. J.-C.)\n🛡️ Renforça l'armée et le pouvoir militaire ; augmenta la solde et les privilèges\n🏛️ Lança une tendance à long terme d'influence militaire en politique"
+    },
+    "image": "images/roman/severus.jpg",
+    "tags": ["severus", "army", "military-rule", "severan"]
+  },
+  {
+    "year": "235–284 CE",
+    "era": "Crisis of the Third Century",
+    "title": {
+      "en": "Crisis of the Third Century",
+      "fr": "Crise du Troisième Siècle"
+    },
+    "description": {
+      "en": "⚠️ Period of nearly continuous civil wars, usurpers, plagues, economic collapse\n🏳️ Empire nearly fractured into Gallic, Palmyrene, and central Roman states\n🔁 Ended by reforms of Diocletian and Aurelian",
+      "fr": "⚠️ Période de guerres civiles presque continues, usurpateurs, pestes, effondrement économique\n🏳️ L'empire faillit se fragmenter en États gaulois, palmyrénien et romain central\n🔁 Terminée par les réformes de Dioclétien et Aurélien"
+    },
+    "image": "images/roman/crisis_third_century.jpg",
+    "tags": ["third-century-crisis", "usurpers", "economy", "plague"]
+  },
+  {
+    "year": "270–275 CE",
+    "era": "Reunification — Aurelian",
+    "title": {
+      "en": "Aurelian",
+      "fr": "Aurélien"
+    },
+    "description": {
+      "en": "⚔️ Reunified the empire and defeated breakaway states (Palmyra, Gallic Empire)\n🏰 Strengthened frontiers and restored order\n🔒 Nicknamed 'Restorer of the World' (Restitutor Orbis)",
+      "fr": "⚔️ Réunifia l'empire et vainquit les États sécessionnistes (Palmyre, Empire gaulois)\n🏰 Renforça les frontières et restaura l'ordre\n🔒 Surnommé « Restaurateur du Monde » (Restitutor Orbis)"
+    },
+    "image": "images/roman/aurelian.webp",
+    "tags": ["aurelian", "reunification", "palmyra", "gallic-empire"]
+  },
+   {
+    "year": "284–305 CE",
+    "era": "Late Empire — Diocletian & Tetrarchy",
+    "title": {
+      "en": "Diocletian",
+      "fr": "Dioclétien"
+    },
+    "description": {
+      "en": "⚙️ Created the Tetrarchy dividing rule between East & West (two Augusti and two Caesars)\n💰 Reformed taxation, currency, and administration to stabilize the empire\n⛓️ Initiated the Great Persecution of Christians",
+      "fr": "⚙️ Mit en place la Tétrarchie, partageant le pouvoir entre Orient et Occident (deux Augustes et deux Césars)\n💰 Réforma la fiscalité, la monnaie et l’administration pour stabiliser l’empire\n⛓️ Lança la Grande Persécution des chrétiens"
+    },
+    "image": "images/roman/diocletian.webp",
+    "tags": ["diocletian", "tetrarchy", "reform", "persecution"]
+  },
+  {
+    "year": "306–337 CE",
+    "era": "Constantinian Period",
+    "title": {
+      "en": "Constantine the Great",
+      "fr": "Constantin le Grand"
+    },
+    "description": {
+      "en": "✝️ First emperor to convert to Christianity; Edict of Milan (313 CE) granted religious toleration\n🏙️ Founded Constantinople (330 CE) as a new eastern capital\n⚔️ Won the Battle of the Milvian Bridge (312 CE) and reshaped imperial ideology",
+      "fr": "✝️ Premier empereur converti au christianisme ; l’Édit de Milan (313) accorda la tolérance religieuse\n🏙️ Fondat Constantinople (330) comme nouvelle capitale orientale\n⚔️ Remporta la bataille du pont Milvius (312) et transforma l’idéologie impériale"
+    },
+    "image": "images/roman/constantine.jpg",
+    "tags": ["constantine", "christianity", "edict-of-milan", "constantinople"]
+  },
+  {
+    "year": "361–363 CE",
+    "era": "Late Empire — Pagan Revival",
+    "title": {
+      "en": "Julian the Apostate",
+      "fr": "Julien l’Apostat"
+    },
+    "description": {
+      "en": "🔯 Attempted to restore pagan religion and reduce Christian influence\n⚔️ Campaigned against the Persians; died on campaign\n🔁 Short-lived movement; Christianity remained dominant",
+      "fr": "🔯 Tenta de restaurer la religion païenne et de réduire l’influence chrétienne\n⚔️ Fit campagne contre les Perses ; mourut lors de l’expédition\n🔁 Mouvement de courte durée ; le christianisme resta dominant"
+    },
+    "image": "images/roman/julian.jpg",
+    "tags": ["julian", "paganism", "persian-war", "apostate"]
+  },
+  {
+    "year": "378 CE",
+    "era": "Late Empire — Military Disaster",
+    "title": {
+      "en": "Battle of Adrianople / Valens",
+      "fr": "Bataille d’Andrinople / Valens"
+    },
+    "description": {
+      "en": "⚔️ Gothic victory over the Eastern Roman army; Emperor Valens killed\n🏳️ Marked a turning point in Rome’s ability to control barbarian migrations\n🔺 Beginning of increased barbarian settlement and pressure",
+      "fr": "⚔️ Victoire gothique sur l’armée romaine d’Orient ; l’empereur Valens fut tué\n🏳️ Marqua un tournant dans la capacité de Rome à maîtriser les migrations barbares\n🔺 Début d’une intensification des établissements et pressions barbares"
+    },
+    "image": "images/roman/adrianople.jpg",
+    "tags": ["adrianople", "valens", "goths", "turning-point"]
+  },
+  {
+    "year": "379–395 CE",
+    "era": "Late Empire — Theodosius & Christianity",
+    "title": {
+      "en": "Theodosius I",
+      "fr": "Théodose Ier"
+    },
+    "description": {
+      "en": "✝️ Declared Christianity the state religion (Edict of Thessalonica, 380 CE)\n🏛️ Last emperor to rule both East and West (until his death in 395)\n⚖️ Tried to maintain unity but ethnic and religious divisions grew",
+      "fr": "✝️ Fit du christianisme la religion d’État (Édit de Thessalonique, 380)\n🏛️ Dernier empereur à régner sur l’Orient et l’Occident (jusqu’à sa mort en 395)\n⚖️ Chercha à maintenir l’unité mais les divisions ethniques et religieuses s’accrurent"
+    },
+    "image": "images/roman/theodosius.jpg",
+    "tags": ["theodosius", "christianity", "edict-of-thessalonica", "unity"]
+  },
+  {
+    "year": "395–476 CE",
+    "era": "Late Empire — Western Decline",
+    "title": {
+      "en": "Barbarian Invasions & the Fall of the Western Empire",
+      "fr": "Invasions barbares et chute de l’Empire romain d’Occident"
+    },
+    "description": {
+      "en": "⚠️ Repeated invasions and settlements by Goths, Vandals, Huns, and others\n🏛️ Sack of Rome by Alaric (410 CE) and by the Vandals (455 CE)\n👑 Deposition of Romulus Augustulus (476 CE) traditionally marks the end of the Western Roman Empire",
+      "fr": "⚠️ Invasions et établissements répétés des Goths, Vandales, Huns et autres peuples\n🏛️ Sac de Rome par Alaric (410) puis par les Vandales (455)\n👑 La déposition de Romulus Augustule (476) marque traditionnellement la fin de l’Empire romain d’Occident"
+    },
+    "image": "images/roman/fall_west.webp",
+    "tags": ["fall-west", "alaric", "vandals", "romulus-augustulus"]
+  },
+  {
+    "year": "410 CE",
+    "era": "Late Empire — Sack of Rome",
+    "title": {
+      "en": "Alaric and the Sack of Rome (410)",
+      "fr": "Alaric et le sac de Rome (410)"
+    },
+    "description": {
+      "en": "⚔️ Visigoth king Alaric sacked Rome — a seismic psychological blow to Rome’s prestige\n🏳️ Demonstrated the empire’s vulnerability\n📜 Cultural shock that resonated across the Mediterranean",
+      "fr": "⚔️ Le roi wisigoth Alaric pilla Rome — un choc psychologique immense pour le prestige romain\n🏳️ Montra la vulnérabilité de l’empire\n📜 Un traumatisme culturel qui résonna dans tout le monde méditerranéen"
+    },
+    "image": "images/roman/alaric_410.jpg",
+    "tags": ["alaric", "sack-of-rome", "visigoths", "410"]
+  },
+  {
+    "year": "455 CE",
+    "era": "Late Empire — Sack of Rome",
+    "title": {
+      "en": "Vandal Sack of Rome (455)",
+      "fr": "Sac de Rome par les Vandales (455)"
+    },
+    "description": {
+      "en": "🚢 Vandal king Genseric captured and looted Rome following political turmoil\n🏛️ Deepened the sense of imperial decline\n🔁 Further damage to Rome’s symbolic authority",
+      "fr": "🚢 Le roi vandale Genséric captura et pilla Rome après des troubles politiques\n🏛️ Accentua le sentiment de déclin impérial\n🔁 Porta un nouveau coup à l’autorité symbolique de Rome"
+    },
+    "image": "images/roman/vandal_sack.jpg",
+    "tags": ["vandals", "genseric", "sack-of-rome", "455"]
+  },
+  {
+    "year": "476 CE",
+    "era": "End of the Western Roman Empire",
+    "title": {
+      "en": "Romulus Augustulus — Deposed",
+      "fr": "Romulus Augustule — Déposé"
+    },
+    "description": {
+      "en": "👑 Young Western emperor deposed by the Germanic chieftain Odoacer\n📜 Often cited as the traditional end date of the Western Roman Empire\n🏛️ Eastern Roman (Byzantine) Empire continued",
+      "fr": "👑 Jeune empereur d’Occident déposé par le chef germanique Odoacre\n📜 Considéré comme la date traditionnelle de la fin de l’Empire romain d’Occident\n🏛️ L’Empire romain d’Orient (byzantin) se poursuivit"
+    },
+    "image": "images/roman/romulus_augustulus.jpg",
+    "tags": ["romulus-augustulus", "odoacer", "fall-of-west", "476"]
+  },
+  {
+    "year": "486–534 CE",
+    "era": "Post-Roman / Ostrogothic Italy & Byzantine Reconquest",
+    "title": {
+      "en": "Odoacer and Theodoric (Ostrogoths)",
+      "fr": "Odoacre et Théodoric (Ostrogoths)"
+    },
+    "description": {
+      "en": "👑 Germanic kings ruled former Roman territories in Italy (Odoacer, then Theodoric the Ostrogoth)\n⚔️ Later Justinian launched reconquest wars to restore parts of the West\n🔁 Transitional era from Roman to medieval polities",
+      "fr": "👑 Des rois germaniques gouvernèrent les anciens territoires romains en Italie (Odoacre, puis Théodoric l’Ostrogoth)\n⚔️ Plus tard, Justinien lança des guerres de reconquête pour restaurer certaines provinces occidentales\n🔁 Période de transition entre le monde romain et les royaumes médiévaux"
+    },
+    "image": "images/roman/ostrogoths.jpg",
+    "tags": ["odoacer", "theodoric", "ostrogoths", "justinian"]
+  },
+  {
+    "year": "527–565 CE",
+    "era": "Byzantine Reassertion (Eastern Roman Empire)",
+    "title": {
+      "en": "Justinian I — Eastern Roman (Byzantine) Emperor",
+      "fr": "Justinien Ier — Empereur romain d’Orient (byzantin)"
+    },
+    "description": {
+      "en": "⚖️ Attempted to reconquer former western provinces (Africa, Italy) and codified Roman law (Corpus Juris Civilis)\n🏛️ Great building projects (Hagia Sophia)\n🌍 Eastern empire carried Roman legal and administrative traditions forward",
+      "fr": "⚖️ Tenta de reconquérir d’anciennes provinces occidentales (Afrique, Italie) et codifia le droit romain (Corpus Juris Civilis)\n🏛️ Grandes réalisations architecturales (Sainte-Sophie)\n🌍 L’empire d’Orient perpétua les traditions juridiques et administratives romaines"
+    },
+    "image": "images/roman/justinian.webp",
+    "tags": ["justinian", "corpus-juris", "reconquest", "byzantine"]
+  },
+  {
+    "year": "6th–7th centuries CE",
+    "era": "Transformation into Medieval Europe",
+    "title": {
+      "en": "Legacy and Transformation — From Rome to Medieval Kingdoms",
+      "fr": "Héritage et transformation — De Rome aux royaumes médiévaux"
+    },
+    "description": {
+      "en": "🏺 Roman institutions, law, language and infrastructure influenced successor states and medieval Europe\n🔁 Roman identity persisted in the East (Byzantium) and in legal traditions across Europe\n📜 Long-term legacy shaping medieval and modern Europe",
+      "fr": "🏺 Les institutions, le droit, la langue et les infrastructures romaines influencèrent les États successeurs et l’Europe médiévale\n🔁 L’identité romaine subsista en Orient (Byzance) et dans les traditions juridiques européennes\n📜 Un héritage durable qui façonna l’Europe médiévale et moderne"
+    },
+    "image": "images/roman/legacy_rome.jpg",
+    "tags": ["legacy", "byzantium", "law", "medieval-transition"]
   }
 ]

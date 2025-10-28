@@ -32,6 +32,11 @@ body.dark #main-desc {
   color: #f1f5f9; /* ensure header text is readable */
 }
 
+/* "Choose a topic to explore" heading in dark mode */
+body.dark #choose-country {
+  color: #e6eef6 !important;
+}
+
 /* Country/topic buttons: reduce gradient and make them darker in dark mode */
 body.dark .country-btn,
 body.dark a[href$="game2.html"],
@@ -105,6 +110,22 @@ body.dark ::placeholder {
 }
 body.dark #tag-bar {
   background: transparent;
+}
+
+/* Filter tag buttons in dark mode */
+body.dark #tag-bar button {
+  background-color: #253046 !important;
+  color: #e6eef6 !important;
+  border: 1px solid rgba(255,255,255,0.08) !important;
+}
+body.dark #tag-bar button:hover {
+  background-color: #334155 !important;
+}
+/* Active/selected filter tags */
+body.dark #tag-bar button.bg-blue-500 {
+  background-color: #3b82f6 !important;
+  color: white !important;
+  border-color: #60a5fa !important;
 }
 
 /* Footer and general links */

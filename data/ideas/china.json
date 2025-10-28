@@ -1,0 +1,86 @@
+[
+  {
+    "year": "c. 2100–1600 BC",
+    "title": {"en": "Xia Dynasty", "zh": "夏朝"},
+    "description": {"en": "First dynasty in traditional Chinese history. Legendary rulers Yu the Great and the beginnings of Chinese civilization.", "zh": "中国历史上的第一个王朝。传说中的大禹治水，中华文明的开端。"},
+    "image": "images/xia_dynasty.jpg",
+    "tags": ["ancient", "dynasty", "legend"]
+  },
+  {
+    "year": "c. 1600–1046 BC",
+    "title": {"en": "Shang Dynasty", "zh": "商朝"},
+    "description": {"en": "Earliest confirmed Chinese dynasty. Bronze age, oracle bones, and ancestor worship.", "zh": "中国最早有确切记载的王朝。青铜器时代，甲骨文，祖先崇拜。"},
+    "image": "images/shang_dynasty.jpg",
+    "tags": ["bronze-age", "oracle-bones", "ancestor-worship"]
+  },
+  {
+    "year": "c. 1046–256 BC",
+    "title": {"en": "Zhou Dynasty", "zh": "周朝"},
+    "description": {"en": "Longest dynasty. Feudal system, Confucius, Laozi, and the Hundred Schools of Thought.", "zh": "中国历史上持续时间最长的王朝。分封制，孔子、老子，百家争鸣。"},
+    "image": "images/zhou_dynasty.jpg",
+    "tags": ["philosophy", "confucius", "laozi"]
+  },
+  {
+    "year": "221–206 BC",
+    "title": {"en": "Qin Dynasty", "zh": "秦朝"},
+    "description": {"en": "First unified imperial dynasty. Qin Shi Huang, Great Wall, Terracotta Army, legalism.", "zh": "中国第一个统一的帝国。秦始皇，万里长城，兵马俑，法家思想。"},
+    "image": "images/qin_dynasty.jpg",
+    "tags": ["imperial", "great-wall", "qin-shi-huang"]
+  },
+  {
+    "year": "206 BC–220 AD",
+    "title": {"en": "Han Dynasty", "zh": "汉朝"},
+    "description": {"en": "Golden age. Silk Road, paper invention, Confucian state, expansion, and culture.", "zh": "中国历史上的黄金时代。丝绸之路，造纸术，儒家治国，疆域扩展与文化繁荣。"},
+    "image": "images/han_dynasty.jpg",
+    "tags": ["golden-age", "silk-road", "invention"]
+  },
+  {
+    "year": "618–907",
+    "title": {"en": "Tang Dynasty", "zh": "唐朝"},
+    "description": {"en": "Cosmopolitan empire. Poetry, art, Buddhism, Chang'an, and international trade.", "zh": "世界性的帝国。诗歌、艺术、佛教、长安、国际贸易。"},
+    "image": "images/tang_dynasty.jpg",
+    "tags": ["poetry", "buddhism", "trade"]
+  },
+  {
+    "year": "960–1279",
+    "title": {"en": "Song Dynasty", "zh": "宋朝"},
+    "description": {"en": "Economic and technological advances. Printing, gunpowder, compass, and urbanization.", "zh": "经济与科技进步。印刷术、火药、指南针、城市化。"},
+    "image": "images/song_dynasty.jpg",
+    "tags": ["technology", "urbanization", "invention"]
+  },
+  {
+    "year": "1271–1368",
+    "title": {"en": "Yuan Dynasty", "zh": "元朝"},
+    "description": {"en": "Mongol rule. Kublai Khan, Marco Polo, and cultural exchange.", "zh": "蒙古统治。忽必烈、马可波罗、文化交流。"},
+    "image": "images/yuan_dynasty.jpg",
+    "tags": ["mongol", "kublai-khan", "exchange"]
+  },
+  {
+    "year": "1368–1644",
+    "title": {"en": "Ming Dynasty", "zh": "明朝"},
+    "description": {"en": "Restoration of Han rule. Forbidden City, Zheng He, porcelain, and literature.", "zh": "汉族复兴。紫禁城，郑和下西洋，瓷器，文学。"},
+    "image": "images/ming_dynasty.jpg",
+    "tags": ["forbidden-city", "zheng-he", "porcelain"]
+  },
+  {
+    "year": "1644–1912",
+    "title": {"en": "Qing Dynasty", "zh": "清朝"},
+    "description": {"en": "Last imperial dynasty. Manchu rule, Opium Wars, Taiping Rebellion, modernization attempts.", "zh": "中国最后一个封建王朝。满族统治，鸦片战争，太平天国，近代化尝试。"},
+    "image": "images/qing_dynasty.jpg",
+    "tags": ["manchu", "opium-war", "modernization"]
+  },
+  {
+    "year": "1912–1949",
+    "title": {"en": "Republic of China", "zh": "中华民国"},
+    "description": {"en": "End of imperial rule. Sun Yat-sen, warlords, Japanese invasion, civil war.", "zh": "帝制终结。孙中山，军阀割据，日本侵略，内战。"},
+    "image": "images/republic_china.jpg",
+    "tags": ["republic", "civil-war", "sun-yat-sen"]
+  },
+  {
+    "year": "1949–present",
+    "title": {"en": "People's Republic of China", "zh": "中华人民共和国"},
+    "description": {"en": "Communist rule. Mao Zedong, economic reforms, rapid modernization, global power.", "zh": "共产党执政。毛泽东，经济改革，快速现代化，世界强国。"},
+    "image": "images/prc_china.jpg",
+    "tags": ["communist", "mao", "modernization"]
+  }
+]

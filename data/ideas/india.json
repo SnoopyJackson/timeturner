@@ -1,0 +1,65 @@
+[
+  {
+    "year": "c. 2500–1500 BC",
+    "title": {"en": "Indus Valley Civilization", "hi": "सिंधु घाटी सभ्यता"},
+    "description": {"en": "One of the world's earliest urban cultures. Advanced cities like Harappa and Mohenjo-daro, trade, and writing system.", "hi": "विश्व की प्राचीनतम नगरी सभ्यताओं में से एक। उन्नत नगर, व्यापार, और लेखन प्रणाली।"},
+    "image": "images/indus_valley.jpg",
+    "tags": ["ancient", "urban", "harappa"]
+  },
+  {
+    "year": "c. 1500–500 BC",
+    "title": {"en": "Vedic Period", "hi": "वैदिक काल"},
+    "description": {"en": "Aryan migration, Vedas composed, rise of kingdoms, and early Hinduism.", "hi": "आर्य आगमन, वेदों की रचना, राज्य व्यवस्था, और प्रारंभिक हिंदू धर्म।"},
+    "image": "images/vedic_period.jpg",
+    "tags": ["aryan", "vedas", "hinduism"]
+  },
+  {
+    "year": "c. 322–185 BC",
+    "title": {"en": "Maurya Empire", "hi": "मौर्य साम्राज्य"},
+    "description": {"en": "Largest empire in ancient India. Chandragupta Maurya, Ashoka, spread of Buddhism.", "hi": "प्राचीन भारत का सबसे बड़ा साम्राज्य। चंद्रगुप्त मौर्य, अशोक, बौद्ध धर्म का प्रसार।"},
+    "image": "images/maurya_empire.jpg",
+    "tags": ["empire", "ashoka", "buddhism"]
+  },
+  {
+    "year": "c. 320–550 AD",
+    "title": {"en": "Gupta Empire", "hi": "गुप्त साम्राज्य"},
+    "description": {"en": "Golden Age of India. Advances in science, mathematics, literature, and art.", "hi": "भारत का स्वर्ण युग। विज्ञान, गणित, साहित्य, और कला में प्रगति।"},
+    "image": "images/gupta_empire.jpg",
+    "tags": ["golden-age", "science", "art"]
+  },
+  {
+    "year": "c. 712–1206",
+    "title": {"en": "Early Medieval Period", "hi": "प्रारंभिक मध्यकालीन काल"},
+    "description": {"en": "Arrival of Islam, regional kingdoms, and cultural synthesis.", "hi": "इस्लाम का आगमन, क्षेत्रीय राज्य, और सांस्कृतिक समन्वय।"},
+    "image": "images/medieval_india.jpg",
+    "tags": ["islam", "kingdoms", "culture"]
+  },
+  {
+    "year": "c. 1206–1526",
+    "title": {"en": "Delhi Sultanate", "hi": "दिल्ली सल्तनत"},
+    "description": {"en": "Muslim rule, architecture, and Persian influence.", "hi": "मुस्लिम शासन, वास्तुकला, और फ़ारसी प्रभाव।"},
+    "image": "images/delhi_sultanate.jpg",
+    "tags": ["sultanate", "architecture", "persian"]
+  },
+  {
+    "year": "1526–1857",
+    "title": {"en": "Mughal Empire", "hi": "मुगल साम्राज्य"},
+    "description": {"en": "Greatest Islamic empire in India. Akbar, Shah Jahan, Taj Mahal, art, and administration.", "hi": "भारत का सबसे बड़ा इस्लामी साम्राज्य। अकबर, शाहजहाँ, ताजमहल, कला, और प्रशासन।"},
+    "image": "images/mughal_empire.jpg",
+    "tags": ["mughal", "taj-mahal", "akbar"]
+  },
+  {
+    "year": "1757–1947",
+    "title": {"en": "British Raj", "hi": "ब्रिटिश राज"},
+    "description": {"en": "Colonial rule, economic changes, social reform, and independence movement.", "hi": "औपनिवेशिक शासन, आर्थिक परिवर्तन, सामाजिक सुधार, और स्वतंत्रता आंदोलन।"},
+    "image": "images/british_raj.jpg",
+    "tags": ["colonial", "independence", "british"]
+  },
+  {
+    "year": "1947–present",
+    "title": {"en": "Republic of India", "hi": "भारत गणराज्य"},
+    "description": {"en": "Independence, democracy, economic growth, and global influence.", "hi": "स्वतंत्रता, लोकतंत्र, आर्थिक विकास, और वैश्विक प्रभाव।"},
+    "image": "images/india_republic.jpg",
+    "tags": ["republic", "democracy", "growth"]
+  }
+]

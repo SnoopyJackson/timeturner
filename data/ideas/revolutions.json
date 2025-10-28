@@ -1,0 +1,50 @@
+[
+  {
+    "year": "1775–1783",
+    "title": "American Revolution",
+    "description": "Colonies in North America revolted against British rule, leading to independence and the United States; significant political innovations in republican government.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Declaration_independence.jpg"
+  },
+  {
+    "year": "1789–1799",
+    "title": "French Revolution",
+    "description": "Overthrew the Bourbon monarchy, established a republic, and led to radical social and political change across Europe; key phases include the National Assembly, Reign of Terror, and rise of Napoleon.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Prise_de_la_Bastille.jpg"
+  },
+  {
+    "year": "1791–1804",
+    "title": "Haitian Revolution",
+    "description": "Slave revolt in Saint-Domingue that led to the first independent Black republic and ended slavery there; had major impact on Atlantic slavery and politics.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Leclerc_sous_les_murs_de_St-Domingue.jpg"
+  },
+  {
+    "year": "1848",
+    "title": "Revolutions of 1848",
+    "description": "A wave of liberal and nationalist uprisings across Europe seeking constitutional government, national unification, and social reform; most were suppressed but they reshaped politics.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/1848_Revolution.jpg"
+  },
+  {
+    "year": "1910–1920",
+    "title": "Mexican Revolution",
+    "description": "A complex civil war that led to land reform, new constitution (1917), and major social change; ended long-standing dictatorship and reshaped Mexican society.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Mexican_Revolution_1910.jpg"
+  },
+  {
+    "year": "1917",
+    "title": "Russian Revolution",
+    "description": "February and October revolutions ended the Romanov monarchy and brought the Bolsheviks to power, leading to the creation of the Soviet Union and global ideological shifts.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Russian_Revolution.jpg"
+  },
+  {
+    "year": "1911",
+    "title": "Xinhai Revolution (1911)",
+    "description": "Revolution that overthrew the Qing dynasty and established the Republic of China, ending over two millennia of imperial rule.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Wuchang_Uprising.jpg"
+  },
+  {
+    "year": "1979",
+    "title": "Iranian Revolution",
+    "description": "Mass protests and political movement that overthrew the Pahlavi monarchy and established the Islamic Republic under Ayatollah Khomeini.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Iran_Revolution.jpg"
+  }
+]
