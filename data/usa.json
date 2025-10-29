@@ -1,0 +1,718 @@
+[
+  {
+    "year": "1492–1607",
+    "era": "Age of Exploration",
+    "title": {
+      "en": "European Exploration and Colonization",
+      "fr": "Exploration et colonisation européennes"
+    },
+    "description": {
+      "en": "⛵ Spanish, French, and English explorers arrive in the Americas\n🏴‍☠️ Columbus, Cabot, de Soto, and Cartier claim territories\n⚓ Seeds of colonization sown across the continent",
+      "fr": "⛵ Explorateurs espagnols, français et anglais arrivent en Amérique\n🏴‍☠️ Colomb, Cabot, de Soto et Cartier revendiquent des territoires\n⚓ Les premières colonies se mettent en place"
+    },
+    "image": "images/usa/exploration.jpg",
+    "tags": ["colonial", "exploration", "spanish", "french", "english"]
+  },
+  {
+    "year": "1607",
+    "era": "Colonial America",
+    "title": {
+      "en": "Founding of Jamestown",
+      "fr": "Fondation de Jamestown"
+    },
+    "description": {
+      "en": "🏰 First permanent English settlement in North America\n🌾 Survived famine and conflict with Powhatan tribes\n💰 Tobacco farming became economic foundation",
+      "fr": "🏰 Premier établissement anglais permanent en Amérique du Nord\n🌾 Survécu à la famine et aux conflits avec les Powhatans\n💰 La culture du tabac devient la base économique"
+    },
+    "image": "images/usa/jamestown.webp",
+    "tags": ["colonial", "virginia", "england", "settlement"]
+  },
+  {
+    "year": "1620",
+    "era": "Colonial America",
+    "title": {
+      "en": "Mayflower and the Pilgrims",
+      "fr": "Le Mayflower et les Pèlerins"
+    },
+    "description": {
+      "en": "⚓ English Pilgrims land at Plymouth Rock\n📜 Signed the Mayflower Compact — early form of self-government\n🦃 Celebrated first Thanksgiving with Wampanoag tribe",
+      "fr": "⚓ Les pèlerins anglais débarquent à Plymouth Rock\n📜 Signent le Mayflower Compact — forme précoce d’autogouvernance\n🦃 Premier Thanksgiving célébré avec la tribu Wampanoag"
+    },
+    "image": "images/usa/mayflower.jpg",
+    "tags": ["pilgrims", "plymouth", "thanksgiving", "colonial"]
+  },
+  {
+    "year": "1754–1763",
+    "era": "Colonial Wars",
+    "title": {
+      "en": "French and Indian War",
+      "fr": "Guerre de la Conquête"
+    },
+    "description": {
+      "en": "⚔️ British vs French with Native allies for control of North America\n🏕️ Ended with British victory and French loss of Canada\n💸 Sparked colonial taxation that led to revolution",
+      "fr": "⚔️ Britanniques contre Français avec alliés autochtones\n🏕️ Victoire britannique, perte du Canada par la France\n💸 Déclenche la taxation coloniale menant à la Révolution"
+    },
+    "image": "images/usa/french_indian.webp",
+    "tags": ["france", "britain", "colonial", "war"]
+  },
+  {
+    "year": "1775–1783",
+    "era": "Revolutionary Era",
+    "title": {
+      "en": "American Revolution",
+      "fr": "Révolution Américaine"
+    },
+    "description": {
+      "en": "🇺🇸 13 colonies rebel against British rule\n📜 Declaration of Independence (1776)\n🤝 French alliance leads to victory at Yorktown",
+      "fr": "🇺🇸 Les 13 colonies se révoltent contre la domination britannique\n📜 Déclaration d’Indépendance (1776)\n🤝 L’alliance française mène à la victoire de Yorktown"
+    },
+    "image": "images/usa/american_revolution.avif",
+    "tags": ["revolution", "independence", "britain", "france"]
+  },
+  {
+    "year": "1775–1783",
+    "era": "Key Leaders",
+    "title": {
+      "en": "George Washington",
+      "fr": "George Washington"
+    },
+    "description": {
+      "en": "🎖️ Commander-in-Chief of Continental Army\n🏛️ First U.S. President (1789–1797)\n💬 Key figure in the Constitution and early republic",
+      "fr": "🎖️ Commandant en chef de l'Armée continentale\n🏛️ Premier président des États-Unis (1789–1797)\n💬 Figure centrale dans la Constitution et la jeune république"
+    },
+    "image": "images/usa/george_washington.webp",
+    "tags": ["leader", "president", "revolution", "founding"]
+  },
+  {
+    "year": "1787–1789",
+    "era": "Founding of the Republic",
+    "title": {
+      "en": "U.S. Constitution & Bill of Rights",
+      "fr": "Constitution et Déclaration des Droits"
+    },
+    "description": {
+      "en": "📜 Constitution ratified — framework of federal government\n⚖️ Bill of Rights (1791) guarantees individual freedoms\n🏛️ Washington becomes first President",
+      "fr": "📜 Constitution ratifiée — base du gouvernement fédéral\n⚖️ Déclaration des droits (1791) garantit les libertés individuelles\n🏛️ Washington devient le premier président"
+    },
+    "image": "images/usa/constitution.jpg",
+    "tags": ["constitution", "bill-of-rights", "founding", "washington"]
+  },
+  {
+    "year": "1706–1790",
+    "era": "Founding Fathers",
+    "title": {
+      "en": "Benjamin Franklin",
+      "fr": "Benjamin Franklin"
+    },
+    "description": {
+      "en": "⚡ Polymath: scientist, inventor, diplomat, writer\n🇫🇷 Secured crucial French alliance during Revolution\n📜 Helped draft Declaration of Independence and Constitution\n💡 Inventor of lightning rod, bifocals, and more",
+      "fr": "⚡ Polymathe : scientifique, inventeur, diplomate, écrivain\n🇫🇷 Obtient l'alliance française cruciale pendant la Révolution\n📜 Participe à la rédaction de la Déclaration d'Indépendance et de la Constitution\n💡 Inventeur du paratonnerre, des verres bifocaux et plus"
+    },
+    "image": "images/usa/franklin.jpg",
+    "tags": ["leader", "founding", "science", "diplomacy"]
+  },
+  {
+    "year": "1735–1826",
+    "era": "Founding Fathers",
+    "title": {
+      "en": "John Adams",
+      "fr": "John Adams"
+    },
+    "description": {
+      "en": "⚖️ Lawyer who defended British soldiers in Boston Massacre trial\n🏛️ 2nd U.S. President (1797–1801)\n🤝 First VP under Washington, advocate for independence\n👨‍👩‍👦 Father of 6th President John Quincy Adams",
+      "fr": "⚖️ Avocat qui défend les soldats britanniques au procès du Massacre de Boston\n🏛️ 2e président des États-Unis (1797–1801)\n🤝 Premier vice-président sous Washington, défenseur de l'indépendance\n👨‍👩‍👦 Père du 6e président John Quincy Adams"
+    },
+    "image": "images/usa/john_adams.webp",
+    "tags": ["leader", "president", "founding", "law"]
+  },
+  {
+    "year": "1743–1826",
+    "era": "Founding Fathers",
+    "title": {
+      "en": "Thomas Jefferson",
+      "fr": "Thomas Jefferson"
+    },
+    "description": {
+      "en": "📜 Principal author of Declaration of Independence\n🏛️ 3rd U.S. President (1801–1809)\n🗺️ Orchestrated Louisiana Purchase, doubling U.S. territory\n📚 Founded University of Virginia, champion of education",
+      "fr": "📜 Auteur principal de la Déclaration d'Indépendance\n🏛️ 3e président des États-Unis (1801–1809)\n🗺️ Orchestre l'achat de la Louisiane, doublant le territoire américain\n📚 Fonde l'Université de Virginie, champion de l'éducation"
+    },
+    "image": "images/usa/jefferson.avif",
+    "tags": ["leader", "president", "founding", "declaration"]
+  },
+  {
+    "year": "1803",
+    "era": "Early Republic",
+    "title": {
+      "en": "Louisiana Purchase",
+      "fr": "Achat de la Louisiane"
+    },
+    "description": {
+      "en": "🗺️ U.S. buys Louisiana Territory from France (Napoleon)\n🌎 Doubles U.S. size — opens path for westward expansion",
+      "fr": "🗺️ Les États-Unis achètent la Louisiane à la France (Napoléon)\n🌎 Double la taille du pays — ouvre la voie à l'expansion vers l'ouest"
+    },
+    "image": "images/usa/louisiana_purchase.webp",
+    "tags": ["territory", "france", "expansion", "jefferson"]
+  },
+  {
+    "year": "1804–1806",
+    "era": "Early Republic",
+    "title": {
+      "en": "Lewis and Clark Expedition",
+      "fr": "Expédition Lewis et Clark"
+    },
+    "description": {
+      "en": "🗺️ First American expedition to cross western U.S. to Pacific\n🏔️ Mapped territory, documented flora, fauna, and Native tribes\n🧭 Sacagawea guides expedition through dangerous terrain",
+      "fr": "🗺️ Première expédition américaine à traverser l'ouest jusqu'au Pacifique\n🏔️ Cartographie le territoire, documente la flore, la faune et les tribus autochtones\n🧭 Sacagawea guide l'expédition à travers des terrains dangereux"
+    },
+    "image": "images/usa/lewis_clark.webp",
+    "tags": ["exploration", "westward", "native-american", "sacagawea"]
+  },
+  {
+    "year": "1812–1815",
+    "era": "Early Republic",
+    "title": {
+      "en": "War of 1812",
+      "fr": "Guerre de 1812"
+    },
+    "description": {
+      "en": "⚔️ Second war with Britain over trade and territorial expansion\n🔥 British burn Washington D.C., White House destroyed\n🎵 Star-Spangled Banner written during Fort McHenry battle\n🏛️ Solidified American independence and national identity",
+      "fr": "⚔️ Deuxième guerre avec la Grande-Bretagne pour le commerce et l'expansion\n🔥 Les Britanniques incendient Washington D.C., la Maison-Blanche détruite\n🎵 Star-Spangled Banner écrit pendant la bataille de Fort McHenry\n🏛️ Consolide l'indépendance et l'identité nationale américaines"
+    },
+    "image": "images/usa/war_1812.webp",
+    "tags": ["war", "britain", "independence", "national-anthem"]
+  },
+  {
+    "year": "1846–1848",
+    "era": "Manifest Destiny",
+    "title": {
+      "en": "Mexican–American War",
+      "fr": "Guerre américano-mexicaine"
+    },
+    "description": {
+      "en": "⚔️ Conflict over Texas and western territories\n🏜️ U.S. victory annexes California, Arizona, New Mexico\n🇲🇽 Deep legacy of border and identity issues",
+      "fr": "⚔️ Conflit pour le Texas et les territoires de l'Ouest\n🏜️ Victoire des États-Unis, annexant Californie, Arizona et Nouveau-Mexique\n🇲🇽 Héritage durable des questions frontalières"
+    },
+    "image": "images/usa/mexican_war.webp",
+    "tags": ["mexico", "expansion", "manifest-destiny", "texas"]
+  },
+  {
+    "year": "1849",
+    "era": "Westward Expansion",
+    "title": {
+      "en": "California Gold Rush",
+      "fr": "Ruée vers l'or en Californie"
+    },
+    "description": {
+      "en": "⛏️ Discovery of gold at Sutter's Mill sparks massive migration\n🚂 Over 300,000 '49ers' rush to California\n🏙️ Rapid growth of San Francisco and Western settlement\n💰 Transformed California economy and demographics",
+      "fr": "⛏️ Découverte d'or à Sutter's Mill déclenche une migration massive\n🚂 Plus de 300 000 'chercheurs d'or' se ruent vers la Californie\n🏙️ Croissance rapide de San Francisco et colonisation de l'Ouest\n💰 Transforme l'économie et la démographie californiennes"
+    },
+    "image": "images/usa/gold_rush.jpg",
+    "tags": ["gold-rush", "california", "expansion", "economy"]
+  },
+  {
+    "year": "1861–1865",
+    "era": "Civil War Era",
+    "title": {
+      "en": "American Civil War",
+      "fr": "Guerre de Sécession"
+    },
+    "description": {
+      "en": "⚔️ Union (North) vs Confederacy (South)\n💣 Fought over slavery and states’ rights\n🕊️ Lincoln’s Emancipation Proclamation — end of slavery",
+      "fr": "⚔️ Union (Nord) contre Confédération (Sud)\n💣 Guerre pour l’esclavage et les droits des États\n🕊️ Proclamation d’émancipation de Lincoln — fin de l’esclavage"
+    },
+    "image": "images/usa/civil_war.jpg",
+    "tags": ["civil-war", "slavery", "lincoln", "union"]
+  },
+  {
+    "year": "1861–1865",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Abraham Lincoln",
+      "fr": "Abraham Lincoln"
+    },
+    "description": {
+      "en": "🎩 16th U.S. President during the Civil War\n🕊️ Issued the Emancipation Proclamation\n💬 Known for 'government of the people, by the people, for the people'",
+      "fr": "🎩 16e président des États-Unis pendant la guerre de Sécession\n🕊️ Publie la Proclamation d’Émancipation\n💬 Célèbre pour 'un gouvernement du peuple, par le peuple et pour le peuple'"
+    },
+    "image": "images/usa/abraham_lincoln.avif",
+    "tags": ["leader", "president", "civil-war", "abolition"]
+  },
+  {
+    "year": "1865–1877",
+    "era": "Reconstruction",
+    "title": {
+      "en": "Rebuilding the Nation",
+      "fr": "Reconstruction nationale"
+    },
+    "description": {
+      "en": "🏛️ Reconstruction of the South under federal control\n🗳️ Freedmen gain rights; rise of Jim Crow laws later reverse gains",
+      "fr": "🏛️ Reconstruction du Sud sous contrôle fédéral\n🗳️ Les affranchis obtiennent des droits ; les lois Jim Crow annulent ces progrès plus tard"
+    },
+    "image": "images/usa/reconstruction.jpg",
+    "tags": ["civil-rights", "reconstruction", "jim-crow", "freedmen"]
+  },
+  {
+    "year": "1818–1895",
+    "era": "Abolition Movement",
+    "title": {
+      "en": "Frederick Douglass",
+      "fr": "Frederick Douglass"
+    },
+    "description": {
+      "en": "📖 Escaped slave who became leading abolitionist\n✍️ Powerful orator and writer of autobiographies\n�️ Advisor to President Lincoln during Civil War\n⚖️ Championed civil rights and women's suffrage",
+      "fr": "📖 Esclave évadé devenu leader du mouvement abolitionniste\n✍️ Orateur puissant et auteur d'autobiographies\n🗣️ Conseiller du président Lincoln pendant la guerre de Sécession\n⚖️ Défenseur des droits civiques et du suffrage des femmes"
+    },
+    "image": "images/usa/douglass.jpg",
+    "tags": ["abolition", "civil-rights", "leader", "slavery"]
+  },
+  {
+    "year": "1820–1906",
+    "era": "Abolition Movement",
+    "title": {
+      "en": "Susan B. Anthony",
+      "fr": "Susan B. Anthony"
+    },
+    "description": {
+      "en": "✊ Leading figure in women's suffrage movement\n🗳️ Arrested for voting illegally in 1872\n� 19th Amendment (1920) grants women right to vote\n💪 Lifelong advocate for gender equality and abolition",
+      "fr": "✊ Figure majeure du mouvement pour le suffrage des femmes\n🗳️ Arrêtée pour avoir voté illégalement en 1872\n📜 19e amendement (1920) accorde le droit de vote aux femmes\n💪 Défenseuse toute sa vie de l'égalité des sexes et de l'abolition"
+    },
+    "image": "images/usa/susan_anthony.jpg",
+    "tags": ["women-rights", "suffrage", "equality", "leader"]
+  },
+  {
+    "year": "1820–1913",
+    "era": "Abolition Movement",
+    "title": {
+      "en": "Harriet Tubman",
+      "fr": "Harriet Tubman"
+    },
+    "description": {
+      "en": "🚂 Escaped slavery, became 'conductor' on Underground Railroad\n💪 Led ~70 enslaved people to freedom over 13 missions\n⚔️ Served as spy and nurse for Union Army during Civil War\n🦅 Symbol of courage and resistance",
+      "fr": "🚂 Échappée de l'esclavage, devenue 'chef de train' du chemin de fer clandestin\n💪 A libéré environ 70 personnes asservies en 13 missions\n⚔️ A servi comme espionne et infirmière pour l'armée de l'Union\n🦅 Symbole de courage et de résistance"
+    },
+    "image": "images/usa/tubman.jpg",
+    "tags": ["abolition", "underground-railroad", "civil-war", "hero"]
+  },
+  {
+    "year": "1870–1920",
+    "era": "Industrial Revolution",
+    "title": {
+      "en": "The Gilded Age",
+      "fr": "L'Âge d'Or"
+    },
+    "description": {
+      "en": "🏭 Rapid industrialization and urbanization\n💰 Rise of tycoons: Rockefeller, Carnegie, J.P. Morgan\n🚂 Transcontinental railroad completed (1869)\n⚙️ Mass immigration from Europe transforms society",
+      "fr": "🏭 Industrialisation et urbanisation rapides\n💰 Montée des magnats : Rockefeller, Carnegie, J.P. Morgan\n🚂 Achèvement du chemin de fer transcontinental (1869)\n⚙️ Immigration massive d'Europe transforme la société"
+    },
+    "image": "images/usa/gilded_age.jpg",
+    "tags": ["industry", "economy", "immigration", "railroad"]
+  },
+  {
+    "year": "1898",
+    "era": "Industrial Expansion",
+    "title": {
+      "en": "Spanish–American War",
+      "fr": "Guerre hispano-américaine"
+    },
+    "description": {
+      "en": "🚢 Short war marking U.S. rise as global power\n🇨🇺 Cuba, Puerto Rico, Guam, Philippines gained from Spain\n🌍 Beginning of American imperialism",
+      "fr": "🚢 Guerre brève marquant l'ascension des États-Unis comme puissance mondiale\n🇨🇺 Cuba, Porto Rico, Guam et Philippines acquis à l'Espagne\n🌍 Début de l'impérialisme américain"
+    },
+    "image": "images/usa/spanish_american.jpeg",
+    "tags": ["war", "spain", "imperialism", "cuba", "philippines"]
+  },
+  {
+    "year": "1858–1919",
+    "era": "Progressive Era",
+    "title": {
+      "en": "Theodore Roosevelt",
+      "fr": "Theodore Roosevelt"
+    },
+    "description": {
+      "en": "🦅 26th President — youngest ever at age 42\n🌲 Champion of conservation, created National Parks\n💪 'Speak softly and carry a big stick' foreign policy\n⚖️ Trust-buster who regulated big corporations",
+      "fr": "🦅 26e président — le plus jeune à 42 ans\n🌲 Champion de la conservation, créateur des Parcs Nationaux\n💪 Politique étrangère du 'gros bâton'\n⚖️ Régulateur des grandes corporations"
+    },
+    "image": "images/usa/teddy_roosevelt.png",
+    "tags": ["president", "conservation", "progressive", "leader"]
+  },
+  {
+    "year": "1914–1918",
+    "era": "World War I",
+    "title": {
+      "en": "America Joins the Great War",
+      "fr": "Les États-Unis dans la Grande Guerre"
+    },
+    "description": {
+      "en": "🇺🇸 U.S. joins Allies in 1917\n⚔️ 'Make the world safe for democracy'\n🕊️ Leads to Treaty of Versailles and League of Nations",
+      "fr": "🇺🇸 Les États-Unis rejoignent les Alliés en 1917\n⚔️ 'Rendre le monde sûr pour la démocratie'\n🕊️ Conduit au Traité de Versailles et à la SDN"
+    },
+    "image": "images/usa/ww1_us.jpg",
+    "tags": ["ww1", "democracy", "wilson", "allies"]
+  },
+  {
+    "year": "1920",
+    "era": "Progressive Era",
+    "title": {
+      "en": "Women's Suffrage - 19th Amendment",
+      "fr": "Suffrage des femmes - 19e amendement"
+    },
+    "description": {
+      "en": "🗳️ Women gain the right to vote after decades of activism\n✊ Culmination of suffragist movement led by Anthony, Stanton, Paul\n🎉 Ratified August 18, 1920\n💪 Major milestone in gender equality",
+      "fr": "🗳️ Les femmes obtiennent le droit de vote après des décennies de militantisme\n✊ Aboutissement du mouvement suffragiste mené par Anthony, Stanton, Paul\n🎉 Ratifié le 18 août 1920\n💪 Étape majeure vers l'égalité des sexes"
+    },
+    "image": "images/usa/womens_suffrage.avif",
+    "tags": ["women-rights", "suffrage", "equality", "19th-amendment"]
+  },
+  {
+    "year": "1929–1939",
+    "era": "Interwar Period",
+    "title": {
+      "en": "Great Depression",
+      "fr": "Grande Dépression"
+    },
+    "description": {
+      "en": "📉 Stock market crash of 1929 devastates economy\n🍞 Widespread unemployment, poverty, and Dust Bowl migration\n🏛️ FDR's New Deal reshapes U.S. government role",
+      "fr": "📉 Krach boursier de 1929 dévaste l'économie\n🍞 Chômage, pauvreté et migrations du Dust Bowl\n🏛️ Le New Deal de FDR redéfinit le rôle du gouvernement"
+    },
+    "image": "images/usa/great_depression.jpg",
+    "tags": ["economy", "fdr", "new-deal", "crisis"]
+  },
+  {
+    "year": "1882–1945",
+    "era": "Great Depression & WWII",
+    "title": {
+      "en": "Franklin D. Roosevelt (FDR)",
+      "fr": "Franklin D. Roosevelt (FDR)"
+    },
+    "description": {
+      "en": "🏛️ 32nd President — only one elected to four terms\n💼 New Deal programs combat Great Depression\n⚔️ Led U.S. through World War II\n♿ Overcame polio to become transformative leader",
+      "fr": "🏛️ 32e président — seul élu pour quatre mandats\n💼 Programmes du New Deal pour combattre la Grande Dépression\n⚔️ A dirigé les États-Unis pendant la Seconde Guerre mondiale\n♿ A surmonté la polio pour devenir un leader transformateur"
+    },
+    "image": "images/usa/fdr.jpg",
+    "tags": ["president", "new-deal", "ww2", "leader"]
+  },
+  {
+    "year": "1941–1945",
+    "era": "World War II",
+    "title": {
+      "en": "World War II and the Arsenal of Democracy",
+      "fr": "Seconde Guerre mondiale"
+    },
+    "description": {
+      "en": "⚔️ U.S. joins Allies after Pearl Harbor attack\n🏭 Massive mobilization — end of Great Depression\n🇯🇵 Ends war with atomic bombs on Hiroshima & Nagasaki",
+      "fr": "⚔️ Entrée des États-Unis après l’attaque de Pearl Harbor\n🏭 Mobilisation massive — fin de la Grande Dépression\n🇯🇵 Fin de la guerre avec les bombes atomiques sur Hiroshima et Nagasaki"
+    },
+    "image": "images/usa/ww2_us.jpg",
+    "tags": ["ww2", "pearl-harbor", "atomic", "allies"]
+  },
+  {
+    "year": "1947–1991",
+    "era": "Cold War America",
+    "title": {
+      "en": "The Cold War and American Leadership",
+      "fr": "Guerre froide et leadership américain"
+    },
+    "description": {
+      "en": "🛰️ Rivalry with Soviet Union — nuclear arms race\n🚀 Space Race: Moon landing (1969)\n🌎 U.S. becomes global superpower",
+      "fr": "🛰️ Rivalité avec l’URSS — course aux armements nucléaires\n🚀 Course à l’espace : alunissage (1969)\n🌎 Les États-Unis deviennent une superpuissance mondiale"
+    },
+    "image": "images/usa/cold_war_us.jpg",
+    "tags": ["cold-war", "space", "nuclear", "superpower"]
+  },
+  {
+    "year": "1954–1968",
+    "era": "Civil Rights Movement",
+    "title": {
+      "en": "Civil Rights Era",
+      "fr": "Mouvement des droits civiques"
+    },
+    "description": {
+      "en": "✊ Struggle for racial equality — MLK Jr., Rosa Parks\n🚌 Montgomery Bus Boycott, March on Washington\n⚖️ Civil Rights Act (1964), Voting Rights Act (1965)",
+      "fr": "✊ Lutte pour l'égalité raciale — MLK Jr., Rosa Parks\n🚌 Boycott des bus de Montgomery, Marche sur Washington\n⚖️ Loi sur les droits civiques (1964), Loi sur le droit de vote (1965)"
+    },
+    "image": "images/usa/civil_rights.avif",
+    "tags": ["mlk", "civil-rights", "equality", "segregation"]
+  },
+  {
+    "year": "1929–1968",
+    "era": "Civil Rights Movement",
+    "title": {
+      "en": "Martin Luther King Jr.",
+      "fr": "Martin Luther King Jr."
+    },
+    "description": {
+      "en": "✊ Leader of nonviolent civil rights movement\n🎤 'I Have a Dream' speech at March on Washington (1963)\n🏆 Nobel Peace Prize winner (1964)\n💔 Assassinated in Memphis (1968), legacy endures",
+      "fr": "✊ Leader du mouvement non-violent pour les droits civiques\n🎤 Discours 'I Have a Dream' lors de la Marche sur Washington (1963)\n🏆 Prix Nobel de la Paix (1964)\n💔 Assassiné à Memphis (1968), son héritage perdure"
+    },
+    "image": "images/usa/mlk.jpg",
+    "tags": ["mlk", "civil-rights", "leader", "nonviolence"]
+  },
+  {
+    "year": "1913–2005",
+    "era": "Civil Rights Movement",
+    "title": {
+      "en": "Rosa Parks",
+      "fr": "Rosa Parks"
+    },
+    "description": {
+      "en": "🚌 Refused to give up bus seat, sparking Montgomery Bus Boycott\n✊ 'Mother of the Civil Rights Movement'\n⚖️ Catalyst for desegregation and civil rights legislation\n🏆 Congressional Gold Medal recipient",
+      "fr": "🚌 Refuse de céder sa place dans le bus, déclenchant le Boycott des bus de Montgomery\n✊ 'Mère du mouvement des droits civiques'\n⚖️ Catalyseur de la déségrégation et de la législation sur les droits civiques\n🏆 Récipiendaire de la Médaille d'or du Congrès"
+    },
+    "image": "images/usa/rosa_parks.jpg",
+    "tags": ["civil-rights", "rosa-parks", "segregation", "hero"]
+  },
+  {
+    "year": "1917–1963",
+    "era": "Cold War America",
+    "title": {
+      "en": "John F. Kennedy",
+      "fr": "John F. Kennedy"
+    },
+    "description": {
+      "en": "🏛️ 35th President — youngest elected president\n🚀 Launched Apollo program to reach the Moon\n🇨🇺 Navigated Cuban Missile Crisis\n💔 Assassinated in Dallas (1963), iconic legacy",
+      "fr": "🏛️ 35e président — le plus jeune président élu\n🚀 Lance le programme Apollo pour atteindre la Lune\n🇨🇺 Gère la crise des missiles de Cuba\n💔 Assassiné à Dallas (1963), héritage emblématique"
+    },
+    "image": "images/usa/jfk.jpg",
+    "tags": ["president", "jfk", "cold-war", "space"]
+  },
+  {
+    "year": "1955–1975",
+    "era": "Cold War Conflict",
+    "title": {
+      "en": "Vietnam War",
+      "fr": "Guerre du Vietnam"
+    },
+    "description": {
+      "en": "⚔️ Longest war in U.S. history until Afghanistan\n✊ Massive anti-war protests and social upheaval\n🏳️ First major U.S. military defeat\n💔 58,000 Americans killed, deep societal divisions",
+      "fr": "⚔️ Guerre la plus longue de l'histoire américaine jusqu'à l'Afghanistan\n✊ Manifestations anti-guerre massives et bouleversements sociaux\n🏳️ Première grande défaite militaire américaine\n💔 58 000 Américains tués, divisions sociétales profondes"
+    },
+    "image": "images/usa/vietnam_war.webp",
+    "tags": ["vietnam", "war", "cold-war", "protest"]
+  },
+  {
+    "year": "1969",
+    "era": "Space Age",
+    "title": {
+      "en": "Moon Landing",
+      "fr": "Alunissage d'Apollo 11"
+    },
+    "description": {
+      "en": "🌕 Apollo 11 lands first humans on the Moon\n🚀 Neil Armstrong: 'One small step for man…'\n🇺🇸 Triumph of U.S. space technology and ambition",
+      "fr": "🌕 Apollo 11 fait atterrir les premiers humains sur la Lune\n🚀 Neil Armstrong : 'Un petit pas pour l'homme…'\n🇺🇸 Triomphe technologique et symbolique américain"
+    },
+    "image": "images/usa/moon_landing.jpg",
+    "tags": ["space", "nasa", "apollo", "moon"]
+  },
+  {
+    "year": "1930–2018",
+    "era": "Space Age",
+    "title": {
+      "en": "Neil Armstrong",
+      "fr": "Neil Armstrong"
+    },
+    "description": {
+      "en": "🚀 First human to walk on the Moon (July 20, 1969)\n👨‍🚀 Commander of Apollo 11 mission\n🌍 'One small step for man, one giant leap for mankind'\n🏆 American hero and aviation pioneer",
+      "fr": "🚀 Premier humain à marcher sur la Lune (20 juillet 1969)\n👨‍🚀 Commandant de la mission Apollo 11\n🌍 'Un petit pas pour l'homme, un bond de géant pour l'humanité'\n🏆 Héros américain et pionnier de l'aviation"
+    },
+    "image": "images/usa/neil_armstrong.jpg",
+    "tags": ["space", "nasa", "apollo", "hero"]
+  },
+  {
+    "year": "1972–1974",
+    "era": "Political Crisis",
+    "title": {
+      "en": "Watergate Scandal",
+      "fr": "Scandale du Watergate"
+    },
+    "description": {
+      "en": "🏛️ Break-in at Democratic National Committee headquarters\n📰 Washington Post investigation exposes cover-up\n👔 President Nixon resigns (1974) — only president to do so\n⚖️ Constitutional crisis tests American democracy",
+      "fr": "🏛️ Cambriolage au siège du Comité national démocrate\n📰 Enquête du Washington Post expose la dissimulation\n👔 Le président Nixon démissionne (1974) — seul président à le faire\n⚖️ Crise constitutionnelle teste la démocratie américaine"
+    },
+    "image": "images/usa/watergate.jpg",
+    "tags": ["watergate", "nixon", "scandal", "politics"]
+  },
+  {
+    "year": "1989",
+    "era": "End of Cold War",
+    "title": {
+      "en": "Fall of Berlin Wall",
+      "fr": "Chute du mur de Berlin"
+    },
+    "description": {
+      "en": "🧱 Berlin Wall falls, symbolizing end of Cold War\n🏛️ Reagan's 'Tear down this wall' moment (1987) vindicated\n🌍 U.S. emerges as world's sole superpower\n🕊️ Reunification of Germany and democratic expansion",
+      "fr": "🧱 Le mur de Berlin tombe, symbolisant la fin de la Guerre froide\n🏛️ Le moment 'Abattez ce mur' de Reagan (1987) confirmé\n🌍 Les États-Unis deviennent la seule superpuissance mondiale\n🕊️ Réunification de l'Allemagne et expansion démocratique"
+    },
+    "image": "images/usa/berlin_wall.avif",
+    "tags": ["cold-war", "berlin-wall", "reagan", "democracy"]
+  },
+  {
+    "year": "1991",
+    "era": "Post–Cold War",
+    "title": {
+      "en": "Gulf War",
+      "fr": "Guerre du Golfe"
+    },
+    "description": {
+      "en": "⚔️ Operation Desert Storm liberates Kuwait from Iraq\n🇺🇸 Coalition of 35 nations led by U.S.\n📺 First 'televised war' with CNN live coverage\n🛢️ Secures oil interests and demonstrates U.S. military power",
+      "fr": "⚔️ Opération Tempête du Désert libère le Koweït de l'Irak\n🇺🇸 Coalition de 35 nations menée par les États-Unis\n📺 Première 'guerre télévisée' avec couverture en direct de CNN\n🛢️ Sécurise les intérêts pétroliers et démontre la puissance militaire américaine"
+    },
+    "image": "images/usa/gulf_war.jpg",
+    "tags": ["war", "iraq", "kuwait", "military"]
+  },
+  {
+    "year": "1991–2001",
+    "era": "Post–Cold War",
+    "title": {
+      "en": "End of Cold War and Globalization",
+      "fr": "Fin de la Guerre froide et mondialisation"
+    },
+    "description": {
+      "en": "🌎 U.S. emerges as sole superpower\n💻 Internet revolution begins\n🏛️ Economic boom and optimism of the 1990s",
+      "fr": "🌎 Les États-Unis deviennent la seule superpuissance\n💻 Révolution Internet\n🏛️ Croissance économique et optimisme des années 1990"
+    },
+    "image": "images/usa/globalization.webp",
+    "tags": ["globalization", "economy", "internet", "cold-war"]
+  },
+  {
+    "year": "2001",
+    "era": "21st Century America",
+    "title": {
+      "en": "September 11 Attacks",
+      "fr": "Attentats du 11 septembre"
+    },
+    "description": {
+      "en": "💔 Terrorist attacks destroy World Trade Center, hit Pentagon\n✈️ Nearly 3,000 people killed in deadliest attack on U.S. soil\n🌍 Reshapes global politics and U.S. foreign policy\n⚔️ Launches War on Terror, invasions of Afghanistan and Iraq",
+      "fr": "💔 Attaques terroristes détruisent le World Trade Center, frappent le Pentagone\n✈️ Près de 3 000 personnes tuées dans l'attaque la plus meurtrière sur le sol américain\n🌍 Redéfinit la politique mondiale et la politique étrangère américaine\n⚔️ Lance la guerre contre le terrorisme, invasions de l'Afghanistan et de l'Irak"
+    },
+    "image": "images/usa/9_11.jpeg",
+    "tags": ["9-11", "terrorism", "tragedy", "war-on-terror"]
+  },
+  {
+    "year": "2001–2025",
+    "era": "21st Century America",
+    "title": {
+      "en": "War on Terror and Modern Challenges",
+      "fr": "Guerre contre le terrorisme et défis modernes"
+    },
+    "description": {
+      "en": "🕊️ 9/11 attacks reshape global politics\n⚔️ Wars in Afghanistan and Iraq\n💥 Rise of terrorism, surveillance, and political polarization\n🦠 COVID-19 pandemic transforms society\n🌎 Climate, technology, and equity focus intensifies",
+      "fr": "🕊️ Attaques du 11 septembre redéfinissent la politique mondiale\n⚔️ Guerres en Afghanistan et en Irak\n💥 Montée du terrorisme, surveillance et polarisation politique\n🦠 La pandémie de COVID-19 transforme la société\n🌎 Accent renouvelé sur le climat, la technologie et l'équité"
+    },
+    "image": "images/usa/war_on_terror_us.webp",
+    "tags": ["9-11", "terrorism", "iraq", "afghanistan", "covid", "climate", "technology"]
+  },
+  {
+    "year": "2005",
+    "era": "Natural Disasters",
+    "title": {
+      "en": "Hurricane Katrina",
+      "fr": "Ouragan Katrina"
+    },
+    "description": {
+      "en": "🌊 Category 5 hurricane devastates Gulf Coast\n🏙️ New Orleans flooded, levees fail catastrophically\n💔 Over 1,800 deaths, $125 billion in damage\n⚖️ Exposed racial and economic inequality in disaster response",
+      "fr": "🌊 Ouragan de catégorie 5 dévaste la côte du Golfe\n🏙️ La Nouvelle-Orléans inondée, rupture catastrophique des digues\n💔 Plus de 1 800 morts, 125 milliards de dollars de dégâts\n⚖️ A exposé les inégalités raciales et économiques dans la réponse aux catastrophes"
+    },
+    "image": "images/usa/katrina.webp",
+    "tags": ["katrina", "disaster", "new-orleans", "inequality"]
+  },
+    {
+    "year": "2007",
+    "era": "Technology Revolution",
+    "title": {
+      "en": "Steve Jobs",
+      "fr": "Steve Jobs"
+    },
+    "description": {
+      "en": "💻 Co-founder of Apple Inc.\n📱 Revolutionized personal computing, music (iPod), and smartphones (iPhone)\n🎨 Known for design innovation and 'Think Different' philosophy\n🌍 One of most influential entrepreneurs in history",
+      "fr": "💻 Co-fondateur d'Apple Inc.\n📱 A révolutionné l'informatique personnelle, la musique (iPod) et les smartphones (iPhone)\n🎨 Connu pour l'innovation en design et la philosophie 'Think Different'\n🌍 L'un des entrepreneurs les plus influents de l'histoire"
+    },
+    "image": "images/usa/steve_jobs.jpg",
+    "tags": ["technology", "apple", "innovation", "entrepreneur"]
+  },
+  {
+    "year": "2008",
+    "era": "Economic Crisis",
+    "title": {
+      "en": "Financial Crisis and Great Recession",
+      "fr": "Crise financière et Grande Récession"
+    },
+    "description": {
+      "en": "📉 Housing bubble bursts, triggering global financial crisis\n🏦 Major banks fail, Wall Street bailout\n💼 Unemployment peaks, millions lose homes\n💰 Worst economic crisis since Great Depression",
+      "fr": "📉 Éclatement de la bulle immobilière, déclenchant une crise financière mondiale\n🏦 Grandes banques s'effondrent, renflouement de Wall Street\n💼 Le chômage atteint son pic, des millions perdent leur maison\n💰 Pire crise économique depuis la Grande Dépression"
+    },
+    "image": "images/usa/financial_crisis.jpg",
+    "tags": ["economy", "crisis", "recession", "wall-street"]
+  },
+  {
+    "year": "2008",
+    "era": "Modern America",
+    "title": {
+      "en": "Barack Obama",
+      "fr": "Barack Obama"
+    },
+    "description": {
+      "en": "🇺🇸 First African American President\n📜 'Yes We Can' — message of hope and unity\n💸 Guided nation through Great Recession recovery",
+      "fr": "🇺🇸 Premier président afro-américain\n📜 'Yes We Can' — message d’espoir et d’unité\n💸 A dirigé la nation à travers la reprise après la Grande Récession"
+    },
+    "image": "images/usa/obama.avif",
+    "tags": ["obama", "president", "recession", "diversity"]
+  },
+  
+  {
+    "year": "2013",
+    "era": "Social Movements",
+    "title": {
+      "en": "Black Lives Matter Founded",
+      "fr": "Fondation de Black Lives Matter"
+    },
+    "description": {
+      "en": "✊ Movement against police brutality and racial injustice\n📱 Started with #BlackLivesMatter hashtag after Trayvon Martin case\n🌍 Grew into global movement after George Floyd (2020)\n⚖️ Calls for police reform and systemic change",
+      "fr": "✊ Mouvement contre la brutalité policière et l'injustice raciale\n📱 Commencé avec le hashtag #BlackLivesMatter après l'affaire Trayvon Martin\n🌍 Devient un mouvement mondial après George Floyd (2020)\n⚖️ Appelle à la réforme de la police et au changement systémique"
+    },
+    "image": "images/usa/blm.webp",
+    "tags": ["BLM", "civil-rights", "justice", "activism"]
+  },
+  {
+    "year": "2017–2021",
+    "era": "Modern America",
+    "title": {
+      "en": "Donald Trump",
+      "fr": "Donald Trump"
+    },
+    "description": {
+      "en": "🏛️ 45th U.S. President\n💼 Focus on economy and tax reform\n🌐 Tensions in global trade and foreign policy\n⚖️ Supreme Court appointments reshape judiciary",
+      "fr": "🏛️ 45e président des États-Unis\n💼 Accent sur l’économie et la réforme fiscale\n🌐 Tensions dans le commerce mondial et la politique étrangère\n⚖️ Nominations à la Cour suprême qui redéfinissent la justice"
+    },
+    "image": "images/usa/trump.webp",
+    "tags": ["trump", "president", "economy", "supreme-court"]
+  },
+  {
+    "year": "2021–present",
+    "era": "Contemporary America",
+    "title": {
+      "en": "Joe Biden",
+      "fr": "Joe Biden"
+    },
+    "description": {
+      "en": "🏛️ 46th U.S. President\n🦠 Managing COVID-19 recovery and vaccination efforts\n🌎 Focus on climate change and international alliances\n💸 Economic stimulus and infrastructure investments",
+      "fr": "🏛️ 46e président des États-Unis\n🦠 Gestion de la reprise et de la vaccination contre la COVID-19\n🌎 Accent sur le changement climatique et les alliances internationales\n💸 Stimulus économique et investissements dans les infrastructures"
+    },
+    "image": "images/usa/biden.jpg",
+    "tags": ["biden", "president", "covid", "climate", "economy"]
+  },
+  {
+    "year": "2024",
+    "era": "Contemporary America",
+    "title": {
+      "en": "Trump's Historic Comeback - 2024 Election",
+      "fr": "Le retour historique de Trump - Élection 2024"
+    },
+    "description": {
+      "en": "🗳️ Donald Trump wins 2024 presidential election\n🏛️ Becomes 45th and 47th President - first since Grover Cleveland\n⚖️ Overcame multiple indictments and legal challenges\n🔄 Historic political comeback after 2020 defeat",
+      "fr": "🗳️ Donald Trump remporte l'élection présidentielle de 2024\n🏛️ Devient 45e et 47e président - premier depuis Grover Cleveland\n⚖️ Surmonte de multiples mises en accusation et défis juridiques\n🔄 Retour politique historique après la défaite de 2020"
+    },
+    "image": "images/usa/trump_2024.jpg",
+    "tags": ["trump", "election", "comeback", "2024"]
+  }
+
+]

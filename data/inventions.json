@@ -1,0 +1,352 @@
+[
+  {
+    "year": "c. 1,000,000 BCE",
+    "era": "Prehistoric Innovation",
+    "title": {
+      "en": "Discovery of Fire",
+      "fr": "Découverte du Feu"
+    },
+    "description": {
+      "en": "🔥 Mastery of fire transformed human life\n🍖 Allowed cooking, warmth, and protection\n🌍 Enabled migration to colder regions\n💡 Foundation of all later technology",
+      "fr": "🔥 La maîtrise du feu transforma la vie humaine\n🍖 Permis la cuisson, la chaleur et la protection\n🌍 Favorisa la migration vers les régions froides\n💡 Fondation de toute technologie future"
+    },
+    "image": "images/inventions/fire.webp",
+    "tags": ["prehistoric", "discovery", "fire", "survival", "technology"]
+  },
+  {
+    "year": "c. 10,000 BCE",
+    "era": "Neolithic Revolution",
+    "title": {
+      "en": "Agriculture & Domestication",
+      "fr": "Agriculture et Domestication"
+    },
+    "description": {
+      "en": "🌾 Humans began farming and raising animals\n🏡 Created permanent settlements\n🍞 Led to food surplus and civilization",
+      "fr": "🌾 Les humains commencèrent à cultiver et élever des animaux\n🏡 Créèrent des villages permanents\n🍞 Conduisit à des surplus alimentaires et aux civilisations"
+    },
+    "image": "images/inventions/agriculture.jpg",
+    "tags": ["neolithic", "agriculture", "domestication", "civilization"]
+  },
+  {
+    "year": "c. 3,200 BCE",
+    "era": "Bronze Age",
+    "title": {
+      "en": "Invention of Writing (Cuneiform)",
+      "fr": "Invention de l'Écriture (Cunéiforme)"
+    },
+    "description": {
+      "en": "✍️ Sumerians developed first written language\n📜 Enabled record-keeping, laws, and literature\n🏛️ Beginning of recorded history",
+      "fr": "✍️ Les Sumériens inventèrent la première écriture\n📜 Permis la tenue des comptes, lois et textes\n🏛️ Début de l’histoire écrite"
+    },
+    "image": "images/inventions/cuneiform.jpg",
+    "tags": ["writing", "sumer", "civilization", "bronze-age"]
+  },
+  {
+    "year": "c. 1,200 BCE",
+    "era": "Iron Age",
+    "title": {
+      "en": "Iron Tools & Weapons",
+      "fr": "Outils et Armes en Fer"
+    },
+    "description": {
+      "en": "⚒️ Iron replaced bronze — stronger and cheaper\n🛡️ Revolutionized agriculture and warfare\n🌍 Enabled expansion and empires",
+      "fr": "⚒️ Le fer remplaça le bronze — plus solide et accessible\n🛡️ Révolutionna l’agriculture et la guerre\n🌍 Facilita l’expansion et les empires"
+    },
+    "image": "images/inventions/iron.jpg",
+    "tags": ["iron", "tools", "warfare", "technology"]
+  },
+  {
+    "year": "c. 600 BCE",
+    "era": "Classical Antiquity",
+    "title": {
+      "en": "Coinage & Money Economy",
+      "fr": "Monnaie et Économie Monétaire"
+    },
+    "description": {
+      "en": "💰 First standardized coins in Lydia (modern Turkey)\n🏛️ Replaced barter — enabled trade and taxation\n📈 Foundation of global economy",
+      "fr": "💰 Premières pièces standardisées en Lydie\n🏛️ Remplaça le troc — permit commerce et impôts\n📈 Fondation de l’économie mondiale"
+    },
+    "image": "images/inventions/coinage.jpg",
+    "tags": ["economy", "money", "trade", "lydia"]
+  },
+  {
+    "year": "c. 105 CE",
+    "era": "Ancient China",
+    "title": {
+      "en": "Invention of Paper",
+      "fr": "Invention du Papier"
+    },
+    "description": {
+      "en": "📜 Cai Lun (Han Dynasty) created paper from bark & rags\n🖋️ Revolutionized communication and education\n🌏 Spread from China to the world",
+      "fr": "📜 Cai Lun (dynastie Han) inventa le papier\n🖋️ Révolutionna la communication et l’éducation\n🌏 Se diffusa de la Chine au monde entier"
+    },
+    "image": "images/inventions/paper.jpg",
+    "tags": ["china", "paper", "communication", "han-dynasty"]
+  },
+  {
+    "year": "c. 700 CE",
+    "era": "Early Middle Ages",
+    "title": {
+      "en": "Gunpowder",
+      "fr": "Poudre à Canon"
+    },
+    "description": {
+      "en": "💥 Invented by Chinese alchemists\n⚔️ Changed warfare forever\n🌍 Spread via Silk Road to Europe",
+      "fr": "💥 Inventée par les alchimistes chinois\n⚔️ Changea la guerre à jamais\n🌍 Diffusée vers l’Europe par la route de la soie"
+    },
+    "image": "images/inventions/gunpowder.jpg",
+    "tags": ["china", "gunpowder", "warfare", "alchemy"]
+  },
+  {
+    "year": "c. 868 CE",
+    "era": "Tang Dynasty",
+    "title": {
+      "en": "Woodblock Printing",
+      "fr": "Impression sur Bois"
+    },
+    "description": {
+      "en": "🖨️ First printed book: The Diamond Sutra\n📚 Allowed mass reproduction of texts\n💡 Precursor to modern printing",
+      "fr": "🖨️ Premier livre imprimé : le Sūtra du Diamant\n📚 Permis la reproduction de textes\n💡 Précurseur de l’imprimerie moderne"
+    },
+    "image": "images/inventions/printing.webp",
+    "tags": ["printing", "china", "communication", "literacy"]
+  },
+  {
+    "year": "1440 CE",
+    "era": "Renaissance",
+    "title": {
+      "en": "Gutenberg Printing Press",
+      "fr": "Presse à Imprimer de Gutenberg"
+    },
+    "description": {
+      "en": "📖 Movable-type press revolutionized information\n💬 Spread literacy and ideas across Europe\n⚡ Fueled the Reformation and Scientific Revolution",
+      "fr": "📖 L’imprimerie à caractères mobiles révolutionna l’information\n💬 Diffusa la lecture et les idées en Europe\n⚡ Alimenta la Réforme et la Révolution scientifique"
+    },
+    "image": "images/inventions/printing.jpg",
+    "tags": ["printing", "renaissance", "literacy", "science"]
+  },
+  {
+    "year": "1609 CE",
+    "era": "Scientific Revolution",
+    "title": {
+      "en": "Telescope",
+      "fr": "Télescope"
+    },
+    "description": {
+      "en": "🔭 Galileo improved the telescope for astronomy\n🌌 Revealed moons of Jupiter & cosmic discoveries\n💡 Shifted humanity’s view of the universe",
+      "fr": "🔭 Galilée améliora le télescope pour l’astronomie\n🌌 Révéla les lunes de Jupiter et d’autres découvertes\n💡 Changea la vision humaine de l’univers"
+    },
+    "image": "images/inventions/telescope.jpg",
+    "tags": ["science", "astronomy", "galileo", "innovation"]
+  },
+  {
+    "year": "1712 CE",
+    "era": "Industrial Revolution",
+    "title": {
+      "en": "Steam Engine",
+      "fr": "Machine à Vapeur"
+    },
+    "description": {
+      "en": "🚂 Thomas Newcomen & James Watt harnessed steam power\n🏭 Drove factories, transport, and mechanization\n🌍 Birth of modern industry",
+      "fr": "🚂 Thomas Newcomen et James Watt utilisèrent la vapeur\n🏭 Alimenta les usines, transports et machines\n🌍 Naissance de l’industrie moderne"
+    },
+    "image": "images/inventions/steam_engine.webp",
+    "tags": ["industry", "steam", "mechanization", "transport"]
+  },
+  {
+    "year": "1825 CE",
+    "era": "Industrial Age",
+    "title": {
+      "en": "Railways",
+      "fr": "Chemins de Fer"
+    },
+    "description": {
+      "en": "🚆 Stockton–Darlington Railway — first public steam railway\n🌍 Connected cities, fueled commerce and migration\n⏱️ Shrunk distances and time",
+      "fr": "🚆 Le chemin de fer Stockton–Darlington — premier public à vapeur\n🌍 Relia les villes, stimula le commerce\n⏱️ Réduisit les distances et le temps"
+    },
+    "image": "images/inventions/railway.webp",
+    "tags": ["transport", "industry", "mobility", "innovation"]
+  },
+  {
+    "year": "1837 CE",
+    "era": "Industrial Age",
+    "title": {
+      "en": "Telegraph",
+      "fr": "Télégraphe"
+    },
+    "description": {
+      "en": "⚡ Samuel Morse created long-distance communication\n📨 Messages transmitted in seconds\n🌐 First global communication network",
+      "fr": "⚡ Samuel Morse inventa la communication à distance\n📨 Messages transmis en quelques secondes\n🌐 Première communication mondiale"
+    },
+    "image": "images/inventions/telegraph.jpg",
+    "tags": ["communication", "telegraph", "morse", "innovation"]
+  },
+  {
+    "year": "1876 CE",
+    "era": "Industrial Age",
+    "title": {
+      "en": "Telephone",
+      "fr": "Téléphone"
+    },
+    "description": {
+      "en": "📞 Alexander Graham Bell transmitted voice over wire\n💬 Connected people across distances\n🌍 Revolutionized human communication",
+      "fr": "📞 Alexander Graham Bell transmit la voix par fil\n💬 Relia les gens à distance\n🌍 Révolutionna la communication"
+    },
+    "image": "images/inventions/telephone.jpg",
+    "tags": ["communication", "telephone", "bell", "invention"]
+  },
+  {
+    "year": "1879 CE",
+    "era": "Age of Electricity",
+    "title": {
+      "en": "Electric Light Bulb",
+      "fr": "Ampoule Électrique"
+    },
+    "description": {
+      "en": "💡 Thomas Edison popularized electric lighting\n🏠 Extended productivity into the night\n⚡ Paved way for modern power grids",
+      "fr": "💡 Thomas Edison popularisa l’éclairage électrique\n🏠 Prolongea le travail dans la nuit\n⚡ Prépara l’ère de l’électricité moderne"
+    },
+    "image": "images/inventions/lightbulb.jpg",
+    "tags": ["electricity", "lighting", "edison", "innovation"]
+  },
+  {
+    "year": "1903 CE",
+    "era": "Modern Age",
+    "title": {
+      "en": "Airplane",
+      "fr": "Avion"
+    },
+    "description": {
+      "en": "✈️ Wright brothers achieved first powered flight\n🌍 Shrunk global distances\n🚀 Opened path to space exploration",
+      "fr": "✈️ Les frères Wright réalisèrent le premier vol motorisé\n🌍 Réduisirent les distances mondiales\n🚀 Ouvrirent la voie à l’exploration spatiale"
+    },
+    "image": "images/inventions/airplane.jpg",
+    "tags": ["aviation", "transport", "wright", "flight"]
+  },
+  {
+    "year": "1928 CE",
+    "era": "Modern Science",
+    "title": {
+      "en": "Penicillin",
+      "fr": "Pénicilline"
+    },
+    "description": {
+      "en": "💊 Alexander Fleming discovered world’s first antibiotic\n🩺 Saved millions of lives\n🌍 Revolutionized medicine and healthcare",
+      "fr": "💊 Alexander Fleming découvrit le premier antibiotique\n🩺 Sauva des millions de vies\n🌍 Révolutionna la médecine"
+    },
+    "image": "images/inventions/penicillin.webp",
+    "tags": ["medicine", "antibiotic", "fleming", "health"]
+  },
+  {
+    "year": "1945 CE",
+    "era": "Atomic Age",
+    "title": {
+      "en": "Nuclear Energy",
+      "fr": "Énergie Nucléaire"
+    },
+    "description": {
+      "en": "☢️ Harnessing the atom — both destructive and powerful\n⚛️ Nuclear power and weapons changed geopolitics\n🌍 Dual legacy: fear and progress",
+      "fr": "☢️ La maîtrise de l’atome — destructrice et puissante\n⚛️ L’énergie et les armes nucléaires changèrent le monde\n🌍 Double héritage : peur et progrès"
+    },
+    "image": "images/inventions/nuclear.png",
+    "tags": ["nuclear", "energy", "science", "warfare"]
+  },
+  {
+    "year": "1946 CE",
+    "era": "Digital Age",
+    "title": {
+      "en": "First Computer (ENIAC)",
+      "fr": "Premier Ordinateur (ENIAC)"
+    },
+    "description": {
+      "en": "🖥️ ENIAC — first programmable electronic computer\n🔢 Computed in seconds what once took days\n🌐 Foundation of modern computing",
+      "fr": "🖥️ ENIAC — premier ordinateur électronique programmable\n🔢 Calculait en secondes ce qui prenait des jours\n🌐 Fondation de l’informatique moderne"
+    },
+    "image": "images/inventions/computer.jpg",
+    "tags": ["computer", "digital", "eniac", "technology"]
+  },
+  {
+    "year": "1969 CE",
+    "era": "Space & Information Age",
+    "title": {
+      "en": "Internet (ARPANET)",
+      "fr": "Internet (ARPANET)"
+    },
+    "description": {
+      "en": "🌐 ARPANET linked first four computers\n💬 Birth of the Internet\n📡 Foundation of global communication",
+      "fr": "🌐 ARPANET relia les premiers ordinateurs\n💬 Naissance d’Internet\n📡 Fondation de la communication mondiale"
+    },
+    "image": "images/inventions/internet.jpg",
+    "tags": ["internet", "network", "digital", "communication"]
+  },
+  {
+    "year": "1971 CE",
+    "era": "Digital Revolution",
+    "title": {
+      "en": "Microprocessor",
+      "fr": "Microprocesseur"
+    },
+    "description": {
+      "en": "💾 Intel 4004 — computer power on a chip\n🧠 Enabled personal computers, phones, and devices\n🌍 Heart of the digital age",
+      "fr": "💾 Intel 4004 — puissance informatique sur une puce\n🧠 Rendit possibles les ordinateurs personnels\n🌍 Cœur de l’ère numérique"
+    },
+    "image": "images/inventions/microprocessor.jpg",
+    "tags": ["microchip", "computer", "digital", "intel"]
+  },
+  {
+    "year": "1989 CE",
+    "era": "Information Age",
+    "title": {
+      "en": "World Wide Web",
+      "fr": "World Wide Web"
+    },
+    "description": {
+      "en": "🌍 Tim Berners-Lee invented the Web\n💻 Connected humanity through browsers & links\n📚 Democratized access to knowledge",
+      "fr": "🌍 Tim Berners-Lee inventa le Web\n💻 Connecta l’humanité par navigateurs et hyperliens\n📚 Démocratisa l’accès au savoir"
+    },
+    "image": "images/inventions/www.jpg",
+    "tags": ["web", "internet", "communication", "knowledge"]
+  },
+  {
+    "year": "2007 CE",
+    "era": "Mobile Age",
+    "title": {
+      "en": "Smartphone",
+      "fr": "Smartphone"
+    },
+    "description": {
+      "en": "📱 Apple’s iPhone fused phone, internet, and computer\n💬 Put world information in every hand\n🌐 Redefined social life and productivity",
+      "fr": "📱 L’iPhone d’Apple fusionna téléphone, Internet et ordinateur\n💬 Mit le monde dans chaque main\n🌐 Redéfinit la vie sociale et la productivité"
+    },
+    "image": "images/inventions/smartphone.jpeg",
+    "tags": ["mobile", "internet", "smartphone", "apple"]
+  },
+  {
+    "year": "2010s–2020s",
+    "era": "AI & Data Era",
+    "title": {
+      "en": "Artificial Intelligence",
+      "fr": "Intelligence Artificielle"
+    },
+    "description": {
+      "en": "🤖 Machines learning from data and experience\n🧠 Powering automation, language, and creativity\n⚖️ Raises ethical and societal questions",
+      "fr": "🤖 Des machines apprenant des données et de l’expérience\n🧠 Alimentent l’automatisation, le langage et la créativité\n⚖️ Soulèvent des questions éthiques et sociales"
+    },
+    "image": "images/inventions/ai.jpg",
+    "tags": ["ai", "machine-learning", "automation", "ethics"]
+  },
+  {
+    "year": "2020s–Today",
+    "era": "Technological Singularity (Emerging)",
+    "title": {
+      "en": "Quantum & Bio Technologies",
+      "fr": "Technologies Quantiques et Biologiques"
+    },
+    "description": {
+      "en": "🧬 Quantum computing and CRISPR gene editing\n⚛️ Merging digital, biological, and physical worlds\n🚀 Frontier of next human evolution",
+      "fr": "🧬 Informatique quantique et édition génétique CRISPR\n⚛️ Fusion du numérique, du biologique et du physique\n🚀 Nouvelle frontière de l’évolution humaine"
+    },
+    "image": "images/inventions/quantum_bio.jpg",
+    "tags": ["quantum", "biology", "genetics", "future"]
+  }
+]

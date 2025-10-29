@@ -48,7 +48,7 @@
         <a id="play-game-btn" href="game2.html" class="px-6 py-3 bg-green-500 text-white rounded-lg shadow-lg hover:bg-green-600 transition-all font-bold flex items-center gap-2">📅Timeline</a>
         <a href="quizz.html" class="px-6 py-3 bg-purple-500 text-white rounded-lg shadow-lg hover:bg-purple-600 transition-all font-bold flex items-center gap-2">🎓 Quiz</a>
         <a href="tutor.html" class="px-6 py-3 bg-blue-500 text-white rounded-lg shadow-lg hover:bg-blue-600 transition-all font-bold flex items-center gap-2">🤖 AI Tutor</a>
-        <a id="maps-btn" href="maps.html" class="px-6 py-3 bg-yellow-500 text-white rounded-lg shadow-lg hover:bg-yellow-600 transition-all font-bold flex items-center gap-2">🗺️ Maps</a>
+        <!-- <a id="maps-btn" href="maps.html" class="px-6 py-3 bg-yellow-500 text-white rounded-lg shadow-lg hover:bg-yellow-600 transition-all font-bold flex items-center gap-2">🗺️ Maps</a> -->
       </div>
     </div>
   </header>
@@ -82,11 +82,13 @@
       Choose a topic to explore
     </h2>
     <div class="flex flex-wrap justify-center gap-8 mb-12">
+              <button class="country-btn bg-gradient-to-r from-yellow-600 to-orange-300 text-white px-8 py-4 rounded-xl shadow-lg hover:scale-105 hover:from-yellow-700 hover:to-orange-400 transition-all text-xl font-bold flex items-center gap-2" onclick="loadCountry('egypt_myth')">🦅 Egypt Mythology</button>
+                    <button class="country-btn bg-gradient-to-r from-red-500 to-orange-400 text-white px-8 py-4 rounded-xl shadow-lg hover:scale-105 hover:from-red-600 hover:to-orange-500 transition-all text-xl font-bold flex items-center gap-2" onclick="loadCountry('roman')">🏛️ Rome</button>
       <button class="country-btn bg-gradient-to-r from-blue-600 to-blue-400 text-white px-8 py-4 rounded-xl shadow-lg hover:scale-105 hover:from-blue-700 hover:to-blue-500 transition-all text-xl font-bold flex items-center gap-2" onclick="loadCountry('france')">🇫🇷 France</button>
+      <button class="country-btn bg-gradient-to-r from-blue-800 to-red-600 text-white px-8 py-4 rounded-xl shadow-lg hover:scale-105 hover:from-blue-900 hover:to-red-700 transition-all text-xl font-bold flex items-center gap-2" onclick="loadCountry('usa')">🇺🇸 USA</button>
       <button class="country-btn bg-gradient-to-r from-green-700 to-blue-400 text-white px-8 py-4 rounded-xl shadow-lg hover:scale-105 hover:from-green-800 hover:to-blue-500 transition-all text-xl font-bold flex items-center gap-2" onclick="loadCountry('bjj')">🥋 Brazilian Jiu Jitsu</button>
-        <button class="country-btn bg-gradient-to-r from-yellow-600 to-orange-300 text-white px-8 py-4 rounded-xl shadow-lg hover:scale-105 hover:from-yellow-700 hover:to-orange-400 transition-all text-xl font-bold flex items-center gap-2" onclick="loadCountry('egypt_myth')">🦅 Egypt Mythology</button>
       <button class="country-btn bg-gradient-to-r from-gray-900 to-yellow-700 text-white px-8 py-4 rounded-xl shadow-lg hover:scale-105 hover:from-gray-900 hover:to-yellow-800 transition-all text-xl font-bold flex items-center gap-2" onclick="loadCountry('metal')">🎸 Heavy Metal</button>
-      <button class="country-btn bg-gradient-to-r from-red-500 to-orange-400 text-white px-8 py-4 rounded-xl shadow-lg hover:scale-105 hover:from-red-600 hover:to-orange-500 transition-all text-xl font-bold flex items-center gap-2" onclick="loadCountry('roman')">🏛️ Rome</button>
+      <button class="country-btn bg-gradient-to-r from-purple-600 to-indigo-500 text-white px-8 py-4 rounded-xl shadow-lg hover:scale-105 hover:from-purple-700 hover:to-indigo-600 transition-all text-xl font-bold flex items-center gap-2" onclick="loadCountry('inventions')">💡 Inventions</button>
 
 <!-- 
       <button class="country-btn bg-gradient-to-r from-red-600 to-yellow-400 text-white px-8 py-4 rounded-xl shadow-lg hover:scale-105 hover:from-red-700 hover:to-yellow-500 transition-all text-xl font-bold flex items-center gap-2" onclick="loadCountry('japan')">🇯🇵 Japan</button>
