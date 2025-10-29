@@ -1,0 +1,184 @@
+[
+  {
+    "year": "Beginning of Time",
+    "era": "Creation",
+    "title": {
+      "en": "Chaos - The Primordial Void",
+      "fr": "Chaos - Le vide primordial"
+    },
+    "description": {
+      "en": "🌌 Before all things, there was Chaos — the yawning nothingness from which all existence sprang.\n⚫ Neither darkness nor light, neither earth nor sky, but the infinite potential of creation.\n✨ From Chaos came the first beings: Gaia (Earth), Tartarus (Abyss), and Eros (Love).",
+      "fr": "🌌 Avant toute chose, il y eut Chaos — le vide béant d’où jaillit toute existence.\n⚫ Ni ténèbres ni lumière, ni terre ni ciel, mais le potentiel infini de la création.\n✨ De Chaos naquirent les premiers êtres : Gaïa (la Terre), Tartare (l’Abîme) et Éros (l’Amour)."
+    },
+    "image": "images/greek_myth/chaos.jpg",
+    "tags": ["creation", "primordial", "void", "chaos", "beginning"]
+  },
+  {
+    "year": "Birth of Earth and Sky",
+    "era": "Creation",
+    "title": {
+      "en": "Gaia and Uranus",
+      "fr": "Gaïa et Ouranos"
+    },
+    "description": {
+      "en": "🌍 Gaia, the Earth, emerges from Chaos and gives birth to Uranus, the Sky.\n💫 Together they form the first divine couple — Earth and Heaven in eternal embrace.\n🌿 From their union come the Titans, Cyclopes, and the Hecatoncheires, ancestors of gods and giants.",
+      "fr": "🌍 Gaïa, la Terre, émerge du Chaos et donne naissance à Ouranos, le Ciel.\n💫 Ensemble, ils forment le premier couple divin — la Terre et le Ciel dans une étreinte éternelle.\n🌿 De leur union naissent les Titans, les Cyclopes et les Hécatonchires, ancêtres des dieux et des géants."
+    },
+    "image": "images/greek_myth/gaia_uranus.jpg",
+    "tags": ["creation", "earth", "sky", "titans", "couple"]
+  },
+  {
+    "year": "The Age of Titans",
+    "era": "Titanomachy",
+    "title": {
+      "en": "Cronus and Rhea",
+      "fr": "Cronos et Rhéa"
+    },
+    "description": {
+      "en": "⏳ Cronus, the youngest Titan, overthrows his father Uranus with Gaia’s help, ruling the cosmos.\n👑 With his sister Rhea, he brings forth the new generation of gods.\n⚔️ Fearing prophecy, he devours his children — until Zeus is hidden away, destined to rise against him.",
+      "fr": "⏳ Cronos, le plus jeune des Titans, renverse son père Ouranos avec l’aide de Gaïa, régnant sur le cosmos.\n👑 Avec sa sœur Rhéa, il engendre une nouvelle génération de dieux.\n⚔️ Craignant une prophétie, il dévore ses enfants — jusqu’à ce que Zeus soit caché, destiné à se dresser contre lui."
+    },
+    "image": "images/greek_myth/cronus_rhea.jpg",
+    "tags": ["titans", "time", "revolt", "family", "myth"]
+  },
+  {
+    "year": "The Great War",
+    "era": "Titanomachy",
+    "title": {
+      "en": "Titanomachy - War of the Gods",
+      "fr": "Titanomachie - La guerre des dieux"
+    },
+    "description": {
+      "en": "⚡ Zeus grows in secret and leads his siblings in rebellion against the Titans.\n🌩️ The ten-year war, Titanomachy, ends with the Titans’ defeat and their imprisonment in Tartarus.\n🏔️ Zeus establishes Mount Olympus as the seat of divine order, ushering in the reign of the Olympians.",
+      "fr": "⚡ Zeus grandit en secret et conduit ses frères et sœurs dans une rébellion contre les Titans.\n🌩️ La guerre de dix ans, la Titanomachie, se termine par la défaite des Titans et leur emprisonnement dans le Tartare.\n🏔️ Zeus établit le mont Olympe comme le siège de l’ordre divin, inaugurant le règne des Olympiens."
+    },
+    "image": "images/greek_myth/titanomachy.jpg",
+    "tags": ["zeus", "olympus", "titans", "war", "creation"]
+  },
+  {
+    "year": "Rise of Olympus",
+    "era": "Olympian Age",
+    "title": {
+      "en": "Zeus and the Olympians",
+      "fr": "Zeus et les Olympiens"
+    },
+    "description": {
+      "en": "👑 The Olympian gods — Zeus, Hera, Poseidon, Hades, Demeter, and Hestia — take their thrones.\n⚖️ The cosmos is divided: Zeus rules the sky, Poseidon the sea, and Hades the underworld.\n🌠 Balance and order return after ages of chaos and war.",
+      "fr": "👑 Les dieux olympiens — Zeus, Héra, Poséidon, Hadès, Déméter et Hestia — prennent leurs trônes.\n⚖️ Le cosmos est divisé : Zeus règne sur le ciel, Poséidon sur la mer, et Hadès sur le monde souterrain.\n🌠 L’équilibre et l’ordre reviennent après des âges de chaos et de guerre."
+    },
+    "image": "images/greek_myth/zeus_olympians.jpg",
+    "tags": ["olympians", "zeus", "poseidon", "hades", "order"]
+  },
+  {
+    "year": "Creation of Humanity",
+    "era": "Age of Men",
+    "title": {
+      "en": "Prometheus and the Gift of Fire",
+      "fr": "Prométhée et le don du feu"
+    },
+    "description": {
+      "en": "🔥 Prometheus, a Titan, shapes mankind from clay and gives them fire — stolen from the gods.\n⚡ Zeus punishes him for his defiance, chaining him to a mountain where an eagle devours his liver daily.\n💔 Prometheus becomes a symbol of sacrifice, wisdom, and rebellion against tyranny.",
+      "fr": "🔥 Prométhée, un Titan, façonne l’humanité à partir de l’argile et lui offre le feu — volé aux dieux.\n⚡ Zeus le punit pour sa défiance, l’enchaînant à une montagne où un aigle lui dévore le foie chaque jour.\n💔 Prométhée devient un symbole de sacrifice, de sagesse et de rébellion contre la tyrannie."
+    },
+    "image": "images/greek_myth/prometheus.jpg",
+    "tags": ["humanity", "creation", "fire", "prometheus", "rebellion"]
+  },
+  {
+    "year": "The First Woman",
+    "era": "Age of Men",
+    "title": {
+      "en": "Pandora and the Box",
+      "fr": "Pandore et la boîte"
+    },
+    "description": {
+      "en": "🎁 To punish mankind for Prometheus’s theft, Zeus creates Pandora — the first woman.\n🕊️ Given a jar (later called a box), she releases sorrow, disease, and pain into the world.\n🌈 Only Hope remains inside, the last light for humankind amid suffering.",
+      "fr": "🎁 Pour punir l’humanité du vol de Prométhée, Zeus crée Pandore — la première femme.\n🕊️ Munie d’une jarre (plus tard appelée boîte), elle libère le chagrin, la maladie et la douleur dans le monde.\n🌈 Seule l’Espérance reste à l’intérieur, dernière lumière pour l’humanité au milieu de la souffrance."
+    },
+    "image": "images/greek_myth/pandora.jpg",
+    "tags": ["pandora", "hope", "humanity", "punishment", "zeus"]
+  },
+  {
+    "year": "Flood and Renewal",
+    "era": "Age of Men",
+    "title": {
+      "en": "Deucalion and Pyrrha",
+      "fr": "Deucalion et Pyrrha"
+    },
+    "description": {
+      "en": "🌊 Zeus sends a great flood to cleanse the earth of corruption.\n🛶 Only Deucalion and Pyrrha survive, floating on a chest for nine days and nights.\n🌱 After the waters recede, they repopulate the world by casting stones behind them — which become humans.",
+      "fr": "🌊 Zeus envoie un grand déluge pour purifier la terre de la corruption.\n🛶 Seuls Deucalion et Pyrrha survivent, dérivant dans un coffre pendant neuf jours et neuf nuits.\n🌱 Après la décrue, ils repeuplent le monde en jetant des pierres derrière eux — qui se changent en humains."
+    },
+    "image": "images/greek_myth/deucalion_pyrrha.jpg",
+    "tags": ["flood", "renewal", "humanity", "zeus", "rebirth"]
+  },
+  {
+    "year": "Heroic Age Begins",
+    "era": "Heroes",
+    "title": {
+      "en": "Perseus and Medusa",
+      "fr": "Persée et Méduse"
+    },
+    "description": {
+      "en": "⚔️ Perseus, son of Zeus and Danaë, embarks on a quest to slay Medusa, the Gorgon whose gaze turns men to stone.\n🪞 With Athena’s shield and Hermes’ sword, he succeeds and later saves Andromeda from a sea monster.\n🌠 His courage marks the dawn of the Heroic Age.",
+      "fr": "⚔️ Persée, fils de Zeus et de Danaé, part en quête pour tuer Méduse, la Gorgone dont le regard pétrifie.\n🪞 Avec le bouclier d’Athéna et l’épée d’Hermès, il réussit et sauve ensuite Andromède d’un monstre marin.\n🌠 Son courage marque l’aube de l’Âge héroïque."
+    },
+    "image": "images/greek_myth/perseus_medusa.jpg",
+    "tags": ["heroes", "perseus", "medusa", "zeus", "athena"]
+  },
+  {
+    "year": "Twelve Labors",
+    "era": "Heroes",
+    "title": {
+      "en": "Heracles - The Divine Champion",
+      "fr": "Héraclès - Le champion divin"
+    },
+    "description": {
+      "en": "💪 Born of Zeus and a mortal woman, Heracles earns immortality through twelve impossible labors.\n🦁 From slaying the Nemean Lion to capturing Cerberus, he proves strength, endurance, and redemption.\n🌈 His apotheosis elevates him to Olympus as a god of heroes.",
+      "fr": "💪 Né de Zeus et d’une mortelle, Héraclès gagne son immortalité à travers douze travaux impossibles.\n🦁 Du Lion de Némée à Cerbère, il incarne la force, l’endurance et la rédemption.\n🌈 Son apothéose l’élève à l’Olympe comme dieu des héros."
+    },
+    "image": "images/greek_myth/heracles.jpg",
+    "tags": ["heracles", "heroes", "zeus", "labors", "strength"]
+  },
+  {
+    "year": "Voyage to the Unknown",
+    "era": "Heroes",
+    "title": {
+      "en": "Jason and the Argonauts",
+      "fr": "Jason et les Argonautes"
+    },
+    "description": {
+      "en": "⛵ Jason leads the Argonauts on a perilous quest for the Golden Fleece.\n🐉 Facing harpies, clashing rocks, and a sleepless dragon, he is aided by Medea’s cunning and magic.\n🔥 Their voyage symbolizes exploration, unity, and tragic love.",
+      "fr": "⛵ Jason conduit les Argonautes dans une quête périlleuse pour la Toison d’or.\n🐉 Affrontant les Harpies, les roches mouvantes et un dragon sans sommeil, il est aidé par la ruse et la magie de Médée.\n🔥 Leur voyage symbolise l’exploration, l’unité et l’amour tragique."
+    },
+    "image": "images/greek_myth/argonauts.jpg",
+    "tags": ["heroes", "voyage", "jason", "medea", "fleece"]
+  },
+  {
+    "year": "The Trojan War",
+    "era": "Heroes",
+    "title": {
+      "en": "The Iliad - Fall of Troy",
+      "fr": "L’Iliade - La chute de Troie"
+    },
+    "description": {
+      "en": "⚔️ The greatest war of myth begins with the abduction of Helen by Paris of Troy.\n🏹 Heroes like Achilles, Hector, and Odysseus fight under divine influence.\n🔥 Troy falls after ten years through the ruse of the Trojan Horse — ending the Heroic Age.",
+      "fr": "⚔️ La plus grande guerre mythique commence avec l’enlèvement d’Hélène par Pâris de Troie.\n🏹 Des héros comme Achille, Hector et Ulysse combattent sous l’influence des dieux.\n🔥 Troie tombe après dix ans grâce à la ruse du cheval de Troie — marquant la fin de l’Âge héroïque."
+    },
+    "image": "images/greek_myth/trojan_war.jpg",
+    "tags": ["trojan", "war", "achilles", "troy", "heroes"]
+  },
+  {
+    "year": "Return and Legacy",
+    "era": "End of the Heroes",
+    "title": {
+      "en": "Odysseus and the Journey Home",
+      "fr": "Ulysse et le voyage du retour"
+    },
+    "description": {
+      "en": "🌊 After Troy’s fall, Odysseus wanders ten years across seas and trials to return to Ithaca.\n🌀 He faces Cyclopes, sirens, and gods testing his wit and will.\n🏠 His homecoming marks the closing of the mythic age — the dawn of mortal history.",
+      "fr": "🌊 Après la chute de Troie, Ulysse erre dix ans sur les mers et à travers les épreuves pour rentrer à Ithaque.\n🌀 Il affronte les Cyclopes, les sirènes et les dieux qui mettent à l’épreuve son esprit et sa volonté.\n🏠 Son retour marque la fin de l’âge mythique — l’aube de l’histoire humaine."
+    },
+    "image": "images/greek_myth/odyssey.jpg",
+    "tags": ["odysseus", "journey", "heroes", "wisdom", "end"]
+  }
+]

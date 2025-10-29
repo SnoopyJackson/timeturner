@@ -77,6 +77,8 @@ async function loadAllData() {
             const response = await fetch(`data/${topic.id}.json`);
             if (response.ok) {
                 const data = await response.json();
+                // Stamp every event with its source topic before storing
+                data.forEach(ev => { ev.__sourceTopic = topic.id; });
                 // Store data by topic
                 topicDataMap.set(topic.id, data);
                 historyData = historyData.concat(data);
@@ -344,6 +346,10 @@ function generateResponse(userMessage) {
     // Normalize user message and extract tokens
     const normalizedMsg = normalizeText(userMessage);
     const msgTokens = tokenize(userMessage);
+    // Detect explicit "tell me about" style queries and extract intent tokens
+    const isTellMeQuery = normalizedMsg.startsWith('tell me about') || normalizedMsg.startsWith('parle moi de') || normalizedMsg.startsWith('parle-moi de') || normalizedMsg.startsWith('parle') || normalizedMsg.startsWith('tell me');
+    const stopWords = new Set(['tell','me','about','parle','moi','de','tellme','please']);
+    const intentTokens = msgTokens.filter(t => !stopWords.has(t));
 
     // phrase boost: compute n-grams from the query and consult dynamic ngramTagMap
     let phraseBoostTag = null;
@@ -368,10 +374,10 @@ function generateResponse(userMessage) {
         const descTokens = tokenize(desc);
         const yearStr = event.year ? String(event.year) : '';
 
-        // Exact normalized title match => strong boost
-        if (titleNorm === normalizedMsg) score += 120;
-        // Exact phrase in title
-        if (titleNorm.includes(normalizedMsg) && normalizedMsg.length > 3) score += 60;
+    // Exact normalized title match => much stronger boost to prefer direct title queries
+    if (titleNorm === normalizedMsg) score += 200;
+    // Exact phrase in title
+    if (titleNorm.includes(normalizedMsg) && normalizedMsg.length > 3) score += 120;
 
         // Jaccard similarity between query tokens and title/description tokens
         const jaccardTitle = jaccardScore(msgTokens, titleTokens);
@@ -388,8 +394,9 @@ function generateResponse(userMessage) {
             }
         }
         ngrams.forEach(g => {
-            if (titleNorm.includes(g)) score += 25;
-            if (descNorm.includes(g)) score += 12;
+            // slightly reduced per-ngram boost to avoid overpowering person entries
+            if (titleNorm.includes(g)) score += 15;
+            if (descNorm.includes(g)) score += 8;
         });
 
         // Year matching
@@ -405,11 +412,22 @@ function generateResponse(userMessage) {
         });
 
         // Phrase boost: if user's ngram matches indicated this event (by index) or maps to a tag
+        // Phrase boost: reduced to be less dominant
         if (matchedNgramEvents.has(event.__index)) {
-            score += 90;
+            score += 50;
         }
         if (phraseBoostTag && (event.tags || []).includes(phraseBoostTag)) {
-            score += 70;
+            score += 40;
+        }
+
+        // If this is a 'tell me about X' style query, give a strong boost when the event title contains the user's intent tokens
+        if (isTellMeQuery && intentTokens.length > 0) {
+            const titleTokSet = new Set(titleTokens);
+            const intentMatches = intentTokens.filter(t => titleTokSet.has(t)).length;
+            if (intentMatches >= 1) {
+                // strong but safe boost to prefer direct matches for explicit 'tell me about' queries
+                score += 80;
+            }
         }
 
         // Small boost for title/desc containing almost exact words
@@ -417,6 +435,12 @@ function generateResponse(userMessage) {
             if (titleTokens.includes(w)) score += 10;
             if (descTokens.includes(w)) score += 5;
         });
+
+        // Small aggregate title token boost: prefer events whose title contains several of the query tokens
+        const titleTokenMatches = msgTokens.filter(w => titleTokens.includes(w)).length;
+        if (titleTokenMatches > 1) {
+            score += titleTokenMatches * 15; // e.g., two matching tokens => +30
+        }
 
         return { event, score };
     })
@@ -430,6 +454,30 @@ function generateResponse(userMessage) {
     
     const relevantEvents = scoredEvents.map(item => item.event);
     const scores = scoredEvents.map(item => item.score);
+
+    // Helper: compute a conservative confidence percentage based on gap between top two scores
+    function computeConfidencePercent(top, second) {
+        if (!top || top <= 0) return 0;
+        const gap = Math.max(0, top - (second || 0));
+        // relative gap ratio (0..1)
+        const ratio = Math.min(1, gap / Math.max(1, top));
+        // scale and bias so small gaps are low confidence
+        const percent = Math.round((0.25 + 0.75 * ratio) * Math.min(100, top));
+        return Math.max(5, Math.min(99, percent));
+    }
+
+    // Helper: wrap an existing HTML response with source/confidence metadata
+    function wrapWithMeta(html, event, topScore, secondScore) {
+        const topicId = event.__sourceTopic || event.__topic || currentTopic || 'unknown';
+        const topicObj = availableTopics.find(t => t.id === topicId);
+        const topicLabel = topicObj ? `${topicObj.icon} ${topicObj.name[currentLang] || topicObj.name.en}` : topicId;
+        const confidence = computeConfidencePercent(topScore, secondScore);
+        const metaHtml = `<div class="event-meta" style="margin-top:8px;color:#6b7280;font-size:0.9em">` +
+            (currentLang === 'en' ? `Source: ${topicLabel}` : `Source : ${topicLabel}`) +
+            ` • ` + (currentLang === 'en' ? `Confidence` : `Confiance`) + `: <strong>${confidence}%</strong></div>`;
+        return html + metaHtml;
+    }
+
 
     // Special keyword searches - also with scoring
     const keywords = [
@@ -476,7 +524,15 @@ function generateResponse(userMessage) {
                 const tagScores = tagScoredEvents.map(item => item.score);
                 
                 if (tagEvents.length === 1) {
-                    return generateEventResponse(tagEvents[0], tagScores[0]);
+                    // Check confidence before returning a single-event answer
+                    const top = tagScores[0];
+                    const second = tagScores[1] || 0;
+                    if (top < 40) {
+                        return currentLang === 'en' ?
+                            `I found a possible match but I'm not confident. Could you be more specific or try a different phrasing?` :
+                            `J'ai trouvé une correspondance possible mais je ne suis pas sûr. Peux-tu être plus précis ou reformuler ?`;
+                    }
+                    return wrapWithMeta(generateEventResponse(tagEvents[0], tagScores[0]), tagEvents[0], top, second);
                 } else if (tagEvents.length <= 3) {
                     // Show all if just a few
                     let response = currentLang === 'en' ? 
@@ -511,7 +567,15 @@ function generateResponse(userMessage) {
     // Date queries
     if (msg.includes('when') || msg.includes('quand') || msg.includes('date')) {
         if (relevantEvents.length > 0) {
-            return generateDateResponse(relevantEvents[0], scores[0]);
+            // require reasonable confidence
+            const top = scores[0];
+            const second = scores[1] || 0;
+            if (top < 35) {
+                return currentLang === 'en' ?
+                    `I found some possible matches but I'm not confident about the exact date. Could you try rephrasing or ask about a specific person or event?` :
+                    `J'ai trouvé quelques correspondances possibles mais je ne suis pas sûr de la date exacte. Peux-tu reformuler ou demander sur un événement ou une personne spécifique ?`;
+            }
+            return wrapWithMeta(generateDateResponse(relevantEvents[0], scores[0]), relevantEvents[0], top, second);
         }
     }
 
@@ -533,7 +597,15 @@ function generateResponse(userMessage) {
     // If relevant events found
     if (relevantEvents.length > 0) {
         if (relevantEvents.length === 1) {
-            return generateEventResponse(relevantEvents[0], scores[0]);
+            // Only return direct event answer if confidence is reasonably high
+            const top = scores[0];
+            const second = scores[1] || 0;
+            if (top < 40) {
+                return currentLang === 'en' ?
+                    `I found a possible match but I'm not confident enough to give a full answer. Try being more specific or ask for an overview.` :
+                    `J'ai trouvé une correspondance possible mais je ne suis pas assez confiant pour donner une réponse complète. Essaie d'être plus précis ou demande un aperçu.`;
+            }
+            return wrapWithMeta(generateEventResponse(relevantEvents[0], scores[0]), relevantEvents[0], top, second);
         } else if (relevantEvents.length <= 3) {
             // Show all matching events if just a few
             let response = currentLang === 'en' ? 

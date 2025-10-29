@@ -1,0 +1,288 @@
+[
+  {
+    "year": "c. 12th century BCE",
+    "era": "Ancient Wars",
+    "title": { "en": "Trojan War (legendary)", "fr": "Guerre de Troie (légendaire)" },
+    "description": {
+      "en": "🏺 Myth, heroes and epic poetry — the Trojan War lives in Homeric legend and archaeological debate. ⚔️ Achilles, Hector and the wooden horse fuel millennia of storytelling and cultural memory.",
+      "fr": "🏺 Mythe, héros et poésie épique — la guerre de Troie vit dans la légende homérique et le débat archéologique. ⚔️ Achille, Hector et le cheval de bois alimentent des millénaires de récits."
+    },
+    "image": "images/wars/trojan_war.webp",
+    "tags": ["trojan-war", "legendary", "ancient", "homer"]
+  },
+  {
+    "year": "499–449 BCE",
+    "era": "Classical",
+    "title": { "en": "Greco-Persian Wars", "fr": "Guerres gréco-perses" },
+    "description": {
+      "en": "🏛️ Greek city-states unite to repel Persian expansion — Marathon, Thermopylae and Salamis become symbols of resistance and strategy.",
+      "fr": "🏛️ Les cités grecques s'unissent pour repousser l'expansion perse — Marathon, Thermopyles et Salamine deviennent des symboles de résistance et de stratégie."
+    },
+    "image": "images/wars/greco_persian.webp",
+    "tags": ["greco-persian", "classical", "marathon", "salamis"]
+  },
+  {
+    "year": "431–404 BCE",
+    "era": "Classical",
+    "title": { "en": "Peloponnesian War", "fr": "Guerre du Péloponnèse" },
+    "description": {
+      "en": "🏺 Athens vs. Sparta — ideological rivalry, sieges, plague, and a generation reshaped by internecine Greek conflict.",
+      "fr": "🏺 Athènes contre Sparte — rivalité idéologique, sièges, peste et une génération transformée par un conflit grec fratricide."
+    },
+    "image": "images/wars/peloponnesian_war.webp",
+    "tags": ["peloponnesian", "athens", "sparta", "classical"]
+  },
+  {
+    "year": "264–146 BCE",
+    "era": "Ancient / Republic Rome",
+    "title": { "en": "Punic Wars", "fr": "Guerres puniques" },
+    "description": {
+      "en": "🛡️ Rome vs. Carthage — epic naval battles, Hannibal’s Alpine crossing, and the rise of Rome as Mediterranean superpower.",
+      "fr": "🛡️ Rome contre Carthage — batailles navales épiques, la traversée alpine d'Hannibal et l'ascension de Rome comme superpuissance méditerranéenne."
+    },
+    "image": "images/wars/punic_wars.avif",
+    "tags": ["punic-wars", "rome", "hannibal", "ancient"]
+  },
+  {
+    "year": "4th–13th centuries",
+    "era": "Medieval",
+    "title": { "en": "The Crusades", "fr": "Les croisades" },
+    "description": {
+      "en": "✝️ Pilgrimage, piety and politics collide — a chain of religious wars between Latin Christendom and the Near East that reshaped trade, culture and conflict.",
+      "fr": "✝️ Pèlerinage, piété et politique se heurtent — une série de guerres religieuses entre la chrétienté latine et le Proche-Orient qui a transformé le commerce, la culture et le conflit."
+    },
+    "image": "images/wars/crusades.jpg",
+    "tags": ["crusades", "medieval", "religious-war", "knights"]
+  },
+  {
+    "year": "1206–14th century",
+    "era": "Medieval / Conquests",
+    "title": { "en": "Mongol Conquests", "fr": "Conquêtes mongoles" },
+    "description": {
+      "en": "🏹 From the steppes to Eurasia — Genghis Khan and his successors forge the largest contiguous land empire, mixing astonishing mobility with catastrophic devastation.",
+      "fr": "🏹 Des steppes à l'Eurasie — Gengis Khan et ses successeurs forment le plus grand empire contigu par la terre, alliant mobilité étonnante et dévastation catastrophique."
+    },
+    "image": "images/wars/mongol_conquests.jpeg",
+    "tags": ["mongol", "genghis-khan", "13th-century", "empire"]
+  },
+  {
+    "year": "1337–1453",
+    "era": "Late Medieval",
+    "title": { "en": "Hundred Years' War", "fr": "Guerre de Cent Ans" },
+    "description": {
+      "en": "🇫🇷🇬🇧 Intermittent dynastic warfare between England and France — Joan of Arc, chevauchées, and a slow reshaping of medieval warfare and national identity.",
+      "fr": "🇫🇷🇬🇧 Guerre dynastique intermittente entre Angleterre et France — Jeanne d'Arc, chevauchées et une transformation progressive de la guerre médiévale et de l'identité nationale."
+    },
+    "image": "images/wars/hundred_years.jpg",
+    "tags": ["hundred-years", "england", "france", "medieval"]
+  },
+  {
+    "year": "1618–1648",
+    "era": "Early Modern",
+    "title": { "en": "Thirty Years' War", "fr": "Guerre de Trente Ans" },
+    "description": {
+      "en": "⚔️ Protestant vs. Catholic conflicts in Central Europe that turn into continental devastation — diplomacy, religious turmoil and a new political order emerge.",
+      "fr": "⚔️ Conflits protestants contre catholiques en Europe centrale qui tournent en dévastation continentale — diplomatie, tourmente religieuse et un nouvel ordre politique apparaissent."
+    },
+    "image": "images/wars/thirty_years.webp",
+    "tags": ["thirty-years", "early-modern", "religious-war", "europe"]
+  },
+  {
+    "year": "1792–1815",
+    "era": "Revolutionary / Napoleonic",
+    "title": { "en": "French Revolutionary & Napoleonic Wars", "fr": "Guerres révolutionnaires et napoléoniennes" },
+    "description": {
+      "en": "🎖️ From revolutionary France to Napoleon's empire — mass conscription, grand coalitions, and radical modernization of war across Europe.",
+      "fr": "🎖️ De la France révolutionnaire à l'empire de Napoléon — conscription de masse, grandes coalitions et modernisation radicale de la guerre en Europe."
+    },
+    "image": "images/wars/napoleonic_wars.webp",
+    "tags": ["napoleonic", "revolutionary-france", "mass-army", "early-modern"]
+  },
+  {
+    "year": "1775–1783",
+    "era": "Early Modern",
+    "title": { "en": "American Revolutionary War", "fr": "Guerre d'indépendance américaine" },
+    "description": {
+      "en": "🗽 Colonists vs. empire — independence, guerrilla action, global alliances and the birth of a new republic.",
+      "fr": "🗽 Colons contre empire — indépendance, guérilla, alliances mondiales et naissance d'une nouvelle république."
+    },
+    "image": "images/wars/american_revolution.jpg",
+    "tags": ["american-revolution", "independence", "18th-century"]
+  },
+  {
+    "year": "1861–1865",
+    "era": "19th Century",
+    "title": { "en": "American Civil War", "fr": "Guerre de Sécession" },
+    "description": {
+      "en": "⚒️ Brother against brother — industrialized slaughter, emancipation debates, and a violent redefinition of a nation.",
+      "fr": "⚒️ Frère contre frère — carnage industrialisé, débats sur l'émancipation et redéfinition violente d'une nation."
+    },
+    "image": "images/wars/american_civil_war.avif",
+    "tags": ["american-civil-war", "union", "confederacy", "19th-century"]
+  },
+  {
+    "year": "1853–1856",
+    "era": "19th Century",
+    "title": { "en": "Crimean War", "fr": "Guerre de Crimée" },
+    "description": {
+      "en": "🌊 Russia vs. Ottoman alliance — logistics, modern nursing and the first ‘media’ war with war correspondents and photography beginning to shape public opinion.",
+      "fr": "🌊 Russie contre alliance ottomane — logistique, soins infirmiers modernes et première 'guerre médiatique' avec des correspondants et la photographie influençant l'opinion publique."
+    },
+    "image": "images/wars/crimean_war.jpg",
+    "tags": ["crimean-war", "19th-century", "sevastopol"]
+  },
+  {
+    "year": "1870–1871",
+    "era": "19th Century",
+    "title": { "en": "Franco-Prussian War", "fr": "Guerre franco-prussienne" },
+    "description": {
+      "en": "⚔️ Prussian efficiency topples the Second French Empire — German unification and a new balance of power in Europe.",
+      "fr": "⚔️ L'efficacité prussienne renverse le Second Empire français — unification allemande et nouveau partage des puissances en Europe."
+    },
+    "image": "images/wars/franco_prussian.webp",
+    "tags": ["franco-prussian", "german-unification", "19th-century"]
+  },
+  {
+    "year": "1914–1918",
+    "era": "20th Century",
+    "title": { "en": "World War I", "fr": "Première Guerre mondiale" },
+    "description": {
+      "en": "🌍 Industrial slaughter on a continental scale — trench warfare, new technology, empires collapse and a world reshaped by suffering and treaties.",
+      "fr": "🌍 Carnage industriel à l'échelle continentale — guerre de tranchées, nouvelles technologies, effondrement d'empires et un monde remodelé par la souffrance et les traités."
+    },
+    "image": "images/wars/world_war_i.jpg",
+    "tags": ["wwi", "trench-war", "1914-1918", "global"]
+  },
+  {
+    "year": "1939–1945",
+    "era": "20th Century",
+    "title": { "en": "World War II", "fr": "Seconde Guerre mondiale" },
+    "description": {
+      "en": "💣 The deadliest conflict in history — global mobilization, genocide, total war and a postwar order that defines the modern era.",
+      "fr": "💣 Le conflit le plus meurtrier de l'histoire — mobilisation mondiale, génocide, guerre totale et un ordre d'après-guerre qui définit l'ère moderne."
+    },
+    "image": "images/wars/world_war_ii.jpg",
+    "tags": ["wwii", "axis", "allies", "1939-1945"]
+  },
+  {
+    "year": "1947–present",
+    "era": "Postcolonial / Ongoing",
+    "title": { "en": "Arab–Israeli Conflicts", "fr": "Conflits arabo-israéliens" },
+    "description": {
+      "en": "🌍 Repeated wars and skirmishes over statehood, territory and identity — multiple wars since 1948 reshape the Middle East and global alliances.",
+      "fr": "🌍 Guerres et escarmouches répétées sur la souveraineté, le territoire et l'identité — plusieurs guerres depuis 1948 reconfigurent le Moyen-Orient et les alliances mondiales."
+    },
+    "image": "images/wars/arab_israeli.webp",
+    "tags": ["arab-israeli", "middle-east", "1948", "ongoing"]
+  },
+  {
+    "year": "1950–1953",
+    "era": "Cold War",
+    "title": { "en": "Korean War", "fr": "Guerre de Corée" },
+    "description": {
+      "en": "⚡ A proxy flashpoint of the Cold War — division of a peninsula, massive human cost, and an armistice that leaves tensions frozen.",
+      "fr": "⚡ Point chaud par procuration de la Guerre froide — division d'une péninsule, coût humain massif et un armistice qui laisse les tensions gelées."
+    },
+    "image": "images/wars/korean_war.jpg",
+    "tags": ["korean-war", "cold-war", "1950s"]
+  },
+  {
+    "year": "1955–1975 (major US involvement 1965–1973)",
+    "era": "Cold War",
+    "title": { "en": "Vietnam War", "fr": "Guerre du Viêt Nam" },
+    "description": {
+      "en": "🔥 Guerrilla warfare, ideological struggle and a media-shaped homefront — the war becomes a defining trauma for the 20th century.",
+      "fr": "🔥 Guerre de guérilla, lutte idéologique et guerre médiatique — le conflit devient un traumatisme marquant du XXᵉ siècle."
+    },
+    "image": "images/wars/vietnam_war.jpg",
+    "tags": ["vietnam-war", "cold-war", "guerrilla", "1960s-70s"]
+  },
+  {
+    "year": "1980–1988",
+    "era": "Late 20th Century",
+    "title": { "en": "Iran–Iraq War", "fr": "Guerre Iran–Irak" },
+    "description": {
+      "en": "🛢️ A brutal, stalemated conflict — trench lines, missile attacks and heavy civilian toll as neighboring powers clash over borders and influence.",
+      "fr": "🛢️ Conflit brutal et enlisé — lignes de tranchées, attaques de missiles et lourd tribut civil alors que puissances voisines s'affrontent pour des frontières et l'influence."
+    },
+    "image": "images/wars/iran_iraq.webp",
+    "tags": ["iran-iraq", "1980s", "middle-east", "stalemate"]
+  },
+  {
+    "year": "1990–1991",
+    "era": "Post-Cold War",
+    "title": { "en": "Gulf War", "fr": "Guerre du Golfe" },
+    "description": {
+      "en": "🌐 Coalition warfare, high-tech bombardment and a rapid liberation of Kuwait after Iraq’s invasion — modern media and precision strike shape the conflict's image.",
+      "fr": "🌐 Guerre de coalition, bombardement haute technologie et libération rapide du Koweït après l'invasion irakienne — médias modernes et frappes de précision façonnent l'image du conflit."
+    },
+    "image": "images/wars/gulf_war.jpg",
+    "tags": ["gulf-war", "1991", "coalition", "technology"]
+  },
+  {
+    "year": "2001–2021",
+    "era": "War on Terror",
+    "title": { "en": "War in Afghanistan", "fr": "Guerre d'Afghanistan" },
+    "description": {
+      "en": "🪖 Longest U.S. military engagement — invasion after 9/11, counterinsurgency, state-building attempts and an eventual withdrawal that reshapes regional geopolitics.",
+      "fr": "🪖 Engagement militaire américain le plus long — invasion après le 11-septembre, contre-insurrection, tentatives d'État-construction et retrait final qui redessine la géopolitique régionale."
+    },
+    "image": "images/wars/afghanistan_war.jpg",
+    "tags": ["afghanistan", "war-on-terror", "2001-2021", "counterinsurgency"]
+  },
+  {
+    "year": "2003–2011",
+    "era": "War on Terror / 21st Century",
+    "title": { "en": "Iraq War (2003)", "fr": "Guerre d'Irak (2003)" },
+    "description": {
+      "en": "💥 Invasion, insurgency and nation-building — the overthrow of Saddam Hussein reshapes regional dynamics and sparks protracted violence.",
+      "fr": "💥 Invasion, insurrection et reconstruction — le renversement de Saddam Hussein reconfigure la région et déclenche une violence prolongée."
+    },
+    "image": "images/wars/iraq_war.jpg",
+    "tags": ["iraq-war", "2003", "invasion", "insurgency"]
+  },
+  {
+    "year": "2014–present",
+    "era": "Contemporary",
+    "title": { "en": "Russo-Ukrainian War (onset)", "fr": "Guerre russo-ukrainienne (début)" },
+    "description": {
+      "en": "⚔️ Conflict erupts with Russia’s annexation of Crimea and fighting in eastern Ukraine; a long, complex struggle over sovereignty, territory and geopolitics.",
+      "fr": "⚔️ Conflit éclate avec l'annexion de la Crimée par la Russie et les combats dans l'est de l'Ukraine ; lutte longue et complexe pour la souveraineté, le territoire et la géopolitique."
+    },
+    "image": "images/wars/russo_ukraine_2014.jpg",
+    "tags": ["russo-ukrainian", "2014", "crimea", "donbas"]
+  },
+  {
+    "year": "2022–present",
+    "era": "Contemporary",
+    "title": { "en": "Russia's 2022 Full-Scale Invasion of Ukraine", "fr": "Invasion russe à grande échelle de 2022" },
+    "description": {
+      "en": "🔥 On 24 February 2022 Russia launched a full-scale invasion, opening a major new phase: wide territorial assaults, international sanctions and a Europe-wide security crisis.",
+      "fr": "🔥 Le 24 février 2022, la Russie lance une invasion à grande échelle, ouvrant une nouvelle phase majeure : offensives territoriales, sanctions internationales et crise de sécurité européenne."
+    },
+    "image": "images/wars/ukraine_2022.webp",
+    "tags": ["ukraine", "russia", "2022", "invasion"]
+  },
+  {
+    "year": "7 October 2023–present",
+    "era": "Contemporary / Middle East",
+    "title": { "en": "Hamas Attack (7 Oct 2023) & Gaza War", "fr": "Attaque du Hamas (7 oct. 2023) et guerre de Gaza" },
+    "description": {
+      "en": "🔥 A large-scale Hamas assault on 7 October 2023 sparks an intense Israeli military response in Gaza — a devastating, rapidly evolving war with regional and humanitarian repercussions.",
+      "fr": "🔥 Une vaste offensive du Hamas le 7 octobre 2023 déclenche une riposte militaire israélienne intense à Gaza — une guerre dévastatrice et en évolution rapide aux répercussions régionales et humanitaires."
+    },
+    "image": "images/wars/gaza.avif",
+    "tags": ["hamas", "gaza", "2023", "israel", "conflict"]
+  },
+  {
+    "year": "1990s–2020s (ongoing ethnic & regional conflicts)",
+    "era": "Contemporary",
+    "title": { "en": "Many Regional & Civil Wars", "fr": "Nombreux conflits régionaux et civils" },
+    "description": {
+      "en": "🌍 The modern map is scarred by civil wars and regional clashes — from the Balkans and Rwanda to Syria, Yemen and beyond — each with unique causes and devastating human costs.",
+      "fr": "🌍 La carte moderne est marquée par des guerres civiles et des affrontements régionaux — des Balkans et du Rwanda à la Syrie, au Yémen et au-delà — chacun avec des causes propres et un coût humain dévastateur."
+    },
+    "image": "images/wars/regional_conflicts.jpg",
+    "tags": ["civil-war", "regional-conflict", "syria", "yemen", "rwanda"]
+  }
+]

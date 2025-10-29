@@ -1,0 +1,200 @@
+[
+  {
+    "year": "≈3000 BCE",
+    "era": "Ancient Epidemics",
+    "title": { "en": "Early Plagues of Civilization", "fr": "Premières pestes des civilisations" },
+    "description": {
+      "en": "🏺 As humans settle and trade, diseases spread for the first time. Ancient Egypt and Mesopotamia record mysterious fevers and pestilences — the birth of epidemic history.",
+      "fr": "🏺 Avec la sédentarisation et le commerce, les maladies se propagent pour la première fois. L'Égypte et la Mésopotamie antiques mentionnent des fièvres mystérieuses — la naissance de l'histoire des épidémies."
+    },
+    "image": "images/pandemics/ancient_plagues.jpg",
+    "tags": ["ancient", "epidemic", "egypt", "mesopotamia"]
+  },
+  {
+    "year": "≈430 BCE",
+    "era": "Classical Antiquity",
+    "title": { "en": "Plague of Athens", "fr": "Peste d’Athènes" },
+    "description": {
+      "en": "🏛️ During the Peloponnesian War, a deadly outbreak devastates Athens — fever, rash and high mortality. Possibly typhoid, it kills one-third of the city.",
+      "fr": "🏛️ Pendant la guerre du Péloponnèse, une épidémie meurtrière dévaste Athènes — fièvre, éruptions et forte mortalité. Probablement du typhus, elle tue un tiers de la cité."
+    },
+    "image": "images/pandemics/plague_athens.jpg",
+    "tags": ["plague", "athens", "ancient-greece", "typhoid"]
+  },
+  {
+    "year": "165–180 CE",
+    "era": "Roman Empire",
+    "title": { "en": "Antonine Plague", "fr": "Peste antonine" },
+    "description": {
+      "en": "⚔️ Likely smallpox or measles carried by returning soldiers, this epidemic kills millions and weakens the Roman Empire’s strength.",
+      "fr": "⚔️ Probablement la variole ou la rougeole ramenée par des soldats, cette épidémie tue des millions et affaiblit la puissance de Rome."
+    },
+    "image": "images/pandemics/antonine_plague.jpg",
+    "tags": ["roman-empire", "smallpox", "measles"]
+  },
+  {
+    "year": "541–549 CE",
+    "era": "Late Antiquity",
+    "title": { "en": "Plague of Justinian", "fr": "Peste de Justinien" },
+    "description": {
+      "en": "☠️ The first known pandemic of bubonic plague strikes Constantinople — tens of millions die as the Byzantine Empire staggers.",
+      "fr": "☠️ La première pandémie connue de peste bubonique frappe Constantinople — des dizaines de millions de morts, l’Empire byzantin chancelle."
+    },
+    "image": "images/pandemics/justinian_plague.jpg",
+    "tags": ["plague", "bubonic", "byzantine", "justinian"]
+  },
+  {
+    "year": "1346–1353",
+    "era": "Middle Ages",
+    "title": { "en": "Black Death", "fr": "Peste noire" },
+    "description": {
+      "en": "💀 The deadliest pandemic in human history — *Yersinia pestis* spreads from Asia to Europe, killing up to 60% of the population. The world changes forever.",
+      "fr": "💀 La pandémie la plus meurtrière de l’histoire — *Yersinia pestis* se propage d’Asie en Europe, tuant jusqu’à 60 % de la population. Le monde en sort transformé."
+    },
+    "image": "images/pandemics/black_death.jpg",
+    "tags": ["black-death", "bubonic-plague", "middle-ages", "yersinia-pestis"]
+  },
+  {
+    "year": "1520s",
+    "era": "Age of Exploration",
+    "title": { "en": "Smallpox in the Americas", "fr": "Variole dans les Amériques" },
+    "description": {
+      "en": "🌎 Smallpox carried by European colonizers devastates Indigenous populations — tens of millions perish, reshaping the New World forever.",
+      "fr": "🌎 La variole apportée par les colonisateurs européens décime les populations autochtones — des dizaines de millions de morts, transformant à jamais le Nouveau Monde."
+    },
+    "image": "images/pandemics/smallpox_americas.webp",
+    "tags": ["smallpox", "colonialism", "americas", "indigenous"]
+  },
+  {
+    "year": "1665–1666",
+    "era": "Early Modern",
+    "title": { "en": "Great Plague of London", "fr": "Grande peste de Londres" },
+    "description": {
+      "en": "🏙️ Bubonic plague sweeps through London — one in four people die. The city seals itself, and the Great Fire soon after reshapes it.",
+      "fr": "🏙️ La peste bubonique ravage Londres — un quart de la population meurt. La ville se referme, et le Grand Incendie la remodelera peu après."
+    },
+    "image": "images/pandemics/london_plague.webp",
+    "tags": ["london", "plague", "bubonic", "1665"]
+  },
+  {
+    "year": "1817–1975",
+    "era": "19th Century",
+    "title": { "en": "Cholera Pandemics", "fr": "Pandémies de choléra" },
+    "description": {
+      "en": "💧 Seven global cholera pandemics erupt from India’s Ganges Delta, killing millions and transforming sanitation, water, and public health systems.",
+      "fr": "💧 Sept pandémies mondiales de choléra éclatent depuis le delta du Gange en Inde, tuant des millions et transformant l’assainissement, l’eau et la santé publique."
+    },
+    "image": "images/pandemics/cholera.jpg",
+    "tags": ["cholera", "india", "sanitation", "19th-century"]
+  },
+  {
+    "year": "1855–1959",
+    "era": "Colonial Era",
+    "title": { "en": "Third Plague Pandemic", "fr": "Troisième pandémie de peste" },
+    "description": {
+      "en": "🐀 Originating in China, the third great wave of bubonic plague spreads via rats and ships — over 12 million die in Asia.",
+      "fr": "🐀 Née en Chine, la troisième grande vague de peste bubonique se propage par les rats et les navires — plus de 12 millions de morts en Asie."
+    },
+    "image": "images/pandemics/third_plague.jpg",
+    "tags": ["plague", "bubonic", "china", "colonial-era"]
+  },
+  {
+    "year": "1918–1919",
+    "era": "Modern Age",
+    "title": { "en": "Spanish Flu (H1N1)", "fr": "Grippe espagnole (H1N1)" },
+    "description": {
+      "en": "😷 As World War I ends, influenza kills an estimated 50–100 million people worldwide — the deadliest viral pandemic of modern times.",
+      "fr": "😷 À la fin de la Première Guerre mondiale, la grippe tue entre 50 et 100 millions de personnes dans le monde — la pandémie virale la plus meurtrière des temps modernes."
+    },
+    "image": "images/pandemics/spanish_flu.jpg",
+    "tags": ["influenza", "h1n1", "spanish-flu", "1918-pandemic"]
+  },
+  {
+    "year": "1957–1958",
+    "era": "Cold War Era",
+    "title": { "en": "Asian Flu (H2N2)", "fr": "Grippe asiatique (H2N2)" },
+    "description": {
+      "en": "🌏 Originating in East Asia, the Asian flu kills around 1–2 million people — the first major pandemic of the modern virology age.",
+      "fr": "🌏 Venue d’Asie de l’Est, la grippe asiatique tue environ 1 à 2 millions de personnes — la première grande pandémie de l’ère de la virologie moderne."
+    },
+    "image": "images/pandemics/asian_flu.jpg",
+    "tags": ["influenza", "asian-flu", "h2n2", "1957-pandemic"]
+  },
+  {
+    "year": "1968–1970",
+    "era": "Modern Era",
+    "title": { "en": "Hong Kong Flu (H3N2)", "fr": "Grippe de Hong Kong (H3N2)" },
+    "description": {
+      "en": "🌆 The H3N2 strain of influenza spreads globally, killing over a million — a pandemic echoing the Spanish flu’s viral lineage.",
+      "fr": "🌆 La souche H3N2 de la grippe se propage dans le monde, tuant plus d’un million de personnes — une pandémie héritière de la lignée virale de la grippe espagnole."
+    },
+    "image": "images/pandemics/hong_kong_flu.jpg",
+    "tags": ["influenza", "hong-kong-flu", "h3n2"]
+  },
+  {
+    "year": "1981–present",
+    "era": "Late 20th Century",
+    "title": { "en": "HIV/AIDS Pandemic", "fr": "Pandémie du VIH/sida" },
+    "description": {
+      "en": "🧬 A global pandemic emerges — HIV spreads silently, transforming medicine, sexuality and global health responses. Over 40 million deaths since discovery.",
+      "fr": "🧬 Une pandémie mondiale émerge — le VIH se propage silencieusement, transformant la médecine, la sexualité et la santé publique. Plus de 40 millions de morts depuis sa découverte."
+    },
+    "image": "images/pandemics/hiv_aids.jpg",
+    "tags": ["hiv", "aids", "virus", "global-health"]
+  },
+  {
+    "year": "2002–2004",
+    "era": "21st Century",
+    "title": { "en": "SARS (Severe Acute Respiratory Syndrome)", "fr": "SRAS (Syndrome respiratoire aigu sévère)" },
+    "description": {
+      "en": "😷 A coronavirus jumps from animals to humans in China — SARS spreads across 30 countries, foreshadowing future outbreaks.",
+      "fr": "😷 Un coronavirus passe de l’animal à l’homme en Chine — le SRAS se propage dans 30 pays, annonçant les épidémies à venir."
+    },
+    "image": "images/pandemics/sars.jpg",
+    "tags": ["sars", "coronavirus", "china", "zoonosis"]
+  },
+  {
+    "year": "2009–2010",
+    "era": "Modern",
+    "title": { "en": "H1N1 Swine Flu", "fr": "Grippe porcine H1N1" },
+    "description": {
+      "en": "🐖 A novel H1N1 virus spreads from Mexico — declared a pandemic by WHO, causing hundreds of thousands of deaths worldwide.",
+      "fr": "🐖 Un nouveau virus H1N1 venu du Mexique se propage — déclaré pandémie par l’OMS, il cause des centaines de milliers de morts dans le monde."
+    },
+    "image": "images/pandemics/swine_flu.jpg",
+    "tags": ["h1n1", "swine-flu", "pandemic", "2009"]
+  },
+  {
+    "year": "2014–2016",
+    "era": "Contemporary",
+    "title": { "en": "Ebola Outbreak (West Africa)", "fr": "Épidémie d’Ebola (Afrique de l’Ouest)" },
+    "description": {
+      "en": "🧪 The deadliest Ebola outbreak kills over 11,000 people — heroic local and global efforts curb a terrifying hemorrhagic virus.",
+      "fr": "🧪 L’épidémie d’Ebola la plus meurtrière tue plus de 11 000 personnes — des efforts héroïques locaux et mondiaux contiennent un virus hémorragique terrifiant."
+    },
+    "image": "images/pandemics/ebola.jpg",
+    "tags": ["ebola", "west-africa", "virus", "2014"]
+  },
+  {
+    "year": "2020–2023",
+    "era": "Pandemic Era",
+    "title": { "en": "COVID-19 Pandemic", "fr": "Pandémie de COVID-19" },
+    "description": {
+      "en": "🌐 A novel coronavirus (SARS-CoV-2) triggers the first global lockdown in history. Billions affected — science races to create vaccines and redefine resilience.",
+      "fr": "🌐 Un nouveau coronavirus (SARS-CoV-2) provoque le premier confinement mondial de l’histoire. Des milliards d’humains touchés — la science crée des vaccins et redéfinit la résilience."
+    },
+    "image": "images/pandemics/covid19.jpg",
+    "tags": ["covid19", "coronavirus", "pandemic", "sars-cov-2"]
+  },
+  {
+    "year": "2022–present",
+    "era": "Post-COVID Era",
+    "title": { "en": "Global Health Transitions", "fr": "Transitions de santé mondiale" },
+    "description": {
+      "en": "🧫 From monkeypox to antibiotic resistance, humanity faces new microbial challenges — global health enters a vigilant, interconnected age.",
+      "fr": "🧫 De la variole du singe à la résistance aux antibiotiques, l’humanité affronte de nouveaux défis microbiens — la santé mondiale entre dans une ère vigilante et interconnectée."
+    },
+    "image": "images/pandemics/post_covid.jpg",
+    "tags": ["global-health", "antibiotic-resistance", "pandemic-preparedness"]
+  }
+]
