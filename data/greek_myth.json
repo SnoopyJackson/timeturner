@@ -1,0 +1,534 @@
+[
+  {
+    "year": "Beginning of Time",
+    "era": "Creation",
+    "title": {
+      "en": "Chaos",
+      "fr": "Chaos"
+    },
+    "description": {
+      "en": "🌌 Before all things, there was Chaos — the formless void from which existence arose.\n⚫ Neither light nor darkness, neither being nor nothingness.\n✨ Chaos was the infinite potential from which the cosmos would emerge.",
+      "fr": "🌌 Avant toute chose, il y eut Chaos — le vide informe d'où jaillit l'existence.\n⚫ Ni lumière ni ténèbres, ni être ni néant.\n✨ Chaos était le potentiel infini d'où surgirait le cosmos."
+    },
+    "image": "images/greek_myth/chaos.webp",
+    "tags": ["creation", "primordial", "void", "chaos"]
+  },
+  {
+    "year": "First Beings",
+    "era": "Creation",
+    "title": {
+      "en": "Gaia",
+      "fr": "Gaïa"
+    },
+    "description": {
+      "en": "🌍 From Chaos emerged Gaia, the Earth herself — the foundation of all life and mother of creation.\n🏔️ Wide-bosomed and eternal, she became the dwelling place for gods and mortals alike.\n⭐ She gave birth to the mountains, the sea, and the starry heavens.",
+      "fr": "🌍 De Chaos émergea Gaïa, la Terre elle-même — fondation de toute vie et mère de la création.\n🏔️ Large et éternelle, elle devint la demeure des dieux et des mortels.\n⭐ Elle enfanta les montagnes, la mer et les cieux étoilés."
+    },
+    "image": "images/greek_myth/gaia.webp",
+    "tags": ["gaia", "creation", "earth", "primordial", "mother"]
+  },
+  {
+    "year": "Birth of Sky",
+    "era": "Creation",
+    "title": {
+      "en": "Uranus",
+      "fr": "Ouranos"
+    },
+    "description": {
+      "en": "🌌 Gaia gave birth to Uranus, the starry Sky, equal to herself in grandeur.\n☁️ He covered her on all sides and became the eternal home of the gods.\n👥 Together, Gaia and Uranus created the first divine race — the mighty Titans, the one-eyed Cyclopes, and the hundred-handed Giants.",
+      "fr": "🌌 Gaïa enfanta Ouranos, le Ciel étoilé, égal à elle en grandeur.\n☁️ Il la couvrait de toutes parts et devint la demeure éternelle des dieux.\n👥 Ensemble, Gaïa et Ouranos créèrent la première race divine — les puissants Titans, les Cyclopes et les Géants aux cent bras."
+    },
+    "image": "images/greek_myth/uranus.jpg",
+    "tags": ["uranus", "creation", "sky", "titans", "father"]
+  },
+  {
+    "year": "Age of Titans",
+    "era": "Titans",
+    "title": {
+      "en": "Cronus",
+      "fr": "Cronos"
+    },
+    "description": {
+      "en": "⚔️ Cronus, youngest and most cunning of the Titans, overthrew his father Uranus at Gaia's urging.\n🔪 He castrated the Sky with a great sickle and claimed dominion over the cosmos.\n⚠️ Yet he feared prophecy: that his own child would overthrow him as he had overthrown his father.",
+      "fr": "⚔️ Cronos, le plus jeune et rusé des Titans, renversa son père Ouranos sur l'insistance de Gaïa.\n🔪 Il castra le Ciel avec une grande faucille et s'empara du cosmos.\n⚠️ Mais il craignait la prophétie : son propre enfant le renverserait comme il avait renversé son père."
+    },
+    "image": "images/greek_myth/cronus.jpg",
+    "tags": ["cronus", "titans", "overthrow", "prophecy", "time"]
+  },
+  {
+    "year": "Birth from Foam",
+    "era": "Titans",
+    "title": {
+      "en": "Aphrodite",
+      "fr": "Aphrodite"
+    },
+    "description": {
+      "en": "🌊 From the sea foam born when Uranus's severed parts fell into the ocean, Aphrodite arose — goddess of love, beauty, and desire.\n💖 She emerged fully formed from the waves near Cyprus, bringing passion and harmony to gods and mortals.\n✨ Even Zeus himself would bow to her power.",
+      "fr": "🌊 De l'écume de la mer née quand les parties tranchées d'Ouranos tombèrent dans l'océan surgit Aphrodite — déesse de l'amour, de la beauté et du désir.\n💖 Elle émergea pleinement formée des vagues près de Chypre, apportant passion et harmonie aux dieux et mortels.\n✨ Même Zeus lui-même s'inclinait devant son pouvoir."
+    },
+    "image": "images/greek_myth/aphrodite_birth.webp",
+    "tags": ["aphrodite", "love", "beauty", "sea", "birth"]
+  },
+  {
+    "year": "Children Devoured",
+    "era": "Titans",
+    "title": {
+      "en": "Rhea",
+      "fr": "Rhéa"
+    },
+    "description": {
+      "en": "👶 Rhea, Titan queen and wife of Cronus, bore divine children: Hestia, Demeter, Hera, Hades, and Poseidon.\n😱 But Cronus, fearing the prophecy, swallowed each child at birth.\n🪨 When Zeus was born, Rhea deceived Cronus with a stone wrapped in swaddling clothes and hid her son in a cave on Crete.",
+      "fr": "👶 Rhéa, reine des Titans et épouse de Cronos, enfanta des enfants divins : Hestia, Déméter, Héra, Hadès et Poséidon.\n😱 Mais Cronos, craignant la prophétie, avala chaque enfant à sa naissance.\n🪨 Quand Zeus naquit, Rhéa trompa Cronos avec une pierre et cacha son fils dans une grotte en Crète."
+    },
+    "image": "images/greek_myth/rhea.webp",
+    "tags": ["rhea", "mother", "titans", "deception", "protection"]
+  },
+  {
+    "year": "The Great War",
+    "era": "Titanomachy",
+    "title": {
+      "en": "Titanomachy",
+      "fr": "La Titanomachie"
+    },
+    "description": {
+      "en": "⚡ Zeus, grown to manhood, forced Cronus to disgorge his siblings.\n⚔️ Together, the young gods waged war against the Titans for ten years.\n🔨 From Mount Olympus, Zeus hurled thunderbolts while his brothers and sisters fought at his side — the Cyclopes forged Zeus's lightning, Poseidon's trident, and Hades's helm of invisibility.",
+      "fr": "⚡ Zeus, devenu adulte, força Cronos à régurgiter ses frères et sœurs.\n⚔️ Ensemble, les jeunes dieux menèrent la guerre contre les Titans pendant dix ans.\n🔨 Du mont Olympe, Zeus lança la foudre tandis que ses frères et sœurs combattaient à ses côtés."
+    },
+    "image": "images/greek_myth/titanomachy.jpg",
+    "tags": ["zeus", "titans", "war", "olympus", "victory"]
+  },
+  {
+    "year": "Division of the Cosmos",
+    "era": "Olympian Age",
+    "title": {
+      "en": "Zeus",
+      "fr": "Zeus"
+    },
+    "description": {
+      "en": "👑 Zeus, King of Gods and ruler of Mount Olympus, claimed the sky and heavens as his domain.\n⚡ Wielding the thunderbolt, he became lord over gods and mortals, dispenser of justice, and guardian of oaths.\n⚖️ His will shaped the fate of the world, though even he could not defy destiny itself.",
+      "fr": "👑 Zeus, Roi des Dieux et maître du mont Olympe, revendiqua le ciel et les cieux comme domaine.\n⚡ Maniant la foudre, il devint seigneur des dieux et mortels, dispensateur de justice et gardien des serments.\n⚖️ Sa volonté façonnait le destin du monde."
+    },
+    "image": "images/greek_myth/zeus.jpg",
+    "tags": ["zeus", "olympus", "king", "thunder", "sky"]
+  },
+  {
+    "year": "Division of the Cosmos",
+    "era": "Olympian Age",
+    "title": {
+      "en": "Poseidon",
+      "fr": "Poséidon"
+    },
+    "description": {
+      "en": "🌊 Poseidon, brother of Zeus, claimed dominion over all waters — seas, rivers, and springs.\n🔱 With his trident, he commanded the waves and caused earthquakes that shook the earth.\n🐴 Tempestuous and proud, he ruled from his palace beneath the Aegean, drawn by horses that galloped across the waves.",
+      "fr": "🌊 Poséidon, frère de Zeus, revendiqua la domination sur toutes les eaux — mers, rivières et sources.\n🔱 Avec son trident, il commandait les vagues et causait des tremblements de terre.\n🐴 Impétueux et fier, il régnait depuis son palais sous l'Égée."
+    },
+    "image": "images/greek_myth/poseidon.webp",
+    "tags": ["poseidon", "sea", "trident", "earthquakes", "waters"]
+  },
+  {
+    "year": "Division of the Cosmos",
+    "era": "Olympian Age",
+    "title": {
+      "en": "Hades",
+      "fr": "Hadès"
+    },
+    "description": {
+      "en": "💀 Hades received the Underworld as his realm — the shadowy kingdom where all mortal souls journey after death.\n⚖️ Neither cruel nor evil, he was stern and unyielding, ensuring no soul escaped his domain.\n🐕 With his helm of invisibility and three-headed dog Cerberus guarding the gates, Hades ruled the dead with absolute authority.",
+      "fr": "💀 Hadès reçut les Enfers comme royaume — le domaine ombragé où toutes les âmes mortelles voyagent après la mort.\n⚖️ Ni cruel ni mauvais, il était sévère et inflexible, s'assurant qu'aucune âme n'échappe à son domaine.\n🐕 Avec Cerbère gardant les portes, Hadès régnait sur les morts."
+    },
+    "image": "images/greek_myth/hades.jpg",
+    "tags": ["hades", "underworld", "death", "cerberus", "souls"]
+  },
+  {
+    "year": "Queen of Olympus",
+    "era": "Olympian Age",
+    "title": {
+      "en": "Hera",
+      "fr": "Héra"
+    },
+    "description": {
+      "en": "👑 Hera, sister and wife of Zeus, became Queen of the Gods and protector of marriage and childbirth.\n💪 Majestic and powerful, she defended the sanctity of wedlock, though Zeus's countless infidelities provoked her legendary wrath.\n🔥 She punished his lovers and their offspring with relentless fury, yet remained the greatest goddess of Olympus.",
+      "fr": "👑 Héra, sœur et épouse de Zeus, devint Reine des Dieux et protectrice du mariage et de la naissance.\n💪 Majestueuse et puissante, elle défendait la sainteté des liens conjugaux, bien que les infidélités de Zeus provoquaient sa colère légendaire.\n🔥 Elle punissait ses amantes avec une fureur implacable."
+    },
+    "image": "images/greek_myth/hera.jpg",
+    "tags": ["hera", "queen", "marriage", "jealousy", "olympus"]
+  },
+  {
+    "year": "Goddess of Harvest",
+    "era": "Olympian Age",
+    "title": {
+      "en": "Demeter",
+      "fr": "Déméter"
+    },
+    "description": {
+      "en": "🌾 Demeter, goddess of the harvest and agriculture, blessed the earth with abundance.\n🌱 She taught mortals to sow and reap, transforming them from hunter-gatherers to farmers.\n❄️ Her joy brought spring and summer, but when her daughter Persephone was taken to the Underworld, Demeter's grief plunged the world into barren winter.",
+      "fr": "🌾 Déméter, déesse de la moisson et de l'agriculture, bénissait la terre d'abondance.\n🌱 Elle enseigna aux mortels à semer et récolter.\n❄️ Sa joie apportait printemps et été, mais quand sa fille Perséphone fut emmenée aux Enfers, le chagrin de Déméter plongea le monde en hiver stérile."
+    },
+    "image": "images/greek_myth/demeter.jpg",
+    "tags": ["demeter", "harvest", "agriculture", "seasons", "abundance"]
+  },
+  {
+    "year": "Goddess of Hearth",
+    "era": "Olympian Age",
+    "title": {
+      "en": "Hestia",
+      "fr": "Hestia"
+    },
+    "description": {
+      "en": "🔥 Hestia, eldest daughter of Cronus and Rhea, was goddess of the hearth and home.\n🕊️ She rejected marriage to remain eternally virgin, tending the sacred fire on Mount Olympus.\n🏠 Gentle and peace-loving, she represented domestic harmony and received the first offering at every sacrifice.",
+      "fr": "🔥 Hestia, fille aînée de Cronos et Rhéa, était déesse du foyer et de la maison.\n🕊️ Elle refusa le mariage pour rester éternellement vierge, gardant le feu sacré sur l'Olympe.\n🏠 Douce et pacifique, elle représentait l'harmonie domestique et recevait la première offrande à chaque sacrifice."
+    },
+    "image": "images/greek_myth/hestia.webp",
+    "tags": ["hestia", "hearth", "home", "virgin", "fire"]
+  },
+  {
+    "year": "Birth from Zeus",
+    "era": "Olympian Age",
+    "title": {
+      "en": "Athena",
+      "fr": "Athéna"
+    },
+    "description": {
+      "en": "🧠 Athena sprang fully armed from Zeus's head after he swallowed her mother Metis.\n🛡️ Goddess of wisdom, strategy, and warfare, she championed heroes with her counsel and defended cities with her shield.\n🏛️ Athens bore her name, and she became patron of crafts, reason, and civilized life.",
+      "fr": "🧠 Athéna surgit tout armée de la tête de Zeus après qu'il eut avalé sa mère Métis.\n🛡️ Déesse de la sagesse, de la stratégie et de la guerre, elle défendait les héros et les cités.\n🏛️ Athènes portait son nom, et elle devint patronne des arts, de la raison et de la vie civilisée."
+    },
+    "image": "images/greek_myth/athena.jpg",
+    "tags": ["athena", "wisdom", "warfare", "strategy", "athens"]
+  },
+  {
+    "year": "God of Light",
+    "era": "Olympian Age",
+    "title": {
+      "en": "Apollo",
+      "fr": "Apollon"
+    },
+    "description": {
+      "en": "☀️ Apollo, son of Zeus and Leto, was god of light, music, prophecy, healing, and archery.\n🎵 Golden-haired and eternally youthful, he drove the sun chariot across the sky and spoke through the Oracle at Delphi.\n🏹 His lyre charmed all who heard it, and his arrows brought plague or healing.",
+      "fr": "☀️ Apollon, fils de Zeus et Léto, était dieu de la lumière, de la musique, de la prophétie, de la guérison et du tir à l'arc.\n🎵 Aux cheveux d'or et éternellement jeune, il conduisait le char du soleil et parlait par l'Oracle de Delphes.\n🏹 Sa lyre charmait tous ceux qui l'entendaient."
+    },
+    "image": "images/greek_myth/apollo.jpg",
+    "tags": ["apollo", "sun", "music", "prophecy", "healing"]
+  },
+  {
+    "year": "Goddess of the Hunt",
+    "era": "Olympian Age",
+    "title": {
+      "en": "Artemis",
+      "fr": "Artémis"
+    },
+    "description": {
+      "en": "🏹 Artemis, twin sister of Apollo, was goddess of the hunt, wilderness, and the moon.\n🌙 Virgin and fierce, she roamed forests with her nymphs and silver bow, protector of young girls and wild animals.\n⚡ She punished those who disrespected her with swift vengeance, yet showed mercy to those who honored her chastity.",
+      "fr": "🏹 Artémis, sœur jumelle d'Apollon, était déesse de la chasse, de la nature sauvage et de la lune.\n🌙 Vierge et féroce, elle parcourait les forêts avec ses nymphes et son arc d'argent, protectrice des jeunes filles et des animaux sauvages.\n⚡ Elle punissait ceux qui la manquaient de respect."
+    },
+    "image": "images/greek_myth/artemis.webp",
+    "tags": ["artemis", "hunt", "moon", "virgin", "wilderness"]
+  },
+  {
+    "year": "God of War",
+    "era": "Olympian Age",
+    "title": {
+      "en": "Ares",
+      "fr": "Arès"
+    },
+    "description": {
+      "en": "⚔️ Ares, son of Zeus and Hera, embodied the brutal, chaotic violence of war.\n🩸 Unlike Athena's strategic warfare, Ares reveled in bloodshed and carnage.\n😤 Though powerful, he was often defeated and mocked by other gods.",
+      "fr": "⚔️ Arès, fils de Zeus et Héra, incarnait la violence brutale et chaotique de la guerre.\n🩸 Contrairement à la guerre stratégique d'Athéna, Arès se délectait du carnage.\n😤 Bien que puissant, il était souvent vaincu et moqué par les autres dieux."
+    },
+    "image": "images/greek_myth/ares.jpg",
+    "tags": ["ares", "war", "violence", "bloodshed", "chaos"]
+  },
+  {
+    "year": "God of the Forge",
+    "era": "Olympian Age",
+    "title": {
+      "en": "Hephaestus",
+      "fr": "Héphaïstos"
+    },
+    "description": {
+      "en": "🔨 Hephaestus, the smith god, crafted wondrous items for gods and heroes despite being lame from birth.\n🔥 Cast from Olympus by Hera for his deformity, he mastered metallurgy and built automatons of gold.\n⚡ He forged Zeus's thunderbolts, Achilles's armor, and Pandora herself.",
+      "fr": "🔨 Héphaïstos, dieu forgeron, créait des objets merveilleux pour les dieux et héros malgré sa claudication de naissance.\n🔥 Jeté de l'Olympe par Héra pour sa difformité, il maîtrisa la métallurgie.\n⚡ Il forgea la foudre de Zeus et l'armure d'Achille."
+    },
+    "image": "images/greek_myth/hephaestus.webp",
+    "tags": ["hephaestus", "forge", "crafts", "metallurgy", "deformity"]
+  },
+  {
+    "year": "Messenger of Gods",
+    "era": "Olympian Age",
+    "title": {
+      "en": "Hermes",
+      "fr": "Hermès"
+    },
+    "description": {
+      "en": "👟 Hermes, son of Zeus and the nymph Maia, was the swift messenger of the gods.\n⚡ With winged sandals and golden staff, he carried Zeus's commands across the cosmos.\n🎭 God of travelers, thieves, merchants, and eloquence, he guided souls to the Underworld and was the only god who could freely move between all realms.",
+      "fr": "👟 Hermès, fils de Zeus et de la nymphe Maïa, était le messager rapide des dieux.\n⚡ Avec ses sandales ailées et son bâton doré, il portait les ordres de Zeus à travers le cosmos.\n🎭 Dieu des voyageurs, voleurs, marchands et de l'éloquence, il guidait les âmes aux Enfers."
+    },
+    "image": "images/greek_myth/hermes.webp",
+    "tags": ["hermes", "messenger", "travelers", "thieves", "speed"]
+  },
+  {
+    "year": "God of Wine",
+    "era": "Olympian Age",
+    "title": {
+      "en": "Dionysus",
+      "fr": "Dionysos"
+    },
+    "description": {
+      "en": "🍷 Dionysus, son of Zeus and the mortal Semele, was god of wine, ecstasy, and theater.\n🎭 Twice-born from Zeus's thigh after his mother's death, he wandered the world teaching mortals viticulture.\n💃 His followers, the Maenads, celebrated with wild rites that dissolved social boundaries.",
+      "fr": "🍷 Dionysos, fils de Zeus et de la mortelle Sémélé, était dieu du vin, de l'extase et du théâtre.\n🎭 Né deux fois de la cuisse de Zeus, il parcourut le monde enseignant la viticulture.\n💃 Ses fidèles célébraient avec des rites sauvages."
+    },
+    "image": "images/greek_myth/dionysus.jpg",
+    "tags": ["dionysus", "wine", "ecstasy", "theater", "madness"]
+  },
+  {
+    "year": "War of Giants",
+    "era": "Olympian Age",
+    "title": {
+      "en": "Gigantomachy",
+      "fr": "La Gigantomachie"
+    },
+    "description": {
+      "en": "🌍 Gaia, angered by the imprisonment of the Titans, birthed the Giants to wage war against the Olympians.\n⚔️ These earth-born warriors were nearly invincible, prophesied to fall only if gods and mortals fought together.\n🏆 Heracles fought alongside the gods, and together they defeated the Giants, securing Olympian rule forever.",
+      "fr": "🌍 Gaïa, furieuse de l'emprisonnement des Titans, enfanta les Géants pour faire la guerre aux Olympiens.\n⚔️ Ces guerriers nés de la terre étaient presque invincibles, prophétisés pour tomber seulement si dieux et mortels combattaient ensemble.\n🏆 Héraclès combattit aux côtés des dieux."
+    },
+    "image": "images/greek_myth/gigantomachy.jpg",
+    "tags": ["giants", "war", "olympus", "gaia", "heracles"]
+  },
+  {
+    "year": "Queen of Underworld",
+    "era": "Olympian Age",
+    "title": {
+      "en": "Persephone",
+      "fr": "Perséphone"
+    },
+    "description": {
+      "en": "👸 Persephone, daughter of Demeter, was abducted by Hades to be his queen in the Underworld.\n💔 Demeter's grief caused famine until Zeus commanded Hades to release her.\n🍒 But Persephone had eaten pomegranate seeds, binding her to the Underworld — she spends half the year below with Hades and half above with her mother, creating the cycle of seasons.",
+      "fr": "👸 Perséphone, fille de Déméter, fut enlevée par Hadès pour devenir sa reine aux Enfers.\n💔 Le chagrin de Déméter causa la famine jusqu'à ce que Zeus ordonne à Hadès de la libérer.\n🍒 Mais Perséphone avait mangé des graines de grenade — elle passe la moitié de l'année en bas, créant le cycle des saisons."
+    },
+    "image": "images/greek_myth/persephone.webp",
+    "tags": ["persephone", "underworld", "seasons", "demeter", "hades"]
+  },
+  {
+    "year": "Gift of Fire",
+    "era": "Age of Men",
+    "title": {
+      "en": "Prometheus",
+      "fr": "Prométhée"
+    },
+    "description": {
+      "en": "🔥 Prometheus, the Titan who championed humanity, shaped mankind from clay and stole fire from Olympus to give mortals knowledge and civilization.\n⛓️ Zeus punished him by chaining him to a rock where an eagle devoured his liver daily — only for it to regenerate each night.\n💪 His suffering symbolized the cost of defying divine will for humanity's sake.",
+      "fr": "🔥 Prométhée, le Titan qui défendait l'humanité, façonna l'homme à partir d'argile et vola le feu de l'Olympe pour donner aux mortels connaissance et civilisation.\n⛓️ Zeus le punit en l'enchaînant à un rocher où un aigle dévorait son foie quotidiennement.\n💪 Son supplice symbolisait le coût de défier la volonté divine."
+    },
+    "image": "images/greek_myth/prometheus.webp",
+    "tags": ["prometheus", "fire", "humanity", "punishment", "rebellion"]
+  },
+  {
+    "year": "First Woman",
+    "era": "Age of Men",
+    "title": {
+      "en": "Pandora",
+      "fr": "Pandore"
+    },
+    "description": {
+      "en": "👩 Pandora was the first woman, crafted by Hephaestus and given gifts by all the gods — beauty from Aphrodite, cunning from Hermes.\n📦 Zeus sent her to Epimetheus as punishment for Prometheus's theft — she opened the forbidden jar, releasing all evils into the world.\n🌟 Only Hope remained inside, humanity's consolation amid suffering.",
+      "fr": "👩 Pandore fut la première femme, créée par Héphaïstos et dotée de cadeaux par tous les dieux.\n📦 Zeus l'envoya à Épiméthée comme punition — elle ouvrit le récipient interdit, libérant tous les maux dans le monde.\n🌟 Seul l'Espoir resta à l'intérieur."
+    },
+    "image": "images/greek_myth/pandora.webp",
+    "tags": ["pandora", "hope", "evil", "woman", "punishment"]
+  },
+  {
+    "year": "Great Flood",
+    "era": "Age of Men",
+    "title": {
+      "en": "Deucalion",
+      "fr": "Deucalion"
+    },
+    "description": {
+      "en": "🌊 Zeus, disgusted by humanity's wickedness, sent a great flood to cleanse the earth.\n⛵ Only Deucalion, son of Prometheus, and his wife Pyrrha survived in a chest.\n🪨 After nine days, they landed on Mount Parnassus — following an oracle's command, they cast stones over their shoulders which became new people, recreating the human race.",
+      "fr": "🌊 Zeus, dégoûté par la méchanceté de l'humanité, envoya un grand déluge pour purifier la terre.\n⛵ Seuls Deucalion, fils de Prométhée, et son épouse Pyrrha survécurent.\n🪨 Suivant l'oracle, ils jetèrent des pierres qui devinrent de nouvelles personnes, recréant la race humaine."
+    },
+    "image": "images/greek_myth/deucalion_pyrrha.jpg",
+    "tags": ["deucalion", "flood", "renewal", "zeus", "humanity"]
+  },
+  {
+    "year": "Age of Heroes",
+    "era": "Heroes",
+    "title": {
+      "en": "Perseus",
+      "fr": "Persée"
+    },
+    "description": {
+      "en": "⚔️ Perseus, son of Zeus and Danae, was sent to slay Medusa — the Gorgon whose gaze turned men to stone.\n🛡️ Armed with Athena's shield, Hermes's winged sandals, and Hades's helm of invisibility, he beheaded Medusa.\n👸 He then rescued Princess Andromeda from a sea monster and founded the Perseid dynasty, marking the dawn of the Heroic Age.",
+      "fr": "⚔️ Persée, fils de Zeus et Danaé, fut envoyé tuer Méduse — la Gorgone dont le regard changeait les hommes en pierre.\n🛡️ Armé du bouclier d'Athéna et des sandales ailées d'Hermès, il décapita Méduse.\n👸 Il sauva ensuite la princesse Andromède et fonda la dynastie des Perséides."
+    },
+    "image": "images/greek_myth/perseus_medusa.jpg",
+    "tags": ["perseus", "medusa", "heroes", "andromeda", "gorgon"]
+  },
+  {
+    "year": "Labyrinth Builder",
+    "era": "Heroes",
+    "title": {
+      "en": "Theseus",
+      "fr": "Thésée"
+    },
+    "description": {
+      "en": "🐂 Theseus, prince of Athens and son of Poseidon, volunteered to face the Minotaur — the bull-headed monster imprisoned in Crete's labyrinth.\n🧵 With Ariadne's thread to guide his return, he slew the beast and freed Athens from tribute.\n👑 He became king and united Attica, embodying Athenian ideals of courage, intelligence, and democratic governance.",
+      "fr": "🐂 Thésée, prince d'Athènes et fils de Poséidon, se porta volontaire pour affronter le Minotaure — le monstre à tête de taureau emprisonné dans le labyrinthe de Crète.\n🧵 Avec le fil d'Ariane pour guider son retour, il tua la bête et libéra Athènes.\n👑 Il devint roi et unifia l'Attique."
+    },
+    "image": "images/greek_myth/theseus.jpg",
+    "tags": ["theseus", "minotaur", "athens", "labyrinth", "hero"]
+  },
+  {
+    "year": "Twelve Labors",
+    "era": "Heroes",
+    "title": {
+      "en": "Heracles",
+      "fr": "Héraclès"
+    },
+    "description": {
+      "en": "💪 Heracles, son of Zeus and the mortal Alcmene, was the greatest of Greek heroes.\n😡 Driven mad by Hera's jealousy, he killed his family and sought redemption through twelve impossible labors: slaying the Nemean Lion, the Hydra, capturing Cerberus, and more.\n⭐ His strength was unmatched, and upon death, Zeus granted him immortality among the gods on Olympus.",
+      "fr": "💪 Héraclès, fils de Zeus et de la mortelle Alcmène, fut le plus grand des héros grecs.\n😡 Rendu fou par la jalousie d'Héra, il tua sa famille et chercha la rédemption par douze travaux impossibles.\n⭐ Sa force était inégalée, et à sa mort, Zeus lui accorda l'immortalité parmi les dieux."
+    },
+    "image": "images/greek_myth/heracles.jpg",
+    "tags": ["heracles", "strength", "labors", "hero", "redemption"]
+  },
+  {
+    "year": "Quest for Fleece",
+    "era": "Heroes",
+    "title": {
+      "en": "Jason",
+      "fr": "Jason"
+    },
+    "description": {
+      "en": "⛵ Jason, rightful heir to Iolcus, assembled the greatest heroes of Greece — the Argonauts — to retrieve the Golden Fleece from distant Colchis.\n🌊 His ship, the Argo, sailed through treacherous waters and impossible trials.\n💔 With Medea's magical aid, he seized the Fleece, but their love story ended in betrayal, madness, and infanticide.",
+      "fr": "⛵ Jason, héritier légitime d'Iolcos, rassembla les plus grands héros de Grèce — les Argonautes — pour récupérer la Toison d'or de Colchide lointaine.\n🌊 Son navire, l'Argo, navigua à travers des eaux traîtresses.\n💔 Avec l'aide magique de Médée, il s'empara de la Toison."
+    },
+    "image": "images/greek_myth/jason.avif",
+    "tags": ["jason", "argonauts", "golden_fleece", "voyage", "hero"]
+  },
+  {
+    "year": "Quest for Fleece",
+    "era": "Heroes",
+    "title": {
+      "en": "Medea",
+      "fr": "Médée"
+    },
+    "description": {
+      "en": "🔮 Medea, princess of Colchis and priestess of Hecate, fell in love with Jason through Aphrodite's intervention.\n✨ Her sorcery helped him claim the Golden Fleece, betraying her father and killing her brother to escape.\n🗡️ When Jason abandoned her for a Greek princess, Medea took terrible vengeance — murdering his new bride and killing her own children, then fleeing in a dragon-drawn chariot.",
+      "fr": "🔮 Médée, princesse de Colchide et prêtresse d'Hécate, tomba amoureuse de Jason.\n✨ Sa sorcellerie l'aida à s'emparer de la Toison d'or, trahissant son père.\n🗡️ Quand Jason l'abandonna, Médée prit une terrible vengeance — tuant sa nouvelle épouse et ses propres enfants."
+    },
+    "image": "images/greek_myth/medea.jpeg",
+    "tags": ["medea", "sorcery", "revenge", "tragedy", "colchis"]
+  },
+  {
+    "year": "Love and Death",
+    "era": "Heroes",
+    "title": {
+      "en": "Orpheus",
+      "fr": "Orphée"
+    },
+    "description": {
+      "en": "🎵 Orpheus, son of Apollo and the greatest musician who ever lived, could charm stones and tame wild beasts with his lyre.\n💀 When his wife Eurydice died from a serpent bite, he descended into the Underworld and moved Hades and Persephone with his music.\n👁️ They allowed Eurydice to follow him back — but he must not look back. At the threshold of the living world, doubt overcame him. He glanced back, and she vanished forever.",
+      "fr": "🎵 Orphée, fils d'Apollon et plus grand musicien ayant jamais vécu, pouvait charmer les pierres avec sa lyre.\n💀 Quand son épouse Eurydice mourut, il descendit aux Enfers et émut Hadès avec sa musique.\n👁️ Ils permirent à Eurydice de le suivre — mais il ne devait pas se retourner. Au seuil du monde vivant, il se retourna et elle disparut à jamais."
+    },
+    "image": "images/greek_myth/orpheus.webp",
+    "tags": ["orpheus", "eurydice", "music", "underworld", "love"]
+  },
+  {
+    "year": "Judgment of Paris",
+    "era": "Trojan War",
+    "title": {
+      "en": "Helen",
+      "fr": "Hélène"
+    },
+    "description": {
+      "en": "👸 Helen, daughter of Zeus and Leda, was the most beautiful woman in the world.\n💍 All Greek princes sought her hand, bound by oath to defend her chosen husband, Menelaus of Sparta.\n⚔️ When Paris of Troy, promised Helen by Aphrodite, abducted her, he ignited the Trojan War — her face launched a thousand ships.",
+      "fr": "👸 Hélène, fille de Zeus et Léda, était la plus belle femme du monde.\n💍 Tous les princes grecs cherchèrent sa main, liés par serment à défendre son époux choisi, Ménélas de Sparte.\n⚔️ Quand Pâris de Troie l'enleva, il déclencha la guerre de Troie. Son visage lança mille navires."
+    },
+    "image": "images/greek_myth/helen.jpeg",
+    "tags": ["helen", "beauty", "troy", "paris", "war"]
+  },
+  {
+    "year": "Trojan War",
+    "era": "Trojan War",
+    "title": {
+      "en": "Achilles",
+      "fr": "Achille"
+    },
+    "description": {
+      "en": "⚔️ Achilles, son of Peleus and the sea nymph Thetis, was the greatest warrior of the Greeks.\n🛡️ Nearly invulnerable except for his heel, he was fated to choose between long life in obscurity or glory and early death — he chose glory.\n💔 His rage over Patroclus's death drove him to slay Hector, Troy's champion. Paris's arrow, guided by Apollo, struck his heel, fulfilling his destiny.",
+      "fr": "⚔️ Achille, fils de Pélée et de la nymphe Thétis, fut le plus grand guerrier des Grecs.\n🛡️ Presque invulnérable sauf son talon, il était destiné à choisir entre longue vie dans l'obscurité ou gloire et mort précoce. Il choisit la gloire.\n💔 Sa rage tua Hector. Une flèche de Pâris frappa son talon."
+    },
+    "image": "images/greek_myth/achilles.webp",
+    "tags": ["achilles", "warrior", "troy", "fate", "glory"]
+  },
+  {
+    "year": "Trojan War",
+    "era": "Trojan War",
+    "title": {
+      "en": "Hector",
+      "fr": "Hector"
+    },
+    "description": {
+      "en": "🛡️ Hector, eldest son of King Priam and Troy's greatest defender, embodied honor, courage, and duty.\n👨‍👩‍👦 Unlike Paris, whose lust caused the war, Hector fought to protect his city, wife Andromache, and infant son.\n⚔️ He killed Patroclus, Achilles's beloved companion, sealing his doom — Achilles slew him in single combat and desecrated his corpse before finally returning it to Priam.",
+      "fr": "🛡️ Hector, fils aîné du roi Priam et plus grand défenseur de Troie, incarnait honneur, courage et devoir.\n👨‍👩‍👦 Il combattit pour protéger sa cité, son épouse Andromaque et son fils.\n⚔️ Il tua Patrocle, scellant son destin. Achille le tua en combat singulier et profana son corps."
+    },
+    "image": "images/greek_myth/hector.jpg",
+    "tags": ["hector", "troy", "honor", "warrior", "defender"]
+  },
+  {
+    "year": "Fall of Troy",
+    "era": "Trojan War",
+    "title": {
+      "en": "Odysseus",
+      "fr": "Ulysse"
+    },
+    "description": {
+      "en": "🧠 Odysseus, King of Ithaca, was the wiliest of the Greeks — while Achilles relied on strength, Odysseus triumphed through cunning and eloquence.\n🐴 He devised the Trojan Horse, the stratagem that ended the ten-year war.\n🌊 After Troy fell, his journey home took another ten years, facing the Cyclops, Circe, the Sirens, and Poseidon's wrath — he became the archetype of the clever survivor.",
+      "fr": "🧠 Ulysse, roi d'Ithaque, fut le plus rusé des Grecs. Tandis qu'Achille comptait sur la force, Ulysse triomphait par la ruse.\n🐴 Il conçut le Cheval de Troie, le stratagème qui mit fin à la guerre de dix ans.\n🌊 Son voyage de retour dura dix autres années, affrontant le Cyclope, Circé et les Sirènes."
+    },
+    "image": "images/greek_myth/odysseus.avif",
+    "tags": ["odysseus", "cunning", "trojan_horse", "ithaca", "hero"]
+  },
+  {
+    "year": "Fall of Troy",
+    "era": "Trojan War",
+    "title": {
+      "en": "Trojan Horse",
+      "fr": "Le cheval de Troie"
+    },
+    "description": {
+      "en": "🐴 After ten years of siege, Odysseus conceived a cunning plan — the Greeks built an enormous wooden horse, hid their warriors inside, and pretended to sail away.\n🏛️ The Trojans, believing the war over, dragged the horse into their city as a victory trophy.\n🔥 That night, the Greeks emerged, opened the gates to their returning army, and Troy burned — the greatest city of Asia fell through deception.",
+      "fr": "🐴 Après dix ans de siège, Ulysse conçut un plan rusé. Les Grecs construisirent un énorme cheval de bois, cachèrent leurs guerriers à l'intérieur et firent semblant de partir.\n🏛️ Les Trojans traînèrent le cheval dans leur cité.\n🔥 Cette nuit-là, les Grecs émergèrent et Troie brûla."
+    },
+    "image": "images/greek_myth/trojan_war.webp",
+    "tags": ["troy", "trojan_horse", "odysseus", "deception", "fall"]
+  },
+  {
+    "year": "Journey Home",
+    "era": "End of Heroes",
+    "title": {
+      "en": "Odyssey",
+      "fr": "L'Odyssée"
+    },
+    "description": {
+      "en": "🌊 Odysseus's return to Ithaca took ten years of wandering through enchanted islands and divine obstacles.\n👁️ He blinded the Cyclops Polyphemus, resisted Circe's magic, heard the Sirens' song, navigated between Scylla and Charybdis, and lost all his men.\n🏠 When he finally reached Ithaca disguised as a beggar, he slaughtered the suitors who plagued Penelope and reclaimed his kingdom — his homecoming marked the end of the Age of Heroes.",
+      "fr": "🌊 Le retour d'Ulysse à Ithaque prit dix ans d'errance à travers îles enchantées et obstacles divins.\n👁️ Il aveugla le Cyclope, résista à la magie de Circé, entendit le chant des Sirènes, et perdit tous ses hommes.\n🏠 Quand il atteignit enfin Ithaque déguisé en mendiant, il massacra les prétendants et reconquit son royaume."
+    },
+    "image": "images/greek_myth/odyssey.jpg",
+    "tags": ["odysseus", "journey", "homecoming", "ithaca", "penelope"]
+  },
+  {
+    "year": "Faithful Wife",
+    "era": "End of Heroes",
+    "title": {
+      "en": "Penelope",
+      "fr": "Pénélope"
+    },
+    "description": {
+      "en": "👑 Penelope, wife of Odysseus and Queen of Ithaca, waited twenty years for her husband's return.\n🧵 Besieged by suitors demanding she remarry, she promised to choose once she finished weaving a shroud — which she secretly unraveled each night.\n💝 Her cunning matched Odysseus's own, and her faithfulness became legendary — when Odysseus returned, only she recognized him, and their reunion restored order to Ithaca.",
+      "fr": "👑 Pénélope, épouse d'Ulysse et reine d'Ithaque, attendit vingt ans le retour de son mari.\n🧵 Assiégée par des prétendants exigeant qu'elle se remarie, elle promit de choisir après avoir fini de tisser un linceul — qu'elle défaisait secrètement chaque nuit.\n💝 Quand Ulysse revint, elle seule le reconnut."
+    },
+    "image": "images/greek_myth/penelope.jpg",
+    "tags": ["penelope", "faithfulness", "ithaca", "cunning", "odysseus"]
+  }
+]

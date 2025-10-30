@@ -109,27 +109,7 @@ You need a local web server because:
 
 **Note**: The Wikipedia API feature will NOT work when opening `index.html` directly with `file://` protocol. It WILL work once deployed to any web hosting service (GitHub Pages, Netlify, Vercel, etc.).
 
-### Option 1: Use the provided script (Windows)
-```powershell
-cd 'C:\Users\A349741\Downloads\history-fresque'
-.\start-server.ps1
-# Open http://localhost:8000 in your browser
-```
 
-### Option 2: Python (Recommended)
-```powershell
-cd 'C:\Users\A349741\Downloads\history-fresque'
-python -m http.server 8000
-# or: py -3 -m http.server 8000
-# Open http://localhost:8000
-```
-
-### Option 3: Node.js
-```powershell
-cd 'C:\Users\A349741\Downloads\history-fresque'
-npx serve . -p 8000
-# Open http://localhost:8000
-```
 
 ### Option 4: VS Code Live Server
 1. Install "Live Server" extension in VS Code

@@ -1,0 +1,226 @@
+[
+  {
+    "year": "Beginning of Time",
+    "era": "Creation",
+    "title": {
+      "en": "Chaos",
+      "fr": "Chaos"
+    },
+    "description": {
+      "en": "🌌 Before all things, there was Chaos — the formless void from which existence arose.\n✨ From Chaos came Gaia (Earth), Tartarus (Abyss), and Eros (Love).",
+      "fr": "🌌 Avant toute chose, il y eut Chaos — le vide informe d’où jaillit l’existence.\n✨ De Chaos naquirent Gaïa (la Terre), Tartare (l’Abîme) et Éros (l’Amour)."
+    },
+    "image": "images/greek_myth/chaos.webp",
+    "tags": ["creation", "primordial", "void", "chaos"]
+  },
+  {
+    "year": "Birth of Earth and Sky",
+    "era": "Creation",
+    "title": {
+      "en": "Gaia and Uranus",
+      "fr": "Gaïa et Ouranos"
+    },
+    "description": {
+      "en": "🌍 Gaia, the Earth, gives birth to Uranus, the Sky.\n💫 Together they create the Titans, Cyclopes, and Giants — ancestors of gods and monsters.",
+      "fr": "🌍 Gaïa, la Terre, donne naissance à Ouranos, le Ciel.\n💫 Ensemble, ils engendrent les Titans, les Cyclopes et les Géants — ancêtres des dieux et des monstres."
+    },
+    "image": "images/greek_myth/gaia_uranus.jpg",
+    "tags": ["creation", "earth", "sky", "titans"]
+  },
+  {
+    "year": "Birth of the Sea and Love",
+    "era": "Creation",
+    "title": {
+      "en": "Aphrodite’s Birth",
+      "fr": "La naissance d’Aphrodite"
+    },
+    "description": {
+      "en": "🌊 From the sea foam born of Uranus’s fall, rises Aphrodite — goddess of love and beauty.\n💖 Her arrival brings desire and harmony to the cosmos.",
+      "fr": "🌊 De l’écume de la mer née de la chute d’Ouranos surgit Aphrodite — déesse de l’amour et de la beauté.\n💖 Son arrivée apporte le désir et l’harmonie dans le cosmos."
+    },
+    "image": "images/greek_myth/aphrodite_birth.jpg",
+    "tags": ["aphrodite", "creation", "love", "sea"]
+  },
+  {
+    "year": "Age of Titans",
+    "era": "Titanomachy",
+    "title": {
+      "en": "Cronus and Rhea",
+      "fr": "Cronos et Rhéa"
+    },
+    "description": {
+      "en": "⏳ Cronus overthrows Uranus and rules the cosmos.\n⚔️ Fearing prophecy, he devours his children — until Rhea hides Zeus, destined to dethrone him.",
+      "fr": "⏳ Cronos renverse Ouranos et règne sur le cosmos.\n⚔️ Craignant une prophétie, il dévore ses enfants — jusqu’à ce que Rhéa cache Zeus, destiné à le renverser."
+    },
+    "image": "images/greek_myth/cronus_rhea.jpg",
+    "tags": ["titans", "revolt", "family", "myth"]
+  },
+  {
+    "year": "The Great War",
+    "era": "Titanomachy",
+    "title": {
+      "en": "The Titanomachy",
+      "fr": "La Titanomachie"
+    },
+    "description": {
+      "en": "⚡ Zeus leads the Olympians in a ten-year war against the Titans.\n🌩️ Their victory seals the Titans in Tartarus and establishes divine order on Olympus.",
+      "fr": "⚡ Zeus conduit les Olympiens dans une guerre de dix ans contre les Titans.\n🌩️ Leur victoire enferme les Titans dans le Tartare et fonde l’ordre divin sur l’Olympe."
+    },
+    "image": "images/greek_myth/titanomachy.jpg",
+    "tags": ["zeus", "titans", "war", "olympus"]
+  },
+  {
+    "year": "War of the Giants",
+    "era": "Olympian Age",
+    "title": {
+      "en": "The Gigantomachy",
+      "fr": "La Gigantomachie"
+    },
+    "description": {
+      "en": "🔥 The Earth-born Giants rise against the Olympians.\n⚡ With Athena’s aid, Zeus and his children triumph, securing the gods’ eternal reign.",
+      "fr": "🔥 Les Géants nés de la Terre se dressent contre les Olympiens.\n⚡ Avec l’aide d’Athéna, Zeus et ses enfants triomphent, assurant le règne éternel des dieux."
+    },
+    "image": "images/greek_myth/gigantomachy.jpg",
+    "tags": ["giants", "war", "zeus", "athena"]
+  },
+  {
+    "year": "Rise of Olympus",
+    "era": "Olympian Age",
+    "title": {
+      "en": "The Olympians",
+      "fr": "Les Olympiens"
+    },
+    "description": {
+      "en": "👑 Zeus, Hera, Poseidon, Hades, Demeter, and Hestia rule from Mount Olympus.\n⚖️ The cosmos is divided among them, bringing balance to heaven, sea, and underworld.",
+      "fr": "👑 Zeus, Héra, Poséidon, Hadès, Déméter et Hestia règnent depuis le mont Olympe.\n⚖️ Le cosmos est partagé entre eux, apportant l’équilibre au ciel, à la mer et aux enfers."
+    },
+    "image": "images/greek_myth/zeus_olympians.jpg",
+    "tags": ["olympians", "zeus", "hades", "poseidon"]
+  },
+  {
+    "year": "Creation of Humanity",
+    "era": "Age of Men",
+    "title": {
+      "en": "Prometheus’ Fire",
+      "fr": "Le feu de Prométhée"
+    },
+    "description": {
+      "en": "🔥 Prometheus shapes mankind and steals fire from Olympus.\n⚡ Zeus punishes him with eternal torment, yet humankind thrives by his gift.",
+      "fr": "🔥 Prométhée façonne l’humanité et vole le feu à l’Olympe.\n⚡ Zeus le punit d’un supplice éternel, mais l’humanité prospère grâce à son don."
+    },
+    "image": "images/greek_myth/prometheus.webp",
+    "tags": ["prometheus", "fire", "creation", "humanity"]
+  },
+  {
+    "year": "The First Woman",
+    "era": "Age of Men",
+    "title": {
+      "en": "Pandora’s Box",
+      "fr": "La boîte de Pandore"
+    },
+    "description": {
+      "en": "🎁 Zeus creates Pandora, whose curiosity releases sorrow and pain into the world.\n🌈 Only Hope remains — the last light for humankind.",
+      "fr": "🎁 Zeus crée Pandore, dont la curiosité libère la douleur et les maux dans le monde.\n🌈 Seule l’Espérance demeure — dernière lumière pour l’humanité."
+    },
+    "image": "images/greek_myth/pandora.webp",
+    "tags": ["pandora", "hope", "punishment", "humanity"]
+  },
+  {
+    "year": "Flood and Renewal",
+    "era": "Age of Men",
+    "title": {
+      "en": "Deucalion’s Flood",
+      "fr": "Le déluge de Deucalion"
+    },
+    "description": {
+      "en": "🌊 Zeus floods the earth to cleanse it of corruption.\n🛶 Deucalion and Pyrrha survive and recreate humankind by casting stones that turn to people.",
+      "fr": "🌊 Zeus inonde la terre pour la purifier de la corruption.\n🛶 Deucalion et Pyrrha survivent et recréent l’humanité en jetant des pierres qui se changent en hommes."
+    },
+    "image": "images/greek_myth/deucalion_pyrrha.jpg",
+    "tags": ["flood", "renewal", "zeus", "rebirth"]
+  },
+  {
+    "year": "Birth of Heroes",
+    "era": "Heroes",
+    "title": {
+      "en": "Perseus",
+      "fr": "Persée"
+    },
+    "description": {
+      "en": "⚔️ Perseus slays Medusa with Athena’s help and saves Andromeda.\n🌠 His triumph marks the dawn of the Heroic Age.",
+      "fr": "⚔️ Persée tue Méduse avec l’aide d’Athéna et sauve Andromède.\n🌠 Son triomphe marque l’aube de l’Âge héroïque."
+    },
+    "image": "images/greek_myth/perseus_medusa.jpg",
+    "tags": ["perseus", "heroes", "medusa", "athena"]
+  },
+  {
+    "year": "Labors of Strength",
+    "era": "Heroes",
+    "title": {
+      "en": "Heracles",
+      "fr": "Héraclès"
+    },
+    "description": {
+      "en": "💪 Heracles completes twelve labors — slaying beasts and overcoming trials.\n🌈 His redemption earns him immortality among the gods.",
+      "fr": "💪 Héraclès accomplit douze travaux — terrassant des monstres et surmontant des épreuves.\n🌈 Sa rédemption lui vaut l’immortalité parmi les dieux."
+    },
+    "image": "images/greek_myth/heracles.jpg",
+    "tags": ["heracles", "strength", "heroes", "zeus"]
+  },
+  {
+    "year": "Quest for the Fleece",
+    "era": "Heroes",
+    "title": {
+      "en": "Jason and Medea",
+      "fr": "Jason et Médée"
+    },
+    "description": {
+      "en": "⛵ Jason leads the Argonauts to claim the Golden Fleece.\n🔥 Aided by Medea’s magic, he triumphs — but love turns to tragedy.",
+      "fr": "⛵ Jason conduit les Argonautes pour conquérir la Toison d’or.\n🔥 Aidé par la magie de Médée, il triomphe — mais leur amour finit en tragédie."
+    },
+    "image": "images/greek_myth/argonauts.webp",
+    "tags": ["jason", "medea", "voyage", "heroes"]
+  },
+  {
+    "year": "Love and Loss",
+    "era": "Heroes",
+    "title": {
+      "en": "Orpheus and Eurydice",
+      "fr": "Orphée et Eurydice"
+    },
+    "description": {
+      "en": "🎶 Orpheus descends into the Underworld to retrieve his beloved Eurydice.\n💔 His glance back at her dooms them both — a timeless tale of love and loss.",
+      "fr": "🎶 Orphée descend aux Enfers pour ramener son aimée Eurydice.\n💔 Son regard en arrière les condamne — une histoire éternelle d’amour et de perte."
+    },
+    "image": "images/greek_myth/orpheus.jpg",
+    "tags": ["orpheus", "love", "underworld", "music"]
+  },
+  {
+    "year": "The Trojan War",
+    "era": "Heroes",
+    "title": {
+      "en": "The Fall of Troy",
+      "fr": "La chute de Troie"
+    },
+    "description": {
+      "en": "⚔️ The Greeks wage war on Troy after Paris abducts Helen.\n🔥 Achilles, Hector, and Odysseus shape destiny in this epic of glory and ruin.",
+      "fr": "⚔️ Les Grecs font la guerre à Troie après l’enlèvement d’Hélène par Pâris.\n🔥 Achille, Hector et Ulysse forgent le destin dans cette épopée de gloire et de ruine."
+    },
+    "image": "images/greek_myth/trojan_war.webp",
+    "tags": ["troy", "achilles", "war", "heroes"]
+  },
+  {
+    "year": "Return and Legacy",
+    "era": "End of the Heroes",
+    "title": {
+      "en": "The Odyssey",
+      "fr": "L’Odyssée"
+    },
+    "description": {
+      "en": "🌊 Odysseus journeys ten years to return to Ithaca.\n🌀 Facing monsters and gods, he symbolizes human endurance and cleverness.\n🏠 His homecoming ends the mythic age — the dawn of mortal history.",
+      "fr": "🌊 Ulysse erre dix ans avant de rentrer à Ithaque.\n🌀 Confrontant monstres et dieux, il incarne la ruse et la persévérance humaines.\n🏠 Son retour clôt l’âge mythique — l’aube de l’histoire des hommes."
+    },
+    "image": "images/greek_myth/odyssey.jpg",
+    "tags": ["odysseus", "journey", "wisdom", "heroes"]
+  }
+]

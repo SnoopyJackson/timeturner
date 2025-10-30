@@ -1,0 +1,398 @@
+[
+  {
+    "year": "Before Time",
+    "era": "Cosmic Origin",
+    "title": {"en": "Brahman", "fr": "Brahman"},
+    "description": {
+      "en": "Infinite, formless, eternal — the ultimate reality beyond all comprehension. Brahman is the source of all being and becoming, neither created nor destroyed. It is the cosmic consciousness from which the universe emerges and to which it returns. All gods, beings, and matter are manifestations of this supreme essence.",
+      "fr": "Infini, sans forme, éternel — la réalité ultime au-delà de toute compréhension. Brahman est la source de tout être et devenir, ni créé ni détruit. C'est la conscience cosmique d'où émerge l'univers et vers laquelle il retourne. Tous les dieux, êtres et matière sont manifestations de cette essence suprême."
+    },
+    "image": "images/hindu_myth/brahman.jpg",
+    "tags": ["creation", "brahman", "infinite", "eternal", "consciousness"]
+  },
+  {
+    "year": "Cosmic Awakening",
+    "era": "Trimurti",
+    "title": {"en": "Brahma", "fr": "Brahma"},
+    "description": {
+      "en": "Brahma, the Creator, emerged from a golden lotus that sprouted from Vishnu's navel. With four heads facing the cardinal directions and four arms holding the Vedas, he created the universe, all beings, time itself, and sacred knowledge. Though the creator of all, he is rarely worshipped, for creation is but a moment in the eternal cycle.",
+      "fr": "Brahma, le Créateur, émergea d'un lotus doré qui poussa du nombril de Vishnou. Avec quatre têtes orientées vers les points cardinaux et quatre bras tenant les Védas, il créa l'univers, tous les êtres, le temps lui-même et la connaissance sacrée. Bien que créateur de tout, il est rarement vénéré."
+    },
+    "image": "images/hindu_myth/brahma.jpg",
+    "tags": ["creation", "brahma", "trimurti", "vedas", "lotus"]
+  },
+  {
+    "year": "Cosmic Sleep",
+    "era": "Trimurti",
+    "title": {"en": "Vishnu", "fr": "Vishnou"},
+    "description": {
+      "en": "Vishnu, the Preserver, rests on the cosmic serpent Ananta upon the ocean of existence. He maintains cosmic order and balance, descending to Earth in times of crisis through his avatars. With four arms bearing conch, discus, mace, and lotus, he embodies dharma itself. His consort Lakshmi brings prosperity, while he brings protection.",
+      "fr": "Vishnou, le Préservateur, repose sur le serpent cosmique Ananta sur l'océan de l'existence. Il maintient l'ordre et l'équilibre cosmiques, descendant sur Terre en temps de crise par ses avatars. Avec quatre bras portant conque, disque, masse et lotus, il incarne le dharma lui-même."
+    },
+    "image": "images/hindu_myth/vishnu_ananta.jpg",
+    "tags": ["vishnu", "preserver", "avatars", "dharma", "ananta"]
+  },
+  {
+    "year": "Cosmic Dance",
+    "era": "Trimurti",
+    "title": {"en": "Shiva", "fr": "Shiva"},
+    "description": {
+      "en": "Shiva, the Destroyer and Transformer, performs the Tandava — the cosmic dance of creation and dissolution. With matted locks holding the Ganges, a crescent moon on his brow, and a third eye that can incinerate the universe, he embodies the paradox of destruction as renewal. Meditating on Mount Kailash, he represents asceticism, yet as Nataraja he dances the rhythm of existence.",
+      "fr": "Shiva, le Destructeur et Transformateur, exécute le Tandava — la danse cosmique de création et dissolution. Avec des mèches emmêlées portant le Gange, un croissant de lune sur le front et un troisième œil pouvant incinérer l'univers, il incarne le paradoxe de la destruction comme renouveau."
+    },
+    "image": "images/hindu_myth/shiva_nataraja.webp",
+    "tags": ["shiva", "destroyer", "transformation", "tandava", "meditation"]
+  },
+  {
+    "year": "Divine Consort",
+    "era": "Trimurti",
+    "title": {"en": "Parvati", "fr": "Parvati"},
+    "description": {
+      "en": "Parvati, daughter of the Himalayas, is Shiva's consort and the embodiment of Shakti — divine feminine power. Through severe penance, she won Shiva's love. As the mother goddess, she takes many forms: gentle Uma, fierce Durga, and terrifying Kali. She represents fertility, devotion, and the creative energy that balances Shiva's ascetic nature.",
+      "fr": "Parvati, fille de l'Himalaya, est la compagne de Shiva et l'incarnation de Shakti — le pouvoir féminin divin. Par une pénitence sévère, elle gagna l'amour de Shiva. Comme déesse mère, elle prend plusieurs formes : la douce Uma, la féroce Durga et la terrifiante Kali."
+    },
+    "image": "images/hindu_myth/parvati.jpg",
+    "tags": ["parvati", "shakti", "goddess", "consort", "power"]
+  },
+  {
+    "year": "Goddess of Wealth",
+    "era": "Trimurti",
+    "title": {"en": "Lakshmi", "fr": "Lakshmi"},
+    "description": {
+      "en": "Lakshmi, goddess of wealth, fortune, and prosperity, emerged from the churning of the cosmic ocean seated on a lotus. Consort of Vishnu, she accompanies him in his avatars — as Sita to Rama, as Rukmini to Krishna. She grants material and spiritual abundance, symbolizing beauty, grace, and the sustaining power that accompanies preservation.",
+      "fr": "Lakshmi, déesse de la richesse, fortune et prospérité, émergea du barattage de l'océan cosmique assise sur un lotus. Compagne de Vishnou, elle l'accompagne dans ses avatars — comme Sita pour Rama, comme Rukmini pour Krishna. Elle accorde abondance matérielle et spirituelle."
+    },
+    "image": "images/hindu_myth/lakshmi.jpg",
+    "tags": ["lakshmi", "wealth", "prosperity", "vishnu", "abundance"]
+  },
+  {
+    "year": "Goddess of Knowledge",
+    "era": "Trimurti",
+    "title": {"en": "Saraswati", "fr": "Saraswati"},
+    "description": {
+      "en": "Saraswati, goddess of learning, music, arts, and wisdom, flows like the sacred river bearing her name. Dressed in white symbolizing purity, she holds a veena, prayer beads, and sacred texts. Consort of Brahma, she embodies the creative word and divine knowledge. Students, artists, and scholars seek her blessings for eloquence and understanding.",
+      "fr": "Saraswati, déesse du savoir, de la musique, des arts et de la sagesse, coule comme la rivière sacrée portant son nom. Vêtue de blanc symbolisant la pureté, elle tient une veena, des perles de prière et des textes sacrés. Compagne de Brahma, elle incarne la parole créatrice."
+    },
+    "image": "images/hindu_myth/saraswati.jpg",
+    "tags": ["saraswati", "knowledge", "wisdom", "arts", "learning"]
+  },
+  {
+    "year": "Cosmic Deities",
+    "era": "Devas",
+    "title": {"en": "Indra", "fr": "Indra"},
+    "description": {
+      "en": "Indra, King of the Devas and ruler of Svarga, wields the thunderbolt Vajra and rides the white elephant Airavata. God of rain, storms, and warfare, he defeated the dragon Vritra to release the waters. Though once supreme, his pride led to repeated humbling by avatars of Vishnu, teaching that even divine kings must bow to dharma.",
+      "fr": "Indra, Roi des Devas et maître de Svarga, manie la foudre Vajra et chevauche l'éléphant blanc Airavata. Dieu de la pluie, des tempêtes et de la guerre, il vainquit le dragon Vritra pour libérer les eaux. Bien qu'autrefois suprême, son orgueil fut humilié par les avatars de Vishnou."
+    },
+    "image": "images/hindu_myth/indra.jpg",
+    "tags": ["indra", "king", "devas", "thunder", "rain"]
+  },
+  {
+    "year": "Cosmic Deities",
+    "era": "Devas",
+    "title": {"en": "Surya", "fr": "Surya"},
+    "description": {
+      "en": "Surya, the Sun God, drives his golden chariot across the sky drawn by seven horses representing the spectrum of light. Source of life, energy, and time itself, he illuminates truth and dispels darkness. Father of Karna and the Ashvins, he represents the eternal witness to all actions, the cosmic eye that sees all deeds.",
+      "fr": "Surya, le Dieu Soleil, conduit son char doré à travers le ciel tiré par sept chevaux représentant le spectre de la lumière. Source de vie, d'énergie et du temps lui-même, il illumine la vérité et dissipe les ténèbres. Père de Karna, il représente le témoin éternel."
+    },
+    "image": "images/hindu_myth/surya.jpg",
+    "tags": ["surya", "sun", "light", "energy", "witness"]
+  },
+  {
+    "year": "Cosmic Deities",
+    "era": "Devas",
+    "title": {"en": "Chandra", "fr": "Chandra"},
+    "description": {
+      "en": "Chandra, the Moon God, rides his chariot pulled by ten white horses through the night sky. Controller of tides, emotions, and the growth of plants, he waxes and wanes due to a curse. Married to the twenty-seven daughters of Daksha, the Nakshatras, his favoritism toward Rohini brought the curse that causes his phases.",
+      "fr": "Chandra, le Dieu Lune, chevauche son char tiré par dix chevaux blancs à travers le ciel nocturne. Contrôleur des marées, émotions et croissance des plantes, il croît et décroît à cause d'une malédiction. Marié aux vingt-sept filles de Daksha, les Nakshatras."
+    },
+    "image": "images/hindu_myth/chandra.jpg",
+    "tags": ["chandra", "moon", "tides", "emotion", "phases"]
+  },
+  {
+    "year": "Cosmic Deities",
+    "era": "Devas",
+    "title": {"en": "Agni", "fr": "Agni"},
+    "description": {
+      "en": "Agni, the Fire God with two faces and seven tongues, serves as messenger between mortals and immortals. Present in sacrificial flames, hearth fires, and the sun itself, he carries offerings to the gods and purifies all he touches. Neither wholly divine nor earthly, he bridges the cosmic realms, consuming offerings and transforming matter into divine sustenance.",
+      "fr": "Agni, le Dieu du Feu avec deux visages et sept langues, sert de messager entre mortels et immortels. Présent dans les flammes sacrificielles, les feux du foyer et le soleil lui-même, il porte les offrandes aux dieux et purifie tout ce qu'il touche."
+    },
+    "image": "images/hindu_myth/agni.jpg",
+    "tags": ["agni", "fire", "sacrifice", "messenger", "purification"]
+  },
+  {
+    "year": "Lord of Beginnings",
+    "era": "Devas",
+    "title": {"en": "Ganesha", "fr": "Ganesha"},
+    "description": {
+      "en": "Ganesha, the elephant-headed god, is the remover of obstacles and lord of beginnings. Created by Parvati from turmeric paste, he lost his original head defending his mother from Shiva. Given an elephant's head and blessed by all gods, he became the first deity to be invoked in any undertaking. His large ears listen to prayers, his trunk removes barriers, and his broken tusk wrote the Mahabharata.",
+      "fr": "Ganesha, le dieu à tête d'éléphant, est le destructeur d'obstacles et seigneur des commencements. Créé par Parvati à partir de pâte de curcuma, il perdit sa tête originale en défendant sa mère de Shiva. Doté d'une tête d'éléphant, il devint la première divinité invoquée."
+    },
+    "image": "images/hindu_myth/ganesha.jpg",
+    "tags": ["ganesha", "obstacles", "beginnings", "wisdom", "elephant"]
+  },
+  {
+    "year": "God of War",
+    "era": "Devas",
+    "title": {"en": "Kartikeya", "fr": "Kartikeya"},
+    "description": {
+      "en": "Kartikeya, son of Shiva and Parvati, commander of the celestial armies, was born from six sparks of Shiva's third eye. Raised by the six Krittika sisters, he rides a peacock and wields a divine spear. He defeated the demon Tarakasura when no other god could, embodying youth, beauty, courage, and the martial prowess necessary to protect dharma.",
+      "fr": "Kartikeya, fils de Shiva et Parvati, commandant des armées célestes, naquit de six étincelles du troisième œil de Shiva. Élevé par les six sœurs Krittika, il chevauche un paon et manie une lance divine. Il vainquit le démon Tarakasura, incarnant jeunesse et courage martial."
+    },
+    "image": "images/hindu_myth/kartikeya.jpg",
+    "tags": ["kartikeya", "war", "commander", "victory", "peacock"]
+  },
+  {
+    "year": "Warrior Goddess",
+    "era": "Devas",
+    "title": {"en": "Durga", "fr": "Durga"},
+    "description": {
+      "en": "Durga, the unconquerable warrior goddess, was created by the combined energies of all male gods when the demon Mahishasura threatened heaven. Armed with weapons from every deity and riding a lion, she battled the buffalo demon for nine days and nights. Her victory represents the triumph of good over evil and the supreme power of Shakti in protecting dharma.",
+      "fr": "Durga, la déesse guerrière invincible, fut créée par les énergies combinées de tous les dieux mâles quand le démon Mahishasura menaça le ciel. Armée d'armes de chaque divinité et chevauchant un lion, elle combattit le démon buffle pendant neuf jours. Sa victoire représente Shakti."
+    },
+    "image": "images/hindu_myth/durga.jpg",
+    "tags": ["durga", "warrior", "shakti", "victory", "demon"]
+  },
+  {
+    "year": "Dark Goddess",
+    "era": "Devas",
+    "title": {"en": "Kali", "fr": "Kali"},
+    "description": {
+      "en": "Kali, the dark goddess of time and death, emerged from Durga's forehead in fury during battle. With black skin, wild hair, a garland of skulls, and tongue protruding, she destroyed demons with such ferocity that only Shiva lying beneath her feet could calm her rage. She represents the destructive aspect of Shakti, the reality of mortality, and liberation through destruction of ego.",
+      "fr": "Kali, la déesse sombre du temps et de la mort, émergea du front de Durga en furie pendant la bataille. Avec peau noire, cheveux sauvages, un collier de crânes et langue tirée, elle détruisit les démons avec férocité. Elle représente l'aspect destructeur de Shakti et la libération par destruction de l'ego."
+    },
+    "image": "images/hindu_myth/kali.jpg",
+    "tags": ["kali", "death", "time", "destruction", "shakti"]
+  },
+  {
+    "year": "First Man",
+    "era": "Manvantara",
+    "title": {"en": "Manu", "fr": "Manou"},
+    "description": {
+      "en": "Manu, the first man and lawgiver, was born from Brahma's thought. He established human society, wrote the laws of dharma, and became progenitor of humanity. Through meditation and righteousness, he received divine wisdom to govern justly. His descendants populated the Earth, and his code of conduct formed the foundation of social order and moral law.",
+      "fr": "Manou, le premier homme et législateur, naquit de la pensée de Brahma. Il établit la société humaine, écrivit les lois du dharma et devint progéniteur de l'humanité. Par méditation et droiture, il reçut la sagesse divine pour gouverner justement. Ses descendants peuplèrent la Terre."
+    },
+    "image": "images/hindu_myth/manu_shatarupa.jpg",
+    "tags": ["manu", "humanity", "law", "dharma", "progenitor"]
+  },
+  {
+    "year": "The Great Flood",
+    "era": "Avatars",
+    "title": {"en": "Matsya", "fr": "Matsya"},
+    "description": {
+      "en": "Matsya, the fish avatar of Vishnu, appeared to Manu as a tiny fish requesting protection. Growing enormous, Matsya warned of the coming deluge and guided Manu's ark through the cosmic flood. Tying the boat to his horn, the great fish preserved the Vedas, seeds of life, and seven sages, ensuring knowledge and life would survive the cosmic dissolution and begin anew.",
+      "fr": "Matsya, l'avatar poisson de Vishnou, apparut à Manou comme un petit poisson demandant protection. Devenant énorme, Matsya avertit du déluge à venir et guida l'arche de Manou. Attachant le bateau à sa corne, le grand poisson préserva les Védas, graines de vie et sept sages."
+    },
+    "image": "images/hindu_myth/matsya.jpg",
+    "tags": ["matsya", "avatar", "flood", "vishnu", "preservation"]
+  },
+  {
+    "year": "Churning of Ocean",
+    "era": "Avatars",
+    "title": {"en": "Kurma", "fr": "Kurma"},
+    "description": {
+      "en": "Kurma, the tortoise avatar, supported Mount Mandara on his back during the Samudra Manthan — the churning of the cosmic ocean. Devas and Asuras used the serpent Vasuki as rope and the mountain as churning rod to extract the nectar of immortality. Kurma's steadfast support through this cosmic event yielded treasures including Lakshmi, the moon, and amrita itself.",
+      "fr": "Kurma, l'avatar tortue, soutint le mont Mandara sur son dos pendant le Samudra Manthan — le barattage de l'océan cosmique. Devas et Asuras utilisèrent le serpent Vasuki comme corde pour extraire le nectar d'immortalité. Le soutien de Kurma produisit des trésors dont Lakshmi et l'amrita."
+    },
+    "image": "images/hindu_myth/kurma.jpg",
+    "tags": ["kurma", "avatar", "tortoise", "churning", "steadfast"]
+  },
+  {
+    "year": "Rescue of Earth",
+    "era": "Avatars",
+    "title": {"en": "Varaha", "fr": "Varaha"},
+    "description": {
+      "en": "Varaha, the boar avatar, dove into the cosmic ocean to rescue Earth when the demon Hiranyaksha dragged her to the depths. After a thousand-year battle beneath the waters, Varaha slew the demon and lifted Earth on his tusks, restoring her to her rightful place. He represents the power to uplift what has fallen and restore cosmic balance.",
+      "fr": "Varaha, l'avatar sanglier, plongea dans l'océan cosmique pour sauver la Terre quand le démon Hiranyaksha la traîna dans les profondeurs. Après une bataille de mille ans, Varaha tua le démon et souleva la Terre sur ses défenses, la restaurant à sa place. Il représente le pouvoir de relever ce qui est tombé."
+    },
+    "image": "images/hindu_myth/varaha.jpg",
+    "tags": ["varaha", "avatar", "boar", "rescue", "earth"]
+  },
+  {
+    "year": "Divine Protection",
+    "era": "Avatars",
+    "title": {"en": "Narasimha", "fr": "Narasimha"},
+    "description": {
+      "en": "Narasimha, the man-lion avatar, manifested at twilight to slay the demon Hiranyakashipu. The demon had gained a boon that he could not be killed by man or beast, day or night, inside or outside. Vishnu appeared as half-man, half-lion at dusk on a threshold and tore the tyrant apart with his claws, protecting the devout child Prahlada and upholding divine justice.",
+      "fr": "Narasimha, l'avatar homme-lion, se manifesta au crépuscule pour tuer le démon Hiranyakashipu. Le démon avait obtenu une faveur qu'il ne pouvait être tué ni par homme ni bête, ni jour ni nuit, ni dedans ni dehors. Vishnou apparut mi-homme mi-lion au seuil et déchira le tyran."
+    },
+    "image": "images/hindu_myth/narasimha.jpg",
+    "tags": ["narasimha", "avatar", "lion", "justice", "protection"]
+  },
+  {
+    "year": "Humble Dwarf",
+    "era": "Avatars",
+    "title": {"en": "Vamana", "fr": "Vamana"},
+    "description": {
+      "en": "Vamana, the dwarf avatar, appeared before the generous but prideful king Mahabali who had conquered the three worlds. Asking only for three paces of land, the dwarf then grew cosmic in size. With one step he covered Earth, with the second the heavens, and Mahabali offered his own head for the third, gaining liberation through humility. Vishnu taught that greatness lies in surrender, not dominion.",
+      "fr": "Vamana, l'avatar nain, apparut devant le roi généreux mais orgueilleux Mahabali qui avait conquis les trois mondes. Demandant seulement trois pas de terre, le nain grandit alors cosmiquement. D'un pas il couvrit la Terre, du second les cieux, et Mahabali offrit sa tête pour le troisième."
+    },
+    "image": "images/hindu_myth/vamana.jpg",
+    "tags": ["vamana", "avatar", "dwarf", "humility", "cosmic"]
+  },
+  {
+    "year": "Warrior Sage",
+    "era": "Avatars",
+    "title": {"en": "Parashurama", "fr": "Parashurama"},
+    "description": {
+      "en": "Parashurama, the Brahmin warrior, wielded an axe given by Shiva to cleanse the Earth of corrupt Kshatriyas who had abandoned dharma. Twenty-one times he circled the world, eliminating tyrannical rulers. An immortal avatar still living, he later trained both Bhishma and Karna in warfare, embodying the paradox of a peaceful priest who became the fiercest warrior.",
+      "fr": "Parashurama, le guerrier brahmane, maniait une hache donnée par Shiva pour purifier la Terre des Kshatriyas corrompus. Vingt-et-une fois il fit le tour du monde, éliminant les dirigeants tyranniques. Avatar immortel encore vivant, il entraîna Bhishma et Karna, incarnant le paradoxe du prêtre pacifique devenu guerrier."
+    },
+    "image": "images/hindu_myth/parashurama.jpg",
+    "tags": ["parashurama", "avatar", "warrior", "axe", "purification"]
+  },
+  {
+    "year": "Age of Treta Yuga",
+    "era": "Ramayana",
+    "title": {"en": "Rama", "fr": "Rama"},
+    "description": {
+      "en": "Rama, prince of Ayodhya and seventh avatar of Vishnu, embodies the ideal man, son, husband, and king. Exiled for fourteen years despite being rightful heir, he accepted his fate with grace. When the demon king Ravana abducted his wife Sita, Rama waged war to rescue her, aided by the monkey army led by Hanuman. His life exemplifies adherence to dharma even through suffering.",
+      "fr": "Rama, prince d'Ayodhya et septième avatar de Vishnou, incarne l'homme, fils, mari et roi idéal. Exilé quatorze ans malgré son droit au trône, il accepta son sort avec grâce. Quand le roi démon Ravana enleva son épouse Sita, Rama fit la guerre pour la sauver. Sa vie exemplifie l'adhésion au dharma."
+    },
+    "image": "images/hindu_myth/rama.jpg",
+    "tags": ["rama", "avatar", "dharma", "prince", "ideal"]
+  },
+  {
+    "year": "Age of Treta Yuga",
+    "era": "Ramayana",
+    "title": {"en": "Sita", "fr": "Sita"},
+    "description": {
+      "en": "Sita, born from a furrow in the earth, was found by King Janaka and became Rama's devoted wife. Her abduction by Ravana tested her purity, which she proved by walking through fire unharmed. Despite her innocence, she faced continued suspicion and chose to return to her mother Earth rather than endure injustice. She represents ideal womanhood, dignity, and the earth's nurturing yet uncompromising nature.",
+      "fr": "Sita, née d'un sillon dans la terre, fut trouvée par le roi Janaka et devint l'épouse dévouée de Rama. Son enlèvement par Ravana testa sa pureté, qu'elle prouva en marchant à travers le feu indemne. Malgré son innocence, elle choisit de retourner à la Terre mère plutôt que d'endurer l'injustice."
+    },
+    "image": "images/hindu_myth/sita.jpg",
+    "tags": ["sita", "purity", "devotion", "earth", "dignity"]
+  },
+  {
+    "year": "Age of Treta Yuga",
+    "era": "Ramayana",
+    "title": {"en": "Hanuman", "fr": "Hanuman"},
+    "description": {
+      "en": "Hanuman, son of the wind god Vayu, is the monkey deity of strength, devotion, and selfless service. Born with the power to leap across oceans and lift mountains, he dedicated his immortal life to serving Rama. He leaped to Lanka to find Sita, burned the demon city, and carried an entire mountain of healing herbs. His heart contains Rama and Sita's image — the ultimate symbol of bhakti.",
+      "fr": "Hanuman, fils du dieu du vent Vayu, est la divinité singe de la force, dévotion et service désintéressé. Né avec le pouvoir de franchir les océans et soulever les montagnes, il dédia sa vie immortelle à servir Rama. Il bondit jusqu'à Lanka, brûla la cité démoniaque et porta une montagne entière d'herbes curatives."
+    },
+    "image": "images/hindu_myth/hanuman.jpg",
+    "tags": ["hanuman", "devotion", "strength", "service", "monkey"]
+  },
+  {
+    "year": "Age of Treta Yuga",
+    "era": "Ramayana",
+    "title": {"en": "Ravana", "fr": "Ravana"},
+    "description": {
+      "en": "Ravana, the ten-headed demon king of Lanka, was a scholar, devotee of Shiva, and master of the Vedas. Despite his knowledge and power, his ego and desire led him to abduct Sita, triggering his downfall. Each of his ten heads represented mastery of the four Vedas and six Shastras, yet his pride blinded him. His death at Rama's hands teaches that knowledge without dharma leads to destruction.",
+      "fr": "Ravana, le roi démon à dix têtes de Lanka, était un érudit, dévot de Shiva et maître des Védas. Malgré sa connaissance et son pouvoir, son ego et désir le menèrent à enlever Sita, déclenchant sa chute. Ses dix têtes représentaient la maîtrise des Védas, mais son orgueil l'aveugla."
+    },
+    "image": "images/hindu_myth/ravana.jpg",
+    "tags": ["ravana", "demon", "knowledge", "pride", "downfall"]
+  },
+  {
+    "year": "Age of Dwapara Yuga",
+    "era": "Mahabharata",
+    "title": {"en": "Krishna", "fr": "Krishna"},
+    "description": {
+      "en": "Krishna, eighth avatar of Vishnu, appeared in the twilight of Dwapara Yuga. Born in prison to Devaki, smuggled away from the tyrant Kamsa, he grew up as a cowherd displaying divine playfulness. As charioteer to Arjuna at Kurukshetra, he revealed the Bhagavad Gita — supreme philosophical and spiritual teaching. He embodied the full divine consciousness while living as a human, showing dharma in action.",
+      "fr": "Krishna, huitième avatar de Vishnou, apparut au crépuscule de Dwapara Yuga. Né en prison de Devaki, emmené loin du tyran Kamsa, il grandit comme bouvier manifestant une espièglerie divine. Comme cocher d'Arjuna à Kurukshetra, il révéla la Bhagavad Gita. Il incarnait la conscience divine tout en vivant comme humain."
+    },
+    "image": "images/hindu_myth/krishna.jpg",
+    "tags": ["krishna", "avatar", "gita", "wisdom", "divine"]
+  },
+  {
+    "year": "Age of Dwapara Yuga",
+    "era": "Mahabharata",
+    "title": {"en": "Arjuna", "fr": "Arjuna"},
+    "description": {
+      "en": "Arjuna, the greatest archer and third Pandava prince, epitomized the warrior's dharma. On the battlefield of Kurukshetra, facing his own kin, he was paralyzed by moral doubt. Krishna's discourse — the Bhagavad Gita — taught him that righteous action without attachment to fruits is the path to liberation. His skill, humility, and friendship with Krishna made him the ideal devotee-warrior.",
+      "fr": "Arjuna, le plus grand archer et troisième prince Pandava, incarnait le dharma du guerrier. Sur le champ de bataille de Kurukshetra, face à sa propre famille, il fut paralysé par le doute moral. Le discours de Krishna — la Bhagavad Gita — lui enseigna que l'action juste sans attachement mène à la libération."
+    },
+    "image": "images/hindu_myth/arjuna.jpg",
+    "tags": ["arjuna", "warrior", "archer", "gita", "dharma"]
+  },
+  {
+    "year": "Age of Dwapara Yuga",
+    "era": "Mahabharata",
+    "title": {"en": "Draupadi", "fr": "Draupadi"},
+    "description": {
+      "en": "Draupadi, born from fire, became the common wife of the five Pandava brothers. Her public humiliation in the Kaurava court, when Dushasana tried to disrobe her and Krishna miraculously provided endless cloth, sparked the epic war. Strong-willed and unforgiving, she vowed to tie her hair only after washing it in the blood of those who shamed her. She represents feminine power, dignity, and righteous anger.",
+      "fr": "Draupadi, née du feu, devint l'épouse commune des cinq frères Pandava. Son humiliation publique dans la cour Kaurava, quand Dushasana tenta de la dévêtir et Krishna fournit miraculeusement du tissu infini, déclencha la guerre épique. Forte et implacable, elle représente le pouvoir féminin et la colère juste."
+    },
+    "image": "images/hindu_myth/draupadi.jpg",
+    "tags": ["draupadi", "fire", "dignity", "justice", "strength"]
+  },
+  {
+    "year": "Age of Dwapara Yuga",
+    "era": "Mahabharata",
+    "title": {"en": "Bhishma", "fr": "Bhishma"},
+    "description": {
+      "en": "Bhishma, the grand-uncle bound by a terrible vow of lifelong celibacy and service, was the greatest warrior before Arjuna. His oath prevented him from claiming the throne, yet bound him to serve whoever ruled Hastinapura — even the corrupt Kauravas. On his bed of arrows at Kurukshetra, he chose the moment of his death, teaching that even the noblest vows can trap one in supporting adharma.",
+      "fr": "Bhishma, le grand-oncle lié par un terrible vœu de célibat à vie et de service, était le plus grand guerrier avant Arjuna. Son serment l'empêcha de revendiquer le trône mais le lia à servir qui régnait sur Hastinapura — même les Kauravas corrompus. Sur son lit de flèches, il choisit le moment de sa mort."
+    },
+    "image": "images/hindu_myth/bhishma.jpg",
+    "tags": ["bhishma", "vow", "sacrifice", "warrior", "duty"]
+  },
+  {
+    "year": "Age of Dwapara Yuga",
+    "era": "Mahabharata",
+    "title": {"en": "Karna", "fr": "Karna"},
+    "description": {
+      "en": "Karna, secret son of Surya and Kunti, was abandoned at birth and raised by a charioteer. Despite being Arjuna's equal in archery, he faced constant humiliation for his low birth. His unwavering loyalty to Duryodhana, who gave him respect, led him to fight on the wrong side. Born with divine armor, generous to a fault, Karna embodies tragic nobility — the hero undone by circumstances beyond his control.",
+      "fr": "Karna, fils secret de Surya et Kunti, fut abandonné à la naissance et élevé par un cocher. Malgré son égalité avec Arjuna en tir à l'arc, il subit constante humiliation pour sa basse naissance. Sa loyauté envers Duryodhana le mena à combattre du mauvais côté. Né avec armure divine, Karna incarne la noblesse tragique."
+    },
+    "image": "images/hindu_myth/karna.jpg",
+    "tags": ["karna", "tragedy", "loyalty", "generosity", "fate"]
+  },
+  {
+    "year": "Great War",
+    "era": "Mahabharata",
+    "title": {"en": "Kurukshetra", "fr": "Kurukshetra"},
+    "description": {
+      "en": "Kurukshetra, the field of dharma, witnessed the eighteen-day war between Pandavas and Kauravas that ended an age. Nearly all warriors perished in this culmination of accumulated karma. Krishna's Gita discourse, Bhishma's death, Drona's fall, Karna's sacrifice, and finally Duryodhana's defeat marked the transition from Dwapara to Kali Yuga. The war proved that dharma prevails, but at terrible cost.",
+      "fr": "Kurukshetra, le champ du dharma, vit la guerre de dix-huit jours entre Pandavas et Kauravas qui mit fin à une ère. Presque tous les guerriers périrent dans cette culmination du karma accumulé. Le discours de la Gita, la mort de Bhishma, la chute de Karna marquèrent la transition vers Kali Yuga."
+    },
+    "image": "images/hindu_myth/kurukshetra.jpg",
+    "tags": ["kurukshetra", "war", "mahabharata", "dharma", "transition"]
+  },
+  {
+    "year": "Sages and Wisdom",
+    "era": "Timeless",
+    "title": {"en": "Vashistha", "fr": "Vashistha"},
+    "description": {
+      "en": "Vashistha, one of the seven great sages (Saptarishi), was the family priest of the Solar Dynasty and guru to Rama. Possessor of the divine cow Kamadhenu who grants all wishes, he embodied spiritual power that surpassed even royal authority. His conflicts with the warrior-sage Vishwamitra illustrated the eternal tension between spiritual and temporal power, ultimately teaching that true strength lies in self-control.",
+      "fr": "Vashistha, l'un des sept grands sages (Saptarishi), était le prêtre familial de la Dynastie Solaire et gourou de Rama. Possesseur de la vache divine Kamadhenu qui exauce tous les vœux, il incarnait le pouvoir spirituel surpassant l'autorité royale. Ses conflits avec Vishwamitra illustrèrent la tension éternelle."
+    },
+    "image": "images/hindu_myth/vashistha.jpg",
+    "tags": ["vashistha", "sage", "wisdom", "guru", "spiritual"]
+  },
+  {
+    "year": "Sages and Wisdom",
+    "era": "Timeless",
+    "title": {"en": "Vishwamitra", "fr": "Vishwamitra"},
+    "description": {
+      "en": "Vishwamitra, born a Kshatriya king, became a Brahmarishi through intense penance, proving that spiritual attainment transcends birth. He created the powerful Gayatri Mantra and trained young Rama in warfare and mystical weapons. His transformation from warrior-king to supreme sage represents the ultimate spiritual journey — that through determination and austerity, any soul can achieve the highest wisdom.",
+      "fr": "Vishwamitra, né roi Kshatriya, devint Brahmarishi par pénitence intense, prouvant que l'accomplissement spirituel transcende la naissance. Il créa le puissant Gayatri Mantra et entraîna le jeune Rama. Sa transformation de roi-guerrier en sage suprême représente le voyage spirituel ultime."
+    },
+    "image": "images/hindu_myth/vishwamitra.jpg",
+    "tags": ["vishwamitra", "sage", "transformation", "mantra", "penance"]
+  },
+  {
+    "year": "Present Age",
+    "era": "Kali Yuga",
+    "title": {"en": "Kali Yuga", "fr": "Kali Yuga"},
+    "description": {
+      "en": "Kali Yuga, the Age of Darkness, began when Krishna departed from Earth. In this fourth and final age, dharma stands on only one leg. Truth declines, materialism rises, lifespans shorten, and moral confusion reigns. Yet even in this dark age, devotion and righteousness can lead to liberation. The age will last 432,000 years until Kalki appears to restore dharma and begin the cycle anew.",
+      "fr": "Kali Yuga, l'Âge des Ténèbres, commença quand Krishna quitta la Terre. Dans ce quatrième et dernier âge, le dharma ne tient que sur une jambe. La vérité décline, le matérialisme monte, les vies raccourcissent et la confusion morale règne. L'âge durera 432 000 ans jusqu'à ce que Kalki restaure le dharma."
+    },
+    "image": "images/hindu_myth/kali_yuga.jpg",
+    "tags": ["kali_yuga", "darkness", "decline", "age", "materialism"]
+  },
+  {
+    "year": "End of Kali Yuga",
+    "era": "Future",
+    "title": {"en": "Kalki", "fr": "Kalki"},
+    "description": {
+      "en": "Kalki, the tenth and final avatar of Vishnu, will appear at the end of Kali Yuga riding a white horse, wielding a blazing sword. Born in the village of Shambhala to Brahmin parents, he will destroy the wicked, restore righteousness, and usher in a new Satya Yuga — the golden age of truth. His coming represents the eternal promise that dharma, though it may falter, can never be permanently destroyed.",
+      "fr": "Kalki, dixième et dernier avatar de Vishnou, apparaîtra à la fin de Kali Yuga chevauchant un cheval blanc, maniant une épée flamboyante. Né au village de Shambhala de parents brahmanes, il détruira les méchants, restaurera la droiture et inaugurera un nouveau Satya Yuga. Sa venue représente la promesse éternelle que le dharma ne peut être détruit."
+    },
+    "image": "images/hindu_myth/kalki.jpg",
+    "tags": ["kalki", "avatar", "future", "renewal", "restoration"]
+  }
+]

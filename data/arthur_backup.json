@@ -1,0 +1,170 @@
+[
+  {
+    "year": "Before the Age of Kings",
+    "era": "Prophecy",
+    "title": {
+      "en": "Merlin’s Prophecy",
+      "fr": "La prophétie de Merlin"
+    },
+    "description": {
+      "en": "🌙 Born of mortal woman and spirit, Merlin bridges the realms of magic and man.\n🔮 He foresees a just king who will unite a broken land.\n🌲 Guiding destiny, he shapes Arthur’s fate before his birth.",
+      "fr": "🌙 Né d’une femme mortelle et d’un esprit, Merlin relie les royaumes de la magie et des hommes.\n🔮 Il prédit la venue d’un roi juste qui unira une terre divisée.\n🌲 Gardien du destin, il façonne la destinée d’Arthur avant sa naissance."
+    },
+    "image": "images/arthurian/merlin_prophecy.jpg",
+    "tags": ["merlin", "prophecy", "magic", "wisdom", "beginning"]
+  },
+  {
+    "year": "Arthur’s Birth",
+    "era": "Prophecy",
+    "title": {
+      "en": "Arthur’s Birth",
+      "fr": "La naissance d’Arthur"
+    },
+    "description": {
+      "en": "👶 Born of Uther Pendragon and Igraine through Merlin’s magic, the infant Arthur is hidden for safety.\n🕊️ He is raised by Sir Ector, unaware of his royal bloodline.",
+      "fr": "👶 Né d’Uther Pendragon et d’Ygraine grâce à la magie de Merlin, le jeune Arthur est caché pour sa sécurité.\n🕊️ Il est élevé par sire Hector, ignorant son sang royal."
+    },
+    "image": "images/arthurian/arthur_birth.jpg",
+    "tags": ["arthur", "birth", "uther", "merlin"]
+  },
+  {
+    "year": "Arthur’s Youth",
+    "era": "Rise of the King",
+    "title": {
+      "en": "The Sword in the Stone",
+      "fr": "L’épée dans la pierre"
+    },
+    "description": {
+      "en": "⚔️ After Uther’s death, Britain falls into chaos.\n🗿 A sword appears in a stone: ‘Whoso pulleth out this sword is rightful king.’\n👑 Young Arthur draws it effortlessly, fulfilling Merlin’s prophecy.",
+      "fr": "⚔️ Après la mort d’Uther, la Bretagne sombre dans le chaos.\n🗿 Une épée apparaît dans une pierre : « Celui qui la retirera sera le roi légitime. »\n👑 Le jeune Arthur la tire sans effort, accomplissant la prophétie de Merlin."
+    },
+    "image": "images/arthurian/sword_in_stone.jpg",
+    "tags": ["arthur", "sword", "destiny", "prophecy", "youth"]
+  },
+  {
+    "year": "The Birth of Camelot",
+    "era": "Rise of the King",
+    "title": {
+      "en": "Excalibur",
+      "fr": "Excalibur"
+    },
+    "description": {
+      "en": "🌊 After proving his right to rule, Arthur receives Excalibur from the Lady of the Lake.\n✨ The sword symbolizes divine authority, and its scabbard grants protection.\n🏰 With it, Arthur founds Camelot, realm of justice and unity.",
+      "fr": "🌊 Après avoir prouvé son droit au trône, Arthur reçoit Excalibur de la Dame du Lac.\n✨ L’épée symbolise l’autorité divine, et son fourreau accorde la protection.\n🏰 Grâce à ce don, Arthur fonde Camelot, royaume de justice et d’unité."
+    },
+    "image": "images/arthurian/excalibur.jpg",
+    "tags": ["arthur", "excalibur", "lady_of_the_lake", "camelot"]
+  },
+  {
+    "year": "The Rise of Camelot",
+    "era": "The Round Table",
+    "title": {
+      "en": "The Round Table",
+      "fr": "La Table ronde"
+    },
+    "description": {
+      "en": "⚔️ Arthur gathers knights — Lancelot, Gawain, Percival, and others — around a round table symbolizing equality.\n🤝 Their oath binds them to courage, loyalty, and honor.\n🌟 Together, they bring glory to Camelot.",
+      "fr": "⚔️ Arthur réunit des chevaliers — Lancelot, Gauvain, Perceval et d’autres — autour d’une table ronde symbole d’égalité.\n🤝 Leur serment célèbre le courage, la loyauté et l’honneur.\n🌟 Ensemble, ils apportent la gloire à Camelot."
+    },
+    "image": "images/arthurian/round_table.jpg",
+    "tags": ["round_table", "knights", "chivalry", "unity"]
+  },
+  {
+    "year": "Golden Age",
+    "era": "The Round Table",
+    "title": {
+      "en": "Sir Lancelot",
+      "fr": "Le chevalier Lancelot"
+    },
+    "description": {
+      "en": "🛡️ The bravest of Arthur’s knights, Lancelot defends Camelot from all foes.\n💖 His loyalty and love for Guinevere define both his greatness and his tragedy.",
+      "fr": "🛡️ Le plus vaillant des chevaliers d’Arthur, Lancelot défend Camelot contre tous ses ennemis.\n💖 Sa loyauté et son amour pour Guenièvre forgent sa grandeur et sa tragédie."
+    },
+    "image": "images/arthurian/lancelot.jpg",
+    "tags": ["lancelot", "chivalry", "knight", "camelot"]
+  },
+  {
+    "year": "The Time of Shadows",
+    "era": "The Round Table",
+    "title": {
+      "en": "Morgan le Fay",
+      "fr": "Morgane la fée"
+    },
+    "description": {
+      "en": "🌑 Arthur’s half-sister, a sorceress of great power and ambition.\n🪞 Sometimes healer, sometimes foe, Morgan’s magic blurs the line between vengeance and destiny.",
+      "fr": "🌑 Demi-sœur d’Arthur, sorcière d’une grande puissance et d’une ambition redoutable.\n🪞 Tantôt guérisseuse, tantôt ennemie, la magie de Morgane oscille entre vengeance et destin."
+    },
+    "image": "images/arthurian/morgan_le_fay.jpg",
+    "tags": ["morgana", "magic", "betrayal", "sorcery"]
+  },
+  {
+    "year": "The Sacred Quest",
+    "era": "The Round Table",
+    "title": {
+      "en": "The Holy Grail",
+      "fr": "Le Saint Graal"
+    },
+    "description": {
+      "en": "🕊️ The knights seek the Holy Grail, cup of Christ and symbol of grace.\n🌿 Galahad, the purest knight, attains the vision and ascends to heaven.\n💫 The quest marks the height — and beginning of the fall — of Arthur’s reign.",
+      "fr": "🕊️ Les chevaliers recherchent le Saint Graal, coupe du Christ et symbole de la grâce.\n🌿 Galaad, le plus pur des chevaliers, atteint la vision et s’élève au ciel.\n💫 La quête marque l’apogée — et le commencement de la chute — du règne d’Arthur."
+    },
+    "image": "images/arthurian/holy_grail.jpg",
+    "tags": ["grail", "galahad", "spiritual", "quest"]
+  },
+  {
+    "year": "Love and Betrayal",
+    "era": "Fall of Camelot",
+    "title": {
+      "en": "Lancelot and Guinevere",
+      "fr": "Lancelot et Guenièvre"
+    },
+    "description": {
+      "en": "💔 Lancelot and Queen Guinevere fall into forbidden love.\n🔥 Their affair divides the Round Table and shatters Arthur’s trust.\n⚖️ Love, loyalty, and honor collide — heralding Camelot’s fall.",
+      "fr": "💔 Lancelot et la reine Guenièvre vivent un amour interdit.\n🔥 Leur liaison divise la Table ronde et brise la confiance d’Arthur.\n⚖️ L’amour, la loyauté et l’honneur s’affrontent — annonçant la chute de Camelot."
+    },
+    "image": "images/arthurian/lancelot_guinevere.jpg",
+    "tags": ["lancelot", "guinevere", "love", "betrayal"]
+  },
+  {
+    "year": "The Final Battle",
+    "era": "Fall of Camelot",
+    "title": {
+      "en": "The Battle of Camlann",
+      "fr": "La bataille de Camlann"
+    },
+    "description": {
+      "en": "⚔️ Mordred, Arthur’s son and traitor, seizes the throne.\n💀 Father and son meet in deadly battle — both mortally wounded.\n🌧️ Camelot falls, its dream of unity shattered forever.",
+      "fr": "⚔️ Mordred, fils et traître d’Arthur, usurpe le trône.\n💀 Le père et le fils s’affrontent dans une bataille fatale — tous deux mortellement blessés.\n🌧️ Camelot s’effondre, son rêve d’unité brisé à jamais."
+    },
+    "image": "images/arthurian/camlann.jpg",
+    "tags": ["mordred", "arthur", "battle", "fall"]
+  },
+  {
+    "year": "The Last Journey",
+    "era": "Legacy",
+    "title": {
+      "en": "Avalon",
+      "fr": "Avalon"
+    },
+    "description": {
+      "en": "🌅 Wounded, Arthur is taken by boat to Avalon, the mystical isle of healing.\n🌸 Excalibur is returned to the Lady of the Lake.\n✨ Legend says he shall return when Britain’s need is greatest.",
+      "fr": "🌅 Blessé, Arthur est conduit en barque vers Avalon, l’île mystique de la guérison.\n🌸 Excalibur est rendue à la Dame du Lac.\n✨ La légende dit qu’il reviendra quand la Bretagne aura le plus besoin de lui."
+    },
+    "image": "images/arthurian/avalon.jpg",
+    "tags": ["arthur", "avalon", "excalibur", "legacy"]
+  },
+  {
+    "year": "Eternal Legacy",
+    "era": "Legacy",
+    "title": {
+      "en": "The Legend Lives",
+      "fr": "La légende perdure"
+    },
+    "description": {
+      "en": "🌠 From medieval tales to modern dreams, Arthur’s legend endures as a beacon of hope and justice.\n📜 His knights embody courage and faith.\n🔮 The dream of Camelot lives on in every age.",
+      "fr": "🌠 Des récits médiévaux aux rêves modernes, la légende d’Arthur perdure comme un phare d’espoir et de justice.\n📜 Ses chevaliers incarnent le courage et la foi.\n🔮 Le rêve de Camelot survit à chaque époque."
+    },
+    "image": "images/arthurian/legacy.jpg",
+    "tags": ["arthur", "camelot", "legacy", "hope", "myth"]
+  }
+]

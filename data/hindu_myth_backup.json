@@ -1,0 +1,218 @@
+[
+  {
+    "year": "Before Time",
+    "era": "Cosmic Origin",
+    "title": {"en": "Brahman", "fr": "Brahman"},
+    "description": {"en": "🌌 Infinite, formless, eternal. Source of all being and becoming.", "fr": "🌌 Infini, sans forme, éternel. Source de tout être et devenir."},
+    "image": "images/hindu_myth/brahman.jpg",
+    "tags": ["creation","brahman","infinite","eternal"]
+  },
+  {
+    "year": "Cosmic Awakening",
+    "era": "Trimurti",
+    "title": {"en": "Brahma", "fr": "Brahma"},
+    "description": {"en": "🌺 Born from lotus on Vishnu’s navel, creates universe, beings, Vedas.", "fr": "🌺 Né du lotus sur le nombril de Vishnou, crée l’univers, les êtres et les Védas."},
+    "image": "images/hindu_myth/brahma.jpg",
+    "tags": ["creation","brahma","trimurti"]
+  },
+  {
+    "year": "Preserver of Cosmos",
+    "era": "Trimurti",
+    "title": {"en": "Vishnu", "fr": "Vishnou"},
+    "description": {"en": "🌊 Rests on Ananta, preserves universe, incarnates as avatars to maintain dharma.", "fr": "🌊 Repose sur Ananta, préserve l’univers, s’incarne pour maintenir le dharma."},
+    "image": "images/hindu_myth/vishnu_ananta.jpg",
+    "tags": ["vishnu","avatars","dharma"]
+  },
+  {
+    "year": "Destroyer & Transformer",
+    "era": "Trimurti",
+    "title": {"en": "Shiva", "fr": "Shiva"},
+    "description": {"en": "🔥 Performs Tandava, destroys for renewal, symbolizes meditation & cycle.", "fr": "🔥 Exécute le Tandava, détruit pour le renouveau, symbolise méditation & cycle."},
+    "image": "images/hindu_myth/shiva_nataraja.webp",
+    "tags": ["shiva","destruction","rebirth","cycle"]
+  },
+  {
+    "year": "Emergence of Humanity",
+    "era": "Manvantara",
+    "title": {"en": "Manu & Shatarupa", "fr": "Manou & Shataroupa"},
+    "description": {"en": "🌏 First humans, populate Earth, establish lineage.", "fr": "🌏 Premiers humains, peuplent la Terre, établissent la lignée."},
+    "image": "images/hindu_myth/manu_shatarupa.jpg",
+    "tags": ["humanity","manu","order"]
+  },
+  {
+    "year": "The Great Flood",
+    "era": "Manvantara",
+    "title": {"en": "Matsya", "fr": "Matsya"},
+    "description": {"en": "🌊 Vishnu as fish warns Manu, guides ark through deluge.", "fr": "🌊 Vishnou en poisson avertit Manou, guide l’arche à travers le déluge."},
+    "image": "images/hindu_myth/matsya.jpg",
+    "tags": ["vishnu","avatar","flood"]
+  },
+  {
+    "year": "Cosmic Churning",
+    "era": "Avatars",
+    "title": {"en": "Kurma", "fr": "Kurma"},
+    "description": {"en": "🐢 Supports mountain during Samudra Manthan for nectar and amrita.", "fr": "🐢 Soutient la montagne lors du Samudra Manthan pour nectar et amrita."},
+    "image": "images/hindu_myth/kurma.jpg",
+    "tags": ["kurma","avatar","balance"]
+  },
+  {
+    "year": "Rescue of Earth",
+    "era": "Avatars",
+    "title": {"en": "Varaha", "fr": "Varaha"},
+    "description": {"en": "🐗 Lifts Earth from demon Hiranyaksha, restores cosmic order.", "fr": "🐗 Élève la Terre du démon Hiranyaksha, rétablit l’ordre cosmique."},
+    "image": "images/hindu_myth/varaha.jpg",
+    "tags": ["varaha","avatar","earth","rescue"]
+  },
+  {
+    "year": "Protector in Lion Form",
+    "era": "Avatars",
+    "title": {"en": "Narasimha", "fr": "Narasimha"},
+    "description": {"en": "🦁 Slays Hiranyakashipu, protects devotee Prahlada, embodies divine justice.", "fr": "🦁 Tue Hiranyakashipu, protège Prahlada, incarne justice divine."},
+    "image": "images/hindu_myth/narasimha.jpg",
+    "tags": ["narasimha","avatar","justice"]
+  },
+  {
+    "year": "Humble Dwarf",
+    "era": "Avatars",
+    "title": {"en": "Vamana", "fr": "Vamana"},
+    "description": {"en": "🧘 Dwarf avatar, subdues Mahabali with cosmic stride.", "fr": "🧘 Avatar nain, soumet Mahabali par un pas cosmique."},
+    "image": "images/hindu_myth/vamana.jpg",
+    "tags": ["vamana","avatar","humility"]
+  },
+  {
+    "year": "Warrior Sage",
+    "era": "Avatars",
+    "title": {"en": "Parashurama", "fr": "Parashurama"},
+    "description": {"en": "🪓 Wields axe to cleanse corrupt Kshatriyas, restores dharma.", "fr": "🪓 Manie la hache pour purifier rois corrompus, restaure dharma."},
+    "image": "images/hindu_myth/parashurama.jpg",
+    "tags": ["parashurama","avatar","purification"]
+  },
+  {
+    "year": "The Return of Virtue",
+    "era": "Avatars",
+    "title": {"en": "Rama", "fr": "Rama"},
+    "description": {"en": "🏹 Rescues Sita from Ravana, exemplifies dharma and ideal kingship.", "fr": "🏹 Sauve Sita de Ravana, incarne dharma et royauté idéale."},
+    "image": "images/hindu_myth/rama_sita.jpg",
+    "tags": ["rama","avatar","dharma"]
+  },
+  {
+    "year": "Divine Teacher",
+    "era": "Avatars",
+    "title": {"en": "Krishna", "fr": "Krishna"},
+    "description": {"en": "🎶 Guides Arjuna in Mahabharata, teaches Bhagavad Gita.", "fr": "🎶 Guide Arjuna dans le Mahabharata, enseigne la Bhagavad Gita."},
+    "image": "images/hindu_myth/krishna_arjuna.webp",
+    "tags": ["krishna","avatar","gita","wisdom"]
+  },
+  {
+    "year": "Age of Decline",
+    "era": "Kali Yuga",
+    "title": {"en": "Kalki", "fr": "Kalki"},
+    "description": {"en": "⚔️ Will appear on white horse to destroy corruption, renew dharma.", "fr": "⚔️ Apparaîtra sur cheval blanc pour détruire corruption, renouveler dharma."},
+    "image": "images/hindu_myth/kalki.jpg",
+    "tags": ["kalki","avatar","renewal"]
+  },
+  {
+    "year": "Moon God",
+    "era": "Cosmic Deities",
+    "title": {"en": "Chandra", "fr": "Chandra"},
+    "description": {"en": "🌙 Moon deity, controls tides, time, and plants’ growth.", "fr": "🌙 Déité lunaire, contrôle marées, temps et croissance végétale."},
+    "image": "images/hindu_myth/chandra.jpg",
+    "tags": ["moon","deity","time"]
+  },
+  {
+    "year": "Sun God",
+    "era": "Cosmic Deities",
+    "title": {"en": "Surya", "fr": "Surya"},
+    "description": {"en": "☀️ Sun deity, source of light, energy, and vitality.", "fr": "☀️ Déité solaire, source de lumière, énergie et vitalité."},
+    "image": "images/hindu_myth/surya.jpg",
+    "tags": ["sun","deity","energy"]
+  },
+  {
+    "year": "God of Fire",
+    "era": "Cosmic Deities",
+    "title": {"en": "Agni", "fr": "Agni"},
+    "description": {"en": "🔥 Fire god, mediator between humans and gods.", "fr": "🔥 Dieu du feu, médiateur entre humains et dieux."},
+    "image": "images/hindu_myth/agni.jpg",
+    "tags": ["fire","deity","sacrifice"]
+  },
+  {
+    "year": "King of Gods",
+    "era": "Cosmic Deities",
+    "title": {"en": "Indra", "fr": "Indra"},
+    "description": {"en": "⚡ King of devas, god of rain, storms, and warfare.", "fr": "⚡ Roi des devas, dieu de la pluie, des tempêtes et de la guerre."},
+    "image": "images/hindu_myth/indra.jpg",
+    "tags": ["indra","deva","rain","war"]
+  },
+  {
+    "year": "Goddess of Power",
+    "era": "Cosmic Deities",
+    "title": {"en": "Durga", "fr": "Durga"},
+    "description": {"en": "🛡 Warrior goddess, defeats demons, protects dharma.", "fr": "🛡 Déesse guerrière, vainc les démons, protège le dharma."},
+    "image": "images/hindu_myth/durga.jpg",
+    "tags": ["durga","deity","power"]
+  },
+  {
+    "year": "Goddess of Wealth",
+    "era": "Cosmic Deities",
+    "title": {"en": "Lakshmi", "fr": "Lakshmi"},
+    "description": {"en": "💰 Goddess of wealth, fortune, and prosperity.", "fr": "💰 Déesse de richesse, fortune et prospérité."},
+    "image": "images/hindu_myth/lakshmi.jpg",
+    "tags": ["lakshmi","deity","wealth"]
+  },
+  {
+    "year": "Goddess of Knowledge",
+    "era": "Cosmic Deities",
+    "title": {"en": "Saraswati", "fr": "Saraswati"},
+    "description": {"en": "📖 Goddess of learning, music, arts, and wisdom.", "fr": "📖 Déesse du savoir, musique, arts et sagesse."},
+    "image": "images/hindu_myth/saraswati.jpg",
+    "tags": ["saraswati","deity","knowledge"]
+  },
+  {
+    "year": "Lord of Beginnings",
+    "era": "Cosmic Deities",
+    "title": {"en": "Ganesha", "fr": "Ganesha"},
+    "description": {"en": "🐘 Elephant-headed god, remover of obstacles.", "fr": "🐘 Dieu à tête d’éléphant, supprime obstacles."},
+    "image": "images/hindu_myth/ganesha.jpg",
+    "tags": ["ganesha","deity","beginnings"]
+  },
+  {
+    "year": "God of War",
+    "era": "Cosmic Deities",
+    "title": {"en": "Kartikeya", "fr": "Kartikeya"},
+    "description": {"en": "🏹 Son of Shiva & Parvati, god of war and victory.", "fr": "🏹 Fils de Shiva et Parvati, dieu de la guerre et de la victoire."},
+    "image": "images/hindu_myth/kartikeya.jpg",
+    "tags": ["kartikeya","deity","war"]
+  },
+  {
+    "year": "Sage of Truth",
+    "era": "Sages",
+    "title": {"en": "Vashistha", "fr": "Vashistha"},
+    "description": {"en": "🧘 One of the Saptarishi, guides kings and preserves dharma.", "fr": "🧘 L’un des Saptarishi, guide les rois et préserve le dharma."},
+    "image": "images/hindu_myth/vashistha.jpg",
+    "tags": ["sage","vashistha","dharma"]
+  },
+  {
+    "year": "Sage of Meditation",
+    "era": "Sages",
+    "title": {"en": "Vishwamitra", "fr": "Vishwamitra"},
+    "description": {"en": "🧘 Renowned sage, created powerful mantras, mentor to Rama.", "fr": "🧘 Sage renommé, créateur de mantras puissants, mentor de Rama."},
+    "image": "images/hindu_myth/vishwamitra.jpg",
+    "tags": ["sage","vishwamitra","mantra"]
+  },
+  {
+    "year": "Epic War",
+    "era": "Mahabharata",
+    "title": {"en": "Kurukshetra", "fr": "Kurukshetra"},
+    "description": {"en": "⚔️ Epic war between Pandavas & Kauravas; guided by Krishna.", "fr": "⚔️ Guerre épique entre Pandavas et Kauravas, guidée par Krishna."},
+    "image": "images/hindu_myth/kurukshetra.jpg",
+    "tags": ["mahabharata","war","dharma"]
+  },
+  {
+    "year": "Rebirth Cycle",
+    "era": "Future",
+    "title": {"en": "Kalki", "fr": "Kalki"},
+    "description": {"en": "⚔️ Ends Kali Yuga, restores dharma, begins new Satya Yuga.", "fr": "⚔️ Termine le Kali Yuga, restaure dharma, inaugure nouveau Satya Yuga."},
+    "image": "images/hindu_myth/kalki.jpg",
+    "tags": ["kalki","avatar","rebirth"]
+  }
+]
