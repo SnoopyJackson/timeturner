@@ -307,3 +307,94 @@ body.dark #buy-coffee-btn {
   background: #b45309; /* darker amber */
   color: white !important;
 }
+
+/* Mobile Responsive Styles */
+@media (max-width: 768px) {
+  /* Header navigation buttons - make them smaller and wrap better */
+  header .flex.justify-center.gap-4 {
+    flex-wrap: wrap;
+    gap: 0.5rem !important;
+  }
+  
+  header a[href$=".html"]:not(#buy-coffee-btn) {
+    padding: 0.5rem 0.75rem !important;
+    font-size: 0.75rem !important;
+    gap: 0.25rem !important;
+  }
+  
+  /* Country/topic buttons - make them more compact */
+  .country-btn {
+    padding: 0.5rem 1rem !important;
+    font-size: 0.875rem !important;
+    gap: 0.25rem !important;
+  }
+  
+  /* Topic section spacing */
+  #choose-country {
+    font-size: 1.5rem !important;
+    margin-bottom: 1rem !important;
+  }
+  
+  .flex.flex-wrap.justify-center.gap-8 {
+    gap: 0.5rem !important;
+  }
+  
+  /* Header title adjustments */
+  #main-title {
+    font-size: 2rem !important;
+  }
+  
+  #main-desc {
+    font-size: 1rem !important;
+  }
+  
+  /* Theme toggle and language buttons - smaller on mobile */
+  #theme-toggle {
+    padding: 0.5rem 0.75rem !important;
+    font-size: 0.75rem !important;
+  }
+  
+  #lang-en, #lang-fr {
+    padding: 0.5rem 0.75rem !important;
+    font-size: 0.75rem !important;
+  }
+  
+  /* Header controls section */
+  .flex.justify-center.items-center.gap-4 {
+    gap: 0.5rem !important;
+    flex-wrap: wrap;
+  }
+  
+  /* Timeline cards on mobile */
+  .timeline-card {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+}
+
+@media (max-width: 480px) {
+  /* Extra small screens - even more compact */
+  header a[href$=".html"]:not(#buy-coffee-btn) {
+    padding: 0.4rem 0.6rem !important;
+    font-size: 0.7rem !important;
+  }
+  
+  .country-btn {
+    padding: 0.4rem 0.8rem !important;
+    font-size: 0.8rem !important;
+  }
+  
+  #main-title {
+    font-size: 1.75rem !important;
+  }
+  
+  #choose-country {
+    font-size: 1.25rem !important;
+  }
+  
+  /* Make header controls stack better */
+  .flex.justify-center.items-center.gap-4 {
+    flex-direction: column;
+    gap: 0.5rem !important;
+  }
+}
