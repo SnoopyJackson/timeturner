@@ -576,3 +576,289 @@ html[data-theme="dark"] h1 {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
     display: none;
 }
+
+/* Mobile Responsive Styles */
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+
+    .container {
+        padding: 20px 15px;
+        border-radius: 15px;
+    }
+
+    h1 {
+        font-size: 1.75rem;
+    }
+
+    .subtitle {
+        font-size: 0.9rem;
+    }
+
+    /* Header controls */
+    .header-controls {
+        margin-bottom: 15px;
+    }
+
+    .back-btn,
+    .theme-toggle {
+        padding: 8px 12px;
+        font-size: 0.9em;
+    }
+
+    /* Mode selector buttons */
+    .mode-selector {
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    .mode-btn {
+        width: 100%;
+        padding: 10px 15px;
+        font-size: 0.9rem;
+    }
+
+    /* Default control buttons */
+    .controls {
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    .controls button {
+        width: 100%;
+        padding: 12px 15px;
+        font-size: 0.85rem;
+    }
+
+    /* Topic controls */
+    .topic-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 8px;
+    }
+
+    .topic-checkbox {
+        padding: 8px 10px;
+        font-size: 0.85rem;
+    }
+
+    .topic-checkbox span {
+        font-size: 0.85rem;
+    }
+
+    .load-btn {
+        width: 100%;
+        padding: 12px;
+        font-size: 0.9rem;
+        margin-top: 10px;
+    }
+
+    /* Time range controls */
+    .time-range-section h3 {
+        font-size: 1.1rem;
+    }
+
+    .period-buttons {
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    .period-btn {
+        width: 100%;
+        padding: 10px;
+        font-size: 0.85rem;
+    }
+
+    .custom-range {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .range-inputs {
+        flex-direction: column;
+        gap: 8px;
+        width: 100%;
+    }
+
+    .range-inputs input {
+        width: 100%;
+        padding: 10px;
+        font-size: 0.9rem;
+    }
+
+    .apply-range-btn {
+        width: 100%;
+        padding: 10px;
+        font-size: 0.9rem;
+    }
+
+    .zoom-controls {
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    .zoom-btn {
+        width: 100%;
+        padding: 10px;
+        font-size: 0.9rem;
+    }
+
+    /* Timeline wrapper */
+    .timeline-wrapper {
+        margin: 20px 0;
+    }
+
+    .timeline-container {
+        padding: 15px 10px;
+    }
+
+    .timeline-row {
+        min-height: 60px;
+    }
+
+    .timeline-label {
+        font-size: 0.75rem;
+        padding: 8px;
+        min-width: 80px;
+    }
+
+    .timeline-track {
+        margin-left: 85px;
+    }
+
+    .event-block {
+        min-height: 30px;
+        font-size: 0.75rem;
+        padding: 4px 6px;
+    }
+
+    .event-year {
+        font-size: 0.65rem;
+    }
+
+    /* Year markers */
+    .year-markers {
+        margin-left: 85px;
+        font-size: 0.7rem;
+    }
+
+    .year-marker {
+        font-size: 0.7rem;
+    }
+
+    /* Legend */
+    .legend {
+        padding: 15px;
+    }
+
+    .legend-item {
+        font-size: 0.85rem;
+    }
+
+    .legend-color {
+        width: 12px;
+        height: 12px;
+    }
+
+    /* Tooltip */
+    #tooltip {
+        max-width: 200px;
+        font-size: 0.8em;
+        padding: 10px 12px;
+    }
+}
+
+@media (max-width: 480px) {
+    .container {
+        padding: 15px 10px;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    .subtitle {
+        font-size: 0.85rem;
+    }
+
+    .back-btn,
+    .theme-toggle {
+        padding: 6px 10px;
+        font-size: 0.85em;
+    }
+
+    .mode-btn {
+        padding: 8px 12px;
+        font-size: 0.85rem;
+    }
+
+    .controls button {
+        padding: 10px 12px;
+        font-size: 0.8rem;
+    }
+
+    /* Topic grid - single column on very small screens */
+    .topic-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .topic-checkbox {
+        padding: 10px;
+        font-size: 0.9rem;
+    }
+
+    .period-btn {
+        padding: 8px;
+        font-size: 0.8rem;
+    }
+
+    .timeline-label {
+        font-size: 0.7rem;
+        padding: 6px;
+        min-width: 70px;
+    }
+
+    .timeline-track {
+        margin-left: 75px;
+    }
+
+    .event-block {
+        min-height: 25px;
+        font-size: 0.7rem;
+        padding: 3px 5px;
+    }
+
+    .event-year {
+        font-size: 0.6rem;
+    }
+
+    .year-markers {
+        margin-left: 75px;
+        font-size: 0.65rem;
+    }
+
+    .legend {
+        padding: 12px;
+    }
+
+    .legend-item {
+        font-size: 0.8rem;
+    }
+}
+
+/* Landscape orientation on mobile */
+@media (max-width: 768px) and (orientation: landscape) {
+    .topic-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .period-buttons {
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+
+    .period-btn {
+        flex: 1 1 calc(50% - 8px);
+        min-width: 0;
+    }
+}
