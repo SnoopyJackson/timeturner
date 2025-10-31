@@ -3,27 +3,29 @@ let filteredData = []; // Data filtered by selected topic
 let currentTopic = 'all';
 let currentLang = 'en';
 const availableTopics = [
-    { id: 'france', name: { en: 'France', fr: 'France' }, icon: '🇫🇷' },
-    { id: 'roman', name: { en: 'Rome', fr: 'Rome' }, icon: '🏛️' },
-    { id: 'greece', name: { en: 'Greece', fr: 'Grèce' }, icon: '🇬🇷' },
-    { id: 'egypt', name: { en: 'Egypt', fr: 'Égypte' }, icon: '🇪🇬' },
+    // Main data folder
+    { id: 'arthur', name: { en: 'King Arthur', fr: 'Roi Arthur' }, icon: '⚔️' },
+    { id: 'bjj', name: { en: 'Brazilian Jiu Jitsu', fr: 'Jiu Jitsu Brésilien' }, icon: '🥋' },
     { id: 'egypt_myth', name: { en: 'Egypt Mythology', fr: 'Mythologie Égyptienne' }, icon: '🦅' },
-    { id: 'usa', name: { en: 'USA', fr: 'États-Unis' }, icon: '🇺🇸' },
-    { id: 'uk', name: { en: 'UK', fr: 'Royaume-Uni' }, icon: '🇬🇧' },
-    { id: 'germany', name: { en: 'Germany', fr: 'Allemagne' }, icon: '🇩🇪' },
-    { id: 'russia', name: { en: 'Russia', fr: 'Russie' }, icon: '🇷🇺' },
-    { id: 'china', name: { en: 'China', fr: 'Chine' }, icon: '🇨🇳' },
-    { id: 'india', name: { en: 'India', fr: 'Inde' }, icon: '🇮🇳' },
-    { id: 'japan', name: { en: 'Japan', fr: 'Japon' }, icon: '🇯🇵' },
-    { id: 'wars', name: { en: 'Wars', fr: 'Guerres' }, icon: '⚔️' },
-    { id: 'science', name: { en: 'Science', fr: 'Science' }, icon: '🔬' },
+    { id: 'france', name: { en: 'France', fr: 'France' }, icon: '�🇷' },
+    { id: 'greek_myth', name: { en: 'Greek Mythology', fr: 'Mythologie Grecque' }, icon: '🇷' },
+    { id: 'hindu_myth', name: { en: 'Hindu Mythology', fr: 'Mythologie Hindoue' }, icon: '🕉️' },
+    { id: 'inventions', name: { en: 'Inventions', fr: 'Inventions' }, icon: '💡' },
+    { id: 'metal', name: { en: 'Heavy Metal', fr: 'Heavy Metal' }, icon: '�' },
     { id: 'pandemics', name: { en: 'Pandemics', fr: 'Pandémies' }, icon: '🦠' },
     { id: 'revolutions', name: { en: 'Revolutions', fr: 'Révolutions' }, icon: '✊' },
-    { id: 'bible', name: { en: 'Bible', fr: 'Bible' }, icon: '📖' },
-    { id: 'islam', name: { en: 'Islam', fr: 'Islam' }, icon: '🕌' },
-    { id: 'judaism', name: { en: 'Judaism', fr: 'Judaïsme' }, icon: '✡️' },
-    { id: 'metal', name: { en: 'Heavy Metal', fr: 'Heavy Metal' }, icon: '🎸' },
-    { id: 'bjj', name: { en: 'Brazilian Jiu Jitsu', fr: 'Jiu Jitsu Brésilien' }, icon: '🥋' }
+    { id: 'roman', name: { en: 'Rome', fr: 'Rome' }, icon: '�️' },
+    { id: 'universe', name: { en: 'Universe', fr: 'Univers' }, icon: '�' },
+    { id: 'usa', name: { en: 'USA', fr: 'États-Unis' }, icon: '��' },
+    { id: 'wars', name: { en: 'Wars', fr: 'Guerres' }, icon: '⚔️' },
+    // Ideas subfolder
+    { id: 'ideas/bible', name: { en: 'Bible', fr: 'Bible' }, icon: '📖' },
+    { id: 'ideas/china', name: { en: 'China', fr: 'Chine' }, icon: '🇨🇳' },
+    { id: 'ideas/germany', name: { en: 'Germany', fr: 'Allemagne' }, icon: '🇩🇪' },
+    { id: 'ideas/india', name: { en: 'India', fr: 'Inde' }, icon: '🇮🇳' },
+    { id: 'ideas/japan', name: { en: 'Japan', fr: 'Japon' }, icon: '🇯🇵' },
+    { id: 'ideas/russia', name: { en: 'Russia', fr: 'Russie' }, icon: '🇷�' },
+    { id: 'ideas/uk', name: { en: 'UK', fr: 'Royaume-Uni' }, icon: '🇬🇧' }
 ];
 
 // Topic data mapping
@@ -335,6 +337,26 @@ function hideTypingIndicator() {
     typingIndicator.classList.remove('active');
 }
 
+/**
+ * IMPROVED SEARCH ALGORITHM
+ * 
+ * This function uses a multi-factor scoring system to find the most relevant historical events:
+ * 
+ * 1. EXACT MATCHES (300+ points): Perfect title/description matches get highest priority
+ * 2. JACCARD SIMILARITY (0-120 points): Token overlap between query and event
+ * 3. N-GRAM MATCHES (20-50 points): Multi-word phrases like "french revolution"
+ * 4. YEAR MATCHING (20-50 points): Chronological queries
+ * 5. TAG MATCHES (10-40 points): Category and topic tags
+ * 6. PHRASE BOOST (50-60 points): Pre-indexed common phrases
+ * 7. QUESTION TYPE BOOST (40-150 points): "Tell me about", "Who is", "What is", "When"
+ * 8. TOKEN MATCHES (6-12 points): Individual word matches
+ * 9. AGGREGATE COVERAGE (20-60 points): Multiple token matches
+ * 10. WORD ORDER PRESERVATION (0-30 points): Maintains query word sequence
+ * 11. ERA MATCHING (8 points): Historical period context
+ * 
+ * Confidence calculation considers both absolute score quality and gap to second-best result.
+ * Lower thresholds (30 points) ensure more results while maintaining quality.
+ */
 function generateResponse(userMessage) {
     const msg = userMessage.toLowerCase();
     
@@ -346,10 +368,16 @@ function generateResponse(userMessage) {
     // Normalize user message and extract tokens
     const normalizedMsg = normalizeText(userMessage);
     const msgTokens = tokenize(userMessage);
-    // Detect explicit "tell me about" style queries and extract intent tokens
-    const isTellMeQuery = normalizedMsg.startsWith('tell me about') || normalizedMsg.startsWith('parle moi de') || normalizedMsg.startsWith('parle-moi de') || normalizedMsg.startsWith('parle') || normalizedMsg.startsWith('tell me');
-    const stopWords = new Set(['tell','me','about','parle','moi','de','tellme','please']);
-    const intentTokens = msgTokens.filter(t => !stopWords.has(t));
+    
+    // Detect explicit "tell me about" / "what is" / "who is" style queries and extract intent
+    const isTellMeQuery = /^(tell me about|parle moi de|parle-moi de|what (is|was|were)|qui (est|etait)|qu'est ce que|quelle est)/i.test(normalizedMsg);
+    const isWhoQuery = /^(who (is|was|were)|qui (est|etait))/i.test(normalizedMsg);
+    const isWhatQuery = /^(what (is|was|were)|qu'est ce que|quelle est)/i.test(normalizedMsg);
+    const isWhenQuery = /^(when (did|was|were)|quand)/i.test(normalizedMsg);
+    
+    // Enhanced stop words list
+    const stopWords = new Set(['tell','me','about','parle','moi','de','tellme','please','what','is','was','were','who','when','did','qui','est','etait','quand','quest','quelle','the','le','la','les','un','une','des']);
+    const intentTokens = msgTokens.filter(t => !stopWords.has(t) && t.length > 2);
 
     // phrase boost: compute n-grams from the query and consult dynamic ngramTagMap
     let phraseBoostTag = null;
@@ -373,73 +401,131 @@ function generateResponse(userMessage) {
         const titleTokens = tokenize(title);
         const descTokens = tokenize(desc);
         const yearStr = event.year ? String(event.year) : '';
+        const era = event.era ? normalizeText(event.era) : '';
 
-    // Exact normalized title match => much stronger boost to prefer direct title queries
-    if (titleNorm === normalizedMsg) score += 200;
-    // Exact phrase in title
-    if (titleNorm.includes(normalizedMsg) && normalizedMsg.length > 3) score += 120;
+        // 1. EXACT MATCHES (highest priority)
+        // Exact normalized title match => strongest boost
+        if (titleNorm === normalizedMsg) score += 300;
+        // Exact phrase in title (substring match)
+        if (titleNorm.includes(normalizedMsg) && normalizedMsg.length > 3) score += 150;
+        // Exact phrase in description
+        if (descNorm.includes(normalizedMsg) && normalizedMsg.length > 5) score += 80;
 
-        // Jaccard similarity between query tokens and title/description tokens
+        // 2. JACCARD SIMILARITY (token overlap)
         const jaccardTitle = jaccardScore(msgTokens, titleTokens);
         const jaccardDesc = jaccardScore(msgTokens, descTokens);
-        score += Math.round(jaccardTitle * 100 * 0.8); // weighted
-        score += Math.round(jaccardDesc * 100 * 0.5);
+        score += Math.round(jaccardTitle * 120); // increased weight for title
+        score += Math.round(jaccardDesc * 60);   // moderate weight for description
 
-        // n-gram matches (2/3 word sequences) to capture multiword queries like 'french revolution'
+        // 3. N-GRAM MATCHES (multi-word phrases like "french revolution")
         const ngrams = [];
         const t = msgTokens;
-        for (let n = 2; n <= Math.min(3, t.length); n++) {
+        for (let n = 2; n <= Math.min(4, t.length); n++) { // extended to 4-grams
             for (let i = 0; i <= t.length - n; i++) {
                 ngrams.push(t.slice(i, i+n).join(' '));
             }
         }
+        // Prioritize longer n-grams (more specific)
         ngrams.forEach(g => {
-            // slightly reduced per-ngram boost to avoid overpowering person entries
-            if (titleNorm.includes(g)) score += 15;
-            if (descNorm.includes(g)) score += 8;
+            const ngramLength = g.split(' ').length;
+            const lengthBonus = ngramLength * 5; // bonus for longer phrases
+            if (titleNorm.includes(g)) score += 20 + lengthBonus;
+            if (descNorm.includes(g)) score += 10 + lengthBonus;
+            if (era.includes(g)) score += 12;
         });
 
-        // Year matching
-        if (yearStr === normalizedMsg) score += 40;
-        else if (normalizedMsg.includes(yearStr) || yearStr.includes(normalizedMsg)) score += 15;
+        // 4. YEAR MATCHING
+        if (yearStr && yearStr.length >= 3) {
+            if (yearStr === normalizedMsg) score += 50;
+            else if (normalizedMsg.includes(yearStr)) score += 25;
+            else if (yearStr.includes(normalizedMsg.replace(/[^\d]/g, ''))) score += 20;
+        }
 
-        // Tag matches
+        // 5. TAG MATCHES
         (event.tags || []).forEach(tag => {
             const tagNorm = normalizeText(tag);
-            if (normalizedMsg.includes(tagNorm) || tagNorm.includes(normalizedMsg)) score += 25;
-            // partial token match
-            msgTokens.forEach(w => { if (tagNorm.includes(w)) score += 8; });
+            // Exact tag match
+            if (tagNorm === normalizedMsg) score += 40;
+            // Tag contains query or vice versa
+            if (normalizedMsg.includes(tagNorm)) score += 30;
+            if (tagNorm.includes(normalizedMsg)) score += 25;
+            // Partial token matches in tags
+            msgTokens.forEach(w => { 
+                if (tagNorm.includes(w) && w.length > 2) score += 10; 
+            });
         });
 
-        // Phrase boost: if user's ngram matches indicated this event (by index) or maps to a tag
-        // Phrase boost: reduced to be less dominant
+        // 6. PHRASE BOOST (from n-gram index)
         if (matchedNgramEvents.has(event.__index)) {
-            score += 50;
+            score += 60;
         }
         if (phraseBoostTag && (event.tags || []).includes(phraseBoostTag)) {
-            score += 40;
+            score += 50;
         }
 
-        // If this is a 'tell me about X' style query, give a strong boost when the event title contains the user's intent tokens
-        if (isTellMeQuery && intentTokens.length > 0) {
+        // 7. QUESTION TYPE SPECIFIC BOOSTS
+        if ((isTellMeQuery || isWhatQuery || isWhoQuery || isWhenQuery) && intentTokens.length > 0) {
             const titleTokSet = new Set(titleTokens);
-            const intentMatches = intentTokens.filter(t => titleTokSet.has(t)).length;
-            if (intentMatches >= 1) {
-                // strong but safe boost to prefer direct matches for explicit 'tell me about' queries
-                score += 80;
+            const descTokSet = new Set(descTokens);
+            const intentMatchesInTitle = intentTokens.filter(t => titleTokSet.has(t)).length;
+            const intentMatchesInDesc = intentTokens.filter(t => descTokSet.has(t)).length;
+            
+            // Strong boost when intent matches title
+            if (intentMatchesInTitle >= 1) {
+                score += 100 + (intentMatchesInTitle - 1) * 30; // bonus for multiple matches
+            }
+            // Moderate boost for description matches
+            if (intentMatchesInDesc >= 2) {
+                score += 40;
+            }
+            
+            // Extra boost for "who is" queries matching person-related tags
+            if (isWhoQuery) {
+                const personTags = ['leader', 'emperor', 'king', 'queen', 'president', 'prime-minister', 'philosopher', 'scientist'];
+                if ((event.tags || []).some(tag => personTags.includes(tag))) {
+                    score += 50;
+                }
             }
         }
 
-        // Small boost for title/desc containing almost exact words
+        // 8. INDIVIDUAL TOKEN MATCHES
         msgTokens.forEach(w => {
-            if (titleTokens.includes(w)) score += 10;
-            if (descTokens.includes(w)) score += 5;
+            if (w.length <= 2) return; // skip very short tokens
+            if (titleTokens.includes(w)) score += 12;
+            if (descTokens.includes(w)) score += 6;
         });
 
-        // Small aggregate title token boost: prefer events whose title contains several of the query tokens
-        const titleTokenMatches = msgTokens.filter(w => titleTokens.includes(w)).length;
+        // 9. AGGREGATE TOKEN COVERAGE
+        // Reward events that match multiple query tokens
+        const titleTokenMatches = msgTokens.filter(w => w.length > 2 && titleTokens.includes(w)).length;
+        const descTokenMatches = msgTokens.filter(w => w.length > 2 && descTokens.includes(w)).length;
+        
         if (titleTokenMatches > 1) {
-            score += titleTokenMatches * 15; // e.g., two matching tokens => +30
+            score += titleTokenMatches * 20; // e.g., 3 matching tokens => +60
+        }
+        if (descTokenMatches > 2) {
+            score += descTokenMatches * 8;
+        }
+
+        // 10. WORD ORDER PRESERVATION BONUS
+        // Check if query tokens appear in same order in title
+        if (msgTokens.length >= 2) {
+            let orderScore = 0;
+            for (let i = 0; i < msgTokens.length - 1; i++) {
+                const idx1 = titleTokens.indexOf(msgTokens[i]);
+                const idx2 = titleTokens.indexOf(msgTokens[i + 1]);
+                if (idx1 !== -1 && idx2 !== -1 && idx2 > idx1) {
+                    orderScore += 15; // bonus for maintaining word order
+                }
+            }
+            score += orderScore;
+        }
+
+        // 11. ERA MATCHING
+        if (era) {
+            msgTokens.forEach(w => {
+                if (era.includes(w) && w.length > 3) score += 8;
+            });
         }
 
         return { event, score };
@@ -455,15 +541,33 @@ function generateResponse(userMessage) {
     const relevantEvents = scoredEvents.map(item => item.event);
     const scores = scoredEvents.map(item => item.score);
 
-    // Helper: compute a conservative confidence percentage based on gap between top two scores
+    // Helper: compute confidence percentage based on score quality and gap to second best
     function computeConfidencePercent(top, second) {
         if (!top || top <= 0) return 0;
+        
+        // Factor 1: Absolute score quality (higher scores = better match)
+        let baseConfidence = 0;
+        if (top >= 200) baseConfidence = 90;
+        else if (top >= 150) baseConfidence = 80;
+        else if (top >= 100) baseConfidence = 70;
+        else if (top >= 70) baseConfidence = 60;
+        else if (top >= 50) baseConfidence = 50;
+        else if (top >= 30) baseConfidence = 40;
+        else baseConfidence = 25;
+        
+        // Factor 2: Gap between top and second result (wider gap = more confident)
         const gap = Math.max(0, top - (second || 0));
-        // relative gap ratio (0..1)
-        const ratio = Math.min(1, gap / Math.max(1, top));
-        // scale and bias so small gaps are low confidence
-        const percent = Math.round((0.25 + 0.75 * ratio) * Math.min(100, top));
-        return Math.max(5, Math.min(99, percent));
+        const gapRatio = second > 0 ? gap / top : 1.0;
+        
+        // Adjust confidence based on gap
+        let gapAdjustment = 0;
+        if (gapRatio >= 0.5) gapAdjustment = 10;      // large gap
+        else if (gapRatio >= 0.3) gapAdjustment = 5;  // moderate gap
+        else if (gapRatio >= 0.15) gapAdjustment = 0; // small gap
+        else gapAdjustment = -10;                     // very small gap
+        
+        const finalConfidence = baseConfidence + gapAdjustment;
+        return Math.max(5, Math.min(99, finalConfidence));
     }
 
     // Helper: wrap an existing HTML response with source/confidence metadata
@@ -497,20 +601,43 @@ function generateResponse(userMessage) {
         if (keyword.search.some(term => msg.includes(term))) {
             const tagScoredEvents = dataToSearch.map(e => {
                 let tagScore = 0;
-                const titleLower = e.title[currentLang]?.toLowerCase() || e.title.en?.toLowerCase() || '';
-                const descLower = e.description[currentLang]?.toLowerCase() || e.description.en?.toLowerCase() || '';
+                const title = e.title[currentLang] || e.title.en || '';
+                const desc = e.description[currentLang] || e.description.en || '';
+                const titleNorm = normalizeText(title);
+                const descNorm = normalizeText(desc);
+                const titleTokens = tokenize(title);
                 
-                // Tag exact match = 30 points
+                // Tag exact match = higher priority
                 if (e.tags?.includes(keyword.tag)) {
-                    tagScore += 30;
+                    tagScore += 50;
                 }
                 
-                // Keywords in title = 20 points each
+                // Keywords matching
                 keyword.search.forEach(term => {
-                    if (titleLower.includes(term)) tagScore += 20;
-                    if (descLower.includes(term)) tagScore += 10;
-                    if (e.tags?.some(tag => tag.toLowerCase().includes(term))) tagScore += 15;
+                    const termNorm = normalizeText(term);
+                    
+                    // Exact keyword in title = highest score
+                    if (titleNorm === termNorm) tagScore += 100;
+                    // Keyword as whole word in title
+                    if (titleTokens.includes(termNorm)) tagScore += 40;
+                    // Keyword substring in title
+                    else if (titleNorm.includes(termNorm)) tagScore += 30;
+                    
+                    // Keyword in description
+                    if (descNorm.includes(termNorm)) tagScore += 15;
+                    
+                    // Keyword in tags
+                    if (e.tags?.some(tag => normalizeText(tag).includes(termNorm))) tagScore += 25;
                 });
+                
+                // Boost if multiple search terms match
+                const matchingTerms = keyword.search.filter(term => 
+                    titleNorm.includes(normalizeText(term)) || 
+                    descNorm.includes(normalizeText(term))
+                ).length;
+                if (matchingTerms > 1) {
+                    tagScore += matchingTerms * 20;
+                }
                 
                 return { event: e, score: tagScore };
             })
@@ -527,7 +654,7 @@ function generateResponse(userMessage) {
                     // Check confidence before returning a single-event answer
                     const top = tagScores[0];
                     const second = tagScores[1] || 0;
-                    if (top < 40) {
+                    if (top < 30) {
                         return currentLang === 'en' ?
                             `I found a possible match but I'm not confident. Could you be more specific or try a different phrasing?` :
                             `J'ai trouvé une correspondance possible mais je ne suis pas sûr. Peux-tu être plus précis ou reformuler ?`;
@@ -565,12 +692,12 @@ function generateResponse(userMessage) {
     }
 
     // Date queries
-    if (msg.includes('when') || msg.includes('quand') || msg.includes('date')) {
+    if (isWhenQuery || msg.includes('when') || msg.includes('quand') || msg.includes('date')) {
         if (relevantEvents.length > 0) {
             // require reasonable confidence
             const top = scores[0];
             const second = scores[1] || 0;
-            if (top < 35) {
+            if (top < 30) {
                 return currentLang === 'en' ?
                     `I found some possible matches but I'm not confident about the exact date. Could you try rephrasing or ask about a specific person or event?` :
                     `J'ai trouvé quelques correspondances possibles mais je ne suis pas sûr de la date exacte. Peux-tu reformuler ou demander sur un événement ou une personne spécifique ?`;
@@ -596,11 +723,12 @@ function generateResponse(userMessage) {
 
     // If relevant events found
     if (relevantEvents.length > 0) {
+        const top = scores[0];
+        const second = scores[1] || 0;
+        
         if (relevantEvents.length === 1) {
             // Only return direct event answer if confidence is reasonably high
-            const top = scores[0];
-            const second = scores[1] || 0;
-            if (top < 40) {
+            if (top < 30) {
                 return currentLang === 'en' ?
                     `I found a possible match but I'm not confident enough to give a full answer. Try being more specific or ask for an overview.` :
                     `J'ai trouvé une correspondance possible mais je ne suis pas assez confiant pour donner une réponse complète. Essaie d'être plus précis ou demande un aperçu.`;

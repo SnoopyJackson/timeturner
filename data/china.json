@@ -1,0 +1,618 @@
+[
+  {
+    "year": "c. 2070–1600 BC",
+    "era": "Ancient Dynasties",
+    "title": {
+      "en": "Xia Dynasty",
+      "fr": "Dynastie Xia"
+    },
+    "description": {
+      "en": "🏛️ First Chinese dynasty according to tradition\n👑 Legendary Emperor Yu the Great founded dynasty\n🌊 Known for flood control and irrigation systems\n📜 Historical existence debated by scholars",
+      "fr": "🏛️ Première dynastie chinoise selon la tradition\n👑 Empereur légendaire Yu le Grand fonda la dynastie\n🌊 Connue pour le contrôle des inondations et systèmes d'irrigation\n📜 Existence historique débattue par les érudits"
+    },
+    "image": "images/china/xia_dynasty.jpg",
+    "tags": ["ancient", "dynasty", "xia", "legendary"]
+  },
+  {
+    "year": "c. 1600–1046 BC",
+    "era": "Ancient Dynasties",
+    "title": {
+      "en": "Shang Dynasty",
+      "fr": "Dynastie Shang"
+    },
+    "description": {
+      "en": "📜 First archaeologically verified Chinese dynasty\n🔮 Oracle bone script — earliest Chinese writing\n⚒️ Advanced bronze metallurgy and craftsmanship\n🏯 Walled cities, elaborate burial practices",
+      "fr": "📜 Première dynastie chinoise vérifiée archéologiquement\n🔮 Écriture sur os oraculaires — plus ancienne écriture chinoise\n⚒️ Métallurgie du bronze avancée et artisanat\n🏯 Villes fortifiées, pratiques funéraires élaborées"
+    },
+    "image": "images/china/shang_dynasty.jpg",
+    "tags": ["ancient", "dynasty", "shang", "bronze"]
+  },
+  {
+    "year": "1046–256 BC",
+    "era": "Ancient Dynasties",
+    "title": {
+      "en": "Zhou Dynasty",
+      "fr": "Dynastie Zhou"
+    },
+    "description": {
+      "en": "👑 Longest-lasting Chinese dynasty (790 years)\n☯️ Mandate of Heaven concept established\n📚 Classical Chinese philosophy develops — Confucius, Laozi\n⚔️ Later period: Warring States era of constant conflict",
+      "fr": "👑 Dynastie chinoise la plus durable (790 ans)\n☯️ Concept du Mandat du Ciel établi\n📚 Philosophie chinoise classique se développe — Confucius, Laozi\n⚔️ Période tardive : ère des Royaumes combattants de conflit constant"
+    },
+    "image": "images/china/zhou_dynasty.jpg",
+    "tags": ["ancient", "dynasty", "zhou", "philosophy"]
+  },
+  {
+    "year": "551–479 BC",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Confucius (Kong Fuzi)",
+      "fr": "Confucius (Kong Fuzi)"
+    },
+    "description": {
+      "en": "📚 Greatest Chinese philosopher, founder of Confucianism\n🎓 Emphasized moral cultivation, filial piety, social harmony\n👥 Influenced Chinese culture for 2,500+ years\n⚖️ Teachings became foundation of Chinese government and education\n📖 Analects compiled by disciples",
+      "fr": "📚 Plus grand philosophe chinois, fondateur du confucianisme\n🎓 Mit l'accent sur la cultivation morale, la piété filiale, l'harmonie sociale\n👥 Influença la culture chinoise pendant plus de 2 500 ans\n⚖️ Enseignements devinrent fondement du gouvernement et de l'éducation chinois\n📖 Entretiens compilés par ses disciples"
+    },
+    "image": "images/china/confucius.avif",
+    "tags": ["leader", "philosopher", "confucius", "ancient"]
+  },
+  {
+    "year": "c. 6th century BC",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Laozi (Lao Tzu)",
+      "fr": "Laozi (Lao Tseu)"
+    },
+    "description": {
+      "en": "☯️ Founder of Taoism, semi-legendary philosopher\n📖 Author of Tao Te Ching — fundamental Taoist text\n🌊 Taught harmony with nature (Tao/Dao — 'the Way')\n✨ Emphasized wu wei (effortless action), simplicity\n🎭 Counterbalance to Confucianism in Chinese thought",
+      "fr": "☯️ Fondateur du taoïsme, philosophe semi-légendaire\n📖 Auteur du Tao Te King — texte taoïste fondamental\n🌊 Enseigna l'harmonie avec la nature (Tao/Dao — 'la Voie')\n✨ Mit l'accent sur wu wei (action sans effort), simplicité\n🎭 Contrepoids au confucianisme dans la pensée chinoise"
+    },
+    "image": "images/china/laozi.jpg",
+    "tags": ["leader", "philosopher", "taoism", "ancient"]
+  },
+  {
+    "year": "221–206 BC",
+    "era": "Imperial China",
+    "title": {
+      "en": "Qin Dynasty - First Unified Empire",
+      "fr": "Dynastie Qin - Premier empire unifié"
+    },
+    "description": {
+      "en": "🏯 First unified Chinese empire under Qin Shi Huang\n🧱 Great Wall construction begins, standardization reforms\n📜 Book burning, standardized writing, currency, measurements\n⚔️ Legalist philosophy enforced, harsh rule\n💀 Terracotta Army built for emperor's tomb",
+      "fr": "🏯 Premier empire chinois unifié sous Qin Shi Huang\n🧱 Construction de la Grande Muraille commence, réformes de standardisation\n📜 Autodafé de livres, écriture, monnaie, mesures standardisées\n⚔️ Philosophie légaliste appliquée, règne sévère\n💀 Armée de terre cuite construite pour la tombe de l'empereur"
+    },
+    "image": "images/china/qin_dynasty.jpg",
+    "tags": ["dynasty", "qin", "unification", "empire"]
+  },
+  {
+    "year": "259–210 BC",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Qin Shi Huang - First Emperor",
+      "fr": "Qin Shi Huang - Premier empereur"
+    },
+    "description": {
+      "en": "👑 First Emperor of unified China (221 BC)\n🧱 Ordered construction of Great Wall, connected existing walls\n⚖️ Standardized writing, currency, weights and measures\n📚 Burned books, buried scholars — suppressed dissent\n💀 Famous Terracotta Army guards his tomb in Xi'an\n🏛️ Created centralized bureaucratic state",
+      "fr": "👑 Premier empereur de la Chine unifiée (221 av. J.-C.)\n🧱 Ordonna construction de la Grande Muraille, relia les murs existants\n⚖️ Standardisa l'écriture, la monnaie, les poids et mesures\n📚 Brûla des livres, enterra des érudits — réprima la dissidence\n💀 Célèbre Armée de terre cuite garde sa tombe à Xi'an\n🏛️ Créa un État bureaucratique centralisé"
+    },
+    "image": "images/china/qin_shi_huang.jpg",
+    "tags": ["leader", "emperor", "unifier", "great-wall"]
+  },
+  {
+    "year": "206 BC–220 AD",
+    "era": "Imperial China",
+    "title": {
+      "en": "Han Dynasty - Golden Age",
+      "fr": "Dynastie Han - Âge d'or"
+    },
+    "description": {
+      "en": "🏛️ Golden age of Chinese civilization, cultural flowering\n📚 Confucianism becomes state ideology\n🌏 Silk Road trade routes established\n📖 Paper invented, historical records compiled\n🎨 Art, literature, technology flourish\n💪 Chinese identity defined — 'Han people'",
+      "fr": "🏛️ Âge d'or de la civilisation chinoise, floraison culturelle\n📚 Le confucianisme devient idéologie d'État\n🌏 Routes commerciales de la Route de la Soie établies\n📖 Papier inventé, archives historiques compilées\n🎨 Art, littérature, technologie prospèrent\n💪 Identité chinoise définie — 'peuple Han'"
+    },
+    "image": "images/china/han_dynasty.jpg",
+    "tags": ["dynasty", "han", "golden-age", "silk-road"]
+  },
+  {
+    "year": "156–87 BC",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Emperor Wu of Han",
+      "fr": "Empereur Wu de Han"
+    },
+    "description": {
+      "en": "👑 Longest-reigning Han emperor (54 years)\n🌏 Expanded empire to greatest extent — Central Asia, Korea, Vietnam\n📚 Made Confucianism official state ideology\n🐪 Opened Silk Road trade routes to West\n⚔️ Military campaigns against Xiongnu nomads\n💰 Economic prosperity, cultural golden age",
+      "fr": "👑 Empereur Han au règne le plus long (54 ans)\n🌏 Étendit l'empire à son maximum — Asie centrale, Corée, Vietnam\n📚 Fit du confucianisme l'idéologie officielle de l'État\n🐪 Ouvrit les routes commerciales de la Route de la Soie vers l'Ouest\n⚔️ Campagnes militaires contre les nomades Xiongnu\n💰 Prospérité économique, âge d'or culturel"
+    },
+    "image": "images/china/emperor_wu.jpg",
+    "tags": ["leader", "emperor", "han", "expansion"]
+  },
+  {
+    "year": "618–907",
+    "era": "Imperial China",
+    "title": {
+      "en": "Tang Dynasty - Golden Age",
+      "fr": "Dynastie Tang - Âge d'or"
+    },
+    "description": {
+      "en": "🌟 Second golden age, cosmopolitan era\n🎨 Poetry, art, music reach pinnacle — Li Bai, Du Fu\n🌏 Capital Chang'an world's largest city (1 million+)\n☸️ Buddhism flourishes, Silk Road thrives\n👩 Wu Zetian — only female emperor in Chinese history",
+      "fr": "🌟 Deuxième âge d'or, ère cosmopolite\n🎨 Poésie, art, musique atteignent leur apogée — Li Bai, Du Fu\n🌏 Capitale Chang'an plus grande ville du monde (1 million+)\n☸️ Bouddhisme prospère, Route de la Soie florissante\n👩 Wu Zetian — seule femme empereur dans l'histoire chinoise"
+    },
+    "image": "images/china/tang_dynasty.webp",
+    "tags": ["dynasty", "tang", "golden-age", "culture"]
+  },
+  {
+    "year": "624–705",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Wu Zetian - Only Female Emperor",
+      "fr": "Wu Zetian - Seule femme empereur"
+    },
+    "description": {
+      "en": "👩‍👑 Only woman to rule China as emperor (690-705)\n⚔️ Rose from concubine to empress to emperor\n📚 Promoted Buddhism, expanded education and civil service\n🏛️ Ruthless but effective ruler, stabilized dynasty\n💪 Challenged Confucian male dominance\n✨ Controversial but capable administrator",
+      "fr": "👩‍👑 Seule femme à régner sur la Chine en tant qu'empereur (690-705)\n⚔️ S'éleva de concubine à impératrice à empereur\n📚 Promut le bouddhisme, étendit l'éducation et la fonction publique\n🏛️ Dirigeante impitoyable mais efficace, stabilisa la dynastie\n💪 Défia la domination masculine confucéenne\n✨ Administratrice controversée mais capable"
+    },
+    "image": "images/china/wu_zetian.jpg",
+    "tags": ["leader", "emperor", "female", "tang"]
+  },
+  {
+    "year": "960–1279",
+    "era": "Imperial China",
+    "title": {
+      "en": "Song Dynasty",
+      "fr": "Dynastie Song"
+    },
+    "description": {
+      "en": "🎨 Cultural and technological renaissance\n🔥 Gunpowder, compass, printing technology perfected\n🚢 Maritime trade expansion, paper money invented\n📚 Neo-Confucianism develops\n🌾 Agricultural revolution, population boom\n⚔️ Weakened military, eventually conquered by Mongols",
+      "fr": "🎨 Renaissance culturelle et technologique\n🔥 Poudre à canon, boussole, technologie d'imprimerie perfectionnées\n🚢 Expansion du commerce maritime, papier-monnaie inventé\n📚 Néo-confucianisme se développe\n🌾 Révolution agricole, boom démographique\n⚔️ Armée affaiblie, finalement conquis par les Mongols"
+    },
+    "image": "images/china/song_dynasty.webp",
+    "tags": ["dynasty", "song", "technology", "innovation"]
+  },
+  {
+    "year": "1271–1368",
+    "era": "Foreign Rule",
+    "title": {
+      "en": "Yuan Dynasty - Mongol Rule",
+      "fr": "Dynastie Yuan - Domination mongole"
+    },
+    "description": {
+      "en": "🐎 Mongol conquest — Kublai Khan founds Yuan Dynasty\n🌏 China becomes part of largest land empire ever\n🗺️ Marco Polo visits, writes about Chinese wonders\n🎭 Cultural exchange between East and West\n⚔️ Han Chinese resentment, eventual rebellion",
+      "fr": "🐎 Conquête mongole — Kubilai Khan fonde la dynastie Yuan\n🌏 La Chine devient partie du plus grand empire terrestre jamais\n🗺️ Marco Polo visite, écrit sur les merveilles chinoises\n🎭 Échange culturel entre Est et Ouest\n⚔️ Ressentiment des Han chinois, rébellion éventuelle"
+    },
+    "image": "images/china/yuan_dynasty.jpg",
+    "tags": ["dynasty", "yuan", "mongol", "kublai-khan"]
+  },
+  {
+    "year": "1215–1294",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Kublai Khan",
+      "fr": "Kubilai Khan"
+    },
+    "description": {
+      "en": "🐎 Grandson of Genghis Khan, founded Yuan Dynasty (1271)\n👑 First non-Han emperor to conquer all of China\n🏛️ Built capital Khanbaliq (Beijing), promoted trade\n🗺️ Marco Polo served in his court\n🌏 Attempted invasions of Japan (failed — kamikaze)\n📚 Promoted Buddhism, arts, cultural exchange",
+      "fr": "🐎 Petit-fils de Gengis Khan, fonda la dynastie Yuan (1271)\n👑 Premier empereur non-Han à conquérir toute la Chine\n🏛️ Construisit capitale Khanbaliq (Pékin), promut le commerce\n🗺️ Marco Polo servit à sa cour\n🌏 Tenta invasions du Japon (échec — kamikaze)\n📚 Promut bouddhisme, arts, échange culturel"
+    },
+    "image": "images/china/kublai_khan.jpg",
+    "tags": ["leader", "emperor", "mongol", "yuan"]
+  },
+  {
+    "year": "1368–1644",
+    "era": "Imperial China",
+    "title": {
+      "en": "Ming Dynasty",
+      "fr": "Dynastie Ming"
+    },
+    "description": {
+      "en": "🏯 Han Chinese rule restored after Mongol expulsion\n🧱 Great Wall rebuilt in current form\n🏛️ Forbidden City constructed in Beijing\n🚢 Zheng He's treasure fleets explore Indian Ocean\n🎨 Ming porcelain, art reach peak perfection\n🔒 Later isolation policy limits foreign contact",
+      "fr": "🏯 Domination han chinoise restaurée après expulsion mongole\n🧱 Grande Muraille reconstruite dans sa forme actuelle\n🏛️ Cité interdite construite à Pékin\n🚢 Flottes de trésors de Zheng He explorent l'océan Indien\n🎨 Porcelaine Ming, art atteignent perfection maximale\n🔒 Politique d'isolement ultérieure limite contact étranger"
+    },
+    "image": "images/china/ming_dynasty.jpg",
+    "tags": ["dynasty", "ming", "great-wall", "forbidden-city"]
+  },
+  {
+    "year": "1403–1424",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Yongle Emperor",
+      "fr": "Empereur Yongle"
+    },
+    "description": {
+      "en": "👑 Third Ming emperor, one of most powerful Chinese rulers\n🏛️ Built Forbidden City in Beijing, moved capital from Nanjing\n🚢 Commissioned Zheng He's voyages — reached Africa\n📚 Compiled Yongle Encyclopedia — world's largest\n🧱 Rebuilt and extended Great Wall\n⚔️ Military campaigns expanded Ming territory",
+      "fr": "👑 Troisième empereur Ming, l'un des dirigeants chinois les plus puissants\n🏛️ Construisit Cité interdite à Pékin, déplaça capitale de Nankin\n🚢 Commanda voyages de Zheng He — atteignit l'Afrique\n📚 Compila Encyclopédie Yongle — plus grande au monde\n🧱 Reconstruisit et étendit Grande Muraille\n⚔️ Campagnes militaires étendirent territoire Ming"
+    },
+    "image": "images/china/yongle.jpg",
+    "tags": ["leader", "emperor", "ming", "builder"]
+  },
+  {
+    "year": "1371–1433",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Zheng He - Admiral Explorer",
+      "fr": "Zheng He - Amiral explorateur"
+    },
+    "description": {
+      "en": "🚢 Muslim eunuch admiral, led seven epic voyages (1405-1433)\n🌏 Reached Southeast Asia, India, Arabia, East Africa\n⚓ Commanded fleets of 300+ ships, 28,000 men\n💎 Brought tribute, established Chinese prestige\n🗺️ Voyages ended, China turned inward — missed Age of Exploration",
+      "fr": "🚢 Amiral eunuque musulman, mena sept voyages épiques (1405-1433)\n🌏 Atteignit Asie du Sud-Est, Inde, Arabie, Afrique de l'Est\n⚓ Commanda flottes de 300+ navires, 28 000 hommes\n💎 Apporta tribut, établit prestige chinois\n🗺️ Voyages terminés, Chine se replia — manqua l'Âge des Découvertes"
+    },
+    "image": "images/china/zheng_he.jpg",
+    "tags": ["leader", "explorer", "admiral", "voyages"]
+  },
+  {
+    "year": "1644–1912",
+    "era": "Imperial China",
+    "title": {
+      "en": "Qing Dynasty - Last Imperial Dynasty",
+      "fr": "Dynastie Qing - Dernière dynastie impériale"
+    },
+    "description": {
+      "en": "🏹 Manchu conquest, last imperial dynasty\n🌏 Territorial expansion — empire reaches maximum size\n👑 Kangxi, Qianlong emperors preside over prosperity\n📉 19th century decline — Western imperialism, internal rebellions\n💔 Opium Wars, unequal treaties, loss of sovereignty",
+      "fr": "🏹 Conquête mandchoue, dernière dynastie impériale\n🌏 Expansion territoriale — empire atteint taille maximale\n👑 Empereurs Kangxi, Qianlong président sur la prospérité\n📉 Déclin au 19e siècle — impérialisme occidental, rébellions internes\n💔 Guerres de l'opium, traités inégaux, perte de souveraineté"
+    },
+    "image": "images/china/qing_dynasty.jpg",
+    "tags": ["dynasty", "qing", "manchu", "decline"]
+  },
+  {
+    "year": "1654–1722",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Kangxi Emperor",
+      "fr": "Empereur Kangxi"
+    },
+    "description": {
+      "en": "👑 Second Qing emperor, longest-reigning Chinese emperor (61 years)\n🌏 Consolidated Manchu rule, expanded empire vastly\n📚 Patron of arts and sciences, studied Western learning\n⚔️ Defeated Three Feudatories rebellion, conquered Taiwan\n🗺️ Expanded into Mongolia, Tibet, Central Asia\n✨ Reign considered golden age of Qing Dynasty",
+      "fr": "👑 Deuxième empereur Qing, empereur chinois au règne le plus long (61 ans)\n🌏 Consolida règne mandchou, étendit empire considérablement\n📚 Mécène des arts et sciences, étudia l'apprentissage occidental\n⚔️ Vainquit rébellion des Trois Féodalités, conquit Taïwan\n🗺️ Étendit en Mongolie, Tibet, Asie centrale\n✨ Règne considéré comme âge d'or de la dynastie Qing"
+    },
+    "image": "images/china/kangxi.jpg",
+    "tags": ["leader", "emperor", "qing", "golden-age"]
+  },
+  {
+    "year": "1711–1799",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Qianlong Emperor",
+      "fr": "Empereur Qianlong"
+    },
+    "description": {
+      "en": "👑 Fourth Qing emperor, 60-year reign (abdicated out of respect for grandfather Kangxi)\n🌏 Empire reaches greatest territorial extent\n🎨 Patron of arts, poetry, collected massive art collection\n💰 Economic prosperity, population doubles\n📉 Later reign saw corruption, beginning of decline\n🏛️ Expanded Forbidden City, built Summer Palace",
+      "fr": "👑 Quatrième empereur Qing, règne de 60 ans (abdiqua par respect pour grand-père Kangxi)\n🌏 Empire atteint plus grande étendue territoriale\n🎨 Mécène des arts, poésie, collectionna collection d'art massive\n💰 Prospérité économique, population double\n📉 Règne ultérieur vit corruption, début du déclin\n🏛️ Étendit Cité interdite, construisit Palais d'Été"
+    },
+    "image": "images/china/qianlong.jpg",
+    "tags": ["leader", "emperor", "qing", "prosperity"]
+  },
+  {
+    "year": "1839–1842 & 1856–1860",
+    "era": "Western Imperialism",
+    "title": {
+      "en": "Opium Wars",
+      "fr": "Guerres de l'opium"
+    },
+    "description": {
+      "en": "💊 Britain forces opium trade on China, wars ensue\n💔 China defeated, forced to sign unequal treaties\n🏝️ Hong Kong ceded to Britain (1842)\n🔓 Treaty ports opened, foreign concessions established\n📉 'Century of Humiliation' begins",
+      "fr": "💊 La Grande-Bretagne force commerce de l'opium sur la Chine, guerres s'ensuivent\n💔 Chine vaincue, forcée de signer traités inégaux\n🏝️ Hong Kong cédé à la Grande-Bretagne (1842)\n🔓 Ports traités ouverts, concessions étrangères établies\n📉 'Siècle d'humiliation' commence"
+    },
+    "image": "images/china/opium_wars.jpg",
+    "tags": ["war", "opium", "britain", "imperialism"]
+  },
+  {
+    "year": "1850–1864",
+    "era": "Internal Conflict",
+    "title": {
+      "en": "Taiping Rebellion",
+      "fr": "Rébellion Taiping"
+    },
+    "description": {
+      "en": "⚔️ Massive civil war led by Hong Xiuquan (claimed to be Jesus's brother)\n💀 Deadliest conflict in 19th century — 20-30 million deaths\n🕊️ Christian-influenced movement sought to overthrow Qing\n🔥 Devastated southern China for 14 years\n💔 Weakened Qing dynasty significantly",
+      "fr": "⚔️ Guerre civile massive menée par Hong Xiuquan (prétendait être frère de Jésus)\n💀 Conflit le plus meurtrier du 19e siècle — 20-30 millions de morts\n🕊️ Mouvement influencé par le christianisme chercha à renverser les Qing\n🔥 Dévasta Chine du Sud pendant 14 ans\n💔 Affaiblit considérablement la dynastie Qing"
+    },
+    "image": "images/china/taiping_rebellion.avif",
+    "tags": ["rebellion", "civil-war", "taiping", "conflict"]
+  },
+  {
+    "year": "1835–1908",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Empress Dowager Cixi",
+      "fr": "Impératrice douairière Cixi"
+    },
+    "description": {
+      "en": "👩‍👑 De facto ruler of China for 47 years (1861-1908)\n⚡ Rose from concubine to most powerful woman in Chinese history\n🔄 Opposed reforms initially, later supported modernization\n💔 Blamed for weakness against foreign powers\n🏛️ Built lavish Summer Palace using navy funds\n😔 Controversial figure — conservative yet pragmatic",
+      "fr": "👩‍👑 Dirigeante de facto de la Chine pendant 47 ans (1861-1908)\n⚡ S'éleva de concubine à femme la plus puissante de l'histoire chinoise\n🔄 S'opposa aux réformes initialement, soutint plus tard la modernisation\n💔 Blâmée pour faiblesse face aux puissances étrangères\n🏛️ Construisit somptueux Palais d'Été avec fonds de la marine\n😔 Personnage controversé — conservatrice mais pragmatique"
+    },
+    "image": "images/china/cixi.jpg",
+    "tags": ["leader", "empress", "qing", "controversial"]
+  },
+  {
+    "year": "1911–1912",
+    "era": "Revolution",
+    "title": {
+      "en": "Xinhai Revolution - End of Imperial China",
+      "fr": "Révolution Xinhai - Fin de la Chine impériale"
+    },
+    "description": {
+      "en": "✊ Revolution overthrows Qing Dynasty\n👑 Last emperor Puyi abdicates (1912) — end of 2,000+ years of imperial rule\n🏛️ Republic of China proclaimed\n⚡ Sun Yat-sen becomes provisional president\n🌅 New era begins, but instability follows",
+      "fr": "✊ Révolution renverse la dynastie Qing\n👑 Dernier empereur Puyi abdique (1912) — fin de 2 000+ ans de règne impérial\n🏛️ République de Chine proclamée\n⚡ Sun Yat-sen devient président provisoire\n🌅 Nouvelle ère commence, mais instabilité suit"
+    },
+    "image": "images/china/xinhai_revolution.jpg",
+    "tags": ["revolution", "republic", "end-of-empire", "xinhai"]
+  },
+  {
+    "year": "1866–1925",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Sun Yat-sen - Father of Modern China",
+      "fr": "Sun Yat-sen - Père de la Chine moderne"
+    },
+    "description": {
+      "en": "🏛️ Revolutionary leader, founded Republic of China (1912)\n✊ Led overthrow of Qing Dynasty, ended imperial rule\n📚 Three Principles: nationalism, democracy, people's livelihood\n🌏 Provisional president, founded Kuomintang (KMT)\n🕊️ Revered by both Communists and Nationalists\n💫 'Father of the Nation' in China and Taiwan",
+      "fr": "🏛️ Leader révolutionnaire, fonda République de Chine (1912)\n✊ Mena renversement de la dynastie Qing, mit fin au règne impérial\n📚 Trois principes : nationalisme, démocratie, bien-être du peuple\n🌏 Président provisoire, fonda Kuomintang (KMT)\n🕊️ Vénéré par communistes et nationalistes\n💫 'Père de la Nation' en Chine et à Taïwan"
+    },
+    "image": "images/china/sun_yatsen.jpg",
+    "tags": ["leader", "revolutionary", "founder", "republic"]
+  },
+  {
+    "year": "1916–1928",
+    "era": "Warlord Era",
+    "title": {
+      "en": "Warlord Period",
+      "fr": "Période des seigneurs de guerre"
+    },
+    "description": {
+      "en": "⚔️ China fragments into warlord-controlled territories\n💔 Weak central government, regional military leaders rule\n🔥 Constant warfare, political chaos\n😔 Suffering of common people, economic hardship\n🏛️ Competing visions for China's future",
+      "fr": "⚔️ Chine fragmentée en territoires contrôlés par seigneurs de guerre\n💔 Gouvernement central faible, chefs militaires régionaux règnent\n🔥 Guerre constante, chaos politique\n😔 Souffrance du peuple ordinaire, difficultés économiques\n🏛️ Visions concurrentes pour l'avenir de la Chine"
+    },
+    "image": "images/china/warlord_era.jpg",
+    "tags": ["warlord", "chaos", "civil-conflict", "fragmentation"]
+  },
+  {
+    "year": "1887–1975",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Chiang Kai-shek",
+      "fr": "Tchang Kaï-chek"
+    },
+    "description": {
+      "en": "⚔️ Leader of Republic of China (1928-1949) and Taiwan (1949-1975)\n🏛️ Led Kuomintang (KMT), succeeded Sun Yat-sen\n💥 United China briefly, fought warlords and Japanese\n💔 Lost civil war to Communists, fled to Taiwan (1949)\n🏝️ Established authoritarian rule in Taiwan\n🌏 Maintained claim to be legitimate government of all China",
+      "fr": "⚔️ Leader de la République de Chine (1928-1949) et Taïwan (1949-1975)\n🏛️ Mena le Kuomintang (KMT), succéda à Sun Yat-sen\n💥 Unifia la Chine brièvement, combattit seigneurs de guerre et Japonais\n💔 Perdit guerre civile face aux communistes, s'enfuit à Taïwan (1949)\n🏝️ Établit règne autoritaire à Taïwan\n🌏 Maintint prétention d'être gouvernement légitime de toute la Chine"
+    },
+    "image": "images/china/chiang_kaishek.jpg",
+    "tags": ["leader", "nationalist", "taiwan", "kmt"]
+  },
+  {
+    "year": "1937–1945",
+    "era": "World War II",
+    "title": {
+      "en": "Second Sino-Japanese War",
+      "fr": "Seconde guerre sino-japonaise"
+    },
+    "description": {
+      "en": "⚔️ Japanese invasion of China, brutal occupation\n💀 Nanjing Massacre (1937) — 200,000+ civilians killed\n🤝 Nationalists and Communists unite temporarily\n💔 Estimated 15-20 million Chinese deaths\n✊ Resistance despite overwhelming odds\n🌏 China becomes Allied power, part of WWII",
+      "fr": "⚔️ Invasion japonaise de la Chine, occupation brutale\n💀 Massacre de Nankin (1937) — 200 000+ civils tués\n🤝 Nationalistes et communistes s'unissent temporairement\n💔 Estimé 15-20 millions de morts chinois\n✊ Résistance malgré chances accablantes\n🌏 Chine devient puissance alliée, partie de la Seconde Guerre mondiale"
+    },
+    "image": "images/china/sino_japanese_war.webp",
+    "tags": ["war", "japan", "wwii", "resistance"]
+  },
+  {
+    "year": "1945–1949",
+    "era": "Civil War",
+    "title": {
+      "en": "Chinese Civil War",
+      "fr": "Guerre civile chinoise"
+    },
+    "description": {
+      "en": "🔴 Communists (Mao) vs Nationalists (Chiang) resume war\n⚔️ After Japanese defeat, full-scale civil war erupts\n✊ Communist victory despite Nationalist superiority\n🏃 Chiang flees to Taiwan with 2 million followers\n🚩 People's Republic of China proclaimed (Oct 1, 1949)",
+      "fr": "🔴 Communistes (Mao) vs Nationalistes (Chiang) reprennent la guerre\n⚔️ Après défaite japonaise, guerre civile totale éclate\n✊ Victoire communiste malgré supériorité nationaliste\n🏃 Chiang s'enfuit à Taïwan avec 2 millions de partisans\n🚩 République populaire de Chine proclamée (1er octobre 1949)"
+    },
+    "image": "images/china/civil_war.jpg",
+    "tags": ["civil-war", "communist", "nationalist", "revolution"]
+  },
+  {
+    "year": "1893–1976",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Mao Zedong - Founding Father of PRC",
+      "fr": "Mao Zedong - Père fondateur de la RPC"
+    },
+    "description": {
+      "en": "🚩 Founded People's Republic of China (1949), ruled until death\n⚔️ Led Communist victory in civil war\n🏭 Great Leap Forward (1958-62) — 15-45 million deaths from famine\n🔴 Cultural Revolution (1966-76) — chaos, persecution, millions suffer\n📖 'Little Red Book' — Mao's quotations\n🌏 Transformed China but at enormous human cost\n💭 Complex legacy — national hero and mass murderer",
+      "fr": "🚩 Fonda République populaire de Chine (1949), régna jusqu'à sa mort\n⚔️ Mena victoire communiste dans guerre civile\n🏭 Grand Bond en avant (1958-62) — 15-45 millions de morts de famine\n🔴 Révolution culturelle (1966-76) — chaos, persécution, millions souffrent\n📖 'Petit Livre rouge' — citations de Mao\n🌏 Transforma la Chine mais à coût humain énorme\n💭 Héritage complexe — héros national et meurtrier de masse"
+    },
+    "image": "images/china/mao_zedong.jpg",
+    "tags": ["leader", "communist", "founder", "chairman"]
+  },
+  {
+    "year": "1949",
+    "era": "Communist Era",
+    "title": {
+      "en": "Founding of People's Republic of China",
+      "fr": "Fondation de la République populaire de Chine"
+    },
+    "description": {
+      "en": "🚩 Mao proclaims PRC from Tiananmen Square (October 1, 1949)\n🔴 Communist Party takes control of mainland China\n🏭 Rapid industrialization, collectivization begins\n🌏 Alliance with Soviet Union, joins Communist bloc\n💔 Nationalist government continues in Taiwan — two Chinas",
+      "fr": "🚩 Mao proclame RPC depuis place Tiananmen (1er octobre 1949)\n🔴 Parti communiste prend contrôle de la Chine continentale\n🏭 Industrialisation rapide, collectivisation commence\n🌏 Alliance avec Union soviétique, rejoint bloc communiste\n💔 Gouvernement nationaliste continue à Taïwan — deux Chines"
+    },
+    "image": "images/china/prc_founding.jpg",
+    "tags": ["founding", "communist", "prc", "revolution"]
+  },
+  {
+    "year": "1958–1962",
+    "era": "Great Leap Forward",
+    "title": {
+      "en": "Great Leap Forward - Catastrophic Famine",
+      "fr": "Grand Bond en avant - Famine catastrophique"
+    },
+    "description": {
+      "en": "🏭 Mao's campaign to rapidly industrialize China\n🌾 Forced collectivization of agriculture, backyard furnaces\n💀 Worst famine in history — 15-45 million deaths\n📉 Economic disaster, agricultural collapse\n🤫 Covered up by government for decades\n😔 One of greatest human-made catastrophes",
+      "fr": "🏭 Campagne de Mao pour industrialiser rapidement la Chine\n🌾 Collectivisation forcée de l'agriculture, fourneaux de cour\n💀 Pire famine de l'histoire — 15-45 millions de morts\n📉 Désastre économique, effondrement agricole\n🤫 Dissimulé par le gouvernement pendant des décennies\n😔 L'une des plus grandes catastrophes d'origine humaine"
+    },
+    "image": "images/china/great_leap_forward.jpg",
+    "tags": ["famine", "disaster", "mao", "tragedy"]
+  },
+  {
+    "year": "1966–1976",
+    "era": "Cultural Revolution",
+    "title": {
+      "en": "Cultural Revolution",
+      "fr": "Révolution culturelle"
+    },
+    "description": {
+      "en": "🔴 Mao launches movement to purge 'capitalist' elements\n👥 Red Guards terrorize intellectuals, destroy cultural heritage\n💔 Millions persecuted, killed, sent to labor camps\n📚 Schools closed, ancient artifacts destroyed\n🌀 Decade of chaos and violence\n😔 Traumatic period, generation's education lost",
+      "fr": "🔴 Mao lance mouvement pour purger éléments 'capitalistes'\n👥 Gardes rouges terrorisent intellectuels, détruisent patrimoine culturel\n💔 Millions persécutés, tués, envoyés dans camps de travail\n📚 Écoles fermées, artefacts anciens détruits\n🌀 Décennie de chaos et de violence\n😔 Période traumatique, éducation d'une génération perdue"
+    },
+    "image": "images/china/cultural_revolution.jpg",
+    "tags": ["revolution", "mao", "chaos", "persecution"]
+  },
+  {
+    "year": "1904–1997",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Deng Xiaoping - Architect of Modern China",
+      "fr": "Deng Xiaoping - Architecte de la Chine moderne"
+    },
+    "description": {
+      "en": "🏗️ Paramount leader (1978-1989), transformed China's economy\n💰 'Reform and Opening Up' — market reforms while keeping Communist Party rule\n🚀 'Socialism with Chinese characteristics' — pragmatic capitalism\n📈 Economic miracle begins — lifted 800 million from poverty\n💔 Ordered Tiananmen Square crackdown (1989)\n🌏 'To get rich is glorious' — famous quote",
+      "fr": "🏗️ Leader suprême (1978-1989), transforma économie chinoise\n💰 'Réforme et ouverture' — réformes de marché tout en gardant règne du Parti communiste\n🚀 'Socialisme aux caractéristiques chinoises' — capitalisme pragmatique\n📈 Miracle économique commence — sorti 800 millions de la pauvreté\n💔 Ordonna répression de la place Tiananmen (1989)\n🌏 'S'enrichir est glorieux' — citation célèbre"
+    },
+    "image": "images/china/deng_xiaoping.jpg",
+    "tags": ["leader", "reform", "economy", "modernization"]
+  },
+  {
+    "year": "1978",
+    "era": "Reform Era",
+    "title": {
+      "en": "Reform and Opening Up",
+      "fr": "Réforme et ouverture"
+    },
+    "description": {
+      "en": "💰 Deng Xiaoping launches economic reforms\n🏭 Special Economic Zones created, foreign investment welcomed\n🌾 Agricultural reforms, household responsibility system\n📈 Beginning of China's economic miracle\n🌏 Opening to the world after decades of isolation",
+      "fr": "💰 Deng Xiaoping lance réformes économiques\n🏭 Zones économiques spéciales créées, investissement étranger accueilli\n🌾 Réformes agricoles, système de responsabilité des ménages\n📈 Début du miracle économique chinois\n🌏 Ouverture au monde après décennies d'isolement"
+    },
+    "image": "images/china/reform_opening.jpg",
+    "tags": ["reform", "economy", "deng", "opening"]
+  },
+  {
+    "year": "1989",
+    "era": "Democratic Movement",
+    "title": {
+      "en": "Tiananmen Square Protests",
+      "fr": "Manifestations de la place Tiananmen"
+    },
+    "description": {
+      "en": "✊ Student-led pro-democracy protests in Beijing\n🕊️ Millions demand political reform, freedom, anti-corruption\n💔 June 4 — military crackdown, hundreds to thousands killed\n📸 'Tank Man' — iconic image of resistance\n🤫 Censored in China, sensitive topic to this day\n😔 Democracy movement crushed, economic reform continues",
+      "fr": "✊ Manifestations pro-démocratie menées par étudiants à Pékin\n🕊️ Des millions exigent réforme politique, liberté, anti-corruption\n💔 4 juin — répression militaire, centaines à milliers tués\n📸 'Tank Man' — image iconique de la résistance\n🤫 Censuré en Chine, sujet sensible à ce jour\n😔 Mouvement démocratique écrasé, réforme économique continue"
+    },
+    "image": "images/china/tiananmen.avif",
+    "tags": ["protest", "democracy", "tiananmen", "crackdown"]
+  },
+  {
+    "year": "1997 & 1999",
+    "era": "Reunification",
+    "title": {
+      "en": "Hong Kong and Macau Return",
+      "fr": "Retour de Hong Kong et Macao"
+    },
+    "description": {
+      "en": "🏝️ Hong Kong returned from Britain (1997), Macau from Portugal (1999)\n🏛️ 'One Country, Two Systems' policy implemented\n💼 Territories keep capitalism, own legal systems\n🌏 End of century of humiliation, national pride\n⏰ 50-year guarantee of autonomy (expires 2047)",
+      "fr": "🏝️ Hong Kong retourné par Grande-Bretagne (1997), Macao par Portugal (1999)\n🏛️ Politique 'Un pays, deux systèmes' mise en œuvre\n💼 Territoires gardent capitalisme, systèmes juridiques propres\n🌏 Fin du siècle d'humiliation, fierté nationale\n⏰ Garantie de 50 ans d'autonomie (expire 2047)"
+    },
+    "image": "images/china/hongkong_return.jpg",
+    "tags": ["reunification", "hongkong", "macau", "sovereignty"]
+  },
+  {
+    "year": "2001",
+    "era": "Globalization",
+    "title": {
+      "en": "WTO Entry - China Joins World Trade",
+      "fr": "Entrée OMC - Chine rejoint commerce mondial"
+    },
+    "description": {
+      "en": "🌍 China joins World Trade Organization (WTO)\n📈 Economic growth accelerates dramatically\n🏭 'Factory of the world' — manufacturing boom\n💰 Foreign investment floods in, exports soar\n🚀 Integration into global economy",
+      "fr": "🌍 Chine rejoint Organisation mondiale du commerce (OMC)\n📈 Croissance économique accélère dramatiquement\n🏭 'Usine du monde' — boom manufacturier\n💰 Investissement étranger afflue, exportations montent en flèche\n🚀 Intégration dans économie mondiale"
+    },
+    "image": "images/china/wto_entry.jpg",
+    "tags": ["wto", "trade", "economy", "globalization"]
+  },
+  {
+    "year": "2008",
+    "era": "National Pride",
+    "title": {
+      "en": "Beijing Olympics",
+      "fr": "Jeux olympiques de Pékin"
+    },
+    "description": {
+      "en": "🏅 China hosts spectacular Summer Olympics\n🎆 Opening ceremony showcases 5,000 years of history\n💪 China tops medal table, national pride soars\n🌏 'China's coming out party' to the world\n🏗️ Massive infrastructure built — Bird's Nest stadium",
+      "fr": "🏅 Chine accueille Jeux olympiques d'été spectaculaires\n🎆 Cérémonie d'ouverture présente 5 000 ans d'histoire\n💪 Chine en tête du tableau des médailles, fierté nationale monte\n🌏 'Fête de présentation de la Chine' au monde\n🏗️ Infrastructure massive construite — stade Nid d'oiseau"
+    },
+    "image": "images/china/beijing_olympics.jpg",
+    "tags": ["olympics", "sports", "national-pride", "beijing"]
+  },
+  {
+    "year": "1953–Present",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Xi Jinping - Current Leader",
+      "fr": "Xi Jinping - Leader actuel"
+    },
+    "description": {
+      "en": "🚩 General Secretary since 2012, President since 2013\n👑 Most powerful Chinese leader since Mao, abolished term limits (2018)\n💪 'Chinese Dream' — national rejuvenation, great power status\n🛡️ Anti-corruption campaign, consolidation of power\n🌏 Belt and Road Initiative — global infrastructure project\n⚔️ Assertive foreign policy, tensions with U.S.\n🔒 Crackdown on Hong Kong, Uyghurs, increased surveillance",
+      "fr": "🚩 Secrétaire général depuis 2012, Président depuis 2013\n👑 Leader chinois le plus puissant depuis Mao, abolit limites de mandats (2018)\n💪 'Rêve chinois' — rajeunissement national, statut de grande puissance\n🛡️ Campagne anti-corruption, consolidation du pouvoir\n🌏 Initiative Ceinture et Route — projet d'infrastructure mondiale\n⚔️ Politique étrangère assertive, tensions avec États-Unis\n🔒 Répression à Hong Kong, Ouïghours, surveillance accrue"
+    },
+    "image": "images/china/xi_jinping.jpg",
+    "tags": ["leader", "president", "current", "xi-jinping"]
+  },
+  {
+    "year": "2013–Present",
+    "era": "Global Initiative",
+    "title": {
+      "en": "Belt and Road Initiative",
+      "fr": "Initiative Ceinture et Route"
+    },
+    "description": {
+      "en": "🌏 Massive global infrastructure investment project\n🚂 New Silk Road — railways, ports, roads across Asia, Africa, Europe\n💰 Trillion-dollar investment, 70+ countries involved\n🏗️ Extends Chinese influence worldwide\n⚠️ Criticized as 'debt-trap diplomacy' by some",
+      "fr": "🌏 Projet massif d'investissement dans infrastructures mondiales\n🚂 Nouvelle Route de la Soie — chemins de fer, ports, routes à travers Asie, Afrique, Europe\n💰 Investissement d'un trillion de dollars, 70+ pays impliqués\n🏗️ Étend influence chinoise mondialement\n⚠️ Critiqué comme 'diplomatie du piège de la dette' par certains"
+    },
+    "image": "images/china/belt_road.jpg",
+    "tags": ["bri", "infrastructure", "global", "influence"]
+  },
+  {
+    "year": "2019–2020",
+    "era": "Political Unrest",
+    "title": {
+      "en": "Hong Kong Protests",
+      "fr": "Manifestations de Hong Kong"
+    },
+    "description": {
+      "en": "✊ Massive pro-democracy protests against extradition bill\n🏙️ Millions march, months of demonstrations\n💔 Police crackdown, violence escalates\n📜 National Security Law imposed (2020) — autonomy eroded\n😔 'One Country, Two Systems' under threat",
+      "fr": "✊ Manifestations massives pro-démocratie contre loi d'extradition\n🏙️ Des millions marchent, mois de manifestations\n💔 Répression policière, violence s'intensifie\n📜 Loi de sécurité nationale imposée (2020) — autonomie érodée\n😔 'Un pays, deux systèmes' menacé"
+    },
+    "image": "images/china/hongkong_protests.jpg",
+    "tags": ["protest", "hongkong", "democracy", "crackdown"]
+  },
+  {
+    "year": "2020–2022",
+    "era": "Pandemic",
+    "title": {
+      "en": "COVID-19 Pandemic Origin",
+      "fr": "Origine de la pandémie de COVID-19"
+    },
+    "description": {
+      "en": "🦠 Virus emerges in Wuhan, China (December 2019)\n🌍 Becomes global pandemic, millions die worldwide\n🔒 China implements strict 'Zero-COVID' lockdowns\n🤔 Origins debated — wet market vs lab leak theory\n📉 Economic impact, international tensions",
+      "fr": "🦠 Virus émerge à Wuhan, Chine (décembre 2019)\n🌍 Devient pandémie mondiale, millions meurent mondialement\n🔒 Chine met en œuvre confinements stricts 'Zéro-COVID'\n🤔 Origines débattues — marché humide vs théorie de fuite de laboratoire\n📉 Impact économique, tensions internationales"
+    },
+    "image": "images/china/covid_origin.jpg",
+    "tags": ["pandemic", "covid", "health", "wuhan"]
+  },
+  {
+    "year": "Present",
+    "era": "Modern China",
+    "title": {
+      "en": "China Today",
+      "fr": "Chine aujourd'hui"
+    },
+    "description": {
+      "en": "🇨🇳 World's second-largest economy, most populous nation (1.4+ billion)\n🏭 Manufacturing powerhouse, 'Factory of the World'\n🚀 Space program — moon rover, Mars mission, space station\n💻 Tech giant — AI, 5G, e-commerce (Alibaba, Tencent, Huawei)\n⚔️ Rising military power, South China Sea tensions\n🤝 Belt and Road Initiative — global infrastructure investment\n⚖️ Challenges: aging population, debt, U.S. rivalry, Taiwan tensions\n🔒 Authoritarian state — surveillance, censorship, human rights concerns",
+      "fr": "🇨🇳 Deuxième économie mondiale, nation la plus peuplée (1,4+ milliard)\n🏭 Puissance manufacturière, 'Usine du monde'\n🚀 Programme spatial — rover lunaire, mission Mars, station spatiale\n💻 Géant technologique — IA, 5G, e-commerce (Alibaba, Tencent, Huawei)\n⚔️ Puissance militaire montante, tensions en mer de Chine méridionale\n🤝 Initiative Ceinture et Route — investissement infrastructure mondiale\n⚖️ Défis : population vieillissante, dette, rivalité États-Unis, tensions Taïwan\n🔒 État autoritaire — surveillance, censure, préoccupations droits de l'homme"
+    },
+    "image": "images/china/modern_china.jpg",
+    "tags": ["modern", "economy", "superpower", "technology"]
+  }
+]

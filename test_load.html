@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test Data Loading</title>
+    <style>
+        body {
+            font-family: monospace;
+            padding: 20px;
+            background: #1a1a2e;
+            color: #fff;
+        }
+        .success { color: #43e97b; }
+        .error { color: #fa709a; }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
+            background: #667eea;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            margin: 5px;
+        }
+        #output {
+            margin-top: 20px;
+            padding: 15px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 5px;
+            white-space: pre-wrap;
+        }
+    </style>
+</head>
+<body>
+    <h1>Data Loading Test</h1>
+    <p>Click a button to test loading a JSON file:</p>
+    
+    <button onclick="testLoad('france')">Test France</button>
+    <button onclick="testLoad('usa')">Test USA</button>
+    <button onclick="testLoad('ideas/uk')">Test UK</button>
+    <button onclick="testLoad('ideas/japan')">Test Japan</button>
+    
+    <div id="output"></div>
+
+    <script>
+        const output = document.getElementById('output');
+        
+        async function testLoad(topic) {
+            output.innerHTML = `Testing: data/${topic}.json\n\n`;
+            
+            try {
+                const url = `data/${topic}.json`;
+                output.innerHTML += `Fetching: ${url}\n`;
+                
+                const response = await fetch(url);
+                output.innerHTML += `Response status: ${response.status} ${response.statusText}\n`;
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
+                const data = await response.json();
+                output.innerHTML += `<span class="success">✓ SUCCESS!</span>\n`;
+                output.innerHTML += `Loaded ${data.length} entries\n\n`;
+                output.innerHTML += `First entry:\n${JSON.stringify(data[0], null, 2)}\n`;
+                
+            } catch (error) {
+                output.innerHTML += `<span class="error">✗ ERROR!</span>\n`;
+                output.innerHTML += `Error type: ${error.name}\n`;
+                output.innerHTML += `Error message: ${error.message}\n\n`;
+                
+                if (error.message.includes('Failed to fetch')) {
+                    output.innerHTML += `\n<span class="error">⚠️ CORS/File Access Issue Detected!</span>\n\n`;
+                    output.innerHTML += `This error usually means:\n`;
+                    output.innerHTML += `1. You're opening the HTML file directly (file:///) - this won't work!\n`;
+                    output.innerHTML += `2. You need to run a local web server.\n\n`;
+                    output.innerHTML += `SOLUTION: Open PowerShell in this folder and run:\n`;
+                    output.innerHTML += `   python -m http.server 8000\n`;
+                    output.innerHTML += `   OR\n`;
+                    output.innerHTML += `   npx http-server -p 8000\n\n`;
+                    output.innerHTML += `Then open: http://localhost:8000/parallel_timeline.html\n`;
+                }
+            }
+        }
+        
+        // Auto-test on load
+        window.onload = () => testLoad('france');
+    </script>
+</body>
+</html>

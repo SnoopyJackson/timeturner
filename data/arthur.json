@@ -7,8 +7,8 @@
       "fr": "Merlin"
     },
     "description": {
-      "en": "Born of mortal woman and spirit, Merlin bridges the realms of magic and man. The greatest wizard of Britain foresees a just king who will unite a broken land. Guiding destiny itself, he shapes Arthur's fate before his birth.",
-      "fr": "Né d'une femme mortelle et d'un esprit, Merlin relie les royaumes de la magie et des hommes. Le plus grand sorcier de Bretagne prédit la venue d'un roi juste qui unira une terre divisée. Gardien du destin, il façonne la destinée d'Arthur avant sa naissance."
+      "en": "🧙 Born of mortal woman and spirit, Merlin bridges the realms of magic and man.\n🔮 The greatest wizard of Britain foresees a just king who will unite a broken land.\n✨ Guiding destiny itself, he shapes Arthur's fate before his birth.",
+      "fr": "🧙 Né d'une femme mortelle et d'un esprit, Merlin relie les royaumes de la magie et des hommes.\n🔮 Le plus grand sorcier de Bretagne prédit la venue d'un roi juste qui unira une terre divisée.\n✨ Gardien du destin, il façonne la destinée d'Arthur avant sa naissance."
     },
     "image": "images/arthurian/merlin_prophecy.jpg",
     "tags": ["merlin", "prophecy", "magic", "wisdom", "beginning"]
@@ -21,8 +21,8 @@
       "fr": "Uther Pendragon"
     },
     "description": {
-      "en": "King Uther Pendragon rules Britain but desires Igraine, wife of the Duke of Cornwall. Through Merlin's magic, Uther takes the duke's form and Arthur is conceived. The king dies soon after, leaving Britain in chaos and the infant Arthur hidden for his safety.",
-      "fr": "Le roi Uther Pendragon règne sur la Bretagne mais désire Ygraine, épouse du duc de Cornouailles. Par la magie de Merlin, Uther prend la forme du duc et Arthur est conçu. Le roi meurt peu après, laissant la Bretagne dans le chaos et le jeune Arthur caché pour sa sécurité."
+      "en": "👑 King Uther Pendragon rules Britain but desires Igraine, wife of the Duke of Cornwall.\n✨ Through Merlin's magic, Uther takes the duke's form and Arthur is conceived.\n💀 The king dies soon after, leaving Britain in chaos and the infant Arthur hidden for his safety.",
+      "fr": "👑 Le roi Uther Pendragon règne sur la Bretagne mais désire Ygraine, épouse du duc de Cornouailles.\n✨ Par la magie de Merlin, Uther prend la forme du duc et Arthur est conçu.\n💀 Le roi meurt peu après, laissant la Bretagne dans le chaos et le jeune Arthur caché pour sa sécurité."
     },
     "image": "images/arthurian/uther_pendragon.jpg",
     "tags": ["uther", "igraine", "merlin", "conception", "kingship"]
@@ -35,10 +35,10 @@
       "fr": "Arthur"
     },
     "description": {
-      "en": "Born of Uther Pendragon and Igraine through Merlin's magic, the infant Arthur is hidden for his safety. He is raised by Sir Ector as brother to Kay, unaware of his royal bloodline, living a humble life far from court intrigue.",
-      "fr": "Né d'Uther Pendragon et d'Ygraine grâce à la magie de Merlin, le jeune Arthur est caché pour sa sécurité. Il est élevé par sire Hector comme frère de Keu, ignorant son sang royal, vivant une vie humble loin des intrigues de la cour."
+      "en": "👶 Born of Uther Pendragon and Igraine through Merlin's magic, the infant Arthur is hidden for his safety.\n🛡️ He is raised by Sir Ector as brother to Kay, unaware of his royal bloodline.\n🏡 Living a humble life far from court intrigue, his true destiny awaits.",
+      "fr": "👶 Né d'Uther Pendragon et d'Ygraine grâce à la magie de Merlin, le jeune Arthur est caché pour sa sécurité.\n🛡️ Il est élevé par sire Hector comme frère de Keu, ignorant son sang royal.\n🏡 Vivant une vie humble loin des intrigues de la cour."
     },
-    "image": "images/arthurian/arthur_birth.jpg",
+    "image": "images/arthurian/Arthur.jpg",
     "tags": ["arthur", "birth", "uther", "merlin", "ector"]
   },
   {
@@ -49,10 +49,10 @@
       "fr": "Keu"
     },
     "description": {
-      "en": "Sir Kay, son of Sir Ector and Arthur's foster brother, is raised alongside the future king. Bold and sometimes arrogant, Kay serves as Arthur's seneschal once his brother becomes king. Though often overshadowed, his loyalty to Arthur never wavers.",
-      "fr": "Sire Keu, fils de sire Hector et frère adoptif d'Arthur, est élevé aux côtés du futur roi. Audacieux et parfois arrogant, Keu sert de sénéchal d'Arthur une fois son frère devenu roi. Bien qu'éclipsé, sa loyauté envers Arthur ne faiblit jamais."
+      "en": "🤝 Sir Kay, son of Sir Ector and Arthur's foster brother, is raised alongside the future king.\n⚔️ Bold and sometimes arrogant, Kay serves as Arthur's seneschal once his brother becomes king.\n💪 Though often overshadowed, his loyalty to Arthur never wavers.",
+      "fr": "🤝 Sire Keu, fils de sire Hector et frère adoptif d'Arthur, est élevé aux côtés du futur roi.\n⚔️ Audacieux et parfois arrogant, Keu sert de sénéchal d'Arthur une fois son frère devenu roi.\n💪 Bien qu'éclipsé, sa loyauté envers Arthur ne faiblit jamais."
     },
-    "image": "images/arthurian/kay.jpg",
+    "image": "images/arthurian/kay.webp",
     "tags": ["kay", "foster_brother", "seneschal", "loyalty", "youth"]
   },
   {
@@ -63,10 +63,10 @@
       "fr": "L'épée dans la pierre"
     },
     "description": {
-      "en": "After Uther's death, Britain falls into chaos with no clear heir. A sword appears in a stone: 'Whoso pulleth out this sword is rightful king.' Young Arthur, seeking a sword for his foster brother Kay at a tournament, draws it effortlessly, fulfilling Merlin's prophecy.",
-      "fr": "Après la mort d'Uther, la Bretagne sombre dans le chaos sans héritier clair. Une épée apparaît dans une pierre : « Celui qui retirera cette épée sera le roi légitime. » Le jeune Arthur, cherchant une épée pour son frère adoptif Keu, la tire sans effort, accomplissant la prophétie de Merlin."
+      "en": "⚔️ After Uther's death, Britain falls into chaos with no clear heir — a sword appears in a stone: 'Whoso pulleth out this sword is rightful king.'\n👑 Young Arthur, seeking a sword for his foster brother Kay at a tournament, draws it effortlessly.\n✨ Fulfilling Merlin's prophecy, the true king is revealed.",
+      "fr": "⚔️ Après la mort d'Uther, la Bretagne sombre dans le chaos sans héritier clair. Une épée apparaît dans une pierre : « Celui qui retirera cette épée sera le roi légitime. »\n👑 Le jeune Arthur, cherchant une épée pour son frère adoptif Keu, la tire sans effort.\n✨ Accomplissant la prophétie de Merlin."
     },
-    "image": "images/arthurian/sword_in_stone.jpg",
+    "image": "images/arthurian/sword_in_stone.webp",
     "tags": ["arthur", "sword", "destiny", "prophecy", "youth", "kay"]
   },
   {
@@ -77,8 +77,8 @@
       "fr": "Le roi Arthur"
     },
     "description": {
-      "en": "Despite resistance from rival lords, Arthur proves his legitimacy through the sword and Merlin's testimony. Crowned at a young age, he vows to bring peace, justice, and unity to a fractured Britain. His reign begins.",
-      "fr": "Malgré la résistance des seigneurs rivaux, Arthur prouve sa légitimité par l'épée et le témoignage de Merlin. Couronné jeune, il jure d'apporter paix, justice et unité à une Bretagne fracturée. Son règne commence."
+      "en": "👑 Despite resistance from rival lords, Arthur proves his legitimacy through the sword and Merlin's testimony.\n⚖️ Crowned at a young age, he vows to bring peace, justice, and unity to a fractured Britain.\n🌟 His reign begins.",
+      "fr": "👑 Malgré la résistance des seigneurs rivaux, Arthur prouve sa légitimité par l'épée et le témoignage de Merlin.\n⚖️ Couronné jeune, il jure d'apporter paix, justice et unité à une Bretagne fracturée.\n🌟 Son règne commence."
     },
     "image": "images/arthurian/arthur_crowned.jpg",
     "tags": ["arthur", "coronation", "kingship", "merlin", "legitimacy"]
@@ -91,8 +91,8 @@
       "fr": "Excalibur"
     },
     "description": {
-      "en": "After the Sword in the Stone breaks in battle, Arthur receives Excalibur from the Lady of the Lake. The magical sword symbolizes divine authority, and its scabbard grants protection from mortal wounds. With it, Arthur secures his kingdom.",
-      "fr": "Après que l'épée de la pierre se brise au combat, Arthur reçoit Excalibur de la Dame du Lac. L'épée magique symbolise l'autorité divine, et son fourreau protège des blessures mortelles. Avec elle, Arthur sécurise son royaume."
+      "en": "⚔️ After the Sword in the Stone breaks in battle, Arthur receives Excalibur from the Lady of the Lake.\n✨ The magical sword symbolizes divine authority, and its scabbard grants protection from mortal wounds.\n🛡️ With it, Arthur secures his kingdom.",
+      "fr": "⚔️ Après que l'épée de la pierre se brise au combat, Arthur reçoit Excalibur de la Dame du Lac.\n✨ L'épée magique symbolise l'autorité divine, et son fourreau protège des blessures mortelles.\n🛡️ Avec elle, Arthur sécurise son royaume."
     },
     "image": "images/arthurian/excalibur.jpg",
     "tags": ["arthur", "excalibur", "lady_of_the_lake", "magic", "power"]
@@ -105,8 +105,8 @@
       "fr": "Camelot"
     },
     "description": {
-      "en": "Arthur founds Camelot, a shining city and symbol of his vision for a just realm. He marries Guinevere, daughter of King Leodegrance, bringing beauty and grace to the court. Camelot becomes a beacon of hope throughout Britain.",
-      "fr": "Arthur fonde Camelot, cité rayonnante et symbole de sa vision d'un royaume juste. Il épouse Guenièvre, fille du roi Léodagan, apportant beauté et grâce à la cour. Camelot devient un phare d'espoir dans toute la Bretagne."
+      "en": "🏰 Arthur founds Camelot, a shining city and symbol of his vision for a just realm.\n💑 He marries Guinevere, daughter of King Leodegrance, bringing beauty and grace to the court.\n✨ Camelot becomes a beacon of hope throughout Britain.",
+      "fr": "🏰 Arthur fonde Camelot, cité rayonnante et symbole de sa vision d'un royaume juste.\n💑 Il épouse Guenièvre, fille du roi Léodagan, apportant beauté et grâce à la cour.\n✨ Camelot devient un phare d'espoir dans toute la Bretagne."
     },
     "image": "images/arthurian/camelot.jpg",
     "tags": ["arthur", "camelot", "guinevere", "foundation", "marriage"]
@@ -119,8 +119,8 @@
       "fr": "Guenièvre"
     },
     "description": {
-      "en": "Guinevere, daughter of King Leodegrance, becomes Arthur's queen. Beautiful, intelligent, and compassionate, she embodies the grace and nobility of Camelot's court. Her marriage to Arthur unites kingdoms, but her heart will be tested by love and loyalty.",
-      "fr": "Guenièvre, fille du roi Léodagan, devient reine d'Arthur. Belle, intelligente et compatissante, elle incarne la grâce et la noblesse de la cour de Camelot. Son mariage unit des royaumes, mais son cœur sera éprouvé par l'amour et la loyauté."
+      "en": "👸 Guinevere, daughter of King Leodegrance, becomes Arthur's queen.\n✨ Beautiful, intelligent, and compassionate, she embodies the grace and nobility of Camelot's court.\n💔 Her marriage to Arthur unites kingdoms, but her heart will be tested by love and loyalty.",
+      "fr": "👸 Guenièvre, fille du roi Léodagan, devient reine d'Arthur.\n✨ Belle, intelligente et compatissante, elle incarne la grâce et la noblesse de la cour de Camelot.\n💔 Son mariage unit des royaumes, mais son cœur sera éprouvé par l'amour et la loyauté."
     },
     "image": "images/arthurian/guinevere.jpg",
     "tags": ["guinevere", "queen", "marriage", "arthur", "nobility"]
@@ -133,8 +133,8 @@
       "fr": "La Table ronde"
     },
     "description": {
-      "en": "Arthur establishes the Round Table, a wedding gift from Guinevere's father. The round shape symbolizes equality among knights — no head, no hierarchy. Each knight swears an oath to courage, loyalty, honor, justice, and protection of the weak.",
-      "fr": "Arthur établit la Table ronde, cadeau de mariage du père de Guenièvre. Sa forme ronde symbolise l'égalité entre chevaliers — pas de chef, pas de hiérarchie. Chaque chevalier jure courage, loyauté, honneur, justice et protection des faibles."
+      "en": "⚪ Arthur establishes the Round Table, a wedding gift from Guinevere's father.\n🤝 The round shape symbolizes equality among knights — no head, no hierarchy.\n⚔️ Each knight swears an oath to courage, loyalty, honor, justice, and protection of the weak.",
+      "fr": "⚪ Arthur établit la Table ronde, cadeau de mariage du père de Guenièvre.\n🤝 Sa forme ronde symbolise l'égalité entre chevaliers — pas de chef, pas de hiérarchie.\n⚔️ Chaque chevalier jure courage, loyauté, honneur, justice et protection des faibles."
     },
     "image": "images/arthurian/round_table.jpg",
     "tags": ["round_table", "knights", "chivalry", "unity", "equality"]
@@ -147,8 +147,8 @@
       "fr": "Lancelot"
     },
     "description": {
-      "en": "Lancelot du Lac arrives at Camelot and becomes the greatest of Arthur's knights. Raised by the Lady of the Lake in an enchanted realm, his skill in combat is unmatched. He wins every tournament, defeats all challengers, and earns Arthur's deepest trust.",
-      "fr": "Lancelot du Lac arrive à Camelot et devient le plus grand chevalier d'Arthur. Élevé par la Dame du Lac dans un royaume enchanté, son habileté au combat est inégalée. Il remporte tous les tournois et gagne la confiance d'Arthur."
+      "en": "⚔️ Lancelot du Lac arrives at Camelot and becomes the greatest of Arthur's knights.\n🌊 Raised by the Lady of the Lake in an enchanted realm, his skill in combat is unmatched.\n🏆 He wins every tournament, defeats all challengers, and earns Arthur's deepest trust.",
+      "fr": "⚔️ Lancelot du Lac arrive à Camelot et devient le plus grand chevalier d'Arthur.\n🌊 Élevé par la Dame du Lac dans un royaume enchanté, son habileté au combat est inégalée.\n🏆 Il remporte tous les tournois et gagne la confiance d'Arthur."
     },
     "image": "images/arthurian/lancelot.jpg",
     "tags": ["lancelot", "chivalry", "knight", "combat", "champion"]
@@ -161,10 +161,10 @@
       "fr": "Gauvain"
     },
     "description": {
-      "en": "Sir Gawain, Arthur's nephew and son of King Lot, joins the Round Table. Known for his courtesy, his strength that grows with the sun until noon, and his unwavering loyalty to king and kin. He becomes one of Arthur's most trusted companions.",
-      "fr": "Sire Gauvain, neveu d'Arthur et fils du roi Lot, rejoint la Table ronde. Connu pour sa courtoisie, sa force qui croît avec le soleil jusqu'à midi, et sa loyauté indéfectible. Il devient l'un des compagnons les plus fidèles d'Arthur."
+      "en": "🛡️ Sir Gawain, Arthur's nephew and son of King Lot, joins the Round Table.\n☀️ Known for his courtesy, his strength that grows with the sun until noon, and his unwavering loyalty to king and kin.\n💪 He becomes one of Arthur's most trusted companions.",
+      "fr": "🛡️ Sire Gauvain, neveu d'Arthur et fils du roi Lot, rejoint la Table ronde.\n☀️ Connu pour sa courtoisie, sa force qui croît avec le soleil jusqu'à midi, et sa loyauté indéfectible.\n💪 Il devient l'un des compagnons les plus fidèles d'Arthur."
     },
-    "image": "images/arthurian/gawain.jpg",
+    "image": "images/arthurian/gawain.webp",
     "tags": ["gawain", "knight", "loyalty", "nephew", "strength"]
   },
   {
@@ -175,8 +175,8 @@
       "fr": "Bédivère"
     },
     "description": {
-      "en": "Sir Bedivere, one of Arthur's earliest and most loyal companions from before Camelot, serves as marshal of the king's forces. Despite losing a hand in battle, his valor and wisdom never waver. He will remain at Arthur's side until the very end.",
-      "fr": "Sire Bédivère, l'un des plus anciens compagnons d'Arthur depuis avant Camelot, sert de maréchal des forces du roi. Bien qu'ayant perdu une main au combat, sa bravoure et sagesse ne faiblissent jamais. Il restera aux côtés d'Arthur jusqu'à la fin."
+      "en": "⚔️ Sir Bedivere, one of Arthur's earliest and most loyal companions from before Camelot, serves as marshal of the king's forces.\n💪 Despite losing a hand in battle, his valor and wisdom never waver.\n🛡️ He will remain at Arthur's side until the very end.",
+      "fr": "⚔️ Sire Bédivère, l'un des plus anciens compagnons d'Arthur depuis avant Camelot, sert de maréchal des forces du roi.\n💪 Bien qu'ayant perdu une main au combat, sa bravoure et sagesse ne faiblissent jamais.\n🛡️ Il restera aux côtés d'Arthur jusqu'à la fin."
     },
     "image": "images/arthurian/bedivere.jpg",
     "tags": ["bedivere", "loyalty", "marshal", "companion", "warrior"]
@@ -189,8 +189,8 @@
       "fr": "Perceval"
     },
     "description": {
-      "en": "Sir Percival, raised in isolation from the world, arrives at Camelot innocent and pure of heart. Though initially naive, his sincerity and spiritual purity set him apart. He will become one of the three knights destined to achieve the Holy Grail.",
-      "fr": "Sire Perceval, élevé isolé du monde, arrive à Camelot innocent et pur de cœur. Bien qu'initialement naïf, sa sincérité et sa pureté spirituelle le distinguent. Il deviendra l'un des trois chevaliers destinés à atteindre le Saint Graal."
+      "en": "🌟 Sir Percival, raised in isolation from the world, arrives at Camelot innocent and pure of heart.\n💫 Though initially naive, his sincerity and spiritual purity set him apart.\n🏆 He will become one of the three knights destined to achieve the Holy Grail.",
+      "fr": "🌟 Sire Perceval, élevé isolé du monde, arrive à Camelot innocent et pur de cœur.\n💫 Bien qu'initialement naïf, sa sincérité et sa pureté spirituelle le distinguent.\n🏆 Il deviendra l'un des trois chevaliers destinés à atteindre le Saint Graal."
     },
     "image": "images/arthurian/percival.jpg",
     "tags": ["percival", "purity", "innocence", "knight", "grail"]
@@ -203,10 +203,10 @@
       "fr": "Tristan"
     },
     "description": {
-      "en": "Sir Tristan of Lyonesse, nephew of King Mark of Cornwall, is a skilled warrior and harpist. Sent to escort Princess Isolde as his uncle's bride, a love potion binds them in forbidden passion. Their tragic romance becomes one of the greatest love stories ever told.",
-      "fr": "Sire Tristan de Lyonesse, neveu du roi Marc de Cornouailles, est un guerrier et harpiste talentueux. Envoyé escorter la princesse Iseult comme épouse de son oncle, un philtre d'amour les lie en une passion interdite. Leur romance tragique devient une légende."
+      "en": "🎵 Sir Tristan of Lyonesse, nephew of King Mark of Cornwall, is a skilled warrior and harpist.\n🍷 Sent to escort Princess Isolde as his uncle's bride, a love potion binds them in forbidden passion.\n💔 Their tragic romance becomes one of the greatest love stories ever told.",
+      "fr": "🎵 Sire Tristan de Lyonesse, neveu du roi Marc de Cornouailles, est un guerrier et harpiste talentueux.\n🍷 Envoyé escorter la princesse Iseult comme épouse de son oncle, un philtre d'amour les lie en une passion interdite.\n💔 Leur romance tragique devient une légende."
     },
-    "image": "images/arthurian/tristan_isolde.jpg",
+    "image": "images/arthurian/Tristan.jpg",
     "tags": ["tristan", "isolde", "love", "tragedy", "romance", "potion"]
   },
   {
@@ -217,8 +217,8 @@
       "fr": "Morgane"
     },
     "description": {
-      "en": "Arthur's half-sister Morgan le Fay, a powerful enchantress trained in the old magic, harbors resentment toward her brother. Sometimes healer, sometimes foe, she schemes in the shadows. Through dark sorcery, Mordred is born — Arthur's son and future nemesis.",
-      "fr": "Morgane, demi-sœur d'Arthur et puissante enchanteresse, nourrit du ressentiment envers son frère. Tantôt guérisseuse, tantôt ennemie, elle complote dans l'ombre. Par sorcellerie noire, Mordred naît — fils d'Arthur et futur ennemi."
+      "en": "🧙‍♀️ Arthur's half-sister Morgan le Fay, a powerful enchantress trained in the old magic, harbors resentment toward her brother.\n⚡ Sometimes healer, sometimes foe, she schemes in the shadows.\n👿 Through dark sorcery, Mordred is born — Arthur's son and future nemesis.",
+      "fr": "🧙‍♀️ Morgane, demi-sœur d'Arthur et puissante enchanteresse, nourrit du ressentiment envers son frère.\n⚡ Tantôt guérisseuse, tantôt ennemie, elle complote dans l'ombre.\n👿 Par sorcellerie noire, Mordred naît — fils d'Arthur et futur ennemi."
     },
     "image": "images/arthurian/morgan_le_fay.jpg",
     "tags": ["morgan", "magic", "betrayal", "sorcery", "mordred"]
@@ -231,10 +231,10 @@
       "fr": "Le Saint Graal"
     },
     "description": {
-      "en": "A miraculous vision of the Holy Grail appears at Camelot during a feast, filling the hall with divine light. The knights vow to seek the sacred relic — the cup used by Christ at the Last Supper. Many depart, but few are pure enough to approach it.",
-      "fr": "Une vision miraculeuse du Saint Graal apparaît à Camelot lors d'un festin, remplissant la salle de lumière divine. Les chevaliers jurent de chercher la relique sacrée. Beaucoup partent, mais peu sont assez purs pour l'approcher."
+      "en": "✨ A miraculous vision of the Holy Grail appears at Camelot during a feast, filling the hall with divine light.\n🏆 The knights vow to seek the sacred relic — the cup used by Christ at the Last Supper.\n⚔️ Many depart, but few are pure enough to approach it.",
+      "fr": "✨ Une vision miraculeuse du Saint Graal apparaît à Camelot lors d'un festin, remplissant la salle de lumière divine.\n🏆 Les chevaliers jurent de chercher la relique sacrée.\n⚔️ Beaucoup partent, mais peu sont assez purs pour l'approcher."
     },
-    "image": "images/arthurian/holy_grail.jpg",
+    "image": "images/arthurian/holy_grail.avif",
     "tags": ["grail", "quest", "spiritual", "vision", "sacred"]
   },
   {
@@ -245,8 +245,8 @@
       "fr": "Galaad"
     },
     "description": {
-      "en": "Galahad, son of Lancelot, arrives at Camelot — the purest knight ever to live. Only he can sit in the Siege Perilous, the perilous seat reserved for the Grail knight. He achieves the quest, witnesses divine mysteries with Percival and Bors, and ascends to heaven.",
-      "fr": "Galaad, fils de Lancelot, arrive à Camelot — le plus pur chevalier qui ait jamais vécu. Seul lui peut s'asseoir au Siège Périlleux. Il accomplit la quête, contemple les mystères divins avec Perceval et Bohort, et s'élève au ciel."
+      "en": "🌟 Galahad, son of Lancelot, arrives at Camelot — the purest knight ever to live.\n💺 Only he can sit in the Siege Perilous, the perilous seat reserved for the Grail knight.\n🕊️ He achieves the quest, witnesses divine mysteries with Percival and Bors, and ascends to heaven.",
+      "fr": "🌟 Galaad, fils de Lancelot, arrive à Camelot — le plus pur chevalier qui ait jamais vécu.\n💺 Seul lui peut s'asseoir au Siège Périlleux.\n🕊️ Il accomplit la quête, contemple les mystères divins avec Perceval et Bohort, et s'élève au ciel."
     },
     "image": "images/arthurian/galahad.jpg",
     "tags": ["galahad", "grail", "purity", "spiritual", "achievement"]
@@ -259,8 +259,8 @@
       "fr": "Le prix de la gloire"
     },
     "description": {
-      "en": "Many knights perish or are forever changed by the Grail quest. The Round Table now has many empty seats. The quest's spiritual triumph marks the beginning of Camelot's decline, as the brotherhood weakens and old bonds fray.",
-      "fr": "Beaucoup de chevaliers périssent ou sont transformés par la quête du Graal. La Table ronde a maintenant beaucoup de sièges vides. Le triomphe spirituel marque le début du déclin de Camelot, la fraternité s'affaiblit."
+      "en": "💀 Many knights perish or are forever changed by the Grail quest.\n🪑 The Round Table now has many empty seats.\n📉 The quest's spiritual triumph marks the beginning of Camelot's decline, as the brotherhood weakens and old bonds fray.",
+      "fr": "💀 Beaucoup de chevaliers périssent ou sont transformés par la quête du Graal.\n🪑 La Table ronde a maintenant beaucoup de sièges vides.\n📉 Le triomphe spirituel marque le début du déclin de Camelot, la fraternité s'affaiblit."
     },
     "image": "images/arthurian/empty_seats.jpg",
     "tags": ["grail", "loss", "decline", "sacrifice", "round_table"]
@@ -273,10 +273,10 @@
       "fr": "Lancelot et Guenièvre"
     },
     "description": {
-      "en": "Lancelot and Queen Guinevere, long bound by courtly admiration, fall into forbidden love. Their affair, concealed for years, is exposed by enemies at court led by Mordred. The scandal divides the Round Table and shatters Arthur's trust. Love, loyalty, and honor collide.",
-      "fr": "Lancelot et la reine Guenièvre, longtemps liés par une admiration courtoise, tombent dans un amour interdit. Leur liaison, cachée pendant des années, est révélée par Mordred. Le scandale divise la Table ronde et brise la confiance d'Arthur."
+      "en": "💕 Lancelot and Queen Guinevere, long bound by courtly admiration, fall into forbidden love.\n🔍 Their affair, concealed for years, is exposed by enemies at court led by Mordred.\n💔 The scandal divides the Round Table and shatters Arthur's trust — love, loyalty, and honor collide.",
+      "fr": "💕 Lancelot et la reine Guenièvre, longtemps liés par une admiration courtoise, tombent dans un amour interdit.\n🔍 Leur liaison, cachée pendant des années, est révélée par Mordred.\n💔 Le scandale divise la Table ronde et brise la confiance d'Arthur."
     },
-    "image": "images/arthurian/lancelot_guinevere.jpg",
+    "image": "images/arthurian/lancelot_guinevere.webp",
     "tags": ["lancelot", "guinevere", "love", "betrayal", "scandal"]
   },
   {
@@ -287,8 +287,8 @@
       "fr": "Mordred"
     },
     "description": {
-      "en": "Mordred, Arthur's illegitimate son by Morgan le Fay's enchantments, grows resentful of his father. Ambitious and cunning, he exploits the scandal of Lancelot and Guinevere to divide the kingdom. He plots to seize the throne for himself.",
-      "fr": "Mordred, fils illégitime d'Arthur par les enchantements de Morgane, grandit plein de ressentiment. Ambitieux et rusé, il exploite le scandale de Lancelot et Guenièvre pour diviser le royaume. Il complote pour s'emparer du trône."
+      "en": "👿 Mordred, Arthur's illegitimate son by Morgan le Fay's enchantments, grows resentful of his father.\n🎭 Ambitious and cunning, he exploits the scandal of Lancelot and Guinevere to divide the kingdom.\n👑 He plots to seize the throne for himself.",
+      "fr": "👿 Mordred, fils illégitime d'Arthur par les enchantements de Morgane, grandit plein de ressentiment.\n🎭 Ambitieux et rusé, il exploite le scandale de Lancelot et Guenièvre pour diviser le royaume.\n👑 Il complote pour s'emparer du trône."
     },
     "image": "images/arthurian/mordred.jpg",
     "tags": ["mordred", "betrayal", "ambition", "son", "traitor"]
@@ -301,10 +301,10 @@
       "fr": "La fraternité brisée"
     },
     "description": {
-      "en": "Arthur is forced by law to condemn Guinevere to burn. Lancelot rescues her, killing several knights including Gawain's beloved brothers Gareth and Gaheris. Gawain, once Lancelot's friend, swears eternal vengeance. The Round Table splinters.",
-      "fr": "Arthur est forcé par la loi de condamner Guenièvre au bûcher. Lancelot la sauve, tuant les frères bien-aimés de Gauvain. Gauvain jure une vengeance éternelle. La Table ronde se divise."
+      "en": "🔥 Arthur is forced by law to condemn Guinevere to burn.\n⚔️ Lancelot rescues her, killing several knights including Gawain's beloved brothers Gareth and Gaheris.\n💔 Gawain, once Lancelot's friend, swears eternal vengeance — the Round Table splinters.",
+      "fr": "🔥 Arthur est forcé par la loi de condamner Guenièvre au bûcher.\n⚔️ Lancelot la sauve, tuant les frères bien-aimés de Gauvain.\n💔 Gauvain jure une vengeance éternelle. La Table ronde se divise."
     },
-    "image": "images/arthurian/broken_fellowship.jpg",
+    "image": "images/arthurian/broken_fellowship.webp",
     "tags": ["arthur", "lancelot", "gawain", "betrayal", "division", "gareth"]
   },
   {
@@ -315,8 +315,8 @@
       "fr": "La mort de Gauvain"
     },
     "description": {
-      "en": "Arthur pursues Lancelot to France, leaving Mordred as regent. Gawain challenges Lancelot repeatedly but is mortally wounded. Before dying, he forgives Lancelot and warns Arthur: Mordred has betrayed him, seized the throne, and claimed Guinevere as his own bride.",
-      "fr": "Arthur poursuit Lancelot en France, laissant Mordred comme régent. Gauvain défie Lancelot mais est mortellement blessé. Avant de mourir, il pardonne à Lancelot et avertit Arthur : Mordred l'a trahi, s'est emparé du trône."
+      "en": "⚔️ Arthur pursues Lancelot to France, leaving Mordred as regent — Gawain challenges Lancelot repeatedly but is mortally wounded.\n💀 Before dying, he forgives Lancelot and warns Arthur: Mordred has betrayed him.\n👑 The throne has been seized, Guinevere claimed as Mordred's own bride.",
+      "fr": "⚔️ Arthur poursuit Lancelot en France, laissant Mordred comme régent. Gauvain défie Lancelot mais est mortellement blessé.\n💀 Avant de mourir, il pardonne à Lancelot et avertit Arthur : Mordred l'a trahi.\n👑 S'est emparé du trône."
     },
     "image": "images/arthurian/gawain_death.jpg",
     "tags": ["arthur", "gawain", "lancelot", "mordred", "betrayal", "death"]
@@ -329,8 +329,8 @@
       "fr": "La bataille de Camlann"
     },
     "description": {
-      "en": "Arthur returns to face Mordred at Camlann. Father and son meet on a fog-shrouded field. The armies clash and nearly all are slain. Arthur strikes down Mordred with a spear, but receives a mortal wound to the head. The dream of Camelot dies with them.",
-      "fr": "Arthur revient affronter Mordred à Camlann. Père et fils se rencontrent sur un champ noyé de brouillard. Les armées s'affrontent et presque tous périssent. Arthur terrasse Mordred mais reçoit une blessure mortelle. Le rêve de Camelot meurt avec eux."
+      "en": "⚔️ Arthur returns to face Mordred at Camlann — father and son meet on a fog-shrouded field.\n💀 The armies clash and nearly all are slain.\n🗡️ Arthur strikes down Mordred with a spear, but receives a mortal wound to the head — the dream of Camelot dies with them.",
+      "fr": "⚔️ Arthur revient affronter Mordred à Camlann. Père et fils se rencontrent sur un champ noyé de brouillard.\n💀 Les armées s'affrontent et presque tous périssent.\n🗡️ Arthur terrasse Mordred mais reçoit une blessure mortelle. Le rêve de Camelot meurt avec eux."
     },
     "image": "images/arthurian/camlann.jpg",
     "tags": ["mordred", "arthur", "battle", "fall", "death", "tragedy"]
@@ -343,8 +343,8 @@
       "fr": "Le retour d'Excalibur"
     },
     "description": {
-      "en": "Mortally wounded, Arthur commands Bedivere to return Excalibur to the Lady of the Lake. Twice Bedivere hesitates, tempted by the sword's beauty. On the third attempt, he obeys. A pale hand rises from the lake, catches the sword, brandishes it three times, and vanishes beneath the waves.",
-      "fr": "Mortellement blessé, Arthur ordonne à Bédivère de rendre Excalibur à la Dame du Lac. Deux fois Bédivère hésite. À la troisième tentative, il obéit. Une main pâle surgit du lac, attrape l'épée, la brandit trois fois, et disparaît sous les vagues."
+      "en": "⚔️ Mortally wounded, Arthur commands Bedivere to return Excalibur to the Lady of the Lake.\n💭 Twice Bedivere hesitates, tempted by the sword's beauty — on the third attempt, he obeys.\n🌊 A pale hand rises from the lake, catches the sword, brandishes it three times, and vanishes beneath the waves.",
+      "fr": "⚔️ Mortellement blessé, Arthur ordonne à Bédivère de rendre Excalibur à la Dame du Lac.\n💭 Deux fois Bédivère hésite. À la troisième tentative, il obéit.\n🌊 Une main pâle surgit du lac, attrape l'épée, la brandit trois fois, et disparaît sous les vagues."
     },
     "image": "images/arthurian/excalibur_return.jpg",
     "tags": ["arthur", "excalibur", "bedivere", "lady_of_the_lake", "return"]
@@ -357,10 +357,10 @@
       "fr": "Avalon"
     },
     "description": {
-      "en": "Three queens arrive in a mystical boat to carry the dying king away — among them Morgan le Fay, who finally shows mercy. Arthur is taken to Avalon, the enchanted isle of healing, where he may rest until Britain's greatest need. Legend says he is not dead but sleeping — the Once and Future King.",
-      "fr": "Trois reines arrivent en barque mystique pour emporter le roi mourant — parmi elles Morgane, qui montre enfin pitié. Arthur est conduit à Avalon, l'île enchantée, où il peut reposer. La légende dit qu'il n'est pas mort mais endormi — le Roi d'hier et de demain."
+      "en": "👑 Three queens arrive in a mystical boat to carry the dying king away — among them Morgan le Fay, who finally shows mercy.\n🏝️ Arthur is taken to Avalon, the enchanted isle of healing, where he may rest until Britain's greatest need.\n✨ Legend says he is not dead but sleeping — the Once and Future King.",
+      "fr": "👑 Trois reines arrivent en barque mystique pour emporter le roi mourant — parmi elles Morgane, qui montre enfin pitié.\n🏝️ Arthur est conduit à Avalon, l'île enchantée, où il peut reposer.\n✨ La légende dit qu'il n'est pas mort mais endormi — le Roi d'hier et de demain."
     },
-    "image": "images/arthurian/avalon.jpg",
+    "image": "images/arthurian/avalon.webp",
     "tags": ["arthur", "avalon", "queens", "healing", "legend"]
   },
   {
@@ -371,10 +371,10 @@
       "fr": "Le roi d'hier et de demain"
     },
     "description": {
-      "en": "From medieval chronicles to modern retellings, Arthur's legend endures as a beacon of hope, justice, and nobility. His knights embody courage, honor, and faith. The dream of Camelot — a realm where might serves right — lives on in every age, inspiring all who seek a better world.",
-      "fr": "Des chroniques médiévales aux récits modernes, la légende d'Arthur perdure comme un phare d'espoir, de justice et de noblesse. Ses chevaliers incarnent courage, honneur et foi. Le rêve de Camelot — royaume où la force sert le droit — survit à chaque époque, inspirant tous ceux qui cherchent un monde meilleur."
+      "en": "📚 From medieval chronicles to modern retellings, Arthur's legend endures as a beacon of hope, justice, and nobility.\n⚔️ His knights embody courage, honor, and faith.\n✨ The dream of Camelot — a realm where might serves right — lives on in every age, inspiring all who seek a better world.",
+      "fr": "📚 Des chroniques médiévales aux récits modernes, la légende d'Arthur perdure comme un phare d'espoir, de justice et de noblesse.\n⚔️ Ses chevaliers incarnent courage, honneur et foi.\n✨ Le rêve de Camelot — royaume où la force sert le droit — survit à chaque époque, inspirant tous ceux qui cherchent un monde meilleur."
     },
-    "image": "images/arthurian/legacy.jpg",
+    "image": "images/arthurian/legacy.webp",
     "tags": ["arthur", "camelot", "legacy", "hope", "myth", "eternal"]
   }
 ]

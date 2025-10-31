@@ -42,6 +42,8 @@ body.dark .country-btn,
 body.dark a[href$="game2.html"],
 body.dark a[href$="quizz.html"],
 body.dark a[href$="tutor.html"],
+body.dark a[href$="parallel_timeline.html"],
+body.dark a[href$="history_teacher_ai.html"],
 body.dark #toggle-tag-bar {
   background-image: none !important;
   background-color: #253046 !important;
@@ -52,6 +54,8 @@ body.dark .country-btn:hover,
 body.dark a[href$="game2.html"]:hover,
 body.dark a[href$="quizz.html"]:hover,
 body.dark a[href$="tutor.html"]:hover,
+body.dark a[href$="parallel_timeline.html"]:hover,
+body.dark a[href$="history_teacher_ai.html"]:hover,
 body.dark #toggle-tag-bar:hover {
   background-color: #334155 !important;
 }
@@ -69,6 +73,8 @@ body.dark #theme-toggle:hover {
 /* Maps button in header should match other header buttons in dark mode */
 body.dark #maps-btn,
 body.dark #play-game-btn,
+body.dark a[href$="parallel_timeline.html"],
+body.dark a[href$="history_teacher_ai.html"],
 body.dark a[href$="quizz.html"].maps-like {
   background-image: none !important;
   background-color: #253046 !important;
@@ -76,7 +82,9 @@ body.dark a[href$="quizz.html"].maps-like {
   border: 1px solid rgba(255,255,255,0.06) !important;
 }
 body.dark #maps-btn:hover,
-body.dark #play-game-btn:hover {
+body.dark #play-game-btn:hover,
+body.dark a[href$="parallel_timeline.html"]:hover,
+body.dark a[href$="history_teacher_ai.html"]:hover {
   background-color: #334155 !important;
 }
 

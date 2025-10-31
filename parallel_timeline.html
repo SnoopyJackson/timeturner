@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Parallel Timeline</title>
+    <link rel="stylesheet" href="parallel_timeline.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header-controls">
+            <a href="index.html" class="back-btn">← Back</a>
+            <button id="theme-toggle" class="theme-toggle">🌙</button>
+        </div>
+        <h1>📜 Parallel History Timeline</h1>
+        <p class="subtitle">Compare historical events across different regions and topics</p>
+        
+        <div class="mode-selector">
+            <button onclick="setMode('default')" class="mode-btn active" id="defaultModeBtn">Default Periods</button>
+            <button onclick="setMode('topics')" class="mode-btn" id="topicsModeBtn">Compare Topics</button>
+        </div>
+
+        <div class="controls" id="defaultControls">
+            <button onclick="loadPeriod('renaissance')" class="active">Renaissance Era (1400-1600)</button>
+            <button onclick="loadPeriod('industrial')">Industrial Age (1750-1850)</button>
+            <button onclick="loadPeriod('modern')">Modern Era (1900-1950)</button>
+        </div>
+
+        <div class="topic-controls" id="topicControls" style="display: none;">
+            <div class="topic-selection">
+                <label>📚 Select Topics to Compare (choose 2-4):</label>
+                <div class="topic-grid">
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="france" onchange="updateTopicSelection()">
+                        <span>🇫🇷 France</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="usa" onchange="updateTopicSelection()">
+                        <span>🇺🇸 USA</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="roman" onchange="updateTopicSelection()">
+                        <span>🏛️ Roman Empire</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="wars" onchange="updateTopicSelection()">
+                        <span>⚔️ Wars</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="revolutions" onchange="updateTopicSelection()">
+                        <span>✊ Revolutions</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="inventions" onchange="updateTopicSelection()">
+                        <span>💡 Inventions</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="pandemics" onchange="updateTopicSelection()">
+                        <span>🦠 Pandemics</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="ideas/uk" onchange="updateTopicSelection()">
+                        <span>🇬🇧 UK</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="ideas/japan" onchange="updateTopicSelection()">
+                        <span>🇯🇵 Japan</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="ideas/china" onchange="updateTopicSelection()">
+                        <span>🇨🇳 China</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="ideas/india" onchange="updateTopicSelection()">
+                        <span>🇮🇳 India</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="ideas/russia" onchange="updateTopicSelection()">
+                        <span>🇷🇺 Russia</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="ideas/germany" onchange="updateTopicSelection()">
+                        <span>🇩🇪 Germany</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="greek_myth" onchange="updateTopicSelection()">
+                        <span>⚡ Greek Mythology</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="hindu_myth" onchange="updateTopicSelection()">
+                        <span>🕉️ Hindu Mythology</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="egypt_myth" onchange="updateTopicSelection()">
+                        <span>𓂀 Egyptian Mythology</span>
+                    </label>
+                </div>
+                <button onclick="loadSelectedTopics()" class="load-btn" id="loadTopicsBtn" disabled>Load Timeline</button>
+            </div>
+        </div>
+
+        <div id="timeRangeControls" style="display: none;">
+            <div class="time-range-section">
+                <h3>📅 Time Period Filter</h3>
+                <div class="period-buttons">
+                    <button onclick="filterByPeriod('all')" class="period-btn active" id="period-all">All Time</button>
+                    <button onclick="filterByPeriod('ancient')" class="period-btn" id="period-ancient">Ancient (Before 500 AD)</button>
+                    <button onclick="filterByPeriod('medieval')" class="period-btn" id="period-medieval">Medieval (500-1500)</button>
+                    <button onclick="filterByPeriod('early-modern')" class="period-btn" id="period-early-modern">Early Modern (1500-1800)</button>
+                    <button onclick="filterByPeriod('modern')" class="period-btn" id="period-modern">Modern (1800-1950)</button>
+                    <button onclick="filterByPeriod('contemporary')" class="period-btn" id="period-contemporary">Contemporary (1950+)</button>
+                </div>
+                
+                <div class="custom-range">
+                    <label>🎯 Custom Range:</label>
+                    <div class="range-inputs">
+                        <input type="number" id="rangeStart" placeholder="Start Year" />
+                        <span>to</span>
+                        <input type="number" id="rangeEnd" placeholder="End Year" />
+                        <button onclick="applyCustomRange()" class="apply-range-btn">Apply</button>
+                    </div>
+                </div>
+                
+                <div class="zoom-controls">
+                    <label>🔍 Zoom:</label>
+                    <button onclick="zoomTimeline(0.5)" class="zoom-btn">➖ Zoom Out</button>
+                    <button onclick="zoomTimeline(2)" class="zoom-btn">➕ Zoom In</button>
+                    <button onclick="resetZoom()" class="zoom-btn">↺ Reset</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="timeline-wrapper">
+            <div class="timeline-container" id="timelineContainer"></div>
+            <div class="year-markers" id="yearMarkers"></div>
+        </div>
+
+        <div class="legend" id="legend"></div>
+    </div>
+
+    <div id="tooltip"></div>
+
+    <script src="parallel_timeline.js"></script>
+</body>
+</html>

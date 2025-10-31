@@ -7,7 +7,8 @@ let score = 0;
 // List of known data files in the `data/` folder.
 // Kept as a static list to avoid relying on directory listing from a static host.
 const AVAILABLE_TOPICS = [
-    'bible', 'bjj', 'china', 'egypt_myth', 'egypt', 'france', 'germany', 'greece', 'india', 'islam', 'japan', 'judaism', 'metal', 'pandemics', 'revolutions', 'roman', 'russia', 'science', 'uk', 'usa', 'wars'
+    'arthur', 'bjj', 'egypt_myth', 'france', 'greek_myth', 'hindu_myth', 'inventions', 'metal', 'pandemics', 'revolutions', 'roman', 'universe', 'usa', 'wars',
+    'ideas/bible', 'ideas/china', 'ideas/germany', 'ideas/india', 'ideas/japan', 'ideas/russia', 'ideas/uk'
 ];
 
 // Populate topic dropdown on load
