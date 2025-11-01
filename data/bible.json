@@ -1,0 +1,520 @@
+[
+  {
+    "year": "Beginning of Time",
+    "era": "Creation",
+    "title": {
+      "en": "In the Beginning",
+      "fr": "Au commencement"
+    },
+    "description": {
+      "en": "🌌 In the beginning, God created the heavens and the earth.\n⚫ The earth was formless and void, and darkness covered the deep waters.\n✨ The Spirit of God hovered over the waters, and God said, 'Let there be light.'",
+      "fr": "🌌 Au commencement, Dieu créa les cieux et la terre.\n⚫ La terre était informe et vide, les ténèbres couvraient l'abîme.\n✨ L'Esprit de Dieu planait au-dessus des eaux, et Dieu dit : 'Que la lumière soit.'"
+    },
+    "image": "images/bible/creation.jpg",
+    "tags": ["creation", "genesis", "beginning", "light"]
+  },
+  {
+    "year": "Day 1-6",
+    "era": "Creation",
+    "title": {
+      "en": "The Six Days of Creation",
+      "fr": "Les six jours de la Création"
+    },
+    "description": {
+      "en": "☀️ Day 1: Light and darkness separated\n🌊 Day 2: Sky and waters divided\n🌍 Day 3: Land, seas, and plants created\n⭐ Day 4: Sun, moon, and stars placed in sky\n🐟 Day 5: Sea creatures and birds created\n🦁 Day 6: Land animals and humanity created in God's image",
+      "fr": "☀️ Jour 1 : Lumière et ténèbres séparées\n🌊 Jour 2 : Ciel et eaux divisés\n🌍 Jour 3 : Terre, mers et plantes créées\n⭐ Jour 4 : Soleil, lune et étoiles placés dans le ciel\n🐟 Jour 5 : Créatures marines et oiseaux créés\n🦁 Jour 6 : Animaux terrestres et humanité créés à l'image de Dieu"
+    },
+    "image": "images/bible/six_days.jpg",
+    "tags": ["creation", "genesis", "days", "nature"]
+  },
+  {
+    "year": "Garden of Eden",
+    "era": "Creation",
+    "title": {
+      "en": "Adam and Eve",
+      "fr": "Adam et Ève"
+    },
+    "description": {
+      "en": "👨 God formed Adam from the dust of the earth and breathed life into him.\n👩 From Adam's rib, God created Eve to be his companion.\n🌳 They lived in the Garden of Eden, a paradise where they walked with God.\n🍎 They were commanded not to eat from the Tree of Knowledge of Good and Evil.",
+      "fr": "👨 Dieu forma Adam de la poussière de la terre et souffla en lui la vie.\n👩 De la côte d'Adam, Dieu créa Ève pour être sa compagne.\n🌳 Ils vivaient dans le Jardin d'Éden, un paradis où ils marchaient avec Dieu.\n🍎 Il leur fut ordonné de ne pas manger de l'Arbre de la Connaissance du Bien et du Mal."
+    },
+    "image": "images/bible/adam_eve.jpg",
+    "tags": ["adam", "eve", "eden", "paradise", "beginning"]
+  },
+  {
+    "year": "The Fall",
+    "era": "Fall of Man",
+    "title": {
+      "en": "The Serpent and the Fall",
+      "fr": "Le Serpent et la Chute"
+    },
+    "description": {
+      "en": "🐍 The serpent, craftiest of all creatures, tempted Eve to eat the forbidden fruit.\n🍎 Eve ate and gave some to Adam, who also ate.\n😱 Their eyes were opened and they knew they were naked — sin entered the world.\n🚪 God expelled them from Eden, placing cherubim with flaming swords to guard the way back.",
+      "fr": "🐍 Le serpent, le plus rusé de toutes les créatures, tenta Ève de manger le fruit défendu.\n🍎 Ève mangea et en donna à Adam, qui mangea aussi.\n😱 Leurs yeux s'ouvrirent et ils surent qu'ils étaient nus — le péché entra dans le monde.\n🚪 Dieu les expulsa d'Éden, plaçant des chérubins avec des épées flamboyantes pour garder le chemin."
+    },
+    "image": "images/bible/fall.webp",
+    "tags": ["fall", "sin", "serpent", "expulsion", "forbidden-fruit"]
+  },
+  {
+    "year": "First Murder",
+    "era": "Early Humanity",
+    "title": {
+      "en": "Cain and Abel",
+      "fr": "Caïn et Abel"
+    },
+    "description": {
+      "en": "👨‍🌾 Cain was a farmer, Abel a shepherd.\n🔥 Both offered sacrifices to God, but God favored Abel's offering.\n😡 In jealous rage, Cain murdered his brother Abel.\n❓ God asked, 'Where is your brother?' Cain replied, 'Am I my brother's keeper?'\n⚠️ God cursed Cain to wander as a fugitive, but marked him for protection.",
+      "fr": "👨‍🌾 Caïn était cultivateur, Abel berger.\n🔥 Tous deux offrirent des sacrifices à Dieu, mais Dieu préféra l'offrande d'Abel.\n😡 Dans une rage jalouse, Caïn assassina son frère Abel.\n❓ Dieu demanda : 'Où est ton frère ?' Caïn répondit : 'Suis-je le gardien de mon frère ?'\n⚠️ Dieu maudit Caïn à errer en fugitif, mais le marqua pour le protéger."
+    },
+    "image": "images/bible/cain_abel.webp",
+    "tags": ["cain", "abel", "murder", "jealousy", "sin"]
+  },
+  {
+    "year": "Before the Flood",
+    "era": "Antediluvian Age",
+    "title": {
+      "en": "Noah",
+      "fr": "Noé"
+    },
+    "description": {
+      "en": "🌍 As humanity multiplied, wickedness and violence filled the earth.\n💔 God regretted creating mankind and decided to send a great flood.\n👨‍👩‍👦 But Noah found favor in God's eyes — a righteous man who walked with God.\n🛠️ God commanded Noah to build an ark to save his family and pairs of every animal.",
+      "fr": "🌍 Alors que l'humanité se multipliait, la méchanceté et la violence remplirent la terre.\n💔 Dieu regretta d'avoir créé l'humanité et décida d'envoyer un grand déluge.\n👨‍👩‍👦 Mais Noé trouva grâce aux yeux de Dieu — un homme juste qui marchait avec Dieu.\n🛠️ Dieu ordonna à Noé de construire une arche pour sauver sa famille et des couples de chaque animal."
+    },
+    "image": "images/bible/noah.webp",
+    "tags": ["noah", "righteous", "ark", "flood", "salvation"]
+  },
+  {
+    "year": "The Great Flood",
+    "era": "Judgment",
+    "title": {
+      "en": "The Flood",
+      "fr": "Le Déluge"
+    },
+    "description": {
+      "en": "🌧️ Rain fell for 40 days and 40 nights, and the waters covered the highest mountains.\n⛵ Only Noah, his family, and the animals in the ark survived.\n🕊️ After 150 days, the waters receded and the ark rested on Mount Ararat.\n🌈 God made a covenant with Noah, promising never to flood the earth again — the rainbow as a sign.",
+      "fr": "🌧️ Il plut pendant 40 jours et 40 nuits, et les eaux couvrirent les plus hautes montagnes.\n⛵ Seuls Noé, sa famille et les animaux dans l'arche survécurent.\n🕊️ Après 150 jours, les eaux se retirèrent et l'arche se posa sur le mont Ararat.\n🌈 Dieu fit une alliance avec Noé, promettant de ne plus jamais inonder la terre — l'arc-en-ciel comme signe."
+    },
+    "image": "images/bible/flood.jpg",
+    "tags": ["flood", "judgment", "rainbow", "covenant", "salvation"]
+  },
+  {
+    "year": "Tower to Heaven",
+    "era": "Nations",
+    "title": {
+      "en": "Tower of Babel",
+      "fr": "Tour de Babel"
+    },
+    "description": {
+      "en": "🏗️ Humanity, speaking one language, built a great tower to reach heaven.\n😤 They sought to make a name for themselves and avoid being scattered.\n🗣️ God confused their language so they could not understand each other.\n🌍 The people were scattered across the earth, forming different nations and tongues.",
+      "fr": "🏗️ L'humanité, parlant une seule langue, construisit une grande tour pour atteindre le ciel.\n😤 Ils cherchaient à se faire un nom et à éviter d'être dispersés.\n🗣️ Dieu confondit leur langue pour qu'ils ne se comprennent plus.\n🌍 Les peuples furent dispersés sur la terre, formant différentes nations et langues."
+    },
+    "image": "images/bible/babel.jpg",
+    "tags": ["babel", "tower", "languages", "pride", "nations"]
+  },
+  {
+    "year": "2000 BC",
+    "era": "Patriarchs",
+    "title": {
+      "en": "Abraham",
+      "fr": "Abraham"
+    },
+    "description": {
+      "en": "🙏 God called Abram to leave his homeland and go to a land He would show him.\n⭐ God promised: 'I will make you a great nation, and all peoples will be blessed through you.'\n👶 Despite old age, Abraham and Sarah had a son, Isaac — a miracle child.\n🔪 God tested Abraham by asking him to sacrifice Isaac, but provided a ram instead.\n📜 Abraham is called the 'Father of Faith' in Judaism, Christianity, and Islam.",
+      "fr": "🙏 Dieu appela Abram à quitter sa patrie pour aller vers un pays qu'Il lui montrerait.\n⭐ Dieu promit : 'Je ferai de toi une grande nation, et tous les peuples seront bénis en toi.'\n👶 Malgré leur grand âge, Abraham et Sara eurent un fils, Isaac — un enfant miracle.\n🔪 Dieu testa Abraham en lui demandant de sacrifier Isaac, mais fournit un bélier à la place.\n📜 Abraham est appelé le 'Père de la Foi' dans le judaïsme, le christianisme et l'islam."
+    },
+    "image": "images/bible/abraham.jpg",
+    "tags": ["abraham", "patriarch", "faith", "covenant", "isaac"]
+  },
+  {
+    "year": "1900 BC",
+    "era": "Patriarchs",
+    "title": {
+      "en": "Isaac and Jacob",
+      "fr": "Isaac et Jacob"
+    },
+    "description": {
+      "en": "👶 Isaac married Rebekah and they had twin sons: Esau and Jacob.\n🍲 Jacob tricked Esau out of his birthright for a bowl of stew.\n🤼 Jacob wrestled with God and was renamed Israel ('struggles with God').\n👨‍👩‍👦‍👦 Jacob had 12 sons who became the 12 tribes of Israel.",
+      "fr": "👶 Isaac épousa Rebecca et ils eurent des fils jumeaux : Ésaü et Jacob.\n🍲 Jacob trompa Ésaü pour obtenir son droit d'aînesse contre un plat de lentilles.\n🤼 Jacob lutta avec Dieu et fut renommé Israël ('lutte avec Dieu').\n👨‍👩‍👦‍👦 Jacob eut 12 fils qui devinrent les 12 tribus d'Israël."
+    },
+    "image": "images/bible/jacob.jpg",
+    "tags": ["isaac", "jacob", "israel", "tribes", "patriarch"]
+  },
+  {
+    "year": "1850 BC",
+    "era": "Patriarchs",
+    "title": {
+      "en": "Joseph and His Brothers",
+      "fr": "Joseph et ses frères"
+    },
+    "description": {
+      "en": "👔 Jacob favored Joseph and gave him a coat of many colors.\n😡 His jealous brothers sold him into slavery in Egypt.\n🔮 Joseph interpreted dreams and became second-in-command to Pharaoh.\n🌾 During famine, his brothers came to Egypt for food — Joseph forgave them.\n💬 'You meant it for evil, but God meant it for good.'",
+      "fr": "👔 Jacob favorisait Joseph et lui donna une tunique de plusieurs couleurs.\n😡 Ses frères jaloux le vendirent comme esclave en Égypte.\n🔮 Joseph interpréta des rêves et devint le second de Pharaon.\n🌾 Pendant la famine, ses frères vinrent en Égypte pour de la nourriture — Joseph leur pardonna.\n💬 'Vous aviez pensé me faire du mal, Dieu l'a changé en bien.'"
+    },
+    "image": "images/bible/joseph.webp",
+    "tags": ["joseph", "egypt", "dreams", "forgiveness", "providence"]
+  },
+  {
+    "year": "1500 BC",
+    "era": "Exodus",
+    "title": {
+      "en": "Moses",
+      "fr": "Moïse"
+    },
+    "description": {
+      "en": "👶 Born when Israelites were enslaved in Egypt, Moses was hidden in a basket and found by Pharaoh's daughter.\n🔥 God appeared to Moses in a burning bush: 'I AM WHO I AM. Go, bring my people out of Egypt.'\n⚡ Moses confronted Pharaoh with God's message: 'Let my people go!'\n📜 Moses is the great prophet and lawgiver who led Israel to freedom.",
+      "fr": "👶 Né quand les Israélites étaient asservis en Égypte, Moïse fut caché dans un panier et trouvé par la fille de Pharaon.\n🔥 Dieu apparut à Moïse dans un buisson ardent : 'JE SUIS CELUI QUI SUIS. Va, fais sortir mon peuple d'Égypte.'\n⚡ Moïse affronta Pharaon avec le message de Dieu : 'Laisse partir mon peuple !'\n📜 Moïse est le grand prophète et législateur qui mena Israël vers la liberté."
+    },
+    "image": "images/bible/moses.jpg",
+    "tags": ["moses", "prophet", "leader", "exodus", "burning-bush"]
+  },
+  {
+    "year": "1446 BC",
+    "era": "Exodus",
+    "title": {
+      "en": "The Ten Plagues",
+      "fr": "Les dix plaies"
+    },
+    "description": {
+      "en": "🩸 Water turned to blood\n🐸 Frogs covered the land\n🦟 Gnats and 🪰 flies swarmed\n🐄 Livestock disease\n🤒 Boils on people and animals\n🌨️ Hail destroyed crops\n🦗 Locusts devoured vegetation\n🌑 Three days of darkness\n💀 Death of the firstborn — Pharaoh finally let the Israelites go.",
+      "fr": "🩸 L'eau changée en sang\n🐸 Grenouilles couvrant le pays\n🦟 Moustiques et 🪰 mouches en nuées\n🐄 Maladie du bétail\n🤒 Ulcères sur les hommes et les animaux\n🌨️ Grêle détruisant les récoltes\n🦗 Sauterelles dévorant la végétation\n🌑 Trois jours de ténèbres\n💀 Mort des premiers-nés — Pharaon laissa enfin partir les Israélites."
+    },
+    "image": "images/bible/plagues.jpg",
+    "tags": ["plagues", "egypt", "judgment", "pharaoh", "exodus"]
+  },
+  {
+    "year": "1446 BC",
+    "era": "Exodus",
+    "title": {
+      "en": "Passover and Red Sea Crossing",
+      "fr": "Pâque et traversée de la mer Rouge"
+    },
+    "description": {
+      "en": "🩸 Israelites marked their doorposts with lamb's blood so the angel of death would pass over.\n🚶 Moses led 600,000+ Israelites out of Egypt.\n🌊 Pharaoh's army pursued them to the Red Sea.\n⚡ Moses raised his staff and God parted the waters — Israel crossed on dry ground.\n🌊 When the Egyptians followed, the waters returned and drowned Pharaoh's army.",
+      "fr": "🩸 Les Israélites marquèrent leurs portes avec du sang d'agneau pour que l'ange de la mort les épargne.\n🚶 Moïse conduisit plus de 600 000 Israélites hors d'Égypte.\n🌊 L'armée de Pharaon les poursuivit jusqu'à la mer Rouge.\n⚡ Moïse leva son bâton et Dieu sépara les eaux — Israël traversa à pied sec.\n🌊 Quand les Égyptiens suivirent, les eaux revinrent et noyèrent l'armée de Pharaon."
+    },
+    "image": "images/bible/red_sea.jpg",
+    "tags": ["passover", "red-sea", "exodus", "miracle", "deliverance"]
+  },
+  {
+    "year": "1445 BC",
+    "era": "Law",
+    "title": {
+      "en": "The Ten Commandments",
+      "fr": "Les Dix Commandements"
+    },
+    "description": {
+      "en": "⛰️ At Mount Sinai, God gave Moses the Law on stone tablets.\n📜 The Ten Commandments:\n1️⃣ No other gods before Me\n2️⃣ No idols\n3️⃣ Don't misuse God's name\n4️⃣ Keep the Sabbath holy\n5️⃣ Honor your parents\n6️⃣ Don't murder\n7️⃣ Don't commit adultery\n8️⃣ Don't steal\n9️⃣ Don't lie\n🔟 Don't covet",
+      "fr": "⛰️ Au mont Sinaï, Dieu donna à Moïse la Loi sur des tablettes de pierre.\n📜 Les Dix Commandements :\n1️⃣ Pas d'autres dieux devant Moi\n2️⃣ Pas d'idoles\n3️⃣ Ne pas utiliser le nom de Dieu en vain\n4️⃣ Observer le sabbat\n5️⃣ Honorer père et mère\n6️⃣ Ne pas tuer\n7️⃣ Ne pas commettre l'adultère\n8️⃣ Ne pas voler\n9️⃣ Ne pas mentir\n🔟 Ne pas convoiter"
+    },
+    "image": "images/bible/ten_commandments.jpg",
+    "tags": ["law", "commandments", "sinai", "moses", "covenant"]
+  },
+  {
+    "year": "1445-1405 BC",
+    "era": "Wilderness",
+    "title": {
+      "en": "40 Years in the Wilderness",
+      "fr": "40 ans dans le désert"
+    },
+    "description": {
+      "en": "🏜️ Israel wandered in the desert for 40 years due to disobedience.\n☁️ God led them with a pillar of cloud by day and fire by night.\n🍞 God provided manna (bread from heaven) and quail to eat.\n💧 Moses struck a rock and water flowed out.\n⛺ God dwelt among them in the Tabernacle.",
+      "fr": "🏜️ Israël erra dans le désert pendant 40 ans à cause de la désobéissance.\n☁️ Dieu les guidait avec une colonne de nuée le jour et de feu la nuit.\n🍞 Dieu fournit la manne (pain du ciel) et des cailles à manger.\n💧 Moïse frappa un rocher et l'eau jaillit.\n⛺ Dieu habita parmi eux dans le Tabernacle."
+    },
+    "image": "images/bible/wilderness.jpg",
+    "tags": ["wilderness", "manna", "wandering", "provision", "tabernacle"]
+  },
+  {
+    "year": "1405 BC",
+    "era": "Conquest",
+    "title": {
+      "en": "Joshua and the Promised Land",
+      "fr": "Josué et la Terre promise"
+    },
+    "description": {
+      "en": "🎺 Joshua succeeded Moses and led Israel into Canaan, the Promised Land.\n🌊 They crossed the Jordan River on dry ground (like the Red Sea).\n🏰 The walls of Jericho fell after marching around them for 7 days.\n⚔️ Joshua conquered the land and divided it among the 12 tribes.\n📜 'As for me and my house, we will serve the Lord.'",
+      "fr": "🎺 Josué succéda à Moïse et conduisit Israël en Canaan, la Terre promise.\n🌊 Ils traversèrent le Jourdain à pied sec (comme la mer Rouge).\n🏰 Les murs de Jéricho tombèrent après en avoir fait le tour pendant 7 jours.\n⚔️ Josué conquit le pays et le divisa entre les 12 tribus.\n📜 'Moi et ma maison, nous servirons l'Éternel.'"
+    },
+    "image": "images/bible/joshua.jpg",
+    "tags": ["joshua", "jericho", "conquest", "promised-land", "victory"]
+  },
+  {
+    "year": "1200-1020 BC",
+    "era": "Judges",
+    "title": {
+      "en": "The Judges",
+      "fr": "Les Juges"
+    },
+    "description": {
+      "en": "⚖️ Israel had no king — God raised up judges to deliver them from enemies.\n💪 Samson: Judge with supernatural strength, betrayed by Delilah.\n🗡️ Gideon: Defeated vast army with only 300 men.\n👩‍⚖️ Deborah: Only female judge, led Israel to victory.\n🔄 Cycle: Israel sinned, was oppressed, cried out, God sent a deliverer.",
+      "fr": "⚖️ Israël n'avait pas de roi — Dieu suscita des juges pour les délivrer des ennemis.\n💪 Samson : Juge à la force surnaturelle, trahi par Dalila.\n🗡️ Gédéon : Vainquit une vaste armée avec seulement 300 hommes.\n👩‍⚖️ Déborah : Seule juge féminine, mena Israël à la victoire.\n🔄 Cycle : Israël péchait, était opprimé, criait, Dieu envoyait un libérateur."
+    },
+    "image": "images/bible/judges.webp",
+    "tags": ["judges", "samson", "gideon", "deborah", "deliverance"]
+  },
+  {
+    "year": "1050 BC",
+    "era": "United Kingdom",
+    "title": {
+      "en": "Samuel",
+      "fr": "Samuel"
+    },
+    "description": {
+      "en": "👶 Hannah prayed for a son and dedicated Samuel to God's service.\n🏛️ Samuel served in the temple from childhood and became the last judge.\n🗣️ God spoke to Samuel: 'Speak, Lord, for your servant is listening.'\n👑 The people demanded a king, and Samuel anointed Saul as first king of Israel.\n📜 Samuel was prophet, priest, and judge — a bridge between judges and kings.",
+      "fr": "👶 Anne pria pour un fils et dédia Samuel au service de Dieu.\n🏛️ Samuel servit dans le temple dès l'enfance et devint le dernier juge.\n🗣️ Dieu parla à Samuel : 'Parle, Seigneur, car ton serviteur écoute.'\n👑 Le peuple demanda un roi, et Samuel oignit Saül comme premier roi d'Israël.\n📜 Samuel fut prophète, prêtre et juge — un pont entre les juges et les rois."
+    },
+    "image": "images/bible/samuel.webp",
+    "tags": ["samuel", "prophet", "judge", "priest", "anointing"]
+  },
+  {
+    "year": "1020-1010 BC",
+    "era": "United Kingdom",
+    "title": {
+      "en": "King Saul",
+      "fr": "Le roi Saül"
+    },
+    "description": {
+      "en": "👑 Saul was anointed as Israel's first king — tall, handsome, but insecure.\n⚔️ Initially successful in battle but became disobedient to God.\n😡 Jealous of David's popularity, Saul tried repeatedly to kill him.\n👻 Consulted a witch at Endor in desperation.\n💀 Died in battle against the Philistines, along with his sons.",
+      "fr": "👑 Saül fut oint comme premier roi d'Israël — grand, beau, mais peu sûr de lui.\n⚔️ D'abord victorieux au combat mais devint désobéissant envers Dieu.\n😡 Jaloux de la popularité de David, Saül tenta de le tuer à plusieurs reprises.\n👻 Consulta une sorcière à Endor par désespoir.\n💀 Mourut au combat contre les Philistins, avec ses fils."
+    },
+    "image": "images/bible/saul.webp",
+    "tags": ["saul", "king", "jealousy", "disobedience", "tragedy"]
+  },
+  {
+    "year": "1010-970 BC",
+    "era": "United Kingdom",
+    "title": {
+      "en": "King David",
+      "fr": "Le roi David"
+    },
+    "description": {
+      "en": "🎵 David was a shepherd boy who played the harp and wrote psalms.\n🪨 He defeated the giant Goliath with a sling and five stones.\n👑 Samuel anointed him as future king — 'man after God's own heart.'\n⚔️ Great warrior who united Israel and made Jerusalem the capital.\n💔 Committed adultery with Bathsheba and had her husband killed.\n📜 Ancestor of Jesus the Messiah.",
+      "fr": "🎵 David était un jeune berger qui jouait de la harpe et écrivait des psaumes.\n🪨 Il vainquit le géant Goliath avec une fronde et cinq pierres.\n👑 Samuel l'oignit comme futur roi — 'homme selon le cœur de Dieu.'\n⚔️ Grand guerrier qui unifia Israël et fit de Jérusalem la capitale.\n💔 Commit l'adultère avec Bethsabée et fit tuer son mari.\n📜 Ancêtre de Jésus le Messie."
+    },
+    "image": "images/bible/david.jpg",
+    "tags": ["david", "king", "goliath", "psalmist", "jerusalem"]
+  },
+  {
+    "year": "970-930 BC",
+    "era": "United Kingdom",
+    "title": {
+      "en": "King Solomon",
+      "fr": "Le roi Salomon"
+    },
+    "description": {
+      "en": "🧠 God granted Solomon wisdom — he became the wisest man who ever lived.\n⚖️ Famous for wise judgments, including the case of two mothers claiming one baby.\n🏛️ Built the magnificent Temple in Jerusalem.\n📚 Wrote Proverbs, Ecclesiastes, and Song of Solomon.\n👸 Had 700 wives and 300 concubines — his foreign wives led him to idolatry.\n💔 After his death, the kingdom divided into Israel (north) and Judah (south).",
+      "fr": "🧠 Dieu accorda la sagesse à Salomon — il devint l'homme le plus sage qui ait jamais vécu.\n⚖️ Célèbre pour ses jugements sages, dont l'affaire de deux mères réclamant un bébé.\n🏛️ Construisit le magnifique Temple de Jérusalem.\n📚 Écrivit les Proverbes, l'Ecclésiaste et le Cantique des Cantiques.\n👸 Eut 700 épouses et 300 concubines — ses épouses étrangères le menèrent à l'idolâtrie.\n💔 Après sa mort, le royaume se divisa en Israël (nord) et Juda (sud)."
+    },
+    "image": "images/bible/solomon.avif",
+    "tags": ["solomon", "wisdom", "temple", "king", "proverbs"]
+  },
+  {
+    "year": "875-848 BC",
+    "era": "Prophets",
+    "title": {
+      "en": "Elijah",
+      "fr": "Élie"
+    },
+    "description": {
+      "en": "🔥 Elijah challenged 450 prophets of Baal on Mount Carmel — God sent fire from heaven.\n☁️ God provided for Elijah through ravens and a widow.\n🌧️ Prayed and ended a 3-year drought.\n🌪️ Did not die but was taken to heaven in a chariot of fire and whirlwind.\n📜 Expected to return before the Messiah comes.",
+      "fr": "🔥 Élie défia 450 prophètes de Baal sur le mont Carmel — Dieu envoya le feu du ciel.\n☁️ Dieu pourvut aux besoins d'Élie par des corbeaux et une veuve.\n🌧️ Pria et mit fin à une sécheresse de 3 ans.\n🌪️ Ne mourut pas mais fut enlevé au ciel dans un char de feu et un tourbillon.\n📜 Attendu pour revenir avant la venue du Messie."
+    },
+    "image": "images/bible/elijah.jpg",
+    "tags": ["elijah", "prophet", "fire", "miracle", "baal"]
+  },
+  {
+    "year": "850 BC",
+    "era": "Prophets",
+    "title": {
+      "en": "Elisha",
+      "fr": "Élisée"
+    },
+    "description": {
+      "en": "👨‍🏫 Elisha received Elijah's mantle and a double portion of his spirit.\n💧 Purified poisoned water and multiplied a widow's oil.\n👶 Raised a dead child back to life.\n🍞 Fed 100 men with 20 loaves of bread.\n🩺 Healed Naaman the Syrian commander of leprosy.\n⚔️ Prophesied military victories for Israel.",
+      "fr": "👨‍🏫 Élisée reçut le manteau d'Élie et une double portion de son esprit.\n💧 Purifia l'eau empoisonnée et multiplia l'huile d'une veuve.\n👶 Ressuscita un enfant mort.\n🍞 Nourrit 100 hommes avec 20 pains.\n🩺 Guérit Naaman le commandant syrien de la lèpre.\n⚔️ Prophétisa des victoires militaires pour Israël."
+    },
+    "image": "images/bible/elisha.jpg",
+    "tags": ["elisha", "prophet", "miracles", "healing", "successor"]
+  },
+  {
+    "year": "740-680 BC",
+    "era": "Prophets",
+    "title": {
+      "en": "Isaiah",
+      "fr": "Ésaïe"
+    },
+    "description": {
+      "en": "📜 Major prophet who prophesied during the reigns of four kings.\n👁️ Had a vision of God's glory in the temple: 'Holy, holy, holy is the Lord!'\n👶 Prophesied the virgin birth: 'A virgin shall conceive and bear a son, Immanuel.'\n✝️ Foretold the suffering servant (Jesus): 'He was pierced for our transgressions.'\n🕊️ Prophesied peace: 'They will beat their swords into plowshares.'",
+      "fr": "📜 Grand prophète qui prophétisa sous quatre rois.\n👁️ Eut une vision de la gloire de Dieu dans le temple : 'Saint, saint, saint est l'Éternel !'\n👶 Prophétisa la naissance virginale : 'Une vierge concevra et enfantera un fils, Emmanuel.'\n✝️ Annonça le serviteur souffrant (Jésus) : 'Il a été transpercé pour nos transgressions.'\n🕊️ Prophétisa la paix : 'Ils forgeront leurs épées en socs de charrue.'"
+    },
+    "image": "images/bible/isaiah.jpg",
+    "tags": ["isaiah", "prophet", "messiah", "prophecy", "suffering-servant"]
+  },
+  {
+    "year": "627-580 BC",
+    "era": "Prophets",
+    "title": {
+      "en": "Jeremiah",
+      "fr": "Jérémie"
+    },
+    "description": {
+      "en": "😢 Called the 'Weeping Prophet' — warned Judah of coming judgment.\n📜 Prophesied the 70-year Babylonian captivity.\n💔 Persecuted, imprisoned, and thrown into a cistern for his messages.\n📝 Wrote the book of Lamentations — poetic expressions of grief.\n🌱 Prophesied a new covenant: 'I will write my law on their hearts.'",
+      "fr": "😢 Appelé le 'Prophète pleureur' — avertit Juda du jugement à venir.\n📜 Prophétisa la captivité babylonienne de 70 ans.\n💔 Persécuté, emprisonné et jeté dans une citerne pour ses messages.\n📝 Écrivit les Lamentations — expressions poétiques de douleur.\n🌱 Prophétisa une nouvelle alliance : 'J'écrirai ma loi dans leur cœur.'"
+    },
+    "image": "images/bible/jeremiah.jpg",
+    "tags": ["jeremiah", "prophet", "weeping", "judgment", "new-covenant"]
+  },
+  {
+    "year": "593-571 BC",
+    "era": "Prophets",
+    "title": {
+      "en": "Ezekiel",
+      "fr": "Ézéchiel"
+    },
+    "description": {
+      "en": "👁️ Prophet among the exiles in Babylon — saw spectacular visions.\n🔥 Vision of God's throne on a chariot with four living creatures.\n💀 Vision of the valley of dry bones coming to life — representing Israel's restoration.\n🏛️ Prophesied the future temple and restoration of worship.\n⚖️ Taught personal responsibility: 'The soul who sins shall die.'",
+      "fr": "👁️ Prophète parmi les exilés à Babylone — eut des visions spectaculaires.\n🔥 Vision du trône de Dieu sur un char avec quatre créatures vivantes.\n💀 Vision de la vallée des ossements desséchés revenant à la vie — représentant la restauration d'Israël.\n🏛️ Prophétisa le futur temple et la restauration du culte.\n⚖️ Enseigna la responsabilité personnelle : 'L'âme qui pèche mourra.'"
+    },
+    "image": "images/bible/ezekiel.jpg",
+    "tags": ["ezekiel", "prophet", "visions", "exile", "restoration"]
+  },
+  {
+    "year": "605-530 BC",
+    "era": "Exile",
+    "title": {
+      "en": "Daniel",
+      "fr": "Daniel"
+    },
+    "description": {
+      "en": "🦁 Daniel refused to defile himself and remained faithful in Babylon.\n📖 Interpreted King Nebuchadnezzar's dreams.\n🔥 His friends Shadrach, Meshach, and Abednego survived the fiery furnace.\n🦁 Thrown into the lions' den for praying to God — survived unharmed.\n📜 Received apocalyptic visions of future kingdoms and the Messiah.",
+      "fr": "🦁 Daniel refusa de se souiller et resta fidèle à Babylone.\n📖 Interpréta les rêves du roi Nebucadnetsar.\n🔥 Ses amis Shadrac, Méschac et Abed-Nego survécurent à la fournaise ardente.\n🦁 Jeté dans la fosse aux lions pour avoir prié Dieu — survécut indemne.\n📜 Reçut des visions apocalyptiques des royaumes futurs et du Messie."
+    },
+    "image": "images/bible/daniel.jpg",
+    "tags": ["daniel", "exile", "lions", "prophecy", "faithfulness"]
+  },
+  {
+    "year": "586 BC",
+    "era": "Exile",
+    "title": {
+      "en": "Fall of Jerusalem",
+      "fr": "Chute de Jérusalem"
+    },
+    "description": {
+      "en": "🔥 Nebuchadnezzar of Babylon besieged and destroyed Jerusalem.\n🏛️ Solomon's Temple burned to the ground.\n⛓️ Judah's people taken into Babylonian captivity for 70 years.\n😢 Fulfillment of prophetic warnings from Isaiah, Jeremiah, and others.\n📜 The darkest moment in Israel's history — but not the end of God's plan.",
+      "fr": "🔥 Nebucadnetsar de Babylone assiégea et détruisit Jérusalem.\n🏛️ Le Temple de Salomon brûla entièrement.\n⛓️ Le peuple de Juda emmené en captivité babylonienne pendant 70 ans.\n😢 Accomplissement des avertissements prophétiques d'Ésaïe, Jérémie et d'autres.\n📜 Le moment le plus sombre de l'histoire d'Israël — mais pas la fin du plan de Dieu."
+    },
+    "image": "images/bible/jerusalem_fall.jpg",
+    "tags": ["exile", "babylon", "destruction", "temple", "judgment"]
+  },
+  {
+    "year": "538 BC",
+    "era": "Return",
+    "title": {
+      "en": "Return from Exile",
+      "fr": "Retour de l'exil"
+    },
+    "description": {
+      "en": "🎺 Cyrus the Great of Persia conquered Babylon and issued a decree.\n🏛️ Jews were allowed to return to Jerusalem and rebuild the Temple.\n📜 Led by Zerubbabel, Ezra, and Nehemiah in waves of return.\n🔨 Temple rebuilt (516 BC) and Jerusalem's walls restored (445 BC).\n📚 Ezra reestablished the Law and religious practices.",
+      "fr": "🎺 Cyrus le Grand de Perse conquit Babylone et émit un décret.\n🏛️ Les Juifs furent autorisés à retourner à Jérusalem et reconstruire le Temple.\n📜 Menés par Zorobabel, Esdras et Néhémie en vagues de retour.\n🔨 Temple reconstruit (516 av. J.-C.) et murs de Jérusalem restaurés (445 av. J.-C.).\n📚 Esdras rétablit la Loi et les pratiques religieuses."
+    },
+    "image": "images/bible/return_exile.webp",
+    "tags": ["return", "exile", "cyrus", "temple", "restoration"]
+  },
+  {
+    "year": "5 BC",
+    "era": "New Testament",
+    "title": {
+      "en": "Birth of Jesus Christ",
+      "fr": "Naissance de Jésus-Christ"
+    },
+    "description": {
+      "en": "⭐ Jesus born in Bethlehem to Virgin Mary — fulfillment of prophecy.\n👼 Angels announced His birth to shepherds: 'Good news of great joy!'\n🎁 Wise men from the east brought gold, frankincense, and myrrh.\n👶 'The Word became flesh and dwelt among us.'\n✨ God incarnate — Immanuel, 'God with us.'",
+      "fr": "⭐ Jésus né à Bethléem de la Vierge Marie — accomplissement de la prophétie.\n👼 Des anges annoncèrent sa naissance aux bergers : 'Une bonne nouvelle de grande joie !'\n🎁 Des mages de l'orient apportèrent or, encens et myrrhe.\n👶 'La Parole a été faite chair et a habité parmi nous.'\n✨ Dieu incarné — Emmanuel, 'Dieu avec nous.'"
+    },
+    "image": "images/bible/nativity.jpg",
+    "tags": ["jesus", "birth", "nativity", "messiah", "incarnation"]
+  },
+  {
+    "year": "27-30 AD",
+    "era": "Ministry of Jesus",
+    "title": {
+      "en": "Jesus Christ",
+      "fr": "Jésus-Christ"
+    },
+    "description": {
+      "en": "✝️ Son of God and Messiah — 'I am the way, the truth, and the life.'\n💧 Baptized by John the Baptist in the Jordan River.\n🎤 Preached the Kingdom of God and called 12 disciples.\n🙌 Performed miracles: healed the sick, raised the dead, walked on water.\n📖 Taught in parables about love, forgiveness, and salvation.\n💖 'Love your neighbor as yourself' and 'Love your enemies.'",
+      "fr": "✝️ Fils de Dieu et Messie — 'Je suis le chemin, la vérité et la vie.'\n💧 Baptisé par Jean-Baptiste dans le Jourdain.\n🎤 Prêcha le Royaume de Dieu et appela 12 disciples.\n🙌 Accomplit des miracles : guérit les malades, ressuscita les morts, marcha sur l'eau.\n📖 Enseigna en paraboles sur l'amour, le pardon et le salut.\n💖 'Aime ton prochain comme toi-même' et 'Aimez vos ennemis.'"
+    },
+    "image": "images/bible/jesus.avif",
+    "tags": ["jesus", "messiah", "miracles", "teaching", "savior"]
+  },
+  {
+    "year": "30 AD",
+    "era": "Crucifixion",
+    "title": {
+      "en": "Death and Resurrection",
+      "fr": "Mort et Résurrection"
+    },
+    "description": {
+      "en": "🌿 Jesus entered Jerusalem on Palm Sunday — crowds shouted 'Hosanna!'\n🍷 Last Supper: 'This is my body... this is my blood of the new covenant.'\n😢 Betrayed by Judas, arrested, and tried before Pilate.\n✝️ Crucified on Golgotha — 'Father, forgive them, for they know not what they do.'\n⚰️ Buried in a tomb, guarded by soldiers.\n🌅 Rose from the dead on the third day — conquering sin and death!",
+      "fr": "🌿 Jésus entra à Jérusalem le dimanche des Rameaux — les foules crièrent 'Hosanna !'\n🍷 Dernière Cène : 'Ceci est mon corps... ceci est mon sang de la nouvelle alliance.'\n😢 Trahi par Judas, arrêté et jugé devant Pilate.\n✝️ Crucifié au Golgotha — 'Père, pardonne-leur, car ils ne savent ce qu'ils font.'\n⚰️ Enseveli dans un tombeau, gardé par des soldats.\n🌅 Ressuscité le troisième jour — vainquant le péché et la mort !"
+    },
+    "image": "images/bible/resurrection.jpg",
+    "tags": ["crucifixion", "resurrection", "easter", "salvation", "tomb"]
+  },
+  {
+    "year": "30 AD",
+    "era": "Ascension",
+    "title": {
+      "en": "Ascension and Pentecost",
+      "fr": "Ascension et Pentecôte"
+    },
+    "description": {
+      "en": "☁️ Jesus appeared to disciples for 40 days after resurrection.\n📜 Gave the Great Commission: 'Go and make disciples of all nations.'\n⬆️ Ascended into heaven from Mount of Olives.\n🔥 Ten days later: Pentecost — Holy Spirit descended like fire.\n🗣️ Disciples spoke in tongues and 3,000 were baptized.\n⛪ Birth of the Church.",
+      "fr": "☁️ Jésus apparut aux disciples pendant 40 jours après la résurrection.\n📜 Donna la Grande Commission : 'Allez, faites de toutes les nations des disciples.'\n⬆️ Monta au ciel depuis le mont des Oliviers.\n🔥 Dix jours plus tard : Pentecôte — l'Esprit Saint descendit comme du feu.\n🗣️ Les disciples parlèrent en langues et 3 000 furent baptisés.\n⛪ Naissance de l'Église."
+    },
+    "image": "images/bible/pentecost.jpg",
+    "tags": ["ascension", "pentecost", "holy-spirit", "church", "commission"]
+  },
+  {
+    "year": "33-67 AD",
+    "era": "Apostles",
+    "title": {
+      "en": "Peter",
+      "fr": "Pierre"
+    },
+    "description": {
+      "en": "🎣 Fisherman called by Jesus — original name Simon.\n🪨 Jesus said: 'You are Peter (rock), and on this rock I will build my church.'\n❌ Denied Jesus three times but was restored.\n🔑 Given 'keys of the kingdom' — leader of early church.\n📖 Preached at Pentecost, healed the sick, raised the dead.\n✝️ Martyred in Rome, crucified upside down.",
+      "fr": "🎣 Pêcheur appelé par Jésus — nom original Simon.\n🪨 Jésus dit : 'Tu es Pierre (roc), et sur ce roc je bâtirai mon église.'\n❌ Renia Jésus trois fois mais fut restauré.\n🔑 Reçut les 'clés du royaume' — leader de l'église primitive.\n📖 Prêcha à la Pentecôte, guérit les malades, ressuscita les morts.\n✝️ Martyr à Rome, crucifié la tête en bas."
+    },
+    "image": "images/bible/peter.jpg",
+    "tags": ["peter", "apostle", "fisherman", "keys", "martyr"]
+  },
+  {
+    "year": "33-64 AD",
+    "era": "Apostles",
+    "title": {
+      "en": "Paul (Saul of Tarsus)",
+      "fr": "Paul (Saul de Tarse)"
+    },
+    "description": {
+      "en": "⚡ Persecutor of Christians struck blind on road to Damascus by Jesus.\n🔄 Converted and became Christianity's greatest missionary.\n🌍 Made three missionary journeys throughout Roman Empire.\n📜 Wrote 13 letters (epistles) that became New Testament books.\n⛪ Founded churches and appointed leaders.\n✝️ Martyred in Rome, likely beheaded.",
+      "fr": "⚡ Persécuteur de chrétiens frappé d'aveuglement sur le chemin de Damas par Jésus.\n🔄 Converti et devint le plus grand missionnaire du christianisme.\n🌍 Effectua trois voyages missionnaires dans l'Empire romain.\n📜 Écrivit 13 lettres (épîtres) devenues livres du Nouveau Testament.\n⛪ Fonda des églises et nomma des dirigeants.\n✝️ Martyr à Rome, probablement décapité."
+    },
+    "image": "images/bible/paul.jpg",
+    "tags": ["paul", "apostle", "conversion", "missionary", "epistles"]
+  },
+  {
+    "year": "90-95 AD",
+    "era": "Revelation",
+    "title": {
+      "en": "John's Revelation",
+      "fr": "Apocalypse de Jean"
+    },
+    "description": {
+      "en": "📜 Apostle John exiled on island of Patmos received visions.\n👁️ Saw the glorified Christ and messages to seven churches.\n🐉 Visions of end times: beasts, bowls of wrath, Armageddon.\n👑 Return of Christ as King of Kings and Lord of Lords.\n🌃 New heaven and new earth, New Jerusalem descending.\n✨ 'Behold, I make all things new.' — no more death, pain, or tears.",
+      "fr": "📜 L'apôtre Jean exilé sur l'île de Patmos reçut des visions.\n👁️ Vit le Christ glorifié et des messages aux sept églises.\n🐉 Visions de la fin des temps : bêtes, coupes de colère, Armageddon.\n👑 Retour du Christ comme Roi des rois et Seigneur des seigneurs.\n🌃 Nouveaux cieux et nouvelle terre, Nouvelle Jérusalem descendant.\n✨ 'Voici, je fais toutes choses nouvelles.' — plus de mort, douleur ni larmes."
+    },
+    "image": "images/bible/revelation.jpg",
+    "tags": ["revelation", "apocalypse", "john", "prophecy", "end-times"]
+  }
+]

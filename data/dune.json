@@ -1,0 +1,604 @@
+[
+  {
+    "year": "Ancient Past",
+    "era": "Before History",
+    "title": {
+      "en": "Butlerian Jihad",
+      "fr": "Jihad Butlérien"
+    },
+    "description": {
+      "en": "🤖 Humanity was enslaved by thinking machines and artificial intelligence.\n⚔️ A great revolt arose: 'Thou shalt not make a machine in the likeness of a human mind.'\n🔥 Machines were destroyed across the universe in a holy war lasting generations.\n📜 The Orange Catholic Bible was created, combining all religions.\n🧠 Human minds were trained to replace computers — Mentats born.\n💫 This shaped civilization for 10,000 years to come.",
+      "fr": "🤖 L'humanité fut asservie par les machines pensantes et l'intelligence artificielle.\n⚔️ Une grande révolte s'éleva : 'Tu ne créeras point de machine à l'image de l'esprit humain.'\n🔥 Les machines furent détruites dans tout l'univers lors d'une guerre sainte durant des générations.\n📜 La Bible Catholique Orange fut créée, combinant toutes les religions.\n🧠 Les esprits humains furent entraînés pour remplacer les ordinateurs — naissance des Mentats.\n💫 Cela façonna la civilisation pour 10 000 ans à venir."
+    },
+    "image": "images/dune/butlerian_jihad.webp",
+    "tags": ["jihad", "machines", "revolt", "beginning", "mentat"]
+  },
+  {
+    "year": "After Jihad",
+    "era": "Foundation",
+    "title": {
+      "en": "Great Houses Rise",
+      "fr": "Essor des Grandes Maisons"
+    },
+    "description": {
+      "en": "👑 The feudal Landsraad system emerged — Great Houses ruling planets.\n🏛️ House Corrino established the Imperial throne on Kaitain.\n⚖️ The Spacing Guild gained monopoly on interstellar travel using navigators.\n🔮 CHOAM (Combine Honnete Ober Advancer Mercantiles) controlled commerce.\n💰 Melange spice became the most valuable substance in the universe.\n🌌 A complex balance of power between Emperor, Houses, Guild, and Bene Gesserit.",
+      "fr": "👑 Le système féodal du Landsraad émergea — les Grandes Maisons régnant sur des planètes.\n🏛️ La Maison Corrino établit le trône impérial sur Kaitain.\n⚖️ La Guilde spatiale obtint le monopole du voyage interstellaire avec des navigateurs.\n🔮 La CHOM (Compagnie Honnête Ober Advancer Mercantiles) contrôla le commerce.\n💰 L'épice mélange devint la substance la plus précieuse de l'univers.\n🌌 Un équilibre complexe de pouvoir entre Empereur, Maisons, Guilde et Bene Gesserit."
+    },
+    "image": "images/dune/great_houses.webp",
+    "tags": ["houses", "landsraad", "empire", "guild", "foundation"]
+  },
+  {
+    "year": "Millennia Before",
+    "era": "Sisterhood",
+    "title": {
+      "en": "Bene Gesserit",
+      "fr": "Bene Gesserit"
+    },
+    "description": {
+      "en": "👁️ Ancient sisterhood mastering control over body and mind.\n🗣️ Trained in the Voice — command that cannot be disobeyed.\n🧬 Conducting a secret breeding program for 90 generations.\n🔮 Seeking to create the Kwisatz Haderach — male Bene Gesserit who can see all possible futures.\n📚 Reverend Mothers carry memories of all their female ancestors.\n⚠️ 'I must not fear. Fear is the mind-killer.'",
+      "fr": "👁️ Antique sororité maîtrisant le contrôle du corps et de l'esprit.\n🗣️ Entraînées à la Voix — commandement auquel on ne peut désobéir.\n🧬 Menant un programme secret de reproduction depuis 90 générations.\n🔮 Cherchant à créer le Kwisatz Haderach — un Bene Gesserit mâle pouvant voir tous les futurs possibles.\n📚 Les Révérendes Mères portent les mémoires de toutes leurs ancêtres féminines.\n⚠️ 'Je ne connaîtrai pas la peur. La peur tue l'esprit.'"
+    },
+    "image": "images/dune/bene_gesserit.jpg",
+    "tags": ["bene-gesserit", "sisterhood", "voice", "breeding", "power"]
+  },
+  {
+    "year": "Desert Planet",
+    "era": "Arrakis",
+    "title": {
+      "en": "Arrakis",
+      "fr": "Arrakis"
+    },
+    "description": {
+      "en": "🏜️ Arrakis, also called Dune — harshest planet in the universe.\n🪱 Home to giant sandworms, some over 400 meters long.\n💎 Only source of melange spice, essential for space travel and extending life.\n💧 Water is more precious than gold — to waste moisture is the greatest sin.\n👁️ Blue-within-blue eyes mark those addicted to spice.\n🌟 'He who controls the spice controls the universe.'",
+      "fr": "🏜️ Arrakis, aussi appelée Dune — planète la plus hostile de l'univers.\n🪱 Foyer de vers des sables géants, certains dépassant 400 mètres.\n💎 Seule source de l'épice mélange, essentielle au voyage spatial et prolongeant la vie.\n💧 L'eau est plus précieuse que l'or — gaspiller l'humidité est le plus grand péché.\n👁️ Les yeux bleus dans le bleu marquent ceux dépendants à l'épice.\n🌟 'Celui qui contrôle l'épice contrôle l'univers.'"
+    },
+    "image": "images/dune/arrakis.webp",
+    "tags": ["arrakis", "dune", "spice", "sandworm", "desert"]
+  },
+  {
+    "year": "Ancient Arrakis",
+    "era": "Fremen",
+    "title": {
+      "en": "Fremen People",
+      "fr": "Peuple Fremen"
+    },
+    "description": {
+      "en": "🏜️ Desert people of Arrakis, descendants of Zensunni wanderers.\n💧 Masters of water conservation — stillsuits recycle body moisture.\n⚔️ Fierce warriors trained from childhood in the deadly crysknife way.\n🌙 Live in hidden sietches deep in the desert, unknown to outsiders.\n🪱 Ride the great sandworms across endless dunes.\n🔮 Believe in the prophecy of the Lisan al-Gaib — the Voice from the Outer World who will lead them to paradise.",
+      "fr": "🏜️ Peuple du désert d'Arrakis, descendants des errants Zensunni.\n💧 Maîtres de la conservation de l'eau — les distilles recyclent l'humidité corporelle.\n⚔️ Guerriers féroces entraînés dès l'enfance au maniement mortel du crysknife.\n🌙 Vivent dans des sietches cachés au cœur du désert, inconnus des étrangers.\n🪱 Chevauchent les grands vers des sables à travers les dunes infinies.\n🔮 Croient en la prophétie du Lisan al-Gaib — la Voix venue du Monde Extérieur qui les mènera au paradis."
+    },
+    "image": "images/dune/fremen.jpg",
+    "tags": ["fremen", "desert", "warriors", "stillsuit", "prophecy"]
+  },
+  {
+    "year": "10,191 AG",
+    "era": "Atreides",
+    "title": {
+      "en": "House Atreides",
+      "fr": "La Maison Atreides"
+    },
+    "description": {
+      "en": "🦅 Noble house ruling the ocean planet Caladan for 26 generations.\n👑 Duke Leto Atreides — just, beloved leader, threat to the Emperor.\n⚔️ Famous for their honor, loyalty, and military prowess.\n🎵 Lady Jessica — Bene Gesserit concubine who bore a son instead of a daughter.\n👶 Paul Atreides — heir to the Duke, trained as Mentat and by Bene Gesserit.\n📜 Motto: 'A man's word is his honor.'",
+      "fr": "🦅 Maison noble régnant sur la planète océanique Caladan depuis 26 générations.\n👑 Duc Leto Atreides — leader juste et aimé, menace pour l'Empereur.\n⚔️ Célèbres pour leur honneur, loyauté et prouesse militaire.\n🎵 Dame Jessica — concubine Bene Gesserit qui donna naissance à un fils au lieu d'une fille.\n👶 Paul Atreides — héritier du Duc, entraîné comme Mentat et par les Bene Gesserit.\n📜 Devise : 'La parole d'un homme est son honneur.'"
+    },
+    "image": "images/dune/atreides.jpg",
+    "tags": ["atreides", "leto", "paul", "caladan", "honor"]
+  },
+  {
+    "year": "10,191 AG",
+    "era": "Enemies",
+    "title": {
+      "en": "House Harkonnen",
+      "fr": "La Maison Harkonnen"
+    },
+    "description": {
+      "en": "💀 Brutal house ruling the industrial planet Giedi Prime.\n😈 Baron Vladimir Harkonnen — grotesquely obese, sadistic, driven by greed.\n⚔️ Ancient blood feud with House Atreides spanning generations.\n🏭 Previously held Arrakis, ruled through oppression and torture.\n🔪 Feyd-Rautha — the Baron's nephew and heir, beautiful but deadly.\n💰 'The power to destroy a thing is the absolute control over it.'",
+      "fr": "💀 Maison brutale régnant sur la planète industrielle Giedi Prime.\n😈 Baron Vladimir Harkonnen — grotesquement obèse, sadique, mû par l'avidité.\n⚔️ Ancienne vendetta avec la Maison Atreides s'étendant sur des générations.\n🏭 Détenait auparavant Arrakis, régnant par l'oppression et la torture.\n🔪 Feyd-Rautha — neveu et héritier du Baron, beau mais mortel.\n💰 'Le pouvoir de détruire une chose est le contrôle absolu sur elle.'"
+    },
+    "image": "images/dune/harkonnen.jpg",
+    "tags": ["harkonnen", "baron", "enemy", "evil", "feud"]
+  },
+  {
+    "year": "10,191 AG",
+    "era": "The Trap",
+    "title": {
+      "en": "Transfer to Arrakis",
+      "fr": "Transfert vers Arrakis"
+    },
+    "description": {
+      "en": "🏜️ Emperor Shaddam IV gave Arrakis to Duke Leto — a poisoned gift.\n⚠️ A trap orchestrated by the Emperor and Baron Harkonnen.\n🚀 House Atreides left beloved Caladan for the desert planet.\n👁️ Leto knew it was dangerous but saw opportunity in controlling spice.\n💧 Duncan Idaho scouted ahead, made contact with Fremen.\n📊 Leto planned to win over the Fremen and secure their position.",
+      "fr": "🏜️ L'Empereur Shaddam IV donna Arrakis au Duc Leto — un cadeau empoisonné.\n⚠️ Un piège orchestré par l'Empereur et le Baron Harkonnen.\n🚀 La Maison Atreides quitta la bien-aimée Caladan pour la planète désertique.\n👁️ Leto savait que c'était dangereux mais voyait l'opportunité de contrôler l'épice.\n💧 Duncan Idaho partit en éclaireur, établit le contact avec les Fremen.\n📊 Leto prévoyait de gagner les Fremen et sécuriser leur position."
+    },
+    "image": "images/dune/transfer.webp",
+    "tags": ["arrakis", "trap", "atreides", "arrival", "danger"]
+  },
+  {
+    "year": "10,191 AG",
+    "era": "Testing",
+    "title": {
+      "en": "Paul's Awakening",
+      "fr": "L'éveil de Paul"
+    },
+    "description": {
+      "en": "💎 Paul tested by Reverend Mother Gaius Helen Mohiam with the Gom Jabbar.\n📦 'Put your hand in the box' — a test of humanity vs. animal.\n🔥 Endured excruciating pain that felt like his hand was burning.\n🧠 Passed the test — proving his human consciousness could overcome instinct.\n🌙 Dreams of a blue-eyed girl in the desert — Chani.\n⚡ Began to see possible futures, evidence of prescient abilities.\n🔮 'I must not fear. Fear is the mind-killer.'",
+      "fr": "💎 Paul testé par la Révérende Mère Gaius Helen Mohiam avec le Gom Jabbar.\n📦 'Mets ta main dans la boîte' — un test d'humanité contre animalité.\n🔥 Endura une douleur atroce donnant l'impression que sa main brûlait.\n🧠 Réussit le test — prouvant que sa conscience humaine pouvait surmonter l'instinct.\n🌙 Rêves d'une fille aux yeux bleus dans le désert — Chani.\n⚡ Commença à voir des futurs possibles, preuve de capacités de prescience.\n🔮 'Je ne connaîtrai pas la peur. La peur tue l'esprit.'"
+    },
+    "image": "images/dune/gom_jabbar.jpg",
+    "tags": ["paul", "test", "gom-jabbar", "awakening", "fear"]
+  },
+  {
+    "year": "10,191 AG",
+    "era": "Betrayal",
+    "title": {
+      "en": "Fall of House Atreides",
+      "fr": "Chute de la Maison Atreides"
+    },
+    "description": {
+      "en": "🌙 Night attack on Arrakeen — Harkonnen forces with Sardaukar troops.\n🔪 Dr. Yueh, trusted physician, betrayed the Atreides — his wife held by Harkonnens.\n💔 Duke Leto killed by poison gas tooth, attempting to kill the Baron.\n⚔️ Duncan Idaho died defending Paul and Jessica.\n🏃 Paul and Jessica fled into the deep desert.\n💀 House Atreides seemingly destroyed — but the desert would reveal otherwise.",
+      "fr": "🌙 Attaque nocturne sur Arrakeen — forces Harkonnen avec des troupes Sardaukar.\n🔪 Dr Yueh, médecin de confiance, trahit les Atreides — sa femme retenue par les Harkonnen.\n💔 Le Duc Leto tué par une dent à gaz toxique, tentant de tuer le Baron.\n⚔️ Duncan Idaho mourut en défendant Paul et Jessica.\n🏃 Paul et Jessica s'enfuirent dans le désert profond.\n💀 La Maison Atreides apparemment détruite — mais le désert révélerait autre chose."
+    },
+    "image": "images/dune/fall_atreides.png",
+    "tags": ["betrayal", "death", "leto", "yueh", "tragedy"]
+  },
+  {
+    "year": "10,191 AG",
+    "era": "Desert",
+    "title": {
+      "en": "Into the Desert",
+      "fr": "Dans le désert"
+    },
+    "description": {
+      "en": "🏜️ Paul and Jessica crossed the deadly desert in an ornithopter.\n🪱 Encountered their first sandworm — Shai-Hulud, Old Man of the Desert.\n👁️ Survived using Fremen tactics Jessica learned from Liet-Kynes.\n⛺ Found by Stilgar's Fremen sietch after proving their desert skills.\n💧 Jessica's water gift established trust — moisture is life.\n⚔️ Paul fought and killed Jamis in ritual combat, gaining the name Usul.",
+      "fr": "🏜️ Paul et Jessica traversèrent le désert mortel dans un ornithoptère.\n🪱 Rencontrèrent leur premier ver des sables — Shai-Hulud, le Vieil Homme du Désert.\n👁️ Survécurent en utilisant les tactiques Fremen apprises de Liet-Kynes.\n⛺ Trouvés par le sietch Fremen de Stilgar après avoir prouvé leurs compétences désertiques.\n💧 Le don d'eau de Jessica établit la confiance — l'humidité est la vie.\n⚔️ Paul combattit et tua Jamis en combat rituel, gagnant le nom d'Usul."
+    },
+    "image": "images/dune/desert_survival.jpg",
+    "tags": ["desert", "survival", "fremen", "sandworm", "combat"]
+  },
+  {
+    "year": "10,191 AG",
+    "era": "Transformation",
+    "title": {
+      "en": "Paul Muad'Dib",
+      "fr": "Paul Muad'Dib"
+    },
+    "description": {
+      "en": "🐭 Paul took the name Muad'Dib — the desert mouse, symbol of adaptation.\n👁️ His eyes turned blue-within-blue from spice saturation.\n💑 Fell in love with Chani, daughter of Liet-Kynes.\n⚔️ Became a Fremen warrior, learning their ways of desert survival.\n🪱 Mastered riding the great sandworms.\n📚 Studied Fremen ecology and their dream of terraforming Arrakis.\n🌟 'The sleeper must awaken.'",
+      "fr": "🐭 Paul prit le nom de Muad'Dib — la souris du désert, symbole d'adaptation.\n👁️ Ses yeux devinrent bleus dans le bleu par saturation d'épice.\n💑 Tomba amoureux de Chani, fille de Liet-Kynes.\n⚔️ Devint un guerrier Fremen, apprenant leurs méthodes de survie désertique.\n🪱 Maîtrisa la chevauchée des grands vers des sables.\n📚 Étudia l'écologie Fremen et leur rêve de terraformer Arrakis.\n🌟 'Le dormeur doit s'éveiller.'"
+    },
+    "image": "images/dune/muad_dib.avif",
+    "tags": ["paul", "muad-dib", "fremen", "transformation", "chani"]
+  },
+  {
+    "year": "10,193 AG",
+    "era": "Prophecy",
+    "title": {
+      "en": "The Water of Life",
+      "fr": "L'Eau de Vie"
+    },
+    "description": {
+      "en": "💧 Jessica underwent the spice agony, becoming a Reverend Mother.\n🤰 Her unborn daughter Alia was transformed in the womb — born with full ancestral memories.\n⚡ Paul consumed the Water of Life — poison from a drowned sandworm.\n💀 Fell into a coma for three weeks, teetering between life and death.\n🌌 Awoke with full prescient vision — could see past, present, and future.\n👁️ Became the Kwisatz Haderach — the one the Bene Gesserit sought for millennia.\n⚠️ 'He who can destroy a thing, controls a thing.'",
+      "fr": "💧 Jessica subit l'agonie de l'épice, devenant une Révérende Mère.\n🤰 Sa fille à naître Alia fut transformée dans le ventre — née avec la mémoire ancestrale complète.\n⚡ Paul consomma l'Eau de Vie — poison d'un ver des sables noyé.\n💀 Tomba dans le coma pendant trois semaines, oscillant entre vie et mort.\n🌌 Se réveilla avec la vision presciente complète — pouvait voir passé, présent et futur.\n👁️ Devint le Kwisatz Haderach — celui que les Bene Gesserit cherchaient depuis des millénaires.\n⚠️ 'Celui qui peut détruire une chose, contrôle cette chose.'"
+    },
+    "image": "images/dune/water_of_life.png",
+    "tags": ["paul", "prescience", "kwisatz-haderach", "transformation", "vision"]
+  },
+  {
+    "year": "10,193 AG",
+    "era": "Jihad",
+    "title": {
+      "en": "Rise of Muad'Dib",
+      "fr": "L'ascension de Muad'Dib"
+    },
+    "description": {
+      "en": "🔥 Paul united all Fremen sietches under his leadership.\n⚔️ Unleashed devastating guerrilla warfare against Harkonnen spice operations.\n💎 Destroyed spice production, threatening the entire universe.\n🌟 Fremen saw him as the Mahdi, their prophesied messiah.\n👁️ Paul saw the terrible future — a jihad spreading across the universe in his name.\n💔 Tried to prevent it, but prescience showed it was inevitable.\n🪱 'I am a desert creature!'",
+      "fr": "🔥 Paul unit tous les sietches Fremen sous son leadership.\n⚔️ Déchaîna une guerre de guérilla dévastatrice contre les opérations d'épice Harkonnen.\n💎 Détruisit la production d'épice, menaçant l'univers entier.\n🌟 Les Fremen le voyaient comme le Mahdi, leur messie prophétisé.\n👁️ Paul vit le terrible futur — un jihad se répandant dans l'univers en son nom.\n💔 Tenta de l'empêcher, mais la prescience montrait que c'était inévitable.\n🪱 'Je suis une créature du désert !'"
+    },
+    "image": "images/dune/rise_muad_dib.png",
+    "tags": ["muad-dib", "fremen", "uprising", "jihad", "messiah"]
+  },
+  {
+    "year": "10,193 AG",
+    "era": "War",
+    "title": {
+      "en": "Battle of Arrakeen",
+      "fr": "Bataille d'Arrakeen"
+    },
+    "description": {
+      "en": "🚀 Emperor Shaddam IV arrived with his Sardaukar legions and all Great Houses.\n⚔️ Paul rode sandworms into battle — Fremen warriors unstoppable.\n💀 Fremen defeated the legendary Sardaukar in brutal combat.\n🏰 Paul seized control of Arrakeen and the Imperial throne.\n🔪 Killed Baron Harkonnen and defeated Feyd-Rautha in single combat.\n👑 Took the Emperor's daughter Irulan as wife for political alliance.\n💚 Chani remained his true love and concubine.",
+      "fr": "🚀 L'Empereur Shaddam IV arriva avec ses légions Sardaukar et toutes les Grandes Maisons.\n⚔️ Paul chevaucha les vers des sables au combat — guerriers Fremen implacables.\n💀 Les Fremen vainquirent les légendaires Sardaukar en combat brutal.\n🏰 Paul prit le contrôle d'Arrakeen et du trône impérial.\n🔪 Tua le Baron Harkonnen et vainquit Feyd-Rautha en combat singulier.\n👑 Prit la fille de l'Empereur Irulan comme épouse pour alliance politique.\n💚 Chani resta son véritable amour et concubine."
+    },
+    "image": "images/dune/battle_arrakeen.jpg",
+    "tags": ["battle", "victory", "emperor", "sardaukar", "conquest"]
+  },
+  {
+    "year": "10,193 AG",
+    "era": "Empire",
+    "title": {
+      "en": "Paul Becomes Emperor",
+      "fr": "Paul Devient Empereur"
+    },
+    "description": {
+      "en": "👑 Paul became Padishah Emperor, ruler of the known universe.\n🌟 Worshipped as a god by billions — Muad'Dib, the Prophet.\n💎 Controlled all spice production — absolute power over space travel.\n⚔️ The Fremen Jihad began — 61 billion deaths across the universe.\n😢 Paul saw it all but could not stop it — trapped by prescience.\n📜 'I am the Kwisatz Haderach. That is reason enough.'",
+      "fr": "👑 Paul devint Empereur Padishah, dirigeant de l'univers connu.\n🌟 Vénéré comme un dieu par des milliards — Muad'Dib, le Prophète.\n💎 Contrôla toute la production d'épice — pouvoir absolu sur le voyage spatial.\n⚔️ Le Jihad Fremen commença — 61 milliards de morts dans l'univers.\n😢 Paul vit tout mais ne put l'arrêter — piégé par la prescience.\n📜 'Je suis le Kwisatz Haderach. C'est raison suffisante.'"
+    },
+    "image": "images/dune/emperor_paul.jpg",
+    "tags": ["emperor", "paul", "power", "jihad", "tragedy"]
+  },
+  {
+    "year": "10,205 AG",
+    "era": "Tragedy",
+    "title": {
+      "en": "Paul's Blindness",
+      "fr": "Cécité de Paul"
+    },
+    "description": {
+      "en": "💔 Chani died giving birth to twins — Leto II and Ghanima.\n😭 Paul's beloved companion and true love was gone.\n💣 Blinded by a stone burner atomic weapon in a conspiracy.\n👁️ Though physically blind, could still see through prescient vision.\n🏜️ Walked into the desert following Fremen tradition for the blind.\n🌟 Became a legend, a myth — 'The Preacher' who spoke truth to power.",
+      "fr": "💔 Chani mourut en donnant naissance à des jumeaux — Leto II et Ghanima.\n😭 La compagne bien-aimée et véritable amour de Paul était partie.\n💣 Aveuglé par une arme atomique brûleur de pierre dans une conspiration.\n👁️ Bien que physiquement aveugle, pouvait encore voir par vision presciente.\n🏜️ Marcha dans le désert suivant la tradition Fremen pour les aveugles.\n🌟 Devint une légende, un mythe — 'Le Prêcheur' qui disait la vérité au pouvoir."
+    },
+    "image": "images/dune/paul_blind.jpg",
+    "tags": ["paul", "chani", "death", "blind", "tragedy"]
+  },
+  {
+    "year": "10,207 AG",
+    "era": "Conspiracy",
+    "title": {
+      "en": "Alia's Possession",
+      "fr": "La possession d'Alia"
+    },
+    "description": {
+      "en": "👧 Alia, Paul's sister, ruled as Regent for his children.\n👻 Possessed by the personality of Baron Harkonnen from ancestral memory.\n😈 Became tyrannical, corrupted by power and internal possession.\n💀 Called 'Abomination' by the Bene Gesserit.\n⚔️ Threatened her own niece and nephew, Leto and Ghanima.\n🗡️ Eventually took her own life to free herself from the Baron's control.",
+      "fr": "👧 Alia, sœur de Paul, régna comme Régente pour ses enfants.\n👻 Possédée par la personnalité du Baron Harkonnen des mémoires ancestrales.\n😈 Devint tyrannique, corrompue par le pouvoir et la possession interne.\n💀 Appelée 'Abomination' par les Bene Gesserit.\n⚔️ Menaça sa propre nièce et neveu, Leto et Ghanima.\n🗡️ Finalement se donna la mort pour se libérer du contrôle du Baron."
+    },
+    "image": "images/dune/alia_possessed.jpg",
+    "tags": ["alia", "possession", "harkonnen", "abomination", "tragedy"]
+  },
+  {
+    "year": "10,209 AG",
+    "era": "Transformation",
+    "title": {
+      "en": "Leto II — The God Emperor",
+      "fr": "Leto II — L'Empereur-Dieu"
+    },
+    "description": {
+      "en": "👦 Paul's son saw a golden path — humanity's survival for 3,500 years.\n🪱 Bonded with sandtrout, gradually transforming into a sandworm.\n💪 Gained superhuman strength, speed, and near-immortality.\n👑 Became God Emperor, ruling with absolute authority.\n⚠️ Sacrificed his humanity to save humanity from extinction.\n🔮 'I am the ultimate predator. I am the ultimate prey.'",
+      "fr": "👦 Le fils de Paul vit un chemin doré — la survie de l'humanité pendant 3 500 ans.\n🪱 Fusionna avec des truites des sables, se transformant graduellement en ver des sables.\n💪 Gagna force surhumaine, vitesse et quasi-immortalité.\n👑 Devint Empereur-Dieu, régnant avec autorité absolue.\n⚠️ Sacrifia son humanité pour sauver l'humanité de l'extinction.\n🔮 'Je suis le prédateur ultime. Je suis la proie ultime.'"
+    },
+    "image": "images/dune/leto_ii.jpg",
+    "tags": ["leto-ii", "god-emperor", "transformation", "golden-path", "sacrifice"]
+  },
+  {
+    "year": "10,209-13,724 AG",
+    "era": "The Long Peace",
+    "title": {
+      "en": "Golden Path",
+      "fr": "Chemin Doré"
+    },
+    "description": {
+      "en": "🐛 Leto II ruled for 3,500 years as a giant sandworm-human hybrid.\n☮️ Enforced peace through absolute control and breeding program.\n🌍 Transformed Arrakis into a green world, nearly destroying the sandworms.\n👁️ Bred humans for genetic invisibility to prescient vision.\n📚 Controlled all historical records, becoming a tyrant.\n⚔️ Created the Scattering — forcing humanity to flee to the far reaches of space.\n💀 Finally allowed himself to be assassinated, crumbling into sandtrout.",
+      "fr": "🐛 Leto II régna pendant 3 500 ans comme hybride géant ver des sables-humain.\n☮️ Imposa la paix par contrôle absolu et programme de reproduction.\n🌍 Transforma Arrakis en monde verdoyant, détruisant presque les vers des sables.\n👁️ Créa des humains génétiquement invisibles à la vision presciente.\n📚 Contrôla tous les registres historiques, devenant un tyran.\n⚔️ Créa la Dispersion — forçant l'humanité à fuir vers les confins de l'espace.\n💀 Finalement permit son assassinat, s'émiettant en truites des sables."
+    },
+    "image": "images/dune/golden_path.jpg",
+    "tags": ["leto-ii", "golden-path", "tyrant", "peace", "scattering"]
+  },
+  {
+    "year": "10,196 AG",
+    "era": "Dune Messiah",
+    "title": {
+      "en": "Conspiracy Against Paul",
+      "fr": "Conspiration Contre Paul"
+    },
+    "description": {
+      "en": "🕵️ The Bene Gesserit, Spacing Guild, and Tleilaxu conspire to destroy Paul.\n🧬 Tleilaxu create a ghola of Duncan Idaho to trap Paul.\n👁️ Face Dancers infiltrate Paul's court as assassins.\n💔 Chani is made sterile through contraceptives in her food.\n🎭 Princess Irulan writes her histories, secretly working against Paul.\n⚔️ The conspiracy aims to end the Atreides bloodline forever.",
+      "fr": "🕵️ Les Bene Gesserit, la Guilde Spatiale et les Tleilaxu conspirent pour détruire Paul.\n🧬 Les Tleilaxu créent un ghola de Duncan Idaho pour piéger Paul.\n👁️ Les Face Dancers infiltrent la cour de Paul comme assassins.\n💔 Chani est rendue stérile par des contraceptifs dans sa nourriture.\n🎭 La Princesse Irulan écrit ses histoires, travaillant secrètement contre Paul.\n⚔️ La conspiration vise à mettre fin à la lignée Atreides pour toujours."
+    },
+    "image": "images/dune/conspiracy.jpg",
+    "tags": ["conspiracy", "messiah", "tleilaxu", "guild", "bene-gesserit"]
+  },
+  {
+    "year": "10,196 AG",
+    "era": "Dune Messiah",
+    "title": {
+      "en": "Duncan's Return",
+      "fr": "Retour de Duncan"
+    },
+    "description": {
+      "en": "🧬 Duncan Idaho is resurrected as a ghola named Hayt by the Tleilaxu.\n🤖 Designed as a weapon to destroy Paul through emotional manipulation.\n💔 Given Zensunni conditioning to awaken memories and kill Paul.\n⚡ Paul sees his own death in prescient visions but accepts it.\n🗡️ Duncan breaks his conditioning through love and loyalty.\n💚 Becomes Paul's most trusted advisor once again.",
+      "fr": "🧬 Duncan Idaho est ressuscité comme ghola nommé Hayt par les Tleilaxu.\n🤖 Conçu comme une arme pour détruire Paul par manipulation émotionnelle.\n💔 Reçoit un conditionnement Zensunni pour réveiller les mémoires et tuer Paul.\n⚡ Paul voit sa propre mort en visions prescientes mais l'accepte.\n🗡️ Duncan brise son conditionnement par amour et loyauté.\n💚 Redevient le conseiller le plus fiable de Paul."
+    },
+    "image": "images/dune/hayt.jpg",
+    "tags": ["duncan", "ghola", "hayt", "resurrection", "loyalty"]
+  },
+  {
+    "year": "10,209 AG",
+    "era": "Children of Dune",
+    "title": {
+      "en": "The Twins",
+      "fr": "Les Jumeaux"
+    },
+    "description": {
+      "en": "👶 Leto II and Ghanima born with full ancestral memories — pre-born.\n🧠 Possess knowledge and personalities of all their ancestors.\n⚠️ Constant danger of possession by ancestor personalities.\n👑 Raised by Alia as Regent during their youth.\n🌟 Both exhibit prescient abilities inherited from Paul.\n⚔️ Must navigate deadly political intrigue from childhood.",
+      "fr": "👶 Leto II et Ghanima nés avec mémoires ancestrales complètes — pré-nés.\n🧠 Possèdent connaissances et personnalités de tous leurs ancêtres.\n⚠️ Danger constant de possession par personnalités ancestrales.\n👑 Élevés par Alia comme Régente durant leur jeunesse.\n🌟 Tous deux exhibent des capacités de prescience héritées de Paul.\n⚔️ Doivent naviguer une intrigue politique mortelle dès l'enfance."
+    },
+    "image": "images/dune/twins.jpg",
+    "tags": ["leto-ii", "ghanima", "twins", "pre-born", "children"]
+  },
+  {
+    "year": "10,209 AG",
+    "era": "Children of Dune",
+    "title": {
+      "en": "The Preacher Returns",
+      "fr": "Retour du Prêcheur"
+    },
+    "description": {
+      "en": "🏜️ A mysterious blind Preacher appears, denouncing Paul's religious empire.\n👁️ Speaks truth to power, challenges the Qizarate priesthood.\n🌟 Accompanied by young guide, wanders the streets of Arrakeen.\n⚡ His words shake the foundations of Muad'Dib's church.\n💀 Eventually revealed to be Paul himself, returned from the desert.\n🗡️ Assassinated on the steps of the temple, fulfilling his vision.",
+      "fr": "🏜️ Un mystérieux Prêcheur aveugle apparaît, dénonçant l'empire religieux de Paul.\n👁️ Dit la vérité au pouvoir, défie la prêtrise du Qizarate.\n🌟 Accompagné d'un jeune guide, erre dans les rues d'Arrakeen.\n⚡ Ses paroles ébranlent les fondations de l'église de Muad'Dib.\n💀 Finalement révélé être Paul lui-même, revenu du désert.\n🗡️ Assassiné sur les marches du temple, accomplissant sa vision."
+    },
+    "image": "images/dune/preacher.jpg",
+    "tags": ["paul", "preacher", "return", "prophecy", "death"]
+  },
+  {
+    "year": "10,209 AG",
+    "era": "Children of Dune",
+    "title": {
+      "en": "House Corrino Returns",
+      "fr": "Retour de la Maison Corrino"
+    },
+    "description": {
+      "en": "👑 Farad'n Corrino, grandson of Shaddam IV, plots to reclaim the throne.\n⚔️ Trained by the Bene Gesserit to overthrow the Atreides.\n🎭 Sent tigers as assassination weapons against the twins.\n💍 Weds Ghanima in political alliance to end the feud.\n🗡️ Renounces claim to throne, becomes Royal Scribe.\n📜 The Corrino line blends with Atreides, ending ancient rivalry.",
+      "fr": "👑 Farad'n Corrino, petit-fils de Shaddam IV, complote pour reprendre le trône.\n⚔️ Entraîné par les Bene Gesserit pour renverser les Atreides.\n🎭 Envoie des tigres comme armes d'assassination contre les jumeaux.\n💍 Épouse Ghanima en alliance politique pour mettre fin à la querelle.\n🗡️ Renonce à sa prétention au trône, devient Scribe Royal.\n📜 La ligne Corrino fusionne avec les Atreides, mettant fin à l'ancienne rivalité."
+    },
+    "image": "images/dune/corrino.jpg",
+    "tags": ["corrino", "faradn", "ghanima", "alliance", "politics"]
+  },
+  {
+    "year": "13,724 AG",
+    "era": "God Emperor",
+    "title": {
+      "en": "Death of God Emperor",
+      "fr": "Mort de l'Empereur-Dieu"
+    },
+    "description": {
+      "en": "🐛 Leto II rules for 3,500 years, longest reign in human history.\n💔 Falls in love with Hwi Noree, his first love in millennia.\n⚔️ Siona Atreides leads rebellion, bred to be invisible to prescience.\n💀 Allows himself to be assassinated, falling into the Idaho River.\n🪱 His body dissolves into sandtrout, restoring sandworms to Arrakis.\n🌌 The Scattering begins — humanity spreads beyond the reach of prescience.",
+      "fr": "🐛 Leto II règne pendant 3 500 ans, plus long règne de l'histoire humaine.\n💔 Tombe amoureux de Hwi Noree, son premier amour en millénaires.\n⚔️ Siona Atreides mène la rébellion, élevée pour être invisible à la prescience.\n💀 Se laisse assassiner, tombant dans la rivière Idaho.\n🪱 Son corps se dissout en truites des sables, restaurant les vers des sables sur Arrakis.\n🌌 La Dispersion commence — l'humanité se répand hors de portée de la prescience."
+    },
+    "image": "images/dune/leto_death.webp",
+    "tags": ["leto-ii", "death", "scattering", "siona", "end"]
+  },
+  {
+    "year": "15,240 AG",
+    "era": "Heretics",
+    "title": {
+      "en": "The Scattering",
+      "fr": "La Dispersion"
+    },
+    "description": {
+      "en": "🌌 Humanity scattered across unknown reaches of space for 1,500 years.\n🚀 Trillions fled beyond the Old Empire, beyond prescient vision.\n🧬 Evolved in isolation, developing new abilities and technologies.\n⚔️ Some return as Honored Matres — violent and dangerous.\n👁️ The Bene Gesserit struggle to maintain their influence.\n💎 Arrakis is now called Rakis, a desert planet once more.",
+      "fr": "🌌 L'humanité dispersée à travers les confins inconnus de l'espace pendant 1 500 ans.\n🚀 Des billions fuirent au-delà du Vieil Empire, au-delà de la vision presciente.\n🧬 Évoluèrent en isolation, développant nouvelles capacités et technologies.\n⚔️ Certains reviennent comme Honorées Matriarches — violentes et dangereuses.\n👁️ Les Bene Gesserit luttent pour maintenir leur influence.\n💎 Arrakis s'appelle maintenant Rakis, à nouveau une planète désertique."
+    },
+    "image": "images/dune/scattering.webp",
+    "tags": ["scattering", "diaspora", "honored-matres", "evolution", "future"]
+  },
+  {
+    "year": "15,240 AG",
+    "era": "Heretics",
+    "title": {
+      "en": "Honored Matres",
+      "fr": "Honorées Matriarches"
+    },
+    "description": {
+      "en": "👠 Violent matriarchal order from the Scattering, twisted reflection of Bene Gesserit.\n⚡ Possess enhanced sexual bonding powers that enslave men.\n🔥 Conquer worlds through brutality and intimidation.\n🏙️ Destroy entire planets that resist them.\n⚠️ Fleeing from unknown enemy in the deep Scattering.\n⚔️ View Bene Gesserit as outdated rivals to be eliminated.",
+      "fr": "👠 Ordre matriarcal violent de la Dispersion, reflet tordu des Bene Gesserit.\n⚡ Possèdent pouvoirs de liaison sexuelle améliorés qui asservissent les hommes.\n🔥 Conquièrent des mondes par brutalité et intimidation.\n🏙️ Détruisent des planètes entières qui leur résistent.\n⚠️ Fuient un ennemi inconnu dans les profondeurs de la Dispersion.\n⚔️ Voient les Bene Gesserit comme rivales dépassées à éliminer."
+    },
+    "image": "images/dune/honored_matres.jpg",
+    "tags": ["honored-matres", "scattering", "violence", "power", "threat"]
+  },
+  {
+    "year": "15,240 AG",
+    "era": "Heretics",
+    "title": {
+      "en": "Sheeana",
+      "fr": "Sheeana"
+    },
+    "description": {
+      "en": "🪱 Young girl on Rakis who can command the sandworms.\n⚡ The worms will not harm her — sees her as part of Leto II.\n🏜️ Adopted and trained by the Bene Gesserit.\n🔮 Represents hope for understanding and controlling the worms.\n👁️ Key to the sisterhood's plans for survival.\n🌟 Carries genetic memories from Leto II's transformation.",
+      "fr": "🪱 Jeune fille sur Rakis qui peut commander les vers des sables.\n⚡ Les vers ne lui font pas de mal — la voient comme partie de Leto II.\n🏜️ Adoptée et entraînée par les Bene Gesserit.\n🔮 Représente l'espoir de comprendre et contrôler les vers.\n👁️ Clé des plans de la sororité pour la survie.\n🌟 Porte les mémoires génétiques de la transformation de Leto II."
+    },
+    "image": "images/dune/sheeana.webp",
+    "tags": ["sheeana", "sandworms", "rakis", "bene-gesserit", "power"]
+  },
+  {
+    "year": "15,240 AG",
+    "era": "Heretics",
+    "title": {
+      "en": "Duncan Idaho Ghola",
+      "fr": "Ghola Duncan Idaho"
+    },
+    "description": {
+      "en": "🧬 Tleilaxu create another ghola of Duncan Idaho for the Bene Gesserit.\n🗡️ Trained as warrior and mentat from childhood.\n💡 Holds genetic memories of all previous Duncan gholas.\n⚔️ Designed to be the ultimate Atreides servant.\n👁️ Awakened memories make him key player in coming conflicts.\n💚 Remains loyal to the Atreides legacy across millennia.",
+      "fr": "🧬 Les Tleilaxu créent un autre ghola de Duncan Idaho pour les Bene Gesserit.\n🗡️ Entraîné comme guerrier et mentat dès l'enfance.\n💡 Porte les mémoires génétiques de tous les gholas Duncan précédents.\n⚔️ Conçu pour être le serviteur Atreides ultime.\n👁️ Les mémoires éveillées le rendent acteur clé des conflits à venir.\n💚 Reste loyal à l'héritage Atreides à travers les millénaires."
+    },
+    "image": "images/dune/duncan_ghola.webp",
+    "tags": ["duncan", "ghola", "tleilaxu", "loyalty", "memories"]
+  },
+  {
+    "year": "15,242 AG",
+    "era": "Heretics",
+    "title": {
+      "en": "Destruction of Rakis",
+      "fr": "Destruction de Rakis"
+    },
+    "description": {
+      "en": "🔥 Honored Matres destroy the planet Rakis in retaliation.\n💀 All sandworms killed except for one that Sheeana saves.\n🏜️ The desert planet is sterilized from orbit.\n😢 Leto II's legacy nearly erased completely.\n🪱 Last sandworm becomes key to future of spice and humanity.\n⚡ The Old Empire trembles at the Honored Matres' brutality.",
+      "fr": "🔥 Les Honorées Matriarches détruisent la planète Rakis en représailles.\n💀 Tous les vers des sables tués sauf un que Sheeana sauve.\n🏜️ La planète désertique est stérilisée depuis l'orbite.\n😢 L'héritage de Leto II presque entièrement effacé.\n🪱 Le dernier ver des sables devient clé du futur de l'épice et de l'humanité.\n⚡ Le Vieil Empire tremble devant la brutalité des Honorées Matriarches."
+    },
+    "image": "images/dune/rakis_destruction.jpg",
+    "tags": ["rakis", "destruction", "honored-matres", "sandworm", "tragedy"]
+  },
+  {
+    "year": "15,245 AG",
+    "era": "Chapterhouse",
+    "title": {
+      "en": "Chapterhouse Planet",
+      "fr": "Planète Chapterhouse"
+    },
+    "description": {
+      "en": "🏛️ Bene Gesserit retreat to their hidden homeworld — Chapterhouse.\n🌱 Begin transforming it into a desert to breed sandworms.\n🪱 The last sandworm from Rakis brought here to restart the cycle.\n💎 Begin producing melange spice for the first time in millennia.\n👁️ The sisterhood's last stronghold against the Honored Matres.\n📚 Archives of human history and Bene Gesserit knowledge preserved.",
+      "fr": "🏛️ Les Bene Gesserit se retirent sur leur monde natal caché — Chapterhouse.\n🌱 Commencent à le transformer en désert pour élever des vers des sables.\n🪱 Le dernier ver des sables de Rakis amené ici pour redémarrer le cycle.\n💎 Commencent à produire l'épice mélange pour la première fois en millénaires.\n👁️ Le dernier bastion de la sororité contre les Honorées Matriarches.\n📚 Archives de l'histoire humaine et connaissances Bene Gesserit préservées."
+    },
+    "image": "images/dune/chapterhouse.jpg",
+    "tags": ["chapterhouse", "bene-gesserit", "sandworms", "refuge", "spice"]
+  },
+  {
+    "year": "15,245 AG",
+    "era": "Chapterhouse",
+    "title": {
+      "en": "Murbella",
+      "fr": "Murbella"
+    },
+    "description": {
+      "en": "👠 Honored Matre captured and trained by the Bene Gesserit.\n⚡ Bound to Duncan Idaho through Honored Matre sexual bonding.\n🧠 Learns Bene Gesserit ways while retaining Honored Matre powers.\n⚖️ Becomes bridge between the two rival orders.\n👑 Eventually leads both orders in synthesis — the New Sisterhood.\n💪 Represents evolution and survival through adaptation.",
+      "fr": "👠 Honorée Matriarche capturée et entraînée par les Bene Gesserit.\n⚡ Liée à Duncan Idaho par liaison sexuelle des Honorées Matriarches.\n🧠 Apprend les voies Bene Gesserit tout en gardant pouvoirs d'Honorée Matriarche.\n⚖️ Devient pont entre les deux ordres rivaux.\n👑 Finalement dirige les deux ordres en synthèse — la Nouvelle Sororité.\n💪 Représente évolution et survie par adaptation."
+    },
+    "image": "images/dune/murbella.webp",
+    "tags": ["murbella", "honored-matre", "bene-gesserit", "synthesis", "evolution"]
+  },
+  {
+    "year": "15,245 AG",
+    "era": "Chapterhouse",
+    "title": {
+      "en": "The Unknown Enemy",
+      "fr": "L'Ennemi Inconnu"
+    },
+    "description": {
+      "en": "⚠️ Something in the deep Scattering drove the Honored Matres back.\n👁️ Face Dancers evolved beyond Tleilaxu control — independent Masters.\n🤖 Hints of thinking machines returning after 15,000 years.\n🌌 Unknown threat greater than anything humanity has faced.\n🚀 Duncan and Sheeana flee into the unknown with the last sandworm.\n💫 The future remains uncertain — humanity's survival in question.",
+      "fr": "⚠️ Quelque chose dans les profondeurs de la Dispersion a repoussé les Honorées Matriarches.\n👁️ Les Face Dancers évoluent au-delà du contrôle Tleilaxu — Maîtres indépendants.\n🤖 Indices de machines pensantes revenant après 15 000 ans.\n🌌 Menace inconnue plus grande que tout ce que l'humanité a affronté.\n🚀 Duncan et Sheeana fuient dans l'inconnu avec le dernier ver des sables.\n💫 Le futur reste incertain — survie de l'humanité en question."
+    },
+    "image": "images/dune/unknown_enemy.jpg",
+    "tags": ["mystery", "threat", "future", "scattering", "machines"]
+  },
+  {
+    "year": "Throughout",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Duke Leto Atreides",
+      "fr": "Duc Leto Atreides"
+    },
+    "description": {
+      "en": "🦅 Noble Duke of House Atreides, ruler of Caladan.\n👑 Just and beloved leader, respected throughout the Landsraad.\n💚 Father to Paul, loved Lady Jessica but couldn't marry her.\n⚔️ Red Duke — earned through military prowess and honor.\n💀 Sacrificed himself attempting to kill Baron Harkonnen.\n📜 'A man's word is his honor. Without honor, we are no better than beasts.'",
+      "fr": "🦅 Noble Duc de la Maison Atreides, dirigeant de Caladan.\n👑 Leader juste et aimé, respecté dans tout le Landsraad.\n💚 Père de Paul, aimait Dame Jessica mais ne pouvait l'épouser.\n⚔️ Duc Rouge — gagné par prouesse militaire et honneur.\n💀 Se sacrifia en tentant de tuer le Baron Harkonnen.\n📜 'La parole d'un homme est son honneur. Sans honneur, nous ne valons pas mieux que des bêtes.'"
+    },
+    "image": "images/dune/leto_duke.webp",
+    "tags": ["leto", "duke", "atreides", "honor", "leader"]
+  },
+  {
+    "year": "Throughout",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Lady Jessica",
+      "fr": "Dame Jessica"
+    },
+    "description": {
+      "en": "💚 Bene Gesserit concubine to Duke Leto, mother of Paul and Alia.\n🗣️ Master of the Voice and Bene Gesserit combat.\n⚡ Defied the Sisterhood by bearing a son instead of a daughter.\n🌙 Became a Reverend Mother through the spice agony.\n👶 Trained Paul in the Bene Gesserit way from childhood.\n💪 Survived the desert, adapted to Fremen ways, became a leader.\n📖 'I trained you in the Voice — I trained you too well.'",
+      "fr": "💚 Concubine Bene Gesserit du Duc Leto, mère de Paul et Alia.\n🗣️ Maîtresse de la Voix et du combat Bene Gesserit.\n⚡ Défia la Sororité en donnant naissance à un fils au lieu d'une fille.\n🌙 Devint Révérende Mère par l'agonie de l'épice.\n👶 Entraîna Paul à la voie Bene Gesserit dès l'enfance.\n💪 Survécut au désert, s'adapta aux voies Fremen, devint une leader.\n📖 'Je t'ai entraîné à la Voix — je t'ai trop bien entraîné.'"
+    },
+    "image": "images/dune/jessica.jpg",
+    "tags": ["jessica", "bene-gesserit", "mother", "reverend", "leader"]
+  },
+  {
+    "year": "Throughout",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Stilgar",
+      "fr": "Stilgar"
+    },
+    "description": {
+      "en": "🏜️ Naib (leader) of Sietch Tabr, one of the greatest Fremen leaders.\n⚔️ Fierce warrior, master of desert survival and combat.\n🤝 First Fremen to ally with House Atreides through Duncan Idaho.\n👨‍🏫 Became Paul's mentor in Fremen ways and philosophy.\n💧 Valued honor, loyalty, and the Fremen code above all.\n🦅 Followed Muad'Dib into battle, helped him unite the tribes.\n📜 'I like you, Stilgar. You remind me of myself before I became too civilized.'",
+      "fr": "🏜️ Naib (chef) du Sietch Tabr, l'un des plus grands leaders Fremen.\n⚔️ Guerrier féroce, maître de la survie désertique et du combat.\n🤝 Premier Fremen à s'allier à la Maison Atreides par Duncan Idaho.\n👨‍🏫 Devint le mentor de Paul dans les voies et la philosophie Fremen.\n💧 Valorisait l'honneur, la loyauté et le code Fremen par-dessus tout.\n🦅 Suivit Muad'Dib au combat, l'aida à unir les tribus.\n📜 'Je t'aime bien, Stilgar. Tu me rappelles moi-même avant de devenir trop civilisé.'"
+    },
+    "image": "images/dune/stilgar.jpg",
+    "tags": ["stilgar", "fremen", "naib", "warrior", "leader"]
+  },
+  {
+    "year": "Throughout",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Chani",
+      "fr": "Chani"
+    },
+    "description": {
+      "en": "💙 Fremen warrior, daughter of Liet-Kynes the Imperial Planetologist.\n👁️ Paul's true love, soulmate, and concubine.\n⚔️ Skilled fighter trained in Fremen combat from childhood.\n🏜️ Taught Paul the deepest secrets of desert survival.\n👶 Mother of Paul's twins, Leto II and Ghanima.\n💔 Died in childbirth, leaving Paul devastated.\n💚 'I am a Fremen. I give you my water.'",
+      "fr": "💙 Guerrière Fremen, fille de Liet-Kynes le Planétologue Impérial.\n👁️ Véritable amour de Paul, âme sœur et concubine.\n⚔️ Combattante habile entraînée au combat Fremen depuis l'enfance.\n🏜️ Enseigna à Paul les secrets les plus profonds de la survie désertique.\n👶 Mère des jumeaux de Paul, Leto II et Ghanima.\n💔 Mourut en couches, laissant Paul dévasté.\n💚 'Je suis Fremen. Je te donne mon eau.'"
+    },
+    "image": "images/dune/chani.jpg",
+    "tags": ["chani", "fremen", "love", "warrior", "soulmate"]
+  },
+  {
+    "year": "Throughout",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Duncan Idaho",
+      "fr": "Duncan Idaho"
+    },
+    "description": {
+      "en": "⚔️ Swordmaster of House Atreides, greatest fighter in the Imperium.\n🦅 Fiercely loyal to Duke Leto and Paul.\n🏜️ First to make contact with the Fremen, earned their respect.\n💀 Died heroically defending Paul and Jessica during the Harkonnen attack.\n🧬 Later reborn as a ghola (clone) multiple times over millennia.\n🎖️ 'I serve only one master — House Atreides.'",
+      "fr": "⚔️ Maître d'épée de la Maison Atreides, plus grand combattant de l'Imperium.\n🦅 Farouchement loyal au Duc Leto et à Paul.\n🏜️ Premier à établir le contact avec les Fremen, gagna leur respect.\n💀 Mourut héroïquement en défendant Paul et Jessica lors de l'attaque Harkonnen.\n🧬 Plus tard ressuscité comme ghola (clone) de multiples fois sur des millénaires.\n🎖️ 'Je ne sers qu'un seul maître — la Maison Atreides.'"
+    },
+    "image": "images/dune/duncan.jpg",
+    "tags": ["duncan", "swordmaster", "loyal", "warrior", "hero"]
+  },
+  {
+    "year": "Throughout",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Thufir Hawat",
+      "fr": "Thufir Hawat"
+    },
+    "description": {
+      "en": "🧠 Master of Assassins for House Atreides, legendary Mentat.\n📊 Brilliant strategist and intelligence officer.\n⚔️ Served three generations of Atreides Dukes.\n💀 Captured by Harkonnens, forced to serve the Baron.\n🎯 Eventually realized the truth and turned against his captors.\n📜 'In the long run, the mind surpasses the sword.'",
+      "fr": "🧠 Maître des Assassins de la Maison Atreides, Mentat légendaire.\n📊 Stratège brillant et officier du renseignement.\n⚔️ Servit trois générations de Ducs Atreides.\n💀 Capturé par les Harkonnen, forcé de servir le Baron.\n🎯 Finalement réalisa la vérité et se retourna contre ses ravisseurs.\n📜 'À long terme, l'esprit surpasse l'épée.'"
+    },
+    "image": "images/dune/thufir.jpg",
+    "tags": ["thufir", "mentat", "strategist", "assassin", "loyalty"]
+  },
+  {
+    "year": "Throughout",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Gurney Halleck",
+      "fr": "Gurney Halleck"
+    },
+    "description": {
+      "en": "🎵 Warrior-troubadour, master of the baliset (musical instrument).\n⚔️ Warmaster of House Atreides, taught Paul combat.\n💪 Scarred by years of Harkonnen slavery, burning with hatred for them.\n🦅 Believed Jessica betrayed the Duke, sought revenge.\n💚 Later reconciled with Paul, served him as Emperor.\n🎶 'Mood's a thing for cattle or making love or playing the baliset. It's not for fighting!'",
+      "fr": "🎵 Guerrier-troubadour, maître du baliset (instrument de musique).\n⚔️ Maître de guerre de la Maison Atreides, enseigna le combat à Paul.\n💪 Marqué par des années d'esclavage Harkonnen, brûlant de haine pour eux.\n🦅 Crut que Jessica avait trahi le Duc, chercha vengeance.\n💚 Plus tard réconcilié avec Paul, le servit comme Empereur.\n🎶 'L'humeur est bonne pour le bétail ou faire l'amour ou jouer du baliset. Pas pour se battre !'"
+    },
+    "image": "images/dune/gurney.jpg",
+    "tags": ["gurney", "warrior", "troubadour", "master", "fighter"]
+  },
+  {
+    "year": "Throughout",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Baron Harkonnen",
+      "fr": "Baron Harkonnen"
+    },
+    "description": {
+      "en": "💀 Vladimir Harkonnen — grotesquely obese, sadistic ruler of Giedi Prime.\n😈 Driven by greed, lust for power, and hatred of House Atreides.\n🏭 Ruled Arrakis through oppression, torture, and exploitation.\n🔪 Master manipulator and schemer in Imperial politics.\n⚡ Secret grandfather of Paul Atreides through Jessica.\n💀 Killed by young Alia during the Battle of Arrakeen.\n🌑 'The power to destroy a thing is the absolute control over it.'",
+      "fr": "💀 Vladimir Harkonnen — dirigeant grotesquement obèse et sadique de Giedi Prime.\n😈 Mû par l'avidité, soif de pouvoir et haine de la Maison Atreides.\n🏭 Régna sur Arrakis par oppression, torture et exploitation.\n🔪 Maître manipulateur et intrigant dans la politique impériale.\n⚡ Grand-père secret de Paul Atreides via Jessica.\n💀 Tué par la jeune Alia durant la Bataille d'Arrakeen.\n🌑 'Le pouvoir de détruire une chose est le contrôle absolu sur elle.'"
+    },
+    "image": "images/dune/baron.jpg",
+    "tags": ["baron", "harkonnen", "villain", "evil", "enemy"]
+  },
+  {
+    "year": "Throughout",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Emperor Shaddam IV",
+      "fr": "Empereur Shaddam IV"
+    },
+    "description": {
+      "en": "👑 Padishah Emperor of the Known Universe, House Corrino.\n⚔️ Commands the feared Sardaukar legions — most elite fighters.\n😠 Feared Duke Leto's growing power and popularity.\n🎭 Conspired with Baron Harkonnen to destroy House Atreides.\n💔 Lost throne to Paul, forced to give daughter Irulan in marriage.\n📜 His weakness and paranoia led to his downfall.",
+      "fr": "👑 Empereur Padishah de l'Univers Connu, Maison Corrino.\n⚔️ Commande les légions Sardaukar redoutées — combattants d'élite.\n😠 Craignait le pouvoir croissant et la popularité du Duc Leto.\n🎭 Conspira avec le Baron Harkonnen pour détruire la Maison Atreides.\n💔 Perdit le trône au profit de Paul, forcé de donner sa fille Irulan en mariage.\n📜 Sa faiblesse et sa paranoïa menèrent à sa chute."
+    },
+    "image": "images/dune/shaddam.webp",
+    "tags": ["emperor", "shaddam", "corrino", "sardaukar", "conspiracy"]
+  }
+]

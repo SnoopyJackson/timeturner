@@ -1,0 +1,450 @@
+[
+  {
+    "year": "660 BC",
+    "era": "Mythological Origins",
+    "title": {
+      "en": "Founding of Japan",
+      "fr": "Fondation du Japon"
+    },
+    "description": {
+      "en": "🏯 Emperor Jimmu, descendant of sun goddess Amaterasu, founds Japan\n⛩️ Establishes imperial line that continues to present day\n📜 Mythological beginnings blend history and legend",
+      "fr": "🏯 L'empereur Jimmu, descendant de la déesse du soleil Amaterasu, fonde le Japon\n⛩️ Établit la lignée impériale qui continue jusqu'à aujourd'hui\n📜 Les origines mythologiques mêlent histoire et légende"
+    },
+    "image": "images/japan/jimmu.jpg",
+    "tags": ["mythology", "founding", "emperor", "ancient"]
+  },
+  {
+    "year": "538–710",
+    "era": "Asuka Period",
+    "title": {
+      "en": "Introduction of Buddhism",
+      "fr": "Introduction du bouddhisme"
+    },
+    "description": {
+      "en": "☸️ Buddhism arrives from Korea, transforms Japanese culture\n🏯 Prince Shōtoku promotes Buddhism and Chinese learning\n🎨 Temple construction and Buddhist art flourish",
+      "fr": "☸️ Le bouddhisme arrive de Corée, transforme la culture japonaise\n🏯 Le prince Shōtoku promeut le bouddhisme et la culture chinoise\n🎨 Construction de temples et art bouddhiste prospèrent"
+    },
+    "image": "images/japan/buddhism.webp",
+    "tags": ["buddhism", "religion", "culture", "asuka"]
+  },
+  {
+    "year": "574–622",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Prince Shōtoku",
+      "fr": "Prince Shōtoku"
+    },
+    "description": {
+      "en": "🏛️ Regent who established centralized government and Buddhism\n📜 Created Seventeen-Article Constitution (604)\n🏯 Built Hōryū-ji temple, oldest wooden structure in world\n🌏 Promoted diplomatic relations with China",
+      "fr": "🏛️ Régent qui établit un gouvernement centralisé et le bouddhisme\n📜 Créa la Constitution en dix-sept articles (604)\n🏯 Construisit le temple Hōryū-ji, plus ancienne structure en bois au monde\n🌏 Promut les relations diplomatiques avec la Chine"
+    },
+    "image": "images/japan/shotoku.jpg",
+    "tags": ["leader", "regent", "buddhism", "constitution"]
+  },
+  {
+    "year": "794–1185",
+    "era": "Heian Period",
+    "title": {
+      "en": "Heian Classical Age",
+      "fr": "Âge classique de Heian"
+    },
+    "description": {
+      "en": "🏯 Capital moved to Heian-kyō (Kyoto) — golden age of culture\n📚 Lady Murasaki writes The Tale of Genji, world's first novel\n🎨 Development of hiragana script, Japanese art and poetry\n👘 Aristocratic culture reaches peak refinement",
+      "fr": "🏯 Capitale déplacée à Heian-kyō (Kyoto) — âge d'or de la culture\n📚 Dame Murasaki écrit Le Dit du Genji, premier roman au monde\n🎨 Développement de l'écriture hiragana, art et poésie japonais\n👘 La culture aristocratique atteint son apogée"
+    },
+    "image": "images/japan/heian.jpg",
+    "tags": ["heian", "culture", "literature", "kyoto"]
+  },
+  {
+    "year": "1185–1333",
+    "era": "Kamakura Period",
+    "title": {
+      "en": "Rise of the Samurai",
+      "fr": "Montée des samouraïs"
+    },
+    "description": {
+      "en": "⚔️ Minamoto Yoritomo establishes first shogunate (military government)\n🥷 Samurai warrior class becomes dominant force\n🗡️ Bushido code develops — way of the warrior\n🏯 Emperor remains symbolic, shogun holds real power",
+      "fr": "⚔️ Minamoto Yoritomo établit le premier shogunat (gouvernement militaire)\n🥷 La classe guerrière des samouraïs devient force dominante\n🗡️ Code bushido se développe — voie du guerrier\n🏯 L'empereur reste symbolique, le shogun détient le vrai pouvoir"
+    },
+    "image": "images/japan/samurai_rise.jpg",
+    "tags": ["samurai", "shogunate", "kamakura", "warrior"]
+  },
+  {
+    "year": "1147–1199",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Minamoto no Yoritomo",
+      "fr": "Minamoto no Yoritomo"
+    },
+    "description": {
+      "en": "⚔️ First shogun of Japan, founder of Kamakura shogunate (1192)\n🏯 Established military government that lasted 700 years\n🗡️ Defeated rival Taira clan in Genpei War\n👑 Created dual government: emperor (ceremonial) and shogun (political)",
+      "fr": "⚔️ Premier shogun du Japon, fondateur du shogunat de Kamakura (1192)\n🏯 Établit un gouvernement militaire qui dura 700 ans\n🗡️ Vainquit le clan rival des Taira dans la guerre de Genpei\n👑 Créa un double gouvernement : empereur (cérémoniel) et shogun (politique)"
+    },
+    "image": "images/japan/yoritomo.jpg",
+    "tags": ["leader", "shogun", "founder", "military"]
+  },
+  {
+    "year": "1274 & 1281",
+    "era": "Kamakura Period",
+    "title": {
+      "en": "Mongol Invasions",
+      "fr": "Invasions mongoles"
+    },
+    "description": {
+      "en": "🌊 Kublai Khan's fleet attempts to invade Japan twice\n💨 Divine winds (kamikaze) destroy Mongol armada both times\n🗡️ Samurai successfully defend homeland\n🙏 Reinforces belief in divine protection of Japan",
+      "fr": "🌊 La flotte de Kubilai Khan tente d'envahir le Japon deux fois\n💨 Vents divins (kamikaze) détruisent l'armada mongole les deux fois\n🗡️ Les samouraïs défendent avec succès leur patrie\n🙏 Renforce la croyance en la protection divine du Japon"
+    },
+    "image": "images/japan/mongol_invasion.jpeg",
+    "tags": ["war", "mongol", "kamikaze", "defense"]
+  },
+  {
+    "year": "1467–1615",
+    "era": "Sengoku Period",
+    "title": {
+      "en": "Warring States Period",
+      "fr": "Période des États combattants"
+    },
+    "description": {
+      "en": "⚔️ Century of civil war — daimyō (feudal lords) battle for supremacy\n🏯 Castles built across Japan, military technology advances\n🔫 Portuguese introduce firearms, changing warfare\n🎭 Despite chaos, culture flourishes — tea ceremony, Noh theater",
+      "fr": "⚔️ Siècle de guerre civile — daimyō (seigneurs féodaux) se battent pour la suprématie\n🏯 Châteaux construits à travers le Japon, technologie militaire progresse\n🔫 Les Portugais introduisent les armes à feu, changeant la guerre\n🎭 Malgré le chaos, la culture prospère — cérémonie du thé, théâtre Noh"
+    },
+    "image": "images/japan/sengoku.jpeg",
+    "tags": ["war", "civil-war", "samurai", "sengoku"]
+  },
+  {
+    "year": "1534–1582",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Oda Nobunaga",
+      "fr": "Oda Nobunaga"
+    },
+    "description": {
+      "en": "⚔️ First of three unifiers of Japan, ruthless military genius\n🔫 Revolutionized warfare with firearms and new tactics\n🏯 Conquered half of Japan before assassination (1582)\n🔥 Destroyed Buddhist monasteries that opposed him",
+      "fr": "⚔️ Premier des trois unificateurs du Japon, génie militaire impitoyable\n🔫 Révolutionne la guerre avec armes à feu et nouvelles tactiques\n🏯 Conquiert la moitié du Japon avant son assassinat (1582)\n🔥 Détruit les monastères bouddhistes qui s'opposaient à lui"
+    },
+    "image": "images/japan/nobunaga.webp",
+    "tags": ["leader", "unifier", "warlord", "revolutionary"]
+  },
+  {
+    "year": "1537–1598",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Toyotomi Hideyoshi",
+      "fr": "Toyotomi Hideyoshi"
+    },
+    "description": {
+      "en": "⚔️ Second unifier, rose from peasant to supreme leader\n🏯 Completed unification of Japan by 1590\n🗡️ Implemented sword hunt, disarming peasants\n🌏 Attempted invasion of Korea (failed), grand castle builder",
+      "fr": "⚔️ Deuxième unificateur, s'éleva de paysan à chef suprême\n🏯 Acheva l'unification du Japon en 1590\n🗡️ Mis en œuvre la chasse aux épées, désarmant les paysans\n🌏 Tenta l'invasion de la Corée (échouée), grand constructeur de châteaux"
+    },
+    "image": "images/japan/hideyoshi.jpg",
+    "tags": ["leader", "unifier", "regent", "warrior"]
+  },
+  {
+    "year": "1543–1616",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Tokugawa Ieyasu",
+      "fr": "Tokugawa Ieyasu"
+    },
+    "description": {
+      "en": "⚔️ Third and final unifier, founded Tokugawa shogunate (1603)\n🏯 Victory at Battle of Sekigahara (1600) secured power\n✌️ Established 250 years of peace (Edo Period)\n🗾 Created stable government that lasted until 1868",
+      "fr": "⚔️ Troisième et dernier unificateur, fonda le shogunat Tokugawa (1603)\n🏯 Victoire à la bataille de Sekigahara (1600) assura le pouvoir\n✌️ Établit 250 ans de paix (période Edo)\n🗾 Créa un gouvernement stable qui dura jusqu'en 1868"
+    },
+    "image": "images/japan/ieyasu.jpg",
+    "tags": ["leader", "shogun", "unifier", "founder"]
+  },
+  {
+    "year": "1603–1868",
+    "era": "Edo Period",
+    "title": {
+      "en": "Tokugawa Shogunate",
+      "fr": "Shogunat Tokugawa"
+    },
+    "description": {
+      "en": "🏯 Capital moved to Edo (Tokyo), 250 years of peace and isolation\n🚫 Sakoku policy: Japan closed to outside world\n🎨 Ukiyo-e art, kabuki theater, haiku poetry flourish\n📚 Literacy and education spread, merchant class grows",
+      "fr": "🏯 Capitale déplacée à Edo (Tokyo), 250 ans de paix et d'isolement\n🚫 Politique sakoku : Japon fermé au monde extérieur\n🎨 Art ukiyo-e, théâtre kabuki, poésie haïku prospèrent\n📚 Alphabétisation et éducation se répandent, classe marchande grandit"
+    },
+    "image": "images/japan/edo_period.jpg",
+    "tags": ["edo", "isolation", "peace", "culture"]
+  },
+  {
+    "year": "1853",
+    "era": "End of Isolation",
+    "title": {
+      "en": "Perry's Black Ships",
+      "fr": "Les Navires noirs de Perry"
+    },
+    "description": {
+      "en": "⚓ Commodore Perry arrives with U.S. warships, demands trade\n📜 Treaty of Kanagawa (1854) forces Japan to open ports\n🌍 Ends 220 years of isolation, begins modernization\n⚡ Triggers crisis that leads to fall of shogunate",
+      "fr": "⚓ Le commodore Perry arrive avec des navires de guerre américains, exige le commerce\n📜 Traité de Kanagawa (1854) force le Japon à ouvrir ses ports\n🌍 Met fin à 220 ans d'isolement, commence la modernisation\n⚡ Déclenche une crise qui mène à la chute du shogunat"
+    },
+    "image": "images/japan/black_ships.jpg",
+    "tags": ["perry", "opening", "modernization", "treaty"]
+  },
+  {
+    "year": "1868",
+    "era": "Meiji Restoration",
+    "title": {
+      "en": "Meiji Restoration",
+      "fr": "Restauration Meiji"
+    },
+    "description": {
+      "en": "👑 Emperor Meiji restored to power, shogunate abolished\n🏭 Rapid industrialization and Westernization begins\n🎓 Modern education system, conscript army established\n🚂 Railways, telegraph, factories transform Japan",
+      "fr": "👑 Empereur Meiji restauré au pouvoir, shogunat aboli\n🏭 Industrialisation rapide et occidentalisation commence\n🎓 Système éducatif moderne, armée de conscrits établis\n🚂 Chemins de fer, télégraphe, usines transforment le Japon"
+    },
+    "image": "images/japan/meiji_restoration.jpg",
+    "tags": ["meiji", "restoration", "modernization", "emperor"]
+  },
+  {
+    "year": "1852–1912",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Emperor Meiji",
+      "fr": "Empereur Meiji"
+    },
+    "description": {
+      "en": "👑 Presided over transformation from feudal to modern state\n🏭 'Enrich Country, Strengthen Military' — rapid modernization\n🌏 Japan becomes first Asian power to defeat Western nation (Russia)\n📚 Meiji Constitution (1889) established constitutional monarchy",
+      "fr": "👑 Présida la transformation d'un État féodal en État moderne\n🏭 'Enrichir le pays, renforcer l'armée' — modernisation rapide\n🌏 Le Japon devient première puissance asiatique à vaincre une nation occidentale (Russie)\n📚 Constitution Meiji (1889) établit une monarchie constitutionnelle"
+    },
+    "image": "images/japan/meiji.jpg",
+    "tags": ["leader", "emperor", "modernization", "reform"]
+  },
+  {
+    "year": "1904–1905",
+    "era": "Imperial Era",
+    "title": {
+      "en": "Russo-Japanese War",
+      "fr": "Guerre russo-japonaise"
+    },
+    "description": {
+      "en": "⚔️ Japan defeats Russian Empire over Korea and Manchuria\n🌊 Naval victory at Tsushima stuns world\n🏆 First Asian nation to defeat European power in modern era\n🌏 Japan emerges as major world power",
+      "fr": "⚔️ Le Japon vainc l'Empire russe pour la Corée et la Mandchourie\n🌊 Victoire navale à Tsushima stupéfie le monde\n🏆 Première nation asiatique à vaincre une puissance européenne à l'ère moderne\n🌏 Le Japon émerge comme puissance mondiale majeure"
+    },
+    "image": "images/japan/russo_japanese.jpg",
+    "tags": ["war", "russia", "victory", "imperial"]
+  },
+  {
+    "year": "1914–1918",
+    "era": "World Wars",
+    "title": {
+      "en": "World War I",
+      "fr": "Première Guerre mondiale"
+    },
+    "description": {
+      "en": "🤝 Japan joins Allies, seizes German territories in Asia\n🌏 Gains Pacific islands, expands influence in China\n💺 Becomes permanent member of League of Nations\n📈 War economy boosts Japanese industry",
+      "fr": "🤝 Le Japon rejoint les Alliés, saisit les territoires allemands en Asie\n🌏 Gagne des îles du Pacifique, étend l'influence en Chine\n💺 Devient membre permanent de la Société des Nations\n📈 Économie de guerre stimule l'industrie japonaise"
+    },
+    "image": "images/japan/wwi.jpg",
+    "tags": ["war", "wwi", "allies", "expansion"]
+  },
+  {
+    "year": "1926–1989",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Emperor Hirohito (Shōwa)",
+      "fr": "Empereur Hirohito (Shōwa)"
+    },
+    "description": {
+      "en": "👑 Longest-reigning emperor (63 years), controversial wartime role\n⚔️ Presided over militaristic expansion and WWII\n🕊️ Announced surrender (1945), retained throne during occupation\n🏭 Oversaw postwar recovery and economic miracle\n📻 First emperor to speak directly to Japanese people",
+      "fr": "👑 Empereur au règne le plus long (63 ans), rôle controversé en temps de guerre\n⚔️ Présida l'expansion militariste et la Seconde Guerre mondiale\n🕊️ Annonça la capitulation (1945), conserva le trône pendant l'occupation\n🏭 Supervisa la reconstruction d'après-guerre et le miracle économique\n📻 Premier empereur à parler directement au peuple japonais"
+    },
+    "image": "images/japan/hirohito.jpg",
+    "tags": ["leader", "emperor", "wwii", "showa"]
+  },
+  {
+    "year": "1931–1945",
+    "era": "Imperial Expansion",
+    "title": {
+      "en": "Militaristic Expansion",
+      "fr": "Expansion militariste"
+    },
+    "description": {
+      "en": "⚔️ Invasion of Manchuria (1931), Second Sino-Japanese War (1937)\n🏯 Military faction dominates government\n🌏 'Greater East Asia Co-Prosperity Sphere' — imperial ambitions\n💀 Atrocities committed including Nanjing Massacre",
+      "fr": "⚔️ Invasion de la Mandchourie (1931), Seconde Guerre sino-japonaise (1937)\n🏯 Faction militaire domine le gouvernement\n🌏 'Sphère de coprospérité de la Grande Asie orientale' — ambitions impériales\n💀 Atrocités commises dont le massacre de Nankin"
+    },
+    "image": "images/japan/expansion.jpg",
+    "tags": ["war", "imperialism", "china", "expansion"]
+  },
+  {
+    "year": "1941–1945",
+    "era": "World War II",
+    "title": {
+      "en": "World War II Pacific Theater",
+      "fr": "Seconde Guerre mondiale - Théâtre du Pacifique"
+    },
+    "description": {
+      "en": "⚔️ Attack on Pearl Harbor (Dec 7, 1941) brings U.S. into war\n🌊 Island-hopping campaign, fierce battles across Pacific\n💣 Atomic bombs dropped on Hiroshima (Aug 6) and Nagasaki (Aug 9)\n🏳️ Emperor Hirohito announces surrender (Aug 15, 1945)",
+      "fr": "⚔️ Attaque de Pearl Harbor (7 déc 1941) fait entrer les États-Unis en guerre\n🌊 Campagne de sauts d'île en île, batailles féroces dans le Pacifique\n💣 Bombes atomiques larguées sur Hiroshima (6 août) et Nagasaki (9 août)\n🏳️ L'empereur Hirohito annonce la capitulation (15 août 1945)"
+    },
+    "image": "images/japan/wwii_pacific.jpg",
+    "tags": ["war", "wwii", "pearl-harbor", "atomic-bomb"]
+  },
+  {
+    "year": "1945–1952",
+    "era": "Occupation",
+    "title": {
+      "en": "Allied Occupation",
+      "fr": "Occupation alliée"
+    },
+    "description": {
+      "en": "🇺🇸 General MacArthur leads occupation and reforms\n📜 New constitution (1947): democracy, renounces war\n⚖️ War crimes trials, military disbanded\n👨‍👩‍👧 Land reform, women's rights, education reform",
+      "fr": "🇺🇸 Le général MacArthur dirige l'occupation et les réformes\n📜 Nouvelle constitution (1947) : démocratie, renonce à la guerre\n⚖️ Procès pour crimes de guerre, armée dissoute\n👨‍👩‍👧 Réforme agraire, droits des femmes, réforme de l'éducation"
+    },
+    "image": "images/japan/occupation.jpg",
+    "tags": ["occupation", "macarthur", "reform", "democracy"]
+  },
+  {
+    "year": "1880–1964",
+    "era": "Key Leaders",
+    "title": {
+      "en": "General Douglas MacArthur",
+      "fr": "Général Douglas MacArthur"
+    },
+    "description": {
+      "en": "🎖️ Supreme Commander of Allied occupation forces (1945–1951)\n📜 Oversaw drafting of democratic constitution\n🏭 Implemented sweeping reforms: land, education, women's rights\n👤 Treated Emperor with respect, maintained stability\n🌏 'Gaijin Shogun' — foreign military ruler who transformed Japan",
+      "fr": "🎖️ Commandant suprême des forces d'occupation alliées (1945–1951)\n📜 Supervisa la rédaction de la constitution démocratique\n🏭 Mis en œuvre des réformes radicales : terre, éducation, droits des femmes\n👤 Traita l'empereur avec respect, maintint la stabilité\n🌏 'Gaijin Shogun' — dirigeant militaire étranger qui transforma le Japon"
+    },
+    "image": "images/japan/macarthur.jpg",
+    "tags": ["leader", "occupation", "reform", "american"]
+  },
+  {
+    "year": "1950s–1970s",
+    "era": "Economic Miracle",
+    "title": {
+      "en": "Japanese Economic Miracle",
+      "fr": "Miracle économique japonais"
+    },
+    "description": {
+      "en": "📈 Rapid economic growth averages 10% annually\n🏭 'Made in Japan' transforms from joke to quality standard\n🚗 Toyota, Sony, Honda become global brands\n💰 Becomes world's second-largest economy by 1968",
+      "fr": "📈 Croissance économique rapide moyenne de 10% par an\n🏭 'Made in Japan' se transforme de blague en standard de qualité\n🚗 Toyota, Sony, Honda deviennent des marques mondiales\n💰 Devient deuxième économie mondiale en 1968"
+    },
+    "image": "images/japan/economic_miracle.jpg",
+    "tags": ["economy", "growth", "industry", "miracle"]
+  },
+  {
+    "year": "1964",
+    "era": "Modern Era",
+    "title": {
+      "en": "Tokyo Olympics",
+      "fr": "Jeux olympiques de Tokyo"
+    },
+    "description": {
+      "en": "🏅 First Olympics in Asia showcases postwar recovery\n🚄 Shinkansen bullet train debuts — technological prowess\n🌏 Japan's return to international community\n📺 First Olympics broadcast via satellite globally",
+      "fr": "🏅 Premiers Jeux olympiques en Asie démontrent la reconstruction d'après-guerre\n🚄 Débuts du train à grande vitesse Shinkansen — prouesse technologique\n🌏 Retour du Japon dans la communauté internationale\n📺 Premiers Jeux olympiques diffusés par satellite mondialement"
+    },
+    "image": "images/japan/tokyo_olympics.webp",
+    "tags": ["olympics", "modernization", "shinkansen", "recovery"]
+  },
+  {
+    "year": "1989–2019",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Emperor Akihito (Heisei)",
+      "fr": "Empereur Akihito (Heisei)"
+    },
+    "description": {
+      "en": "👑 First emperor to abdicate in 200 years (2019)\n🕊️ Emphasized peace, apologized for WWII suffering\n🌏 Traveled extensively, modernized imperial family\n💑 First emperor to marry commoner, more accessible monarchy\n🌸 Heisei era saw economic stagnation but cultural influence",
+      "fr": "👑 Premier empereur à abdiquer en 200 ans (2019)\n🕊️ Mis l'accent sur la paix, s'excusa pour les souffrances de la Seconde Guerre mondiale\n🌏 Voyagea abondamment, modernisa la famille impériale\n💑 Premier empereur à épouser une roturière, monarchie plus accessible\n🌸 L'ère Heisei vit stagnation économique mais influence culturelle"
+    },
+    "image": "images/japan/akihito.webp",
+    "tags": ["leader", "emperor", "peace", "heisei"]
+  },
+  {
+    "year": "1980s",
+    "era": "Economic Peak",
+    "title": {
+      "en": "Bubble Economy",
+      "fr": "Économie de bulle"
+    },
+    "description": {
+      "en": "💰 Asset price bubble — real estate and stocks soar\n🏙️ Tokyo becomes world's most expensive city\n🌍 Japanese companies buy foreign landmarks and companies\n📉 Bubble bursts in 1991, leads to 'Lost Decades'",
+      "fr": "💰 Bulle des prix des actifs — immobilier et actions montent en flèche\n🏙️ Tokyo devient la ville la plus chère au monde\n🌍 Les entreprises japonaises achètent des monuments et entreprises étrangers\n📉 La bulle éclate en 1991, mène aux 'décennies perdues'"
+    },
+    "image": "images/japan/bubble_economy.webp",
+    "tags": ["economy", "bubble", "1980s", "finance"]
+  },
+  {
+    "year": "1990s–2000s",
+    "era": "Lost Decades",
+    "title": {
+      "en": "Lost Decades",
+      "fr": "Décennies perdues"
+    },
+    "description": {
+      "en": "📉 Economic stagnation after bubble burst\n💼 Deflation, aging population, corporate restructuring\n🏦 Banking crisis and zombie companies\n😔 Social problems: hikikomori, suicide rates, work culture",
+      "fr": "📉 Stagnation économique après l'éclatement de la bulle\n💼 Déflation, vieillissement de la population, restructuration d'entreprises\n🏦 Crise bancaire et entreprises zombies\n😔 Problèmes sociaux : hikikomori, taux de suicide, culture du travail"
+    },
+    "image": "images/japan/lost_decades.jpg",
+    "tags": ["economy", "stagnation", "crisis", "social"]
+  },
+  {
+    "year": "2011",
+    "era": "Natural Disasters",
+    "title": {
+      "en": "Great East Japan Earthquake",
+      "fr": "Grand tremblement de terre de l'est du Japon"
+    },
+    "description": {
+      "en": "🌊 9.1 magnitude earthquake triggers massive tsunami\n☢️ Fukushima nuclear disaster — worst since Chernobyl\n💀 Nearly 20,000 deaths, entire towns destroyed\n🤝 Resilience and solidarity in recovery efforts",
+      "fr": "🌊 Séisme de magnitude 9,1 déclenche un tsunami massif\n☢️ Catastrophe nucléaire de Fukushima — pire depuis Tchernobyl\n💀 Près de 20 000 morts, villes entières détruites\n🤝 Résilience et solidarité dans les efforts de reconstruction"
+    },
+    "image": "images/japan/fukushima.webp",
+    "tags": ["disaster", "earthquake", "tsunami", "fukushima"]
+  },
+  {
+    "year": "2012–2020",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Shinzo Abe",
+      "fr": "Shinzo Abe"
+    },
+    "description": {
+      "en": "🏛️ Longest-serving Prime Minister (2012–2020)\n💰 'Abenomics' — monetary easing, fiscal stimulus, reforms\n🗾 Nationalist agenda: constitutional revision, stronger military\n🌏 Active foreign policy, closer U.S. alliance\n💔 Assassinated in 2022 while campaigning",
+      "fr": "🏛️ Premier ministre au mandat le plus long (2012–2020)\n💰 'Abenomics' — assouplissement monétaire, relance budgétaire, réformes\n🗾 Programme nationaliste : révision constitutionnelle, armée plus forte\n🌏 Politique étrangère active, alliance américaine renforcée\n💔 Assassiné en 2022 pendant une campagne"
+    },
+    "image": "images/japan/abe.jpg",
+    "tags": ["leader", "prime-minister", "abenomics", "reform"]
+  },
+  {
+    "year": "2019–Present",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Emperor Naruhito (Reiwa)",
+      "fr": "Empereur Naruhito (Reiwa)"
+    },
+    "description": {
+      "en": "👑 First emperor born after WWII, educated at Oxford\n🌸 Reiwa era ('Beautiful Harmony') begins 2019\n🌍 Modern, globally-minded emperor\n💑 Married Harvard-educated diplomat\n🎌 Represents new generation of imperial family",
+      "fr": "👑 Premier empereur né après la Seconde Guerre mondiale, éduqué à Oxford\n🌸 L'ère Reiwa ('Belle Harmonie') commence en 2019\n🌍 Empereur moderne, ouvert sur le monde\n💑 Marié à une diplomate éduquée à Harvard\n🎌 Représente nouvelle génération de la famille impériale"
+    },
+    "image": "images/japan/naruhito.jpg",
+    "tags": ["leader", "emperor", "modern", "reiwa"]
+  },
+  {
+    "year": "2021",
+    "era": "Modern Era",
+    "title": {
+      "en": "Tokyo Olympics 2020",
+      "fr": "Jeux olympiques de Tokyo 2020"
+    },
+    "description": {
+      "en": "🏅 Delayed one year due to COVID-19 pandemic\n🚫 First Olympics without spectators\n🤖 Showcased robotics and technology innovations\n💪 Demonstrated Japanese resilience amid challenges",
+      "fr": "🏅 Reporté d'un an en raison de la pandémie de COVID-19\n🚫 Premiers Jeux olympiques sans spectateurs\n🤖 Présenta innovations en robotique et technologie\n💪 Démontra la résilience japonaise face aux défis"
+    },
+    "image": "images/japan/tokyo_2020.jpg",
+    "tags": ["olympics", "pandemic", "technology", "resilience"]
+  },
+  {
+    "year": "Present",
+    "era": "Modern Japan",
+    "title": {
+      "en": "Japan Today",
+      "fr": "Japon aujourd'hui"
+    },
+    "description": {
+      "en": "🇯🇵 World's third-largest economy, technological leader\n🎌 Soft power: anime, manga, video games dominate global culture\n👴 Aging society — 28% over 65, demographic challenges\n🤖 Leading in robotics, AI, automation\n🌸 Balancing tradition with modernity, ancient temples beside skyscrapers\n🌏 Strategic importance in Asia-Pacific, strong U.S. alliance",
+      "fr": "🇯🇵 Troisième économie mondiale, leader technologique\n🎌 Soft power : anime, manga, jeux vidéo dominent la culture mondiale\n👴 Société vieillissante — 28% de plus de 65 ans, défis démographiques\n🤖 Leader en robotique, IA, automatisation\n🌸 Équilibre entre tradition et modernité, temples anciens près de gratte-ciel\n🌏 Importance stratégique en Asie-Pacifique, alliance américaine forte"
+    },
+    "image": "images/japan/modern_japan.jpg",
+    "tags": ["modern", "technology", "culture", "economy"]
+  }
+]

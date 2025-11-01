@@ -1,0 +1,562 @@
+[
+  {
+    "year": "862",
+    "era": "Kievan Rus",
+    "title": {
+      "en": "Founding of Kievan Rus",
+      "fr": "Fondation de la Rus' de Kiev"
+    },
+    "description": {
+      "en": "⚔️ Rurik the Viking establishes first East Slavic state\n🏰 Center in Novgorod, later Kiev\n🛡️ Beginning of Russian statehood and culture",
+      "fr": "⚔️ Rurik le Viking établit le premier État slave oriental\n🏰 Centre à Novgorod, puis Kiev\n🛡️ Début de l'État et de la culture russe"
+    },
+    "image": "images/russia/rurik.jpg",
+    "tags": ["medieval", "founding", "viking", "kiev"]
+  },
+  {
+    "year": "988",
+    "era": "Kievan Rus",
+    "title": {
+      "en": "Christianization of Kievan Rus",
+      "fr": "Christianisation de la Rus' de Kiev"
+    },
+    "description": {
+      "en": "✝️ Prince Vladimir converts to Byzantine Orthodox Christianity\n⛪ Mass baptism of Kiev's population in Dnieper River\n📚 Adoption of Cyrillic alphabet and Byzantine culture\n🎨 Birth of Russian Orthodox tradition",
+      "fr": "✝️ Le prince Vladimir se convertit au christianisme orthodoxe byzantin\n⛪ Baptême de masse de la population de Kiev dans le Dniepr\n📚 Adoption de l'alphabet cyrillique et de la culture byzantine\n🎨 Naissance de la tradition orthodoxe russe"
+    },
+    "image": "images/russia/vladimir_baptism.jpg",
+    "tags": ["religion", "christianity", "byzantine", "culture"]
+  },
+  {
+    "year": "1237–1240",
+    "era": "Mongol Invasion",
+    "title": {
+      "en": "Mongol Conquest of Rus",
+      "fr": "Conquête mongole de la Rus'"
+    },
+    "description": {
+      "en": "🏹 Batu Khan leads Mongol invasion of Russian principalities\n🔥 Kiev destroyed, Russian lands under Golden Horde rule\n👑 240 years of Mongol domination shapes Russian development\n💰 Tribute system and political fragmentation",
+      "fr": "🏹 Batu Khan mène l'invasion mongole des principautés russes\n🔥 Kiev détruite, terres russes sous la Horde d'Or\n👑 240 ans de domination mongole façonnent le développement russe\n💰 Système de tribut et fragmentation politique"
+    },
+    "image": "images/russia/mongol_invasion.jpg",
+    "tags": ["mongols", "invasion", "golden-horde", "medieval"]
+  },
+  {
+    "year": "1462–1505",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Ivan III (Ivan the Great)",
+      "fr": "Ivan III (Ivan le Grand)"
+    },
+    "description": {
+      "en": "👑 Grand Prince of Moscow who unified Russian lands\n🗡️ Ended Mongol rule — 'Stand on the Ugra River' (1480)\n🏰 Expanded Moscow's territory threefold\n🦅 Adopted double-headed eagle as Russian symbol\n📜 First to use title 'Tsar of All Rus'",
+      "fr": "👑 Grand Prince de Moscou qui unifie les terres russes\n🗡️ Met fin à la domination mongole — 'Position sur l'Ugra' (1480)\n🏰 Triple le territoire de Moscou\n🦅 Adopte l'aigle bicéphale comme symbole russe\n📜 Premier à utiliser le titre de 'Tsar de toute la Rus'"
+    },
+    "image": "images/russia/ivan_iii.jpg",
+    "tags": ["leader", "tsar", "moscow", "unification"]
+  },
+  {
+    "year": "1533–1584",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Ivan IV (Ivan the Terrible)",
+      "fr": "Ivan IV (Ivan le Terrible)"
+    },
+    "description": {
+      "en": "👑 First officially crowned Tsar of Russia (1547)\n⚔️ Conquered Kazan and Astrakhan, expanded into Siberia\n🏰 Created the Oprichnina — brutal secret police\n📚 Established first printing press in Russia\n😨 Known for paranoia and violent purges",
+      "fr": "👑 Premier Tsar de Russie officiellement couronné (1547)\n⚔️ Conquiert Kazan et Astrakhan, s'étend en Sibérie\n🏰 Crée l'Opritchnina — police secrète brutale\n📚 Établit la première imprimerie en Russie\n😨 Connu pour sa paranoïa et ses purges violentes"
+    },
+    "image": "images/russia/ivan_terrible.jpg",
+    "tags": ["leader", "tsar", "expansion", "tyranny"]
+  },
+  {
+    "year": "1598–1613",
+    "era": "Time of Troubles",
+    "title": {
+      "en": "Time of Troubles",
+      "fr": "Temps des Troubles"
+    },
+    "description": {
+      "en": "⚔️ Period of political crisis and civil war\n👑 Multiple pretenders claim throne — False Dmitrys\n🇵🇱 Polish-Lithuanian occupation of Moscow\n🔥 Famine, social upheaval, and economic collapse\n🏛️ Ended with election of Romanov dynasty",
+      "fr": "⚔️ Période de crise politique et de guerre civile\n👑 Plusieurs imposteurs revendiquent le trône — Faux Dmitri\n🇵🇱 Occupation de Moscou par la Pologne-Lituanie\n🔥 Famine, bouleversement social et effondrement économique\n🏛️ Se termine avec l'élection de la dynastie Romanov"
+    },
+    "image": "images/russia/time_troubles.webp",
+    "tags": ["civil-war", "crisis", "poland", "famine"]
+  },
+  {
+    "year": "1613",
+    "era": "Romanov Dynasty",
+    "title": {
+      "en": "Founding of Romanov Dynasty",
+      "fr": "Fondation de la dynastie Romanov"
+    },
+    "description": {
+      "en": "👑 Michael Romanov elected Tsar by Zemsky Sobor\n🏛️ Dynasty that ruled Russia for 304 years\n✨ Restored stability after Time of Troubles\n📜 Beginning of Russia's transformation into empire",
+      "fr": "👑 Michel Romanov élu Tsar par le Zemski Sobor\n🏛️ Dynastie qui règne sur la Russie pendant 304 ans\n✨ Rétablit la stabilité après le Temps des Troubles\n📜 Début de la transformation de la Russie en empire"
+    },
+    "image": "images/russia/romanov_founding.jpg",
+    "tags": ["romanov", "dynasty", "restoration", "monarchy"]
+  },
+  {
+    "year": "1672–1725",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Peter I (Peter the Great)",
+      "fr": "Pierre Ier (Pierre le Grand)"
+    },
+    "description": {
+      "en": "👑 Modernized Russia with Western reforms and technology\n🏛️ Founded St. Petersburg as new capital (1703)\n⚓ Created powerful Russian Navy\n🇪🇺 Traveled incognito to learn European crafts\n⚔️ Defeated Sweden in Great Northern War\n📜 Proclaimed Russian Empire (1721)",
+      "fr": "👑 Modernise la Russie avec des réformes et technologies occidentales\n🏛️ Fonde Saint-Pétersbourg comme nouvelle capitale (1703)\n⚓ Crée une puissante marine russe\n🇪🇺 Voyage incognito pour apprendre l'artisanat européen\n⚔️ Vainc la Suède dans la Grande Guerre du Nord\n📜 Proclame l'Empire russe (1721)"
+    },
+    "image": "images/russia/peter_great.jpg",
+    "tags": ["leader", "emperor", "modernization", "petersburg"]
+  },
+  {
+    "year": "1762–1796",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Catherine II (Catherine the Great)",
+      "fr": "Catherine II (Catherine la Grande)"
+    },
+    "description": {
+      "en": "👑 German-born Empress who expanded Russian territory\n📚 Enlightened monarch, patron of arts and education\n🗺️ Annexed Crimea and partitioned Poland\n🏛️ Founded Hermitage Museum in St. Petersburg\n💡 Corresponded with Voltaire and Diderot\n⚖️ Strengthened serfdom despite Enlightenment ideals",
+      "fr": "👑 Impératrice d'origine allemande qui étend le territoire russe\n📚 Monarque éclairée, mécène des arts et de l'éducation\n🗺️ Annexe la Crimée et partage la Pologne\n🏛️ Fonde le musée de l'Ermitage à Saint-Pétersbourg\n💡 Correspond avec Voltaire et Diderot\n⚖️ Renforce le servage malgré les idéaux des Lumières"
+    },
+    "image": "images/russia/catherine_great.jpg",
+    "tags": ["leader", "empress", "enlightenment", "expansion"]
+  },
+  {
+    "year": "1812",
+    "era": "Napoleonic Wars",
+    "title": {
+      "en": "Napoleon's Invasion of Russia",
+      "fr": "Invasion de la Russie par Napoléon"
+    },
+    "description": {
+      "en": "⚔️ Napoleon's Grande Armée invades with 600,000 troops\n🔥 Russians use scorched earth tactics, burn Moscow\n❄️ Brutal winter destroys French army during retreat\n🏆 Russian victory establishes Russia as major European power",
+      "fr": "⚔️ La Grande Armée de Napoléon envahit avec 600 000 soldats\n🔥 Les Russes utilisent la terre brûlée, incendient Moscou\n❄️ L'hiver brutal détruit l'armée française pendant la retraite\n🏆 La victoire russe établit la Russie comme grande puissance européenne"
+    },
+    "image": "images/russia/napoleon_retreat.jpg",
+    "tags": ["war", "napoleon", "france", "winter"]
+  },
+  {
+    "year": "1818–1883",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Alexander II (The Liberator)",
+      "fr": "Alexandre II (Le Libérateur)"
+    },
+    "description": {
+      "en": "👑 Emperor who emancipated Russian serfs (1861)\n⛓️ Freed 23 million serfs from feudal bondage\n⚖️ Reformed judicial system and local government\n🏛️ Sold Alaska to United States (1867)\n💣 Assassinated by revolutionary terrorists",
+      "fr": "👑 Empereur qui émancipe les serfs russes (1861)\n⛓️ Libère 23 millions de serfs du servage féodal\n⚖️ Réforme le système judiciaire et le gouvernement local\n🏛️ Vend l'Alaska aux États-Unis (1867)\n💣 Assassiné par des terroristes révolutionnaires"
+    },
+    "image": "images/russia/alexander_ii.jpg",
+    "tags": ["leader", "emperor", "reform", "emancipation"]
+  },
+  {
+    "year": "1853–1856",
+    "era": "Imperial Wars",
+    "title": {
+      "en": "Crimean War",
+      "fr": "Guerre de Crimée"
+    },
+    "description": {
+      "en": "⚔️ Russia vs Ottoman Empire, Britain, France, and Sardinia\n🏥 Florence Nightingale revolutionizes military medicine\n❌ Russian defeat exposes military and technological weakness\n📜 Treaty of Paris limits Russian influence in Black Sea",
+      "fr": "⚔️ Russie contre Empire ottoman, Royaume-Uni, France et Sardaigne\n🏥 Florence Nightingale révolutionne la médecine militaire\n❌ La défaite russe expose les faiblesses militaires et technologiques\n📜 Le traité de Paris limite l'influence russe en mer Noire"
+    },
+    "image": "images/russia/crimean_war.webp",
+    "tags": ["war", "crimea", "ottoman", "defeat"]
+  },
+  {
+    "year": "1894–1917",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Nicholas II (Last Tsar)",
+      "fr": "Nicolas II (Dernier Tsar)"
+    },
+    "description": {
+      "en": "👑 Last Emperor of Russia, ended Romanov dynasty\n👨‍👩‍👧‍👦 Family murdered by Bolsheviks (1918)\n⚔️ Led Russia into WWI with disastrous results\n🩸 Bloody Sunday massacre (1905) sparked first revolution\n📜 Forced to abdicate during 1917 February Revolution",
+      "fr": "👑 Dernier empereur de Russie, fin de la dynastie Romanov\n👨‍👩‍👧‍👦 Famille assassinée par les Bolcheviks (1918)\n⚔️ Mène la Russie dans la Première Guerre mondiale avec des résultats désastreux\n🩸 Le massacre du Dimanche sanglant (1905) déclenche la première révolution\n📜 Forcé d'abdiquer lors de la Révolution de février 1917"
+    },
+    "image": "images/russia/nicholas_ii.jpg",
+    "tags": ["leader", "tsar", "romanov", "revolution"]
+  },
+  {
+    "year": "1905",
+    "era": "Revolution of 1905",
+    "title": {
+      "en": "1905 Russian Revolution",
+      "fr": "Révolution russe de 1905"
+    },
+    "description": {
+      "en": "🩸 Bloody Sunday: troops fire on peaceful protesters\n⚔️ Mass strikes, peasant uprisings, and military mutinies\n🚢 Battleship Potemkin mutiny becomes symbol of resistance\n📜 Tsar forced to create first Russian parliament (Duma)",
+      "fr": "🩸 Dimanche sanglant : les troupes tirent sur des manifestants pacifiques\n⚔️ Grèves massives, soulèvements paysans et mutineries militaires\n🚢 Mutinerie du cuirassé Potemkine devient symbole de résistance\n📜 Le Tsar forcé de créer le premier parlement russe (Douma)"
+    },
+    "image": "images/russia/1905_revolution.jpg",
+    "tags": ["revolution", "strikes", "bloody-sunday", "duma"]
+  },
+  {
+    "year": "1914–1918",
+    "era": "World War I",
+    "title": {
+      "en": "Russia in World War I",
+      "fr": "La Russie dans la Première Guerre mondiale"
+    },
+    "description": {
+      "en": "⚔️ Russia enters WWI against Germany and Austria-Hungary\n💀 Millions of casualties, military defeats\n🍞 Food shortages and economic collapse\n😞 War exhaustion leads to revolution and collapse",
+      "fr": "⚔️ La Russie entre dans la Première Guerre mondiale contre l'Allemagne et l'Autriche-Hongrie\n💀 Des millions de victimes, défaites militaires\n🍞 Pénuries alimentaires et effondrement économique\n😞 L'épuisement de la guerre mène à la révolution et à l'effondrement"
+    },
+    "image": "images/russia/wwi.jpg",
+    "tags": ["war", "wwi", "casualties", "collapse"]
+  },
+  {
+    "year": "1917",
+    "era": "Russian Revolution",
+    "title": {
+      "en": "February Revolution",
+      "fr": "Révolution de Février"
+    },
+    "description": {
+      "en": "⚔️ Mass protests in Petrograd over bread shortages\n👑 Tsar Nicholas II forced to abdicate\n🏛️ Provisional Government formed\n🚩 Dual power with Petrograd Soviet\n📅 End of 300-year Romanov dynasty",
+      "fr": "⚔️ Manifestations massives à Petrograd pour les pénuries de pain\n👑 Le Tsar Nicolas II forcé d'abdiquer\n🏛️ Gouvernement provisoire formé\n🚩 Double pouvoir avec le Soviet de Petrograd\n📅 Fin de la dynastie Romanov de 300 ans"
+    },
+    "image": "images/russia/february_revolution.webp",
+    "tags": ["revolution", "tsar", "abdication", "provisional"]
+  },
+  {
+    "year": "1917",
+    "era": "Russian Revolution",
+    "title": {
+      "en": "October Revolution (Bolshevik Revolution)",
+      "fr": "Révolution d'Octobre (Révolution bolchévique)"
+    },
+    "description": {
+      "en": "🚩 Bolsheviks led by Lenin seize power\n🏛️ Storm Winter Palace, overthrow Provisional Government\n⚒️ Establishment of world's first socialist state\n📜 'Peace, Land, and Bread' slogan rallies masses",
+      "fr": "🚩 Les Bolcheviks menés par Lénine prennent le pouvoir\n🏛️ Prennent d'assaut le Palais d'Hiver, renversent le Gouvernement provisoire\n⚒️ Établissement du premier État socialiste au monde\n📜 Le slogan 'Paix, Terre et Pain' rallie les masses"
+    },
+    "image": "images/russia/october_revolution.jpg",
+    "tags": ["revolution", "bolshevik", "lenin", "socialism"]
+  },
+  {
+    "year": "1870–1924",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Vladimir Lenin",
+      "fr": "Vladimir Lénine"
+    },
+    "description": {
+      "en": "🚩 Leader of Bolshevik Revolution and founder of Soviet Union\n⚒️ First head of Soviet state (1917–1924)\n📚 Developed Marxist-Leninist ideology\n🏭 Implemented War Communism and later NEP\n💀 Established one-party communist dictatorship\n🗿 Body preserved and displayed in Red Square mausoleum",
+      "fr": "🚩 Leader de la Révolution bolchévique et fondateur de l'Union soviétique\n⚒️ Premier chef de l'État soviétique (1917–1924)\n📚 Développe l'idéologie marxiste-léniniste\n🏭 Met en œuvre le communisme de guerre puis la NEP\n💀 Établit la dictature communiste à parti unique\n🗿 Corps conservé et exposé dans le mausolée de la Place Rouge"
+    },
+    "image": "images/russia/lenin.jpg",
+    "tags": ["leader", "revolutionary", "communism", "bolshevik"]
+  },
+  {
+    "year": "1918–1922",
+    "era": "Civil War",
+    "title": {
+      "en": "Russian Civil War",
+      "fr": "Guerre civile russe"
+    },
+    "description": {
+      "en": "⚔️ Red Army (Bolsheviks) vs White Army (anti-communists)\n🌍 Foreign intervention by 14 nations\n💀 Millions died from war, famine, and disease\n🚩 Red victory establishes Soviet control\n👨‍👩‍👧‍👦 Romanov family executed (1918)",
+      "fr": "⚔️ Armée rouge (Bolcheviks) contre Armée blanche (anticommunistes)\n🌍 Intervention étrangère de 14 nations\n💀 Des millions meurent de guerre, famine et maladie\n🚩 Victoire rouge établit le contrôle soviétique\n👨‍👩‍👧‍👦 Famille Romanov exécutée (1918)"
+    },
+    "image": "images/russia/civil_war.jpg",
+    "tags": ["civil-war", "red-army", "white-army", "bolshevik"]
+  },
+  {
+    "year": "1922",
+    "era": "Soviet Union",
+    "title": {
+      "en": "Formation of USSR",
+      "fr": "Formation de l'URSS"
+    },
+    "description": {
+      "en": "🚩 Union of Soviet Socialist Republics officially formed\n🗺️ Russia, Ukraine, Belarus, and Transcaucasia unite\n⚒️ World's first constitutionally socialist state\n🌍 Eventually grows to 15 republics",
+      "fr": "🚩 L'Union des Républiques Socialistes Soviétiques officiellement formée\n🗺️ Russie, Ukraine, Biélorussie et Transcaucasie s'unissent\n⚒️ Premier État socialiste constitutionnel au monde\n🌍 Finalement composé de 15 républiques"
+    },
+    "image": "images/russia/ussr_formation.jpg",
+    "tags": ["ussr", "soviet", "formation", "socialism"]
+  },
+  {
+    "year": "1878–1953",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Joseph Stalin",
+      "fr": "Joseph Staline"
+    },
+    "description": {
+      "en": "👨‍💼 General Secretary who ruled USSR with iron fist (1922–1953)\n🏭 Forced rapid industrialization and collectivization\n😱 Great Purge: millions executed or sent to Gulags\n⚔️ Led Soviet Union through WWII to victory\n🌍 Expanded Soviet influence across Eastern Europe\n💀 Responsible for death of millions through repression and famine",
+      "fr": "👨‍💼 Secrétaire général qui dirige l'URSS d'une main de fer (1922–1953)\n🏭 Force l'industrialisation rapide et la collectivisation\n😱 Grande Purge : des millions exécutés ou envoyés au Goulag\n⚔️ Mène l'Union soviétique à la victoire pendant la Seconde Guerre mondiale\n🌍 Étend l'influence soviétique sur l'Europe de l'Est\n💀 Responsable de la mort de millions par la répression et la famine"
+    },
+    "image": "images/russia/stalin.jpg",
+    "tags": ["leader", "dictator", "purge", "industrialization"]
+  },
+  {
+    "year": "1928–1932",
+    "era": "Stalinist Era",
+    "title": {
+      "en": "First Five-Year Plan",
+      "fr": "Premier plan quinquennal"
+    },
+    "description": {
+      "en": "🏭 Massive industrialization campaign\n⚙️ Focus on heavy industry and infrastructure\n🌾 Forced collectivization of agriculture\n💀 Millions die in Ukrainian Holodomor famine",
+      "fr": "🏭 Campagne massive d'industrialisation\n⚙️ Accent sur l'industrie lourde et les infrastructures\n🌾 Collectivisation forcée de l'agriculture\n💀 Des millions meurent dans la famine Holodomor en Ukraine"
+    },
+    "image": "images/russia/five_year_plan.jpg",
+    "tags": ["stalin", "industrialization", "collectivization", "holodomor"]
+  },
+  {
+    "year": "1936–1938",
+    "era": "Stalinist Terror",
+    "title": {
+      "en": "Great Purge",
+      "fr": "Grande Purge"
+    },
+    "description": {
+      "en": "😱 Mass political repression and persecution\n⚖️ Show trials of old Bolsheviks and military leaders\n🏢 NKVD secret police arrests millions\n💀 Executions and Gulag labor camps\n🎯 Paranoid campaign to eliminate 'enemies of the people'",
+      "fr": "😱 Répression et persécution politiques massives\n⚖️ Procès-spectacles de vieux Bolcheviks et chefs militaires\n🏢 La police secrète NKVD arrête des millions\n💀 Exécutions et camps de travail du Goulag\n🎯 Campagne paranoïaque pour éliminer les 'ennemis du peuple'"
+    },
+    "image": "images/russia/great_purge.jpg",
+    "tags": ["stalin", "terror", "purge", "gulag"]
+  },
+  {
+    "year": "1941–1945",
+    "era": "World War II",
+    "title": {
+      "en": "Great Patriotic War",
+      "fr": "Grande Guerre patriotique"
+    },
+    "description": {
+      "en": "⚔️ Nazi Germany invades USSR (Operation Barbarossa)\n🏙️ Siege of Leningrad: 872 days, million dead\n🎯 Battle of Stalingrad: turning point of the war\n🚩 Red Army pushes to Berlin, captures Reichstag\n💀 27 million Soviet citizens killed\n🏆 USSR emerges as superpower",
+      "fr": "⚔️ L'Allemagne nazie envahit l'URSS (Opération Barbarossa)\n🏙️ Siège de Léningrad : 872 jours, un million de morts\n🎯 Bataille de Stalingrad : tournant de la guerre\n🚩 L'Armée rouge avance jusqu'à Berlin, capture le Reichstag\n💀 27 millions de citoyens soviétiques tués\n🏆 L'URSS émerge comme superpuissance"
+    },
+    "image": "images/russia/great_patriotic_war.webp",
+    "tags": ["war", "wwii", "nazi", "stalingrad"]
+  },
+  {
+    "year": "1947–1991",
+    "era": "Cold War",
+    "title": {
+      "en": "Cold War Begins",
+      "fr": "Début de la Guerre froide"
+    },
+    "description": {
+      "en": "❄️ Ideological conflict between USSR and USA\n🛡️ NATO vs Warsaw Pact military alliances\n🚀 Space Race and Arms Race\n🌍 Proxy wars around the globe\n🧱 Iron Curtain divides Europe",
+      "fr": "❄️ Conflit idéologique entre l'URSS et les États-Unis\n🛡️ OTAN contre Pacte de Varsovie\n🚀 Course à l'espace et course aux armements\n🌍 Guerres par procuration dans le monde\n🧱 Rideau de fer divise l'Europe"
+    },
+    "image": "images/russia/cold_war.jpg",
+    "tags": ["cold-war", "usa", "nato", "ideology"]
+  },
+  {
+    "year": "1894–1971",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Nikita Khrushchev",
+      "fr": "Nikita Khrouchtchev"
+    },
+    "description": {
+      "en": "👨‍💼 Soviet leader after Stalin (1953–1964)\n📢 Denounced Stalin's cult of personality\n🕊️ De-Stalinization and limited reforms\n🚀 Launched Sputnik, first satellite in space\n🇨🇺 Cuban Missile Crisis (1962)\n🌽 Failed agricultural policies",
+      "fr": "👨‍💼 Leader soviétique après Staline (1953–1964)\n📢 Dénonce le culte de la personnalité de Staline\n🕊️ Déstalinisation et réformes limitées\n🚀 Lance Spoutnik, premier satellite dans l'espace\n🇨🇺 Crise des missiles de Cuba (1962)\n🌽 Politiques agricoles ratées"
+    },
+    "image": "images/russia/khrushchev.jpg",
+    "tags": ["leader", "destalinization", "space", "cuba"]
+  },
+  {
+    "year": "1957",
+    "era": "Space Race",
+    "title": {
+      "en": "Sputnik Launched",
+      "fr": "Lancement de Spoutnik"
+    },
+    "description": {
+      "en": "🚀 First artificial satellite launched into orbit\n🌍 Marks beginning of Space Age\n🇺🇸 Triggers space race with United States\n📡 Major Cold War propaganda victory",
+      "fr": "🚀 Premier satellite artificiel lancé en orbite\n🌍 Marque le début de l'ère spatiale\n🇺🇸 Déclenche la course à l'espace avec les États-Unis\n📡 Grande victoire de propagande de la Guerre froide"
+    },
+    "image": "images/russia/sputnik.jpg",
+    "tags": ["space", "sputnik", "technology", "cold-war"]
+  },
+  {
+    "year": "1961",
+    "era": "Space Race",
+    "title": {
+      "en": "Yuri Gagarin: First Human in Space",
+      "fr": "Youri Gagarine : Premier homme dans l'espace"
+    },
+    "description": {
+      "en": "🚀 Gagarin completes first manned spaceflight\n🌍 Orbits Earth in Vostok 1 spacecraft\n👨‍🚀 'Poyekhali!' ('Let's go!') becomes famous quote\n🏆 Major Soviet achievement in Space Race",
+      "fr": "🚀 Gagarine effectue le premier vol spatial habité\n🌍 Fait le tour de la Terre dans le vaisseau Vostok 1\n👨‍🚀 'Poyekhali!' ('Allons-y!') devient célèbre\n🏆 Grande réussite soviétique dans la Course à l'espace"
+    },
+    "image": "images/russia/gagarin.webp",
+    "tags": ["space", "gagarin", "astronaut", "achievement"]
+  },
+  {
+    "year": "1906–1982",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Leonid Brezhnev",
+      "fr": "Léonid Brejnev"
+    },
+    "description": {
+      "en": "👨‍💼 General Secretary (1964–1982) — Era of Stagnation\n🏢 Increased political repression and censorship\n⚔️ Invaded Czechoslovakia (1968) and Afghanistan (1979)\n📉 Economic stagnation and corruption\n🥇 Period of military buildup and superpower status",
+      "fr": "👨‍💼 Secrétaire général (1964–1982) — Ère de stagnation\n🏢 Augmente la répression politique et la censure\n⚔️ Envahit la Tchécoslovaquie (1968) et l'Afghanistan (1979)\n📉 Stagnation économique et corruption\n🥇 Période de renforcement militaire et statut de superpuissance"
+    },
+    "image": "images/russia/brezhnev.jpg",
+    "tags": ["leader", "stagnation", "invasion", "cold-war"]
+  },
+  {
+    "year": "1979–1989",
+    "era": "Soviet-Afghan War",
+    "title": {
+      "en": "Soviet War in Afghanistan",
+      "fr": "Guerre soviétique en Afghanistan"
+    },
+    "description": {
+      "en": "⚔️ Soviet invasion to support communist government\n🏔️ Guerrilla war against Mujahideen fighters\n🇺🇸 USA provides support to Afghan resistance\n💀 15,000 Soviet soldiers killed\n📉 'Soviet Vietnam' — contributed to USSR collapse",
+      "fr": "⚔️ Invasion soviétique pour soutenir le gouvernement communiste\n🏔️ Guerre de guérilla contre les Moudjahidines\n🇺🇸 Les États-Unis soutiennent la résistance afghane\n💀 15 000 soldats soviétiques tués\n📉 'Vietnam soviétique' — contribue à l'effondrement de l'URSS"
+    },
+    "image": "images/russia/afghanistan.jpg",
+    "tags": ["war", "afghanistan", "invasion", "collapse"]
+  },
+  {
+    "year": "1931–2022",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Mikhail Gorbachev",
+      "fr": "Mikhaïl Gorbatchev"
+    },
+    "description": {
+      "en": "👨‍💼 Last leader of Soviet Union (1985–1991)\n🕊️ Introduced Glasnost (openness) and Perestroika (restructuring)\n🧱 Allowed fall of Berlin Wall and end of Cold War\n🏆 Nobel Peace Prize (1990)\n📉 Reforms led to unintended collapse of USSR\n🗳️ First and only Soviet president",
+      "fr": "👨‍💼 Dernier dirigeant de l'Union soviétique (1985–1991)\n🕊️ Introduit la Glasnost (ouverture) et la Perestroïka (restructuration)\n🧱 Permet la chute du mur de Berlin et la fin de la Guerre froide\n🏆 Prix Nobel de la paix (1990)\n📉 Les réformes mènent à l'effondrement inattendu de l'URSS\n🗳️ Premier et seul président soviétique"
+    },
+    "image": "images/russia/gorbachev.webp",
+    "tags": ["leader", "glasnost", "perestroika", "reform"]
+  },
+  {
+    "year": "1986",
+    "era": "Nuclear Disaster",
+    "title": {
+      "en": "Chernobyl Disaster",
+      "fr": "Catastrophe de Tchernobyl"
+    },
+    "description": {
+      "en": "☢️ Nuclear reactor explodes at Chernobyl power plant\n💀 Worst nuclear disaster in history\n🏚️ Pripyat evacuated, 30km exclusion zone created\n🌍 Radioactive contamination spreads across Europe\n📉 Exposed Soviet system failures, accelerated collapse",
+      "fr": "☢️ Explosion du réacteur nucléaire de la centrale de Tchernobyl\n💀 Pire catastrophe nucléaire de l'histoire\n🏚️ Évacuation de Pripiat, zone d'exclusion de 30 km créée\n🌍 Contamination radioactive se propage en Europe\n📉 Expose les défaillances du système soviétique, accélère l'effondrement"
+    },
+    "image": "images/russia/chernobyl.jpg",
+    "tags": ["disaster", "nuclear", "chernobyl", "ukraine"]
+  },
+  {
+    "year": "1989",
+    "era": "End of Cold War",
+    "title": {
+      "en": "Fall of Berlin Wall",
+      "fr": "Chute du mur de Berlin"
+    },
+    "description": {
+      "en": "🧱 Berlin Wall opened after 28 years\n🕊️ Symbolic end of Cold War division\n🇩🇪 German reunification follows\n🌍 Communist regimes collapse across Eastern Europe",
+      "fr": "🧱 Ouverture du mur de Berlin après 28 ans\n🕊️ Fin symbolique de la division de la Guerre froide\n🇩🇪 Réunification allemande suit\n🌍 Effondrement des régimes communistes en Europe de l'Est"
+    },
+    "image": "images/russia/berlin_wall.jpg",
+    "tags": ["cold-war", "berlin", "germany", "freedom"]
+  },
+  {
+    "year": "1991",
+    "era": "Soviet Collapse",
+    "title": {
+      "en": "Dissolution of Soviet Union",
+      "fr": "Dissolution de l'Union soviétique"
+    },
+    "description": {
+      "en": "🚩 USSR officially dissolved on December 26\n🗺️ 15 independent republics emerge\n💔 End of communist superpower\n🇷🇺 Russian Federation becomes successor state\n📉 Economic crisis and political uncertainty",
+      "fr": "🚩 L'URSS officiellement dissoute le 26 décembre\n🗺️ Émergence de 15 républiques indépendantes\n💔 Fin de la superpuissance communiste\n🇷🇺 La Fédération de Russie devient l'État successeur\n📉 Crise économique et incertitude politique"
+    },
+    "image": "images/russia/ussr_dissolution.jpg",
+    "tags": ["collapse", "dissolution", "independence", "end"]
+  },
+  {
+    "year": "1931–2007",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Boris Yeltsin",
+      "fr": "Boris Eltsine"
+    },
+    "description": {
+      "en": "👨‍💼 First President of Russian Federation (1991–1999)\n🗳️ Led Russia through transition to democracy and capitalism\n📉 Economic shock therapy caused hardship\n⚔️ First Chechen War and political crises\n🍷 Known for erratic behavior and health problems\n🔄 Resigned, appointed Putin as successor",
+      "fr": "👨‍💼 Premier président de la Fédération de Russie (1991–1999)\n🗳️ Mène la Russie dans la transition vers la démocratie et le capitalisme\n📉 La thérapie de choc économique cause des difficultés\n⚔️ Première guerre de Tchétchénie et crises politiques\n🍷 Connu pour son comportement erratique et ses problèmes de santé\n🔄 Démissionne, nomme Poutine comme successeur"
+    },
+    "image": "images/russia/yeltsin.jpg",
+    "tags": ["leader", "president", "transition", "democracy"]
+  },
+  {
+    "year": "1952–present",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Vladimir Putin",
+      "fr": "Vladimir Poutine"
+    },
+    "description": {
+      "en": "👨‍💼 President/Prime Minister since 1999\n🕵️ Former KGB officer\n💪 Restored state authority and centralized power\n💰 Period of economic growth from oil and gas\n⚔️ Wars in Chechnya, Georgia, Syria, and Ukraine\n🌍 Assertive foreign policy, tensions with West\n📺 Controlled media and limited opposition",
+      "fr": "👨‍💼 Président/Premier ministre depuis 1999\n🕵️ Ancien officier du KGB\n💪 Restaure l'autorité de l'État et centralise le pouvoir\n💰 Période de croissance économique grâce au pétrole et au gaz\n⚔️ Guerres en Tchétchénie, Géorgie, Syrie et Ukraine\n🌍 Politique étrangère assertive, tensions avec l'Occident\n📺 Médias contrôlés et opposition limitée"
+    },
+    "image": "images/russia/putin.jpg",
+    "tags": ["leader", "president", "modern", "power"]
+  },
+  {
+    "year": "2000–2009",
+    "era": "Second Chechen War",
+    "title": {
+      "en": "Second Chechen War",
+      "fr": "Deuxième guerre de Tchétchénie"
+    },
+    "description": {
+      "en": "⚔️ Russian forces reassert control over Chechnya\n💣 Terrorist attacks in Moscow and Beslan\n🏛️ Putin consolidates power as strong leader\n💀 Thousands of civilians killed\n🏴 Chechen resistance suppressed",
+      "fr": "⚔️ Les forces russes réaffirment le contrôle sur la Tchétchénie\n💣 Attentats terroristes à Moscou et Beslan\n🏛️ Poutine consolide le pouvoir en tant que leader fort\n💀 Des milliers de civils tués\n🏴 Résistance tchétchène réprimée"
+    },
+    "image": "images/russia/chechnya.jpg",
+    "tags": ["war", "chechnya", "terrorism", "putin"]
+  },
+  {
+    "year": "2008",
+    "era": "Georgia Conflict",
+    "title": {
+      "en": "Russia-Georgia War",
+      "fr": "Guerre Russie-Géorgie"
+    },
+    "description": {
+      "en": "⚔️ Five-day war over South Ossetia and Abkhazia\n🇬🇪 Russian forces invade Georgia\n🛑 Ceasefire brokered by EU\n🗺️ Russia recognizes independence of breakaway regions\n🌍 Tensions with West escalate",
+      "fr": "⚔️ Guerre de cinq jours pour l'Ossétie du Sud et l'Abkhazie\n🇬🇪 Les forces russes envahissent la Géorgie\n🛑 Cessez-le-feu négocié par l'UE\n🗺️ La Russie reconnaît l'indépendance des régions séparatistes\n🌍 Les tensions avec l'Occident s'intensifient"
+    },
+    "image": "images/russia/georgia_war.avif",
+    "tags": ["war", "georgia", "conflict", "invasion"]
+  },
+  {
+    "year": "2014",
+    "era": "Ukraine Crisis",
+    "title": {
+      "en": "Annexation of Crimea",
+      "fr": "Annexion de la Crimée"
+    },
+    "description": {
+      "en": "🗺️ Russia annexes Crimea from Ukraine\n⚔️ 'Little green men' — unmarked Russian soldiers\n🗳️ Controversial referendum held\n🌍 International sanctions imposed on Russia\n🇺🇦 Start of ongoing Ukraine conflict",
+      "fr": "🗺️ La Russie annexe la Crimée à l'Ukraine\n⚔️ 'Petits hommes verts' — soldats russes non identifiés\n🗳️ Référendum controversé organisé\n🌍 Sanctions internationales imposées à la Russie\n🇺🇦 Début du conflit ukrainien en cours"
+    },
+    "image": "images/russia/crimea_annexation.webp",
+    "tags": ["ukraine", "crimea", "annexation", "conflict"]
+  },
+  {
+    "year": "2022",
+    "era": "Ukraine War",
+    "title": {
+      "en": "Invasion of Ukraine",
+      "fr": "Invasion de l'Ukraine"
+    },
+    "description": {
+      "en": "⚔️ Full-scale invasion of Ukraine begins February 24\n🇺🇦 Fierce Ukrainian resistance surprises Russia\n🌍 Massive international condemnation and sanctions\n🏙️ Destruction of cities like Mariupol\n💔 Largest European war since WWII\n🤝 NATO unity strengthened",
+      "fr": "⚔️ Invasion à grande échelle de l'Ukraine commence le 24 février\n🇺🇦 Résistance ukrainienne féroce surprend la Russie\n🌍 Condamnation internationale massive et sanctions\n🏙️ Destruction de villes comme Marioupol\n💔 Plus grande guerre européenne depuis la Seconde Guerre mondiale\n🤝 Unité de l'OTAN renforcée"
+    },
+    "image": "images/russia/ukraine_invasion.jpg",
+    "tags": ["war", "ukraine", "invasion", "modern"]
+  }
+]

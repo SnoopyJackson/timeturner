@@ -1,0 +1,506 @@
+[
+  {
+    "year": "43 AD",
+    "era": "Roman Britain",
+    "title": {
+      "en": "Roman Conquest of Britain",
+      "fr": "Conquête romaine de la Bretagne"
+    },
+    "description": {
+      "en": "🏛️ Emperor Claudius invades Britain, establishing Roman rule\n⚔️ Defeated Celtic tribes and built fortifications\n🛣️ Roads, cities, and Hadrian's Wall transform the landscape",
+      "fr": "🏛️ L'empereur Claude envahit la Bretagne, établissant la domination romaine\n⚔️ Défait les tribus celtes et construit des fortifications\n🛣️ Routes, cités et mur d'Hadrien transforment le paysage"
+    },
+    "image": "images/uk/roman_britain.jpg",
+    "tags": ["roman", "conquest", "claudius", "ancient"]
+  },
+  {
+    "year": "410–1066",
+    "era": "Anglo-Saxon England",
+    "title": {
+      "en": "Anglo-Saxon Kingdoms",
+      "fr": "Royaumes anglo-saxons"
+    },
+    "description": {
+      "en": "🛡️ Germanic tribes establish seven kingdoms after Roman withdrawal\n⚔️ Viking raids and eventual Danish conquest\n👑 Alfred the Great unifies England against invaders",
+      "fr": "🛡️ Tribus germaniques établissent sept royaumes après le retrait romain\n⚔️ Raids vikings et conquête danoise\n👑 Alfred le Grand unifie l'Angleterre contre les envahisseurs"
+    },
+    "image": "images/uk/anglo_saxon.jpg",
+    "tags": ["anglo-saxon", "vikings", "alfred", "medieval"]
+  },
+  {
+    "year": "1066",
+    "era": "Norman Conquest",
+    "title": {
+      "en": "Battle of Hastings",
+      "fr": "Bataille d'Hastings"
+    },
+    "description": {
+      "en": "⚔️ William the Conqueror defeats King Harold II\n👑 Norman rule transforms English society, language, and culture\n🏰 Feudal system imposed, castles built across England",
+      "fr": "⚔️ Guillaume le Conquérant vainc le roi Harold II\n👑 La domination normande transforme la société, la langue et la culture anglaises\n🏰 Système féodal imposé, châteaux construits à travers l'Angleterre"
+    },
+    "image": "images/uk/hastings.jpg",
+    "tags": ["norman", "william", "conquest", "1066"]
+  },
+  {
+    "year": "1215",
+    "era": "Medieval England",
+    "title": {
+      "en": "Magna Carta",
+      "fr": "Magna Carta"
+    },
+    "description": {
+      "en": "📜 King John forced to sign charter limiting royal power\n⚖️ Established principle of rule of law\n🏛️ Foundation of constitutional government and human rights",
+      "fr": "📜 Le roi Jean sans Terre contraint de signer une charte limitant le pouvoir royal\n⚖️ Établit le principe de l'État de droit\n🏛️ Fondement du gouvernement constitutionnel et des droits de l'homme"
+    },
+    "image": "images/uk/magna_carta.jpg",
+    "tags": ["magna-carta", "law", "rights", "john"]
+  },
+  {
+    "year": "1337–1453",
+    "era": "Medieval Conflicts",
+    "title": {
+      "en": "Hundred Years' War",
+      "fr": "Guerre de Cent Ans"
+    },
+    "description": {
+      "en": "⚔️ England vs France for control of French throne\n🏹 English victories at Crécy and Agincourt\n🇫🇷 Joan of Arc leads French resurgence, England loses French territories",
+      "fr": "⚔️ Angleterre contre France pour le contrôle du trône français\n🏹 Victoires anglaises à Crécy et Azincourt\n🇫🇷 Jeanne d'Arc mène la résurgence française, l'Angleterre perd ses territoires français"
+    },
+    "image": "images/uk/hundred_years_war.jpg",
+    "tags": ["war", "france", "medieval", "agincourt"]
+  },
+  {
+    "year": "1485–1603",
+    "era": "Tudor Dynasty",
+    "title": {
+      "en": "Tudor England",
+      "fr": "Angleterre des Tudor"
+    },
+    "description": {
+      "en": "👑 Henry VII establishes Tudor dynasty after Wars of the Roses\n⛪ Henry VIII breaks with Rome, creates Church of England\n🌟 Golden age under Elizabeth I — Shakespeare, exploration, naval power",
+      "fr": "👑 Henri VII établit la dynastie Tudor après les Guerres des Roses\n⛪ Henri VIII rompt avec Rome, crée l'Église d'Angleterre\n🌟 Âge d'or sous Élisabeth Ire — Shakespeare, exploration, puissance navale"
+    },
+    "image": "images/uk/tudor.jpg",
+    "tags": ["tudor", "henry", "elizabeth", "renaissance"]
+  },
+  {
+    "year": "1509–1547",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Henry VIII",
+      "fr": "Henri VIII"
+    },
+    "description": {
+      "en": "👑 King who broke from Catholic Church to divorce Catherine of Aragon\n⛪ Established Church of England with monarch as Supreme Head\n💔 Six wives: divorced, beheaded, died, divorced, beheaded, survived\n🏰 Strengthened royal power and English navy",
+      "fr": "👑 Roi qui rompit avec l'Église catholique pour divorcer de Catherine d'Aragon\n⛪ Établit l'Église d'Angleterre avec le monarque comme chef suprême\n💔 Six épouses : divorcée, décapitée, morte, divorcée, décapitée, survécu\n🏰 Renforce le pouvoir royal et la marine anglaise"
+    },
+    "image": "images/uk/henry_viii.webp",
+    "tags": ["leader", "king", "reformation", "church"]
+  },
+  {
+    "year": "1558–1603",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Elizabeth I",
+      "fr": "Élisabeth Ire"
+    },
+    "description": {
+      "en": "👑 The Virgin Queen who never married, ruled for 45 years\n⚓ Defeated Spanish Armada (1588), establishing England as naval power\n🎭 Golden Age: Shakespeare, Marlowe flourish\n🌍 Age of exploration: Drake, Raleigh expand English influence",
+      "fr": "👑 La Reine Vierge qui ne s'est jamais mariée, a régné 45 ans\n⚓ Vainc l'Armada espagnole (1588), établissant l'Angleterre comme puissance navale\n🎭 Âge d'or : Shakespeare, Marlowe prospèrent\n🌍 Ère d'exploration : Drake, Raleigh étendent l'influence anglaise"
+    },
+    "image": "images/uk/elizabeth_i.jpg",
+    "tags": ["leader", "queen", "golden-age", "armada"]
+  },
+  {
+    "year": "1588",
+    "era": "Elizabethan Era",
+    "title": {
+      "en": "Spanish Armada",
+      "fr": "Armada espagnole"
+    },
+    "description": {
+      "en": "⚓ Spain's vast fleet attempts to invade England\n🌊 English navy and storms destroy the Armada\n🇬🇧 England emerges as dominant naval power",
+      "fr": "⚓ La vaste flotte espagnole tente d'envahir l'Angleterre\n🌊 La marine anglaise et les tempêtes détruisent l'Armada\n🇬🇧 L'Angleterre émerge comme puissance navale dominante"
+    },
+    "image": "images/uk/spanish_armada.jpg",
+    "tags": ["naval", "spain", "elizabeth", "victory"]
+  },
+  {
+    "year": "1642–1651",
+    "era": "English Civil War",
+    "title": {
+      "en": "English Civil War",
+      "fr": "Guerre civile anglaise"
+    },
+    "description": {
+      "en": "⚔️ Parliamentarians vs Royalists over power of the monarchy\n👤 Oliver Cromwell leads Roundheads to victory\n👑 King Charles I executed (1649) — England becomes Commonwealth",
+      "fr": "⚔️ Parlementaires contre Royalistes sur le pouvoir de la monarchie\n👤 Oliver Cromwell mène les Têtes Rondes à la victoire\n👑 Roi Charles Ier exécuté (1649) — l'Angleterre devient Commonwealth"
+    },
+    "image": "images/uk/civil_war.jpg",
+    "tags": ["civil-war", "cromwell", "charles", "parliament"]
+  },
+  {
+    "year": "1649–1658",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Oliver Cromwell",
+      "fr": "Oliver Cromwell"
+    },
+    "description": {
+      "en": "⚔️ Military commander who led Parliament to victory in Civil War\n👑 Lord Protector of Commonwealth (1653–1658)\n⛪ Puritan leader who banned theaters and imposed strict moral code\n🇮🇪 Brutally suppressed Irish rebellion, controversial legacy",
+      "fr": "⚔️ Commandant militaire qui mena le Parlement à la victoire\n👑 Lord Protecteur du Commonwealth (1653–1658)\n⛪ Leader puritain qui interdit les théâtres et impose un code moral strict\n🇮🇪 Réprime brutalement la rébellion irlandaise, héritage controversé"
+    },
+    "image": "images/uk/cromwell.jpg",
+    "tags": ["leader", "protector", "civil-war", "puritan"]
+  },
+  {
+    "year": "1707",
+    "era": "Union and Empire",
+    "title": {
+      "en": "Act of Union",
+      "fr": "Acte d'Union"
+    },
+    "description": {
+      "en": "🤝 England and Scotland unite to form Kingdom of Great Britain\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland retains legal system, church, and education\n🇬🇧 United Parliament established in Westminster",
+      "fr": "🤝 L'Angleterre et l'Écosse s'unissent pour former le Royaume de Grande-Bretagne\n🏴󠁧󠁢󠁳󠁣󠁴󠁿 L'Écosse conserve son système juridique, son église et son éducation\n🇬🇧 Parlement uni établi à Westminster"
+    },
+    "image": "images/uk/act_union.webp",
+    "tags": ["union", "scotland", "parliament", "britain"]
+  },
+  {
+    "year": "1760–1840",
+    "era": "Industrial Revolution",
+    "title": {
+      "en": "Industrial Revolution",
+      "fr": "Révolution industrielle"
+    },
+    "description": {
+      "en": "🏭 Britain becomes first industrialized nation\n🚂 Steam engine, railways, factories transform economy\n🌍 'Workshop of the World' — dominates global manufacturing",
+      "fr": "🏭 La Grande-Bretagne devient la première nation industrialisée\n🚂 Moteur à vapeur, chemins de fer, usines transforment l'économie\n🌍 'Atelier du monde' — domine la fabrication mondiale"
+    },
+    "image": "images/uk/industrial_revolution.jpg",
+    "tags": ["industry", "innovation", "economy", "steam"]
+  },
+  {
+    "year": "1805",
+    "era": "Napoleonic Wars",
+    "title": {
+      "en": "Battle of Trafalgar",
+      "fr": "Bataille de Trafalgar"
+    },
+    "description": {
+      "en": "⚓ Admiral Nelson defeats combined French-Spanish fleet\n🇬🇧 Secures British naval supremacy for a century\n💔 Nelson dies in victory: 'England expects every man will do his duty'",
+      "fr": "⚓ L'amiral Nelson vainc la flotte franco-espagnole combinée\n🇬🇧 Assure la suprématie navale britannique pendant un siècle\n💔 Nelson meurt dans la victoire : 'L'Angleterre attend que chacun fasse son devoir'"
+    },
+    "image": "images/uk/trafalgar.jpg",
+    "tags": ["naval", "nelson", "napoleon", "victory"]
+  },
+  {
+    "year": "1805",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Admiral Horatio Nelson",
+      "fr": "Amiral Horatio Nelson"
+    },
+    "description": {
+      "en": "⚓ Britain's greatest naval hero, won key battles against Napoleon\n🏆 Victory at Trafalgar (1805) secured British naval dominance\n💔 Killed at moment of greatest triumph\n🗿 Nelson's Column in Trafalgar Square honors his memory",
+      "fr": "⚓ Plus grand héros naval britannique, gagne des batailles clés contre Napoléon\n🏆 Victoire à Trafalgar (1805) assure la domination navale britannique\n💔 Tué au moment de son plus grand triomphe\n🗿 La colonne Nelson à Trafalgar Square honore sa mémoire"
+    },
+    "image": "images/uk/nelson.jpg",
+    "tags": ["leader", "naval", "trafalgar", "hero"]
+  },
+  {
+    "year": "1815",
+    "era": "Napoleonic Wars",
+    "title": {
+      "en": "Battle of Waterloo",
+      "fr": "Bataille de Waterloo"
+    },
+    "description": {
+      "en": "⚔️ Duke of Wellington defeats Napoleon in Belgium\n🇬🇧 Allied with Prussians, ends Napoleonic Wars\n🏆 Establishes British dominance in Europe for century",
+      "fr": "⚔️ Le duc de Wellington vainc Napoléon en Belgique\n🇬🇧 Allié aux Prussiens, met fin aux guerres napoléoniennes\n🏆 Établit la domination britannique en Europe pendant un siècle"
+    },
+    "image": "images/uk/waterloo.jpg",
+    "tags": ["war", "wellington", "napoleon", "victory"]
+  },
+  {
+    "year": "1769–1852",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Duke of Wellington",
+      "fr": "Duc de Wellington"
+    },
+    "description": {
+      "en": "⚔️ Military commander who defeated Napoleon at Waterloo (1815)\n🏛️ Prime Minister (1828–1830, 1834)\n🎖️ 'Iron Duke' — national hero and statesman\n🚫 Opposed parliamentary reform but maintained stability",
+      "fr": "⚔️ Commandant militaire qui vainquit Napoléon à Waterloo (1815)\n🏛️ Premier ministre (1828–1830, 1834)\n🎖️ 'Duc de Fer' — héros national et homme d'État\n🚫 S'oppose à la réforme parlementaire mais maintient la stabilité"
+    },
+    "image": "images/uk/wellington.jpg",
+    "tags": ["leader", "military", "prime-minister", "waterloo"]
+  },
+  {
+    "year": "1837–1901",
+    "era": "Victorian Age",
+    "title": {
+      "en": "Victorian Era",
+      "fr": "Ère victorienne"
+    },
+    "description": {
+      "en": "👑 Queen Victoria reigns for 63 years — longest until Elizabeth II\n🌍 British Empire reaches peak, covering quarter of globe\n🏭 Industrial and technological advances transform society\n📚 Cultural flowering: Dickens, Darwin, Brontës",
+      "fr": "👑 La reine Victoria règne 63 ans — la plus longue jusqu'à Élisabeth II\n🌍 L'Empire britannique atteint son apogée, couvrant un quart du globe\n🏭 Progrès industriels et technologiques transforment la société\n📚 Épanouissement culturel : Dickens, Darwin, Brontës"
+    },
+    "image": "images/uk/victorian.jpg",
+    "tags": ["victoria", "empire", "industrial", "culture"]
+  },
+  {
+    "year": "1819–1901",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Queen Victoria",
+      "fr": "Reine Victoria"
+    },
+    "description": {
+      "en": "👑 Longest-reigning British monarch (until Elizabeth II)\n🌍 Empire expanded massively — 'the sun never sets on the British Empire'\n💑 Devoted to Prince Albert, wore black for 40 years after his death\n🏛️ Gave name to an era of progress and moral values",
+      "fr": "👑 Monarque britannique au règne le plus long (jusqu'à Élisabeth II)\n🌍 Empire s'étend massivement — 'le soleil ne se couche jamais sur l'Empire britannique'\n💑 Dévouée au prince Albert, porte le deuil 40 ans après sa mort\n🏛️ Donne son nom à une ère de progrès et de valeurs morales"
+    },
+    "image": "images/uk/victoria.jpg",
+    "tags": ["leader", "queen", "empire", "era"]
+  },
+  {
+    "year": "1874–1965",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Winston Churchill",
+      "fr": "Winston Churchill"
+    },
+    "description": {
+      "en": "🎖️ Prime Minister during WWII (1940–1945, 1951–1955)\n🗣️ Inspirational orator: 'We shall never surrender'\n🏆 Led Britain through darkest hour to Allied victory\n📚 Nobel Prize in Literature, painter, historian",
+      "fr": "🎖️ Premier ministre pendant la Seconde Guerre mondiale (1940–1945, 1951–1955)\n🗣️ Orateur inspirant : 'Nous ne nous rendrons jamais'\n🏆 Mène la Grande-Bretagne à travers l'heure la plus sombre vers la victoire alliée\n📚 Prix Nobel de littérature, peintre, historien"
+    },
+    "image": "images/uk/churchill.webp",
+    "tags": ["leader", "prime-minister", "wwii", "hero"]
+  },
+  {
+    "year": "1914–1918",
+    "era": "World Wars",
+    "title": {
+      "en": "World War I",
+      "fr": "Première Guerre mondiale"
+    },
+    "description": {
+      "en": "⚔️ Britain enters war after Germany invades Belgium\n💀 Trench warfare claims 900,000 British lives\n🏆 Victory but at enormous cost — 'Lost Generation'\n🌍 Ottoman and German empires collapse",
+      "fr": "⚔️ La Grande-Bretagne entre en guerre après l'invasion de la Belgique par l'Allemagne\n💀 Guerre de tranchées coûte 900 000 vies britanniques\n🏆 Victoire mais à un coût énorme — 'Génération perdue'\n🌍 Empires ottoman et allemand s'effondrent"
+    },
+    "image": "images/uk/wwi.jpg",
+    "tags": ["war", "wwi", "trenches", "sacrifice"]
+  },
+  {
+    "year": "1939–1945",
+    "era": "World Wars",
+    "title": {
+      "en": "World War II",
+      "fr": "Seconde Guerre mondiale"
+    },
+    "description": {
+      "en": "⚔️ Britain stands alone against Nazi Germany (1940–1941)\n✈️ Battle of Britain and the Blitz — civilians under bombardment\n🤝 Allied with U.S. and Soviet Union, defeats Axis powers\n🏆 Victory but empire weakened, American century begins",
+      "fr": "⚔️ La Grande-Bretagne résiste seule contre l'Allemagne nazie (1940–1941)\n✈️ Bataille d'Angleterre et le Blitz — civils sous bombardement\n🤝 Allié avec les États-Unis et l'Union soviétique, vainc les puissances de l'Axe\n🏆 Victoire mais empire affaibli, siècle américain commence"
+    },
+    "image": "images/uk/wwii.jpg",
+    "tags": ["war", "wwii", "churchill", "blitz"]
+  },
+  {
+    "year": "1940",
+    "era": "World Wars",
+    "title": {
+      "en": "Battle of Britain",
+      "fr": "Bataille d'Angleterre"
+    },
+    "description": {
+      "en": "✈️ RAF fights Luftwaffe for control of British skies\n🛩️ Churchill: 'Never was so much owed by so many to so few'\n🏆 First major defeat of Nazi Germany, prevents invasion",
+      "fr": "✈️ La RAF combat la Luftwaffe pour le contrôle du ciel britannique\n🛩️ Churchill : 'Jamais tant d'hommes n'ont dû autant à si peu'\n🏆 Première défaite majeure de l'Allemagne nazie, empêche l'invasion"
+    },
+    "image": "images/uk/battle_britain.webp",
+    "tags": ["war", "wwii", "raf", "victory"]
+  },
+  {
+    "year": "1947",
+    "era": "Decolonization",
+    "title": {
+      "en": "Indian Independence",
+      "fr": "Indépendance de l'Inde"
+    },
+    "description": {
+      "en": "🇮🇳 India and Pakistan gain independence, partition follows\n👤 Gandhi's non-violent resistance succeeds\n📉 'Jewel in the Crown' lost — empire begins to dissolve",
+      "fr": "🇮🇳 L'Inde et le Pakistan obtiennent l'indépendance, partition suit\n👤 La résistance non-violente de Gandhi réussit\n📉 'Joyau de la couronne' perdu — l'empire commence à se dissoudre"
+    },
+    "image": "images/uk/india_independence.jpg",
+    "tags": ["empire", "india", "decolonization", "gandhi"]
+  },
+  {
+    "year": "1948",
+    "era": "Modern Britain",
+    "title": {
+      "en": "NHS Founded",
+      "fr": "Fondation du NHS"
+    },
+    "description": {
+      "en": "🏥 National Health Service established — free healthcare for all\n💊 Radical welfare state reforms after WWII\n🇬🇧 Symbol of post-war social democracy",
+      "fr": "🏥 Service national de santé établi — soins gratuits pour tous\n💊 Réformes radicales de l'État-providence après la Seconde Guerre mondiale\n🇬🇧 Symbole de la social-démocratie d'après-guerre"
+    },
+    "image": "images/uk/nhs.jpg",
+    "tags": ["healthcare", "welfare", "social", "reform"]
+  },
+  {
+    "year": "1952–2022",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Queen Elizabeth II",
+      "fr": "Reine Élisabeth II"
+    },
+    "description": {
+      "en": "👑 Longest-reigning British monarch (70 years)\n🌍 Oversaw transformation from empire to Commonwealth\n💎 Jubilees celebrated worldwide, symbol of continuity\n🇬🇧 Witnessed and guided Britain through immense change",
+      "fr": "👑 Monarque britannique au règne le plus long (70 ans)\n🌍 Supervise la transformation de l'empire au Commonwealth\n💎 Jubilés célébrés dans le monde entier, symbole de continuité\n🇬🇧 Témoin et guide de la Grande-Bretagne à travers d'immenses changements"
+    },
+    "image": "images/uk/elizabeth_ii.jpg",
+    "tags": ["leader", "queen", "monarchy", "modern"]
+  },
+  {
+    "year": "1979–1990",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Margaret Thatcher",
+      "fr": "Margaret Thatcher"
+    },
+    "description": {
+      "en": "🏛️ First female Prime Minister of Britain (1979–1990)\n💼 'Iron Lady' — free market reforms, privatization\n⚔️ Falklands War (1982) restored national pride\n📉 Controversial: broke unions, increased inequality, transformed economy",
+      "fr": "🏛️ Première femme Premier ministre de Grande-Bretagne (1979–1990)\n💼 'Dame de Fer' — réformes du marché libre, privatisation\n⚔️ Guerre des Malouines (1982) restaure la fierté nationale\n📉 Controversée : brise les syndicats, accroît les inégalités, transforme l'économie"
+    },
+    "image": "images/uk/thatcher.jpg",
+    "tags": ["leader", "prime-minister", "conservative", "reform"]
+  },
+  {
+    "year": "1982",
+    "era": "Modern Conflicts",
+    "title": {
+      "en": "Falklands War",
+      "fr": "Guerre des Malouines"
+    },
+    "description": {
+      "en": "⚔️ Argentina invades British Falkland Islands\n🇬🇧 Thatcher sends task force 8,000 miles to reclaim territory\n🏆 British victory restores national confidence after decline",
+      "fr": "⚔️ L'Argentine envahit les îles Malouines britanniques\n🇬🇧 Thatcher envoie une force opérationnelle à 13 000 km pour reconquérir le territoire\n🏆 Victoire britannique restaure la confiance nationale après le déclin"
+    },
+    "image": "images/uk/falklands.jpg",
+    "tags": ["war", "argentina", "thatcher", "victory"]
+  },
+  {
+    "year": "1997–2007",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Tony Blair",
+      "fr": "Tony Blair"
+    },
+    "description": {
+      "en": "🏛️ Prime Minister (1997–2007) — 'New Labour' modernization\n✌️ Good Friday Agreement brings peace to Northern Ireland\n⚔️ Controversial: Iraq War (2003) damaged legacy\n🇪🇺 Pro-European integration, devolution for Scotland and Wales",
+      "fr": "🏛️ Premier ministre (1997–2007) — modernisation 'New Labour'\n✌️ Accord du Vendredi saint apporte la paix en Irlande du Nord\n⚔️ Controversé : guerre en Irak (2003) endommage l'héritage\n🇪🇺 Pro-intégration européenne, dévolution pour l'Écosse et le Pays de Galles"
+    },
+    "image": "images/uk/blair.jpg",
+    "tags": ["leader", "prime-minister", "labour", "modernization"]
+  },
+  {
+    "year": "1998",
+    "era": "Peace Process",
+    "title": {
+      "en": "Good Friday Agreement",
+      "fr": "Accord du Vendredi saint"
+    },
+    "description": {
+      "en": "✌️ Historic peace agreement ends decades of violence in Northern Ireland\n🤝 Power-sharing between unionists and nationalists\n🕊️ End of 'The Troubles' — major diplomatic achievement",
+      "fr": "✌️ Accord de paix historique met fin à des décennies de violence en Irlande du Nord\n🤝 Partage du pouvoir entre unionistes et nationalistes\n🕊️ Fin des 'Troubles' — réalisation diplomatique majeure"
+    },
+    "image": "images/uk/good_friday.jpg",
+    "tags": ["peace", "ireland", "agreement", "conflict"]
+  },
+  {
+    "year": "2012",
+    "era": "Modern Britain",
+    "title": {
+      "en": "London Olympics",
+      "fr": "Jeux olympiques de Londres"
+    },
+    "description": {
+      "en": "🏅 London hosts successful Olympic Games\n🎉 Danny Boyle's opening ceremony celebrates British culture\n🇬🇧 Moment of national pride and global showcase",
+      "fr": "🏅 Londres accueille des Jeux olympiques réussis\n🎉 Cérémonie d'ouverture de Danny Boyle célèbre la culture britannique\n🇬🇧 Moment de fierté nationale et vitrine mondiale"
+    },
+    "image": "images/uk/olympics.webp",
+    "tags": ["olympics", "sports", "culture", "celebration"]
+  },
+  {
+    "year": "2016",
+    "era": "Modern Britain",
+    "title": {
+      "en": "Brexit Referendum",
+      "fr": "Référendum sur le Brexit"
+    },
+    "description": {
+      "en": "🗳️ UK votes 52% to 48% to leave European Union\n🇪🇺 Divisive campaign over sovereignty vs economic integration\n📉 Political earthquake reshapes British politics and identity",
+      "fr": "🗳️ Le Royaume-Uni vote 52% contre 48% pour quitter l'Union européenne\n🇪🇺 Campagne divisive sur souveraineté vs intégration économique\n📉 Séisme politique remodèle la politique et l'identité britanniques"
+    },
+    "image": "images/uk/brexit.jpg",
+    "tags": ["brexit", "eu", "referendum", "politics"]
+  },
+  {
+    "year": "2020",
+    "era": "Modern Britain",
+    "title": {
+      "en": "Brexit Implementation",
+      "fr": "Mise en œuvre du Brexit"
+    },
+    "description": {
+      "en": "🇬🇧 UK officially leaves EU after 47 years of membership\n📜 New trade deals and immigration system established\n⚖️ Ongoing debate over Northern Ireland protocol and Scotland's future",
+      "fr": "🇬🇧 Le Royaume-Uni quitte officiellement l'UE après 47 ans d'adhésion\n📜 Nouveaux accords commerciaux et système d'immigration établis\n⚖️ Débat en cours sur le protocole d'Irlande du Nord et l'avenir de l'Écosse"
+    },
+    "image": "images/uk/brexit_done.jpg",
+    "tags": ["brexit", "trade", "independence", "sovereignty"]
+  },
+  {
+    "year": "2022",
+    "era": "Modern Britain",
+    "title": {
+      "en": "Death of Elizabeth II",
+      "fr": "Mort d'Élisabeth II"
+    },
+    "description": {
+      "en": "👑 Queen Elizabeth II dies at age 96 after 70-year reign\n🕊️ National mourning and global tributes\n👨 Charles III becomes King, new era begins",
+      "fr": "👑 La reine Élisabeth II meurt à 96 ans après 70 ans de règne\n🕊️ Deuil national et hommages mondiaux\n👨 Charles III devient roi, nouvelle ère commence"
+    },
+    "image": "images/uk/elizabeth_death.jpg",
+    "tags": ["monarchy", "elizabeth", "charles", "transition"]
+  },
+  {
+    "year": "2022–Present",
+    "era": "Key Leaders",
+    "title": {
+      "en": "King Charles III",
+      "fr": "Roi Charles III"
+    },
+    "description": {
+      "en": "👑 Longest-serving heir apparent (73) becomes King\n🌱 Environmental advocate and organic farming pioneer\n🏛️ Modernizing monarchy while maintaining traditions\n🌍 Commonwealth leader in era of global change",
+      "fr": "👑 Héritier présomptif le plus longtemps en fonction (73 ans) devient roi\n🌱 Défenseur de l'environnement et pionnier de l'agriculture biologique\n🏛️ Modernise la monarchie tout en maintenant les traditions\n🌍 Leader du Commonwealth dans une ère de changement mondial"
+    },
+    "image": "images/uk/charles_iii.jpg",
+    "tags": ["leader", "king", "monarchy", "modern"]
+  },
+  {
+    "year": "Present",
+    "era": "Modern Britain",
+    "title": {
+      "en": "United Kingdom Today",
+      "fr": "Royaume-Uni aujourd'hui"
+    },
+    "description": {
+      "en": "🇬🇧 Post-Brexit Britain navigating new role on world stage\n💼 Global financial center, tech hub, cultural powerhouse\n🌍 Commonwealth of 56 nations maintains historical ties\n⚖️ Debates over Scottish independence, Irish reunification, and monarchy's future shape 21st century identity",
+      "fr": "🇬🇧 Grande-Bretagne post-Brexit naviguant un nouveau rôle sur la scène mondiale\n💼 Centre financier mondial, pôle technologique, puissance culturelle\n🌍 Commonwealth de 56 nations maintient les liens historiques\n⚖️ Débats sur l'indépendance écossaise, réunification irlandaise et avenir de la monarchie façonnent l'identité du 21e siècle"
+    },
+    "image": "images/uk/modern_uk.webp",
+    "tags": ["modern", "britain", "commonwealth", "future"]
+  }
+]

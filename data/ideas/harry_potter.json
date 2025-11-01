@@ -1,0 +1,408 @@
+[
+  {
+    "year": "Ancient Times",
+    "era": "Foundation",
+    "title": {
+      "en": "The Four Founders",
+      "fr": "Les Quatre Fondateurs"
+    },
+    "description": {
+      "en": "🏰 Godric Gryffindor, Helga Hufflepuff, Rowena Ravenclaw, and Salazar Slytherin founded Hogwarts School of Witchcraft and Wizardry.\n⚔️ Each founder valued different qualities: bravery, loyalty, wisdom, and ambition.\n🎩 The Sorting Hat was created from Gryffindor's hat to sort students into houses.\n🐍 Slytherin built the Chamber of Secrets before leaving due to disagreements about admitting Muggle-borns.",
+      "fr": "🏰 Godric Gryffondor, Helga Poufsouffle, Rowena Serdaigle et Salazar Serpentard fondèrent l'école de sorcellerie Poudlard.\n⚔️ Chaque fondateur valorisait des qualités différentes : bravoure, loyauté, sagesse et ambition.\n🎩 Le Choixpeau magique fut créé à partir du chapeau de Gryffondor pour répartir les élèves.\n🐍 Serpentard construisit la Chambre des Secrets avant de partir en raison de désaccords sur l'admission des nés-Moldus."
+    },
+    "image": "images/harry_potter/founders.jpg",
+    "tags": ["founders", "hogwarts", "gryffindor", "slytherin", "beginning"]
+  },
+  {
+    "year": "Medieval Era",
+    "era": "Dark Ages",
+    "title": {
+      "en": "The Chamber of Secrets",
+      "fr": "La Chambre des Secrets"
+    },
+    "description": {
+      "en": "🐍 Salazar Slytherin's hidden chamber beneath Hogwarts, accessible only to his heir.\n👁️ Contains a Basilisk, the King of Serpents, meant to purge the school of Muggle-borns.\n🔒 Remained sealed for centuries, its location unknown to most.\n📜 Legend says: 'The Chamber of Secrets has been opened. Enemies of the heir, beware.'",
+      "fr": "🐍 Chambre cachée de Salazar Serpentard sous Poudlard, accessible seulement à son héritier.\n👁️ Contient un Basilic, le Roi des Serpents, destiné à purger l'école des nés-Moldus.\n🔒 Resta scellée pendant des siècles, son emplacement inconnu de la plupart.\n📜 La légende dit : 'La Chambre des Secrets a été ouverte. Ennemis de l'héritier, prenez garde.'"
+    },
+    "image": "images/harry_potter/chamber.jpg",
+    "tags": ["chamber", "basilisk", "slytherin", "secret", "dark"]
+  },
+  {
+    "year": "13th Century",
+    "era": "Artifacts",
+    "title": {
+      "en": "The Deathly Hallows",
+      "fr": "Les Reliques de la Mort"
+    },
+    "description": {
+      "en": "⚰️ Three legendary magical objects: the Elder Wand, Resurrection Stone, and Cloak of Invisibility.\n📖 Tale of the Three Brothers who cheated Death.\n🪄 Elder Wand: the most powerful wand ever created.\n💎 Resurrection Stone: brings back the dead as shades.\n👻 Invisibility Cloak: perfect concealment that never fades.\n💀 'Master of Death' — one who possesses all three.",
+      "fr": "⚰️ Trois objets magiques légendaires : la Baguette de Sureau, la Pierre de Résurrection et la Cape d'Invisibilité.\n📖 Conte des Trois Frères qui trompèrent la Mort.\n🪄 Baguette de Sureau : la baguette la plus puissante jamais créée.\n💎 Pierre de Résurrection : ramène les morts comme des ombres.\n👻 Cape d'Invisibilité : dissimulation parfaite qui ne se fane jamais.\n💀 'Maître de la Mort' — celui qui possède les trois."
+    },
+    "image": "images/harry_potter/hallows.jpg",
+    "tags": ["hallows", "death", "wand", "stone", "cloak"]
+  },
+  {
+    "year": "1920s-1930s",
+    "era": "Dark Times",
+    "title": {
+      "en": "Gellert Grindelwald",
+      "fr": "Gellert Grindelwald"
+    },
+    "description": {
+      "en": "⚡ Dark wizard who sought the Deathly Hallows to rule over Muggles 'for the greater good.'\n🏰 Expelled from Durmstrang for twisted experiments.\n💔 Former friend of Albus Dumbledore before their tragic duel.\n🔥 Terrorized Europe with his followers, starting a wizarding war.\n⚔️ Defeated by Dumbledore in legendary 1945 duel.\n🏢 Imprisoned in Nurmengard, his own fortress.",
+      "fr": "⚡ Mage noir qui recherchait les Reliques de la Mort pour régner sur les Moldus 'pour le bien supérieur.'\n🏰 Expulsé de Durmstrang pour des expériences perverses.\n💔 Ancien ami d'Albus Dumbledore avant leur duel tragique.\n🔥 Terrorisa l'Europe avec ses disciples, déclenchant une guerre de sorciers.\n⚔️ Vaincu par Dumbledore dans un duel légendaire en 1945.\n🏢 Emprisonné à Nurmengard, sa propre forteresse."
+    },
+    "image": "images/harry_potter/grindelwald.png",
+    "tags": ["grindelwald", "dark-wizard", "dumbledore", "war", "greater-good"]
+  },
+  {
+    "year": "1926-1945",
+    "era": "Rise of Power",
+    "title": {
+      "en": "Tom Riddle's Youth",
+      "fr": "Jeunesse de Tom Jedusor"
+    },
+    "description": {
+      "en": "👶 Born to a Muggle father and witch mother in an orphanage.\n🐍 Discovered his magical abilities and Parseltongue gift early.\n🏰 Attended Hogwarts, sorted into Slytherin House.\n📚 Brilliant student, Head Boy, but secretly explored Dark Magic.\n🔍 Obsessed with his heritage, discovered he was Salazar Slytherin's heir.\n💀 Opened the Chamber of Secrets, killed Moaning Myrtle.\n📖 Created his first Horcrux using the diary.",
+      "fr": "👶 Né d'un père Moldu et d'une mère sorcière dans un orphelinat.\n🐍 Découvrit ses capacités magiques et son don de Fourchelang tôt.\n🏰 Étudia à Poudlard, réparti à Serpentard.\n📚 Élève brillant, Préfet-en-chef, mais explora secrètement la magie noire.\n🔍 Obsédé par son héritage, découvrit qu'il était l'héritier de Salazar Serpentard.\n💀 Ouvrit la Chambre des Secrets, tua Mimi Geignarde.\n📖 Créa son premier Horcruxe avec le journal."
+    },
+    "image": "images/harry_potter/young_riddle.jpg",
+    "tags": ["riddle", "voldemort", "youth", "slytherin", "chamber"]
+  },
+  {
+    "year": "1938-1945",
+    "era": "Hogwarts Years",
+    "title": {
+      "en": "Albus Dumbledore",
+      "fr": "Albus Dumbledore"
+    },
+    "description": {
+      "en": "👓 Greatest wizard of modern times, Transfiguration professor at Hogwarts.\n🧙 Recognized Tom Riddle's darkness and tried to guide him.\n⚔️ Defeated Grindelwald in 1945, ending the global wizarding war.\n🏆 Received numerous honors: Order of Merlin, First Class.\n🦅 Later became Headmaster of Hogwarts.\n💎 Only wizard Voldemort ever feared.",
+      "fr": "👓 Plus grand sorcier des temps modernes, professeur de Métamorphose à Poudlard.\n🧙 Reconnut les ténèbres en Tom Jedusor et tenta de le guider.\n⚔️ Vainquit Grindelwald en 1945, mettant fin à la guerre mondiale des sorciers.\n🏆 Reçut de nombreux honneurs : Ordre de Merlin, Première Classe.\n🦅 Devint plus tard directeur de Poudlard.\n💎 Seul sorcier que Voldemort ait jamais craint."
+    },
+    "image": "images/harry_potter/dumbledore.jpg",
+    "tags": ["dumbledore", "headmaster", "wizard", "leader", "powerful"]
+  },
+  {
+    "year": "1970s",
+    "era": "First Wizarding War",
+    "title": {
+      "en": "Rise of Lord Voldemort",
+      "fr": "L'ascension de Lord Voldemort"
+    },
+    "description": {
+      "en": "💀 Tom Riddle became Lord Voldemort, the darkest wizard in history.\n🐍 Gathered followers called Death Eaters, marked with the Dark Mark.\n⚡ Sought immortality through seven Horcruxes — fragments of his soul.\n😱 Terrorized the wizarding world with torture, murder, and dark magic.\n🔥 Muggles and Muggle-borns were targeted for extermination.\n💔 'Fear of a name increases fear of the thing itself.'",
+      "fr": "💀 Tom Jedusor devint Lord Voldemort, le plus sombre sorcier de l'histoire.\n🐍 Rassembla des disciples appelés Mangemorts, marqués de la Marque des Ténèbres.\n⚡ Chercha l'immortalité à travers sept Horcruxes — fragments de son âme.\n😱 Terrorisa le monde des sorciers avec torture, meurtre et magie noire.\n🔥 Les Moldus et nés-Moldus furent ciblés pour extermination.\n💔 'La peur d'un nom ne fait qu'accroître la peur de la chose elle-même.'"
+    },
+    "image": "images/harry_potter/voldemort_rise.jpg",
+    "tags": ["voldemort", "death-eaters", "dark-lord", "war", "horcrux"]
+  },
+  {
+    "year": "1970-1981",
+    "era": "First Wizarding War",
+    "title": {
+      "en": "The Order of the Phoenix",
+      "fr": "L'Ordre du Phénix"
+    },
+    "description": {
+      "en": "🔥 Secret society founded by Dumbledore to fight Voldemort.\n⚔️ Members included Lily and James Potter, Sirius Black, Remus Lupin, and many others.\n🦉 Operated from Number Twelve, Grimmauld Place.\n💔 Many members killed or imprisoned during the war.\n🛡️ 'We've all got both light and dark inside us.'",
+      "fr": "🔥 Société secrète fondée par Dumbledore pour combattre Voldemort.\n⚔️ Membres incluant Lily et James Potter, Sirius Black, Remus Lupin et beaucoup d'autres.\n🦉 Opérait depuis le 12, square Grimmaurd.\n💔 Nombreux membres tués ou emprisonnés pendant la guerre.\n🛡️ 'Nous avons tous en nous une part de lumière et une part de ténèbres.'"
+    },
+    "image": "images/harry_potter/order_phoenix.jpg",
+    "tags": ["order", "phoenix", "resistance", "dumbledore", "war"]
+  },
+  {
+    "year": "1980",
+    "era": "Prophecy",
+    "title": {
+      "en": "The Prophecy",
+      "fr": "La Prophétie"
+    },
+    "description": {
+      "en": "🔮 Sybill Trelawney made a prophecy about a boy who could defeat Voldemort.\n📜 'The one with the power to vanquish the Dark Lord approaches...'\n👶 Born to those who thrice defied him, born as the seventh month dies.\n⚡ Could refer to Harry Potter or Neville Longbottom.\n👂 Severus Snape overheard and reported it to Voldemort.\n🎯 Voldemort chose Harry, marking him as his equal.",
+      "fr": "🔮 Sybill Trelawney fit une prophétie sur un garçon qui pourrait vaincre Voldemort.\n📜 'Celui qui a le pouvoir de vaincre le Seigneur des Ténèbres approche...'\n👶 Né de ceux qui l'ont défié trois fois, né quand meurt le septième mois.\n⚡ Pourrait désigner Harry Potter ou Neville Londubat.\n👂 Severus Rogue entendit et la rapporta à Voldemort.\n🎯 Voldemort choisit Harry, le marquant comme son égal."
+    },
+    "image": "images/harry_potter/prophecy.jpg",
+    "tags": ["prophecy", "trelawney", "chosen-one", "harry", "voldemort"]
+  },
+  {
+    "year": "July 31, 1980",
+    "era": "The Chosen One",
+    "title": {
+      "en": "Birth of Harry Potter",
+      "fr": "Naissance de Harry Potter"
+    },
+    "description": {
+      "en": "👶 Harry James Potter born to James and Lily Potter.\n⚡ Born at the end of July, fitting the prophecy.\n💚 Parents were members of the Order of the Phoenix.\n🏠 Family went into hiding under the Fidelius Charm.\n🔮 The boy who would change everything.",
+      "fr": "👶 Harry James Potter né de James et Lily Potter.\n⚡ Né à la fin juillet, correspondant à la prophétie.\n💚 Parents étaient membres de l'Ordre du Phénix.\n🏠 Famille se cacha sous le charme de Fidelitas.\n🔮 Le garçon qui allait tout changer."
+    },
+    "image": "images/harry_potter/baby_harry.jpg",
+    "tags": ["harry", "birth", "potter", "chosen-one", "prophecy"]
+  },
+  {
+    "year": "October 31, 1981",
+    "era": "The Fall",
+    "title": {
+      "en": "The Boy Who Lived",
+      "fr": "Le Survivant"
+    },
+    "description": {
+      "en": "🏠 Voldemort attacked the Potters in Godric's Hollow on Halloween.\n💚 Lily sacrificed herself to save Harry, creating powerful blood protection.\n⚡ Voldemort's Killing Curse rebounded, destroying his body.\n⚡ Harry survived with only a lightning-bolt scar on his forehead.\n💀 Voldemort vanished, reduced to less than a ghost.\n🎉 The wizarding world celebrated — the war was over!\n👶 Harry became 'The Boy Who Lived' — the only person to survive the Killing Curse.",
+      "fr": "🏠 Voldemort attaqua les Potter à Godric's Hollow à Halloween.\n💚 Lily se sacrifia pour sauver Harry, créant une protection de sang puissante.\n⚡ Le sortilège de Mort de Voldemort se retourna, détruisant son corps.\n⚡ Harry survécut avec seulement une cicatrice en forme d'éclair sur le front.\n💀 Voldemort disparut, réduit à moins qu'un fantôme.\n🎉 Le monde des sorciers célébra — la guerre était finie !\n👶 Harry devint 'Le Survivant' — la seule personne à avoir survécu au sortilège de Mort."
+    },
+    "image": "images/harry_potter/boy_who_lived.jpg",
+    "tags": ["harry", "voldemort", "sacrifice", "scar", "survivor"]
+  },
+  {
+    "year": "1981-1991",
+    "era": "Hidden Years",
+    "title": {
+      "en": "The Dursleys",
+      "fr": "Les Dursley"
+    },
+    "description": {
+      "en": "🏠 Harry sent to live with his Muggle aunt and uncle, the Dursleys.\n😢 Treated as a burden, forced to live in a cupboard under the stairs.\n🚫 Never told the truth about his parents or the wizarding world.\n💔 The Dursleys tried to stamp out the magic in him.\n📧 Strange things kept happening around Harry when he was angry or scared.",
+      "fr": "🏠 Harry envoyé vivre avec sa tante et son oncle Moldus, les Dursley.\n😢 Traité comme un fardeau, forcé de vivre dans un placard sous l'escalier.\n🚫 Jamais informé de la vérité sur ses parents ou le monde des sorciers.\n💔 Les Dursley tentèrent d'étouffer la magie en lui.\n📧 Des choses étranges continuaient de se produire autour de Harry quand il était en colère ou effrayé."
+    },
+    "image": "images/harry_potter/dursleys.jpg",
+    "tags": ["dursleys", "privet-drive", "muggle", "childhood", "abuse"]
+  },
+  {
+    "year": "1991",
+    "era": "First Year",
+    "title": {
+      "en": "Hogwarts Begins",
+      "fr": "Poudlard commence"
+    },
+    "description": {
+      "en": "🦉 Hagrid delivered Harry's Hogwarts letter: 'Yer a wizard, Harry!'\n🧙 Harry learned the truth about his parents and the wizarding world.\n🏰 Sorted into Gryffindor House with Ron Weasley and Hermione Granger.\n🪄 Discovered his natural talent for flying and Defense Against the Dark Arts.\n🪞 Found the Mirror of Erised showing his deepest desire — his family.\n💎 Protected the Sorcerer's Stone from Quirrell/Voldemort.",
+      "fr": "🦉 Hagrid livra la lettre de Poudlard à Harry : 'T'es un sorcier, Harry !'\n🧙 Harry apprit la vérité sur ses parents et le monde des sorciers.\n🏰 Réparti à Gryffondor avec Ron Weasley et Hermione Granger.\n🪄 Découvrit son talent naturel pour le vol et la Défense contre les forces du Mal.\n🪞 Trouva le Miroir du Riséd montrant son désir le plus profond — sa famille.\n💎 Protégea la Pierre philosophale de Quirrell/Voldemort."
+    },
+    "image": "images/harry_potter/first_year.jpg",
+    "tags": ["first-year", "hogwarts", "sorting", "stone", "beginning"]
+  },
+  {
+    "year": "1992",
+    "era": "Second Year",
+    "title": {
+      "en": "Chamber of Secrets Opened",
+      "fr": "Ouverture de la Chambre des Secrets"
+    },
+    "description": {
+      "en": "🐍 The Chamber of Secrets was opened again after 50 years.\n📖 Tom Riddle's diary possessed Ginny Weasley.\n👁️ Harry discovered he could speak Parseltongue, the language of serpents.\n🗡️ Faced the Basilisk in the Chamber using Gryffindor's Sword.\n📔 Destroyed the diary Horcrux with a Basilisk fang.\n🦅 Fawkes the Phoenix saved Harry with healing tears.",
+      "fr": "🐍 La Chambre des Secrets fut rouverte après 50 ans.\n📖 Le journal de Tom Jedusor posséda Ginny Weasley.\n👁️ Harry découvrit qu'il pouvait parler Fourchelang, le langage des serpents.\n🗡️ Affronta le Basilic dans la Chambre avec l'épée de Gryffondor.\n📔 Détruisit l'Horcruxe du journal avec un croc de Basilic.\n🦅 Fumseck le Phénix sauva Harry avec ses larmes guérisseuses."
+    },
+    "image": "images/harry_potter/chamber_opened.jpg",
+    "tags": ["chamber", "basilisk", "diary", "horcrux", "parseltongue"]
+  },
+  {
+    "year": "1993",
+    "era": "Third Year",
+    "title": {
+      "en": "Sirius Black",
+      "fr": "Sirius Black"
+    },
+    "description": {
+      "en": "🐺 Sirius Black escaped from Azkaban, supposedly seeking Harry.\n🗺️ Harry received the Marauder's Map showing everyone in Hogwarts.\n🐀 Peter Pettigrew revealed to be alive, disguised as Ron's rat Scabbers.\n💔 Sirius was innocent — Pettigrew betrayed Harry's parents.\n🦌 Harry learned the Patronus Charm, producing a stag like his father.\n⏰ Time-Turner used to save Sirius and Buckbeak the Hippogriff.",
+      "fr": "🐺 Sirius Black s'échappa d'Azkaban, supposément pour chercher Harry.\n🗺️ Harry reçut la Carte du Maraudeur montrant tout le monde à Poudlard.\n🐀 Peter Pettigrow révélé vivant, déguisé en rat de Ron, Croûtard.\n💔 Sirius était innocent — Pettigrow trahit les parents de Harry.\n🦌 Harry apprit le sortilège du Patronus, produisant un cerf comme son père.\n⏰ Retourneur de Temps utilisé pour sauver Sirius et Buck l'Hippogriffe."
+    },
+    "image": "images/harry_potter/sirius.jpg",
+    "tags": ["sirius", "prisoner", "marauders", "patronus", "innocence"]
+  },
+  {
+    "year": "1994",
+    "era": "Fourth Year",
+    "title": {
+      "en": "Triwizard Tournament",
+      "fr": "Tournoi des Trois Sorciers"
+    },
+    "description": {
+      "en": "🏆 Hogwarts hosted the Triwizard Tournament with Beauxbatons and Durmstrang.\n📜 Harry's name mysteriously entered, making him an unwilling fourth champion.\n🐉 Faced Hungarian Horntail dragon, rescued hostages from the lake.\n🪦 Cedric Diggory and Harry reached the Triwizard Cup together.\n⚡ The Cup was a Portkey — transported them to a graveyard.\n💀 Voldemort returned to full power using Harry's blood in a dark ritual.\n⚔️ Harry dueled Voldemort, escaped with Cedric's body.",
+      "fr": "🏆 Poudlard accueillit le Tournoi des Trois Sorciers avec Beauxbâtons et Durmstrang.\n📜 Le nom de Harry entra mystérieusement, faisant de lui un quatrième champion involontaire.\n🐉 Affronta un dragon Magyar à pointes, sauva des otages du lac.\n🪦 Cedric Diggory et Harry atteignirent la Coupe ensemble.\n⚡ La Coupe était un Portoloin — les transporta dans un cimetière.\n💀 Voldemort revint à pleine puissance en utilisant le sang de Harry dans un rituel sombre.\n⚔️ Harry affronta Voldemort en duel, s'échappa avec le corps de Cedric."
+    },
+    "image": "images/harry_potter/triwizard.jpg",
+    "tags": ["tournament", "voldemort", "return", "cedric", "graveyard"]
+  },
+  {
+    "year": "1995",
+    "era": "Second Wizarding War",
+    "title": {
+      "en": "Order Returns",
+      "fr": "Retour de l'Ordre"
+    },
+    "description": {
+      "en": "🔥 The Order of the Phoenix reformed to fight Voldemort's return.\n🚫 Ministry of Magic denied Voldemort's return, branded Harry a liar.\n👑 Dolores Umbridge took over Hogwarts, banned defensive magic.\n⚔️ Harry formed Dumbledore's Army to teach Defense Against the Dark Arts.\n🏢 Battle at the Department of Mysteries — Sirius killed by Bellatrix.\n📜 Prophecy revealed in full — 'Neither can live while the other survives.'\n🗞️ Ministry finally acknowledged Voldemort's return.",
+      "fr": "🔥 L'Ordre du Phénix se reforma pour combattre le retour de Voldemort.\n🚫 Le Ministère de la Magie nia le retour de Voldemort, traita Harry de menteur.\n👑 Dolores Ombrage prit le contrôle de Poudlard, interdit la magie défensive.\n⚔️ Harry forma l'Armée de Dumbledore pour enseigner la Défense contre les forces du Mal.\n🏢 Bataille au Département des Mystères — Sirius tué par Bellatrix.\n📜 Prophétie révélée en entier — 'Aucun ne peut vivre tant que l'autre survit.'\n🗞️ Le Ministère reconnut finalement le retour de Voldemort."
+    },
+    "image": "images/harry_potter/order_returns.webp",
+    "tags": ["order", "umbridge", "ministry", "sirius-death", "war"]
+  },
+  {
+    "year": "1996",
+    "era": "Second Wizarding War",
+    "title": {
+      "en": "Horcrux Hunt Begins",
+      "fr": "Début de la chasse aux Horcruxes"
+    },
+    "description": {
+      "en": "📚 Dumbledore taught Harry about Voldemort's past and Horcruxes.\n💍 Retrieved a Horcrux (cursed ring) but was fatally injured.\n🍷 Harry and Dumbledore journeyed to a cave for another Horcrux.\n⚡ Death Eaters invaded Hogwarts through the Vanishing Cabinet.\n💔 Severus Snape killed Dumbledore on the Astronomy Tower.\n📖 The locket Horcrux was fake — replaced by 'R.A.B.'\n😢 The greatest wizard of the age was gone.",
+      "fr": "📚 Dumbledore enseigna à Harry le passé de Voldemort et les Horcruxes.\n💍 Récupéra un Horcruxe (bague maudite) mais fut mortellement blessé.\n🍷 Harry et Dumbledore voyagèrent dans une grotte pour un autre Horcruxe.\n⚡ Les Mangemorts envahirent Poudlard par l'Armoire à Disparaître.\n💔 Severus Rogue tua Dumbledore sur la tour d'Astronomie.\n📖 Le médaillon Horcruxe était faux — remplacé par 'R.A.B.'\n😢 Le plus grand sorcier de l'époque était parti."
+    },
+    "image": "images/harry_potter/dumbledore_death.webp",
+    "tags": ["dumbledore", "death", "horcrux", "snape", "tragedy"]
+  },
+  {
+    "year": "1997",
+    "era": "Second Wizarding War",
+    "title": {
+      "en": "The Seven Potters",
+      "fr": "Les Sept Potter"
+    },
+    "description": {
+      "en": "⚡ Seven Order members used Polyjuice Potion to become Harry decoys.\n🦉 Mad-Eye Moody killed, Hedwig killed during the flight from Privet Drive.\n💍 Bill Weasley and Fleur Delacour's wedding attacked by Death Eaters.\n🏃 Harry, Ron, and Hermione went on the run to find Horcruxes.\n📿 Recovered the real locket from Dolores Umbridge at the Ministry.\n🗡️ Destroyed it with Gryffindor's Sword — but Ron temporarily left.",
+      "fr": "⚡ Sept membres de l'Ordre utilisèrent du Polynectar pour devenir des leurres d'Harry.\n🦉 Fol Œil Maugrey tué, Hedwige tuée pendant la fuite de Privet Drive.\n💍 Mariage de Bill Weasley et Fleur Delacour attaqué par les Mangemorts.\n🏃 Harry, Ron et Hermione prirent la fuite pour trouver les Horcruxes.\n📿 Récupérèrent le vrai médaillon de Dolores Ombrage au Ministère.\n🗡️ Le détruisirent avec l'épée de Gryffondor — mais Ron partit temporairement."
+    },
+    "image": "images/harry_potter/seven_potters.jpg",
+    "tags": ["flight", "horcrux", "hunt", "locket", "trio"]
+  },
+  {
+    "year": "1997-1998",
+    "era": "Second Wizarding War",
+    "title": {
+      "en": "Deathly Hallows Quest",
+      "fr": "Quête des Reliques de la Mort"
+    },
+    "description": {
+      "en": "📖 Harry learned about the Deathly Hallows from Xenophilius Lovegood.\n💎 Discovered he possessed the Invisibility Cloak, one of the three Hallows.\n🏦 Broke into Gringotts Bank, stole Hufflepuff's Cup Horcrux on a dragon.\n🏰 Returned to Hogwarts for the final Horcrux — Ravenclaw's Diadem.\n⚔️ Battle of Hogwarts began — students, teachers, and Order vs Death Eaters.\n💔 Fred Weasley, Remus Lupin, Tonks, and many others killed.",
+      "fr": "📖 Harry apprit l'existence des Reliques de la Mort de Xenophilius Lovegood.\n💎 Découvrit qu'il possédait la Cape d'Invisibilité, une des trois Reliques.\n🏦 Pénétra dans la banque Gringotts, vola l'Horcruxe de la Coupe de Poufsouffle sur un dragon.\n🏰 Retourna à Poudlard pour le dernier Horcruxe — le Diadème de Serdaigle.\n⚔️ La bataille de Poudlard commença — élèves, professeurs et Ordre contre Mangemorts.\n💔 Fred Weasley, Remus Lupin, Tonks et beaucoup d'autres tués."
+    },
+    "image": "images/harry_potter/hallows_quest.webp",
+    "tags": ["hallows", "gringotts", "battle", "hogwarts", "war"]
+  },
+  {
+    "year": "May 2, 1998",
+    "era": "Final Battle",
+    "title": {
+      "en": "Severus Snape's Truth",
+      "fr": "La vérité sur Severus Rogue"
+    },
+    "description": {
+      "en": "🐍 Voldemort killed Snape to master the Elder Wand.\n💧 Snape's dying memories revealed the truth to Harry.\n💚 Snape loved Lily Potter his entire life — 'Always.'\n🦌 His Patronus was a doe, same as Lily's.\n🛡️ He protected Harry for years, working as a double agent.\n⚡ Harry learned he was a Horcrux — he must die to defeat Voldemort.\n🌳 Harry walked to his death in the Forbidden Forest.",
+      "fr": "🐍 Voldemort tua Rogue pour maîtriser la Baguette de Sureau.\n💧 Les souvenirs mourants de Rogue révélèrent la vérité à Harry.\n💚 Rogue aima Lily Potter toute sa vie — 'Toujours.'\n🦌 Son Patronus était une biche, comme celui de Lily.\n🛡️ Il protégea Harry pendant des années, travaillant comme agent double.\n⚡ Harry apprit qu'il était un Horcruxe — il devait mourir pour vaincre Voldemort.\n🌳 Harry marcha vers sa mort dans la Forêt Interdite."
+    },
+    "image": "images/harry_potter/snape_truth.jpg",
+    "tags": ["snape", "always", "sacrifice", "lily", "truth"]
+  },
+  {
+    "year": "May 2, 1998",
+    "era": "Final Battle",
+    "title": {
+      "en": "The Final Battle",
+      "fr": "La bataille finale"
+    },
+    "description": {
+      "en": "⚡ Voldemort cast the Killing Curse on Harry in the forest.\n👻 Harry awoke in limbo, met Dumbledore, learned he could return.\n💪 The Horcrux in Harry was destroyed, but Harry survived.\n🎭 Pretended to be dead, carried back by Hagrid.\n⚔️ Neville Longbottom killed Nagini, the last Horcrux, with Gryffindor's Sword.\n🪄 Harry revealed he was alive, dueled Voldemort in the Great Hall.\n✨ Elder Wand's allegiance was to Harry — Voldemort's curse rebounded again.\n💀 Voldemort died, his mortal body finally destroyed.\n🎉 The war was over — good triumphed over evil!",
+      "fr": "⚡ Voldemort lança le sortilège de Mort sur Harry dans la forêt.\n👻 Harry se réveilla dans les limbes, rencontra Dumbledore, apprit qu'il pouvait revenir.\n💪 L'Horcruxe en Harry fut détruit, mais Harry survécut.\n🎭 Fit semblant d'être mort, ramené par Hagrid.\n⚔️ Neville Londubat tua Nagini, le dernier Horcruxe, avec l'épée de Gryffondor.\n🪄 Harry révéla qu'il était vivant, affronta Voldemort en duel dans la Grande Salle.\n✨ L'allégeance de la Baguette de Sureau était à Harry — le sortilège de Voldemort se retourna encore.\n💀 Voldemort mourut, son corps mortel finalement détruit.\n🎉 La guerre était finie — le bien triompha du mal !"
+    },
+    "image": "images/harry_potter/final_battle.jpg",
+    "tags": ["final-battle", "voldemort", "victory", "death", "triumph"]
+  },
+  {
+    "year": "1998-2017",
+    "era": "Peace",
+    "title": {
+      "en": "After the Battle",
+      "fr": "Après la bataille"
+    },
+    "description": {
+      "en": "🏰 Hogwarts was rebuilt and reopened.\n💼 Harry became an Auror, later Head of Magical Law Enforcement.\n👨‍👩‍👧‍👦 Harry married Ginny Weasley, had three children: James, Albus, and Lily.\n💑 Ron and Hermione married, had Rose and Hugo.\n🗣️ Hermione became Minister for Magic.\n📚 The wizarding world entered an era of peace.\n⚡ 'All was well.'",
+      "fr": "🏰 Poudlard fut reconstruit et rouvert.\n💼 Harry devint Auror, plus tard chef de la Police magique.\n👨‍👩‍👧‍👦 Harry épousa Ginny Weasley, eut trois enfants : James, Albus et Lily.\n💑 Ron et Hermione se marièrent, eurent Rose et Hugo.\n🗣️ Hermione devint Ministre de la Magie.\n📚 Le monde des sorciers entra dans une ère de paix.\n⚡ 'Tout était bien.'"
+    },
+    "image": "images/harry_potter/epilogue.jpg",
+    "tags": ["peace", "epilogue", "future", "family", "happy-ending"]
+  },
+  {
+    "year": "September 1, 2017",
+    "era": "Next Generation",
+    "title": {
+      "en": "Nineteen Years Later",
+      "fr": "Dix-neuf ans plus tard"
+    },
+    "description": {
+      "en": "🚂 Harry's son Albus Severus Potter departed for Hogwarts from Platform 9¾.\n👨‍👦 Harry reassured Albus, named after two great wizards.\n🏰 New generation of witches and wizards began their journey.\n💚 'Those we love never truly leave us.'\n✨ The legacy continues — magic lives on.",
+      "fr": "🚂 Le fils de Harry, Albus Severus Potter, partit pour Poudlard depuis la voie 9¾.\n👨‍👦 Harry rassura Albus, nommé d'après deux grands sorciers.\n🏰 Une nouvelle génération de sorcières et sorciers commença leur voyage.\n💚 'Ceux que nous aimons ne nous quittent jamais vraiment.'\n✨ L'héritage continue — la magie perdure."
+    },
+    "image": "images/harry_potter/nineteen_years.jpg",
+    "tags": ["next-generation", "albus", "future", "legacy", "platform"]
+  },
+  {
+    "year": "Throughout",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Hermione Granger",
+      "fr": "Hermione Granger"
+    },
+    "description": {
+      "en": "📚 Brightest witch of her age, Muggle-born genius.\n🧠 Brilliant student, mastered complex magic beyond her years.\n⚔️ Founding member of Dumbledore's Army.\n🗡️ Destroyed Hufflepuff's Cup Horcrux with Basilisk fang.\n💼 Became Minister for Magic, fought for house-elf rights (S.P.E.W.).\n💡 'Books! And cleverness! There are more important things — friendship and bravery.'",
+      "fr": "📚 Sorcière la plus brillante de sa génération, génie née-Moldue.\n🧠 Étudiante brillante, maîtrisa une magie complexe au-delà de son âge.\n⚔️ Membre fondatrice de l'Armée de Dumbledore.\n🗡️ Détruisit l'Horcruxe de la Coupe de Poufsouffle avec un croc de Basilic.\n💼 Devint Ministre de la Magie, lutta pour les droits des elfes de maison (S.A.L.E.).\n💡 'Les livres ! Et l'intelligence ! Il y a des choses plus importantes — l'amitié et le courage.'"
+    },
+    "image": "images/harry_potter/hermione.jpg",
+    "tags": ["hermione", "granger", "brilliant", "minister", "leader"]
+  },
+  {
+    "year": "Throughout",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Ron Weasley",
+      "fr": "Ron Weasley"
+    },
+    "description": {
+      "en": "♟️ Harry's loyal best friend, pure-blood from loving Weasley family.\n🎮 Chess master, strategist in times of need.\n🗡️ Destroyed the locket Horcrux with Gryffindor's Sword.\n⚔️ Fought bravely in both wizarding wars.\n💼 Became an Auror alongside Harry.\n💖 'Don't let the Muggles get you down!'",
+      "fr": "♟️ Meilleur ami loyal de Harry, sang-pur de la famille Weasley aimante.\n🎮 Maître aux échecs, stratège en temps de besoin.\n🗡️ Détruisit l'Horcruxe du médaillon avec l'épée de Gryffondor.\n⚔️ Combattit courageusement dans les deux guerres de sorciers.\n💼 Devint Auror aux côtés de Harry.\n💖 'Ne laisse pas les Moldus te démoraliser !'"
+    },
+    "image": "images/harry_potter/ron.jpg",
+    "tags": ["ron", "weasley", "loyal", "friend", "auror"]
+  },
+  {
+    "year": "Throughout",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Neville Longbottom",
+      "fr": "Neville Londubat"
+    },
+    "description": {
+      "en": "🌱 Could have been the Chosen One — born at end of July, parents tortured by Death Eaters.\n💪 Transformed from clumsy student to courageous leader.\n⚔️ Led resistance at Hogwarts under Death Eater control.\n🗡️ Pulled Gryffindor's Sword from the Sorting Hat, killed Nagini.\n🏰 Became Herbology professor at Hogwarts.\n🦁 'It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.'",
+      "fr": "🌱 Aurait pu être l'Élu — né fin juillet, parents torturés par les Mangemorts.\n💪 Se transforma d'étudiant maladroit en leader courageux.\n⚔️ Mena la résistance à Poudlard sous contrôle des Mangemorts.\n🗡️ Tira l'épée de Gryffondor du Choixpeau, tua Nagini.\n🏰 Devint professeur de Botanique à Poudlard.\n🦁 'Il faut beaucoup de courage pour s'opposer à ses ennemis, mais tout autant pour s'opposer à ses amis.'"
+    },
+    "image": "images/harry_potter/neville.jpg",
+    "tags": ["neville", "longbottom", "courage", "hero", "nagini"]
+  },
+  {
+    "year": "Throughout",
+    "era": "Key Leaders",
+    "title": {
+      "en": "Minerva McGonagall",
+      "fr": "Minerva McGonagall"
+    },
+    "description": {
+      "en": "🎓 Transfiguration professor and Head of Gryffindor House.\n🐱 Animagus who could transform into a cat.\n⚔️ Member of the Order of the Phoenix, fought in both wars.\n🏰 Became Headmistress of Hogwarts after the Battle.\n💪 Stern but fair, fiercely protective of students.\n🎩 'It is our choices that show what we truly are, far more than our abilities.'",
+      "fr": "🎓 Professeur de Métamorphose et directrice de Gryffondor.\n🐱 Animagus pouvant se transformer en chat.\n⚔️ Membre de l'Ordre du Phénix, combattit dans les deux guerres.\n🏰 Devint directrice de Poudlard après la Bataille.\n💪 Sévère mais juste, farouchement protectrice des élèves.\n🎩 'Ce sont nos choix qui montrent ce que nous sommes vraiment, bien plus que nos capacités.'"
+    },
+    "image": "images/harry_potter/mcgonagall.jpg",
+    "tags": ["mcgonagall", "professor", "headmistress", "transfiguration", "leader"]
+  },
+  {
+    "year": "Throughout",
+    "era": "Companions",
+    "title": {
+      "en": "Rubeus Hagrid",
+      "fr": "Rubeus Hagrid"
+    },
+    "description": {
+      "en": "🧔 Half-giant, Keeper of Keys and Grounds at Hogwarts.\n🦉 Delivered Harry's Hogwarts letter and introduced him to the wizarding world.\n🐉 Loved magical creatures, especially dangerous ones.\n💚 Gentle soul with enormous heart, loyal friend.\n🏰 Care of Magical Creatures professor.\n🎂 'You're a wizard, Harry!'",
+      "fr": "🧔 Demi-géant, Gardien des Clés et des Lieux à Poudlard.\n🦉 Livra la lettre de Poudlard à Harry et l'introduisit au monde des sorciers.\n🐉 Aimait les créatures magiques, surtout les dangereuses.\n💚 Âme douce avec un cœur énorme, ami loyal.\n🏰 Professeur de Soins aux créatures magiques.\n🎂 'T'es un sorcier, Harry !'"
+    },
+    "image": "images/harry_potter/hagrid.jpg",
+    "tags": ["hagrid", "half-giant", "keeper", "creatures", "loyal"]
+  }
+]

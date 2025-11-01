@@ -1,0 +1,86 @@
+[
+  {
+    "year": "Before Time",
+    "era": "Creation",
+    "title": {
+      "en": "Ginnungagap - The Primordial Void",
+      "fr": "Ginnungagap - Le Vide Primordial"
+    },
+    "description": {
+      "en": "🌌 Before all things, there was only Ginnungagap — the yawning void, vast and silent.\n❄️ To the north lay Niflheim, a realm of frost and mist; to the south, Muspelheim, a realm of fire and light.\n🔥 From the clash of ice and flame in this void, the first stirrings of creation began.\n✨ Ginnungagap is not nothingness, but the fertile space where opposites meet and creation awakens.",
+      "fr": "🌌 Avant toute chose, il n’existait que Ginnungagap — le gouffre béant, vaste et silencieux.\n❄️ Au nord se trouvait Niflheim, royaume de glace et de brume ; au sud, Muspelheim, royaume de feu et de lumière.\n🔥 De la rencontre entre la glace et la flamme dans ce vide naquirent les premiers mouvements de la création.\n✨ Ginnungagap n’est pas le néant, mais l’espace fertile où les opposés se rencontrent et où la création s’éveille."
+    },
+    "image": "images/norse_myth/ginnungagap.jpg",
+    "tags": ["creation", "void", "primordial", "chaos"]
+  },
+  {
+    "year": "The Dawn of Beings",
+    "era": "Creation",
+    "title": {
+      "en": "Ymir - The First Giant",
+      "fr": "Ymir - Le Premier Géant"
+    },
+    "description": {
+      "en": "❄️ From the melting frost of Ginnungagap came Ymir, the first living being — a giant formed of chaos.\n💧 As he slept, more giants were born from his sweat, giving rise to the race of frost giants.\n🐄 The cosmic cow Audhumla nourished Ymir and licked the salty ice, revealing Búri — ancestor of the gods.\n🌍 Ymir’s body contained the potential of all worlds, destined to become the foundation of existence itself.",
+      "fr": "❄️ De la glace fondue de Ginnungagap naquit Ymir, le premier être vivant — un géant né du chaos.\n💧 Pendant son sommeil, d'autres géants naquirent de sa sueur, donnant naissance à la race des géants du givre.\n🐄 La vache cosmique Audhumla nourrit Ymir et lécha la glace salée, révélant Búri — l’ancêtre des dieux.\n🌍 Le corps d’Ymir contenait le potentiel de tous les mondes, destiné à devenir la base même de l’existence."
+    },
+    "image": "images/norse_myth/ymir.jpg",
+    "tags": ["creation", "giants", "primordial", "cosmos"]
+  },
+  {
+    "year": "Birth of the Gods",
+    "era": "Early Gods",
+    "title": {
+      "en": "Odin, Vili, and Vé",
+      "fr": "Odin, Vili et Vé"
+    },
+    "description": {
+      "en": "⚔️ From Búri’s line came Bor, whose sons were Odin, Vili, and Vé — the first gods.\n💀 They slew Ymir, and from his colossal body they shaped the world: his flesh became earth, his blood the seas, his skull the sky.\n🌟 Odin and his brothers brought order to chaos, creating Midgard, the realm of men.\n🌈 Their act marks the dawn of divine power and the beginning of the Norse cosmos.",
+      "fr": "⚔️ De la lignée de Búri vint Bor, dont les fils étaient Odin, Vili et Vé — les premiers dieux.\n💀 Ils tuèrent Ymir et, de son corps colossal, façonnèrent le monde : sa chair devint la terre, son sang les mers, son crâne le ciel.\n🌟 Odin et ses frères apportèrent l’ordre au chaos, créant Midgard, le royaume des hommes.\n🌈 Leur acte marque l’aube du pouvoir divin et le commencement du cosmos nordique."
+    },
+    "image": "images/norse_myth/odin_vili_ve.jpg",
+    "tags": ["creation", "gods", "odin", "world-creation", "midgard"]
+  },
+  {
+    "year": "Age of Asgard",
+    "era": "Divine Realms",
+    "title": {
+      "en": "The Æsir and Asgard",
+      "fr": "Les Ases et Asgard"
+    },
+    "description": {
+      "en": "🏰 The gods built Asgard high above Midgard, a realm of divine halls and shining bridges.\n⚡ Odin became Allfather, ruling with wisdom and foresight alongside Frigg, Thor, Baldr, and others.\n🌩️ The Æsir embodied war, strength, and order, maintaining balance against the chaotic Jötnar.\n🌿 From this time, the fate of gods and men became intertwined — bound by destiny and the threads of the Norns.",
+      "fr": "🏰 Les dieux bâtirent Asgard, haut au-dessus de Midgard, un royaume de salles divines et de ponts étincelants.\n⚡ Odin devint le Père de Tout, régnant avec sagesse et clairvoyance aux côtés de Frigg, Thor, Baldr et d’autres.\n🌩️ Les Ases incarnaient la guerre, la force et l’ordre, maintenant l’équilibre face aux Jötnar chaotiques.\n🌿 Dès lors, le destin des dieux et des hommes fut lié — tissé par les Nornes."
+    },
+    "image": "images/norse_myth/asgard.jpg",
+    "tags": ["asgard", "aesir", "odin", "thor", "creation", "order"]
+  },
+  {
+    "year": "Age of Wisdom",
+    "era": "The Allfather",
+    "title": {
+      "en": "Odin - The Seeker of Knowledge",
+      "fr": "Odin - Le Chercheur de Sagesse"
+    },
+    "description": {
+      "en": "👁️ Odin, ever hungry for wisdom, sacrificed one of his eyes at Mimir’s well to gain cosmic insight.\n🪶 He hung himself upon Yggdrasil for nine days and nights, discovering the runes — symbols of divine power.\n⚙️ Odin rules not through brute strength, but through cunning, foresight, and sacrifice.\n🌌 He embodies the endless quest for knowledge and the burden of leadership in a fated world.",
+      "fr": "👁️ Odin, avide de sagesse, sacrifia un de ses yeux au puits de Mimir pour obtenir une connaissance cosmique.\n🪶 Il se pendit à Yggdrasil pendant neuf jours et neuf nuits, découvrant les runes — symboles du pouvoir divin.\n⚙️ Odin règne non par la force brute, mais par la ruse, la clairvoyance et le sacrifice.\n🌌 Il incarne la quête infinie du savoir et le fardeau du leadership dans un monde régi par le destin."
+    },
+    "image": "images/norse_myth/odin.jpg",
+    "tags": ["odin", "wisdom", "sacrifice", "runes", "knowledge"]
+  },
+  {
+    "year": "Final Era",
+    "era": "Ragnarök",
+    "title": {
+      "en": "The Twilight of the Gods",
+      "fr": "Le Crépuscule des Dieux"
+    },
+    "description": {
+      "en": "🔥 Ragnarök — the prophesied end when gods and giants clash in the final battle.\n🐍 Jörmungandr rises from the sea, Fenrir breaks his bonds, and Surtr sets the world aflame.\n⚔️ Odin falls to Fenrir, Thor to the serpent, and Asgard is consumed by fire.\n🌱 Yet from the ashes, a new world will rise — reborn, purified, and green once more.",
+      "fr": "🔥 Ragnarök — la fin prophétisée où dieux et géants s’affrontent dans la bataille finale.\n🐍 Jörmungandr surgit de la mer, Fenrir brise ses chaînes, et Surtr embrase le monde.\n⚔️ Odin tombe face à Fenrir, Thor face au serpent, et Asgard est consumée par les flammes.\n🌱 Mais des cendres renaîtra un nouveau monde — purifié, verdoyant et prêt à recommencer."
+    },
+    "image": "images/norse_myth/ragnarok.jpg",
+    "tags": ["ragnarok", "apocalypse", "rebirth", "end-times", "renewal"]
+  }
+]

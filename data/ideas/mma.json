@@ -1,0 +1,366 @@
+[
+  {
+    "year": "1993",
+    "era": "Origins",
+    "title": {
+      "en": "UFC 1",
+      "fr": "UFC 1"
+    },
+    "description": {
+      "en": "🥊 UFC 1 launches in Denver, Colorado on November 12, 1993 as a one-night tournament to determine the best martial art.\n🌍 No weight classes, no time limits, minimal rules - only no eye gouging and no biting.\n⚡ Eight fighters from different disciplines compete: karate, sumo, boxing, shootfighting, savate, and BJJ.\n💥 The event was designed to showcase Gracie Jiu-Jitsu to the American public.",
+      "fr": "🥊 L'UFC 1 est lancé à Denver, Colorado le 12 novembre 1993 comme tournoi d'une soirée pour déterminer le meilleur art martial.\n🌍 Pas de catégories de poids, pas de limites de temps, règles minimales - seulement pas d'attaques aux yeux ni de morsures.\n⚡ Huit combattants de disciplines différentes s'affrontent : karaté, sumo, boxe, shootfighting, savate et BJJ.\n💥 L'événement a été conçu pour présenter le Gracie Jiu-Jitsu au public américain."
+    },
+    "image": "images/bjj/ufc1.png",
+    "tags": ["origins", "ufc", "tournament", "history"]
+  },
+  {
+    "year": "1993",
+    "era": "Gracie Era",
+    "title": {
+      "en": "Royce Gracie",
+      "fr": "Royce Gracie"
+    },
+    "description": {
+      "en": "👑 Royce Gracie wins UFC 1, shocking the world by defeating larger, stronger opponents with Brazilian Jiu-Jitsu.\n🥋 At 176 pounds, submits heavyweight boxer Art Jimmerson, shootfighter Ken Shamrock, and kickboxer Gerard Gordeau.\n🔥 Proves that technique and leverage can overcome size and strength.\n🌍 Wins UFC 1, 2, and 4, establishing BJJ as essential for MMA and changing martial arts forever.",
+      "fr": "👑 Royce Gracie remporte l'UFC 1, choquant le monde en battant des adversaires plus grands et plus forts avec le jiu-jitsu brésilien.\n🥋 À 80 kg, soumet le boxeur poids lourd Art Jimmerson, le shootfighter Ken Shamrock et le kickboxeur Gerard Gordeau.\n🔥 Prouve que la technique et le levier peuvent surmonter la taille et la force.\n🌍 Remporte les UFC 1, 2 et 4, établissant le BJJ comme essentiel au MMA et changeant les arts martiaux à jamais."
+    },
+    "image": "images/bjj/royce.jpg",
+    "tags": ["royce-gracie", "bjj", "champion", "legend"]
+  },
+  {
+    "year": "1994",
+    "era": "Early Days",
+    "title": {
+      "en": "Ken Shamrock",
+      "fr": "Ken Shamrock"
+    },
+    "description": {
+      "en": "🦁 Ken Shamrock becomes UFC's first breakout star with his wrestling and submission skills.\n💪 'The World's Most Dangerous Man' brings legitimacy and athleticism to early MMA.\n🥋 Trains in Pancrase in Japan, learning catch wrestling and submissions.\n⚡ His rivalry with Royce Gracie becomes UFC's first major storyline.",
+      "fr": "🦁 Ken Shamrock devient la première star de l'UFC avec ses compétences en lutte et soumissions.\n💪 'L'homme le plus dangereux du monde' apporte légitimité et athlétisme au MMA primitif.\n🥋 S'entraîne au Pancrase au Japon, apprenant la lutte catch et les soumissions.\n⚡ Sa rivalité avec Royce Gracie devient la première grande histoire de l'UFC."
+    },
+    "image": "images/mma/shamrock.webp",
+    "tags": ["shamrock", "wrestler", "star", "pancrase"]
+  },
+  {
+    "year": "1995",
+    "era": "Dark Ages",
+    "title": {
+      "en": "Dan Severn",
+      "fr": "Dan Severn"
+    },
+    "description": {
+      "en": "🤼 Dan Severn brings elite wrestling credentials (Olympic alternate, NCAA champion) to UFC.\n💪 Dominates opponents with ground and pound, winning UFC 5 tournament.\n🏆 Becomes UFC Superfight Champion, showing wrestlers can compete with submission specialists.\n⚔️ His fights demonstrate the power of wrestling control in MMA.",
+      "fr": "🤼 Dan Severn apporte ses références élites en lutte (suppléant olympique, champion NCAA) à l'UFC.\n💪 Domine ses adversaires avec le ground and pound, remportant le tournoi UFC 5.\n🏆 Devient champion Superfight de l'UFC, montrant que les lutteurs peuvent rivaliser avec les spécialistes des soumissions.\n⚔️ Ses combats démontrent le pouvoir du contrôle de lutte en MMA."
+    },
+    "image": "images/mma/severn.jpg",
+    "tags": ["wrestling", "champion", "ground-pound", "beast"]
+  },
+  {
+    "year": "1996",
+    "era": "Dark Ages",
+    "title": {
+      "en": "McCain's Crusade",
+      "fr": "Croisade McCain"
+    },
+    "description": {
+      "en": "🚫 Senator John McCain calls MMA 'human cockfighting' and campaigns to ban the sport.\n📉 UFC banned from pay-per-view in 36 states, nearly destroying the organization.\n💔 The 'Dark Ages' of MMA begin - no major sponsors, cable providers, or venues.\n⚡ Forces UFC to implement more rules and regulations to survive.",
+      "fr": "🚫 Le sénateur John McCain qualifie le MMA de 'combat de coqs humains' et fait campagne pour interdire le sport.\n📉 L'UFC interdit du pay-per-view dans 36 États, détruisant presque l'organisation.\n💔 Les 'Dark Ages' du MMA commencent - pas de sponsors majeurs, fournisseurs de câble ou salles.\n⚡ Force l'UFC à mettre en œuvre plus de règles et régulations pour survivre."
+    },
+    "image": "images/mma/mccain.jpg",
+    "tags": ["controversy", "politics", "dark-ages", "ban"]
+  },
+  {
+    "year": "1997",
+    "era": "Dark Ages",
+    "title": {
+      "en": "Maurice Smith",
+      "fr": "Maurice Smith"
+    },
+    "description": {
+      "en": "🥊 Kickboxer Maurice Smith becomes first primarily striking-based fighter to win UFC title.\n🤼 Trains wrestling defense specifically for MMA, proving strikers can compete if they learn takedown defense.\n⚡ His victory shows MMA is evolving beyond pure grapplers dominating.\n📚 Marks beginning of the 'complete fighter' concept.",
+      "fr": "🥊 Le kickboxeur Maurice Smith devient le premier combattant principalement striker à remporter un titre UFC.\n🤼 S'entraîne spécifiquement à la défense de lutte pour le MMA, prouvant que les strikers peuvent rivaliser s'ils apprennent la défense de projections.\n⚡ Sa victoire montre que le MMA évolue au-delà de la domination des pure grapplers.\n📚 Marque le début du concept de 'combattant complet'."
+    },
+    "image": "images/mma/maurice_smith.webp",
+    "tags": ["striker", "kickboxing", "evolution", "champion"]
+  },
+  {
+    "year": "2000",
+    "era": "Zuffa Era",
+    "title": {
+      "en": "Tito Ortiz",
+      "fr": "Tito Ortiz"
+    },
+    "description": {
+      "en": "💪 Tito Ortiz becomes UFC's first homegrown star, bringing personality and trash talk to MMA.\n🏆 Light Heavyweight Champion with wrestling base and devastating ground and pound.\n📺 His feuds and showmanship help UFC survive the Dark Ages.\n⚡ Paves the way for fighters as entertainers, not just martial artists.",
+      "fr": "💪 Tito Ortiz devient la première star formée par l'UFC, apportant personnalité et trash talk au MMA.\n🏆 Champion des mi-lourds avec une base de lutte et un ground and pound dévastateur.\n📺 Ses rivalités et son sens du spectacle aident l'UFC à survivre aux Dark Ages.\n⚡ Ouvre la voie aux combattants comme entertainers, pas seulement artistes martiaux."
+    },
+    "image": "images/mma/tito.webp",
+    "tags": ["personality", "champion", "wrestling", "entertainment"]
+  },
+  {
+    "year": "2001",
+    "era": "Zuffa Era",
+    "title": {
+      "en": "Zuffa Purchase",
+      "fr": "Achat Zuffa"
+    },
+    "description": {
+      "en": "💰 Casino executives Frank and Lorenzo Fertitta purchase UFC for $2 million with Dana White as president.\n📈 Begin process of legitimizing MMA as a sport with unified rules and regulations.\n🏛️ Work to get MMA sanctioned by athletic commissions across America.\n⚡ This purchase saves UFC from bankruptcy and sets stage for explosive growth.",
+      "fr": "💰 Les dirigeants de casino Frank et Lorenzo Fertitta achètent l'UFC pour 2 millions $ avec Dana White comme président.\n📈 Commencent le processus de légitimation du MMA comme sport avec des règles et régulations unifiées.\n🏛️ Travaillent pour faire sanctionner le MMA par les commissions athlétiques à travers l'Amérique.\n⚡ Cet achat sauve l'UFC de la faillite et prépare le terrain pour une croissance explosive."
+    },
+    "image": "images/mma/zuffa.jpg",
+    "tags": ["business", "fertitta", "dana-white", "acquisition"]
+  },
+  {
+    "year": "2002",
+    "era": "Evolution",
+    "title": {
+      "en": "Unified Rules",
+      "fr": "Règles Unifiées"
+    },
+    "description": {
+      "en": "📋 New Jersey State Athletic Control Board establishes the Unified Rules of Mixed Martial Arts.\n⚖️ Weight classes, rounds, fouls, and scoring criteria standardized.\n🥊 Five 5-minute rounds for title fights, three 5-minute rounds for regular bouts.\n🚫 Bans soccer kicks, headbutts, strikes to back of head, groin strikes with intent.\n✅ Creates framework for MMA to be sanctioned as legitimate sport nationwide.",
+      "fr": "📋 Le New Jersey State Athletic Control Board établit les Règles Unifiées des Arts Martiaux Mixtes.\n⚖️ Catégories de poids, rounds, fautes et critères de jugement standardisés.\n🥊 Cinq rounds de 5 minutes pour les combats de titre, trois rounds de 5 minutes pour les combats réguliers.\n🚫 Interdit les coups de pied soccer, coups de tête, frappes à l'arrière de la tête, coups à l'aine intentionnels.\n✅ Crée le cadre pour que le MMA soit sanctionné comme sport légitime à l'échelle nationale."
+    },
+    "image": "images/mma/unified_rules.avif",
+    "tags": ["rules", "legitimacy", "regulation", "standardization"]
+  },
+  {
+    "year": "2003",
+    "era": "Pride Era",
+    "title": {
+      "en": "PRIDE FC",
+      "fr": "PRIDE FC"
+    },
+    "description": {
+      "en": "🇯🇵 PRIDE Fighting Championships dominates Japanese MMA with massive events in stadiums.\n🎭 Theatrical entrances, different rules (soccer kicks, stomps allowed), and 10-minute first rounds.\n🌟 Features world's best fighters: Fedor Emelianenko, Wanderlei Silva, Mirko Cro Cop, Quinton Jackson.\n💰 Larger production budgets and fighter pay than UFC during this era.\n⚡ Creates legendary rivalries and moments in MMA history.",
+      "fr": "🇯🇵 PRIDE Fighting Championships domine le MMA japonais avec des événements massifs dans les stades.\n🎭 Entrées théâtrales, règles différentes (soccer kicks, stomps autorisés) et premier round de 10 minutes.\n🌟 Présente les meilleurs combattants mondiaux : Fedor Emelianenko, Wanderlei Silva, Mirko Cro Cop, Quinton Jackson.\n💰 Budgets de production et salaires des combattants plus élevés que l'UFC à cette époque.\n⚡ Crée des rivalités légendaires et des moments dans l'histoire du MMA."
+    },
+    "image": "images/mma/pride.jpg",
+    "tags": ["pride", "japan", "organization", "legendary"]
+  },
+  {
+    "year": "2004",
+    "era": "Evolution",
+    "title": {
+      "en": "Chuck Liddell",
+      "fr": "Chuck Liddell"
+    },
+    "description": {
+      "en": "❄️ Chuck Liddell becomes UFC Light Heavyweight Champion and the face of the organization.\n🥊 Wrestling base with devastating knockout power makes him must-see TV.\n⚡ His sprawl-and-brawl style proves wrestlers can choose to keep fights standing.\n🌟 Rivalry with Tito Ortiz and Randy Couture creates mainstream interest.",
+      "fr": "❄️ Chuck Liddell devient champion mi-lourd de l'UFC et le visage de l'organisation.\n🥊 Base de lutte avec pouvoir de KO dévastateur le rend incontournable à la télé.\n⚡ Son style sprawl-and-brawl prouve que les lutteurs peuvent choisir de garder les combats debout.\n🌟 Sa rivalité avec Tito Ortiz et Randy Couture crée un intérêt mainstream."
+    },
+    "image": "images/mma/chuck.jpg",
+    "tags": ["champion", "knockout", "star", "legend"]
+  },
+  {
+    "year": "2005",
+    "era": "TUF Era",
+    "title": {
+      "en": "The Ultimate Fighter",
+      "fr": "The Ultimate Fighter"
+    },
+    "description": {
+      "en": "📺 The Ultimate Fighter reality show premieres on Spike TV, saving UFC from bankruptcy.\n💥 Season 1 finale: Forrest Griffin vs. Stephan Bonnar becomes 'most important fight in UFC history'.\n🌍 Brings MMA into millions of homes, creating new generation of fans.\n🚀 UFC goes from near-death to explosive mainstream growth.\n⚡ Launches careers of dozens of future champions and stars.",
+      "fr": "📺 L'émission de télé-réalité The Ultimate Fighter débute sur Spike TV, sauvant l'UFC de la faillite.\n💥 Finale saison 1 : Forrest Griffin vs Stephan Bonnar devient 'le combat le plus important de l'histoire UFC'.\n🌍 Amène le MMA dans des millions de foyers, créant une nouvelle génération de fans.\n🚀 L'UFC passe de la quasi-mort à une croissance mainstream explosive.\n⚡ Lance les carrières de dizaines de futurs champions et stars."
+    },
+    "image": "images/mma/tuf.jpg",
+    "tags": ["reality-tv", "mainstream", "growth", "breakthrough"]
+  },
+  {
+    "year": "2006",
+    "era": "Modern Era",
+    "title": {
+      "en": "Anderson Silva",
+      "fr": "Anderson Silva"
+    },
+    "description": {
+      "en": "🕷️ Anderson Silva begins his legendary UFC Middleweight Championship reign.\n🎯 16 consecutive victories, defending title 10 times - longest reign in UFC history.\n🥋 Matrix-like striking, devastating Muay Thai clinch, and underrated BJJ black belt.\n🎭 Front kick KO of Vitor Belfort becomes iconic moment in MMA history.\n👑 Widely considered the greatest mixed martial artist of all time.",
+      "fr": "🕷️ Anderson Silva commence son règne légendaire comme champion mi-moyen de l'UFC.\n🎯 16 victoires consécutives, défendant le titre 10 fois - plus long règne de l'histoire UFC.\n🥋 Striking façon Matrix, clinch Muay Thai dévastateur et ceinture noire BJJ sous-estimée.\n🎭 Le KO par front kick de Vitor Belfort devient un moment iconique de l'histoire du MMA.\n👑 Largement considéré comme le plus grand artiste martial mixte de tous les temps."
+    },
+    "image": "images/mma/anderson.jpg",
+    "tags": ["champion", "goat", "striking", "legend"]
+  },
+  {
+    "year": "2008",
+    "era": "Modern Era",
+    "title": {
+      "en": "Georges St-Pierre",
+      "fr": "Georges St-Pierre"
+    },
+    "description": {
+      "en": "🇨🇦 GSP becomes UFC Welterweight Champion and face of MMA with complete skill set.\n🧠 'Game planning' pioneer - studies opponents scientifically and exploits weaknesses.\n💪 Elite wrestling, devastating jab, explosive athleticism, and high-level BJJ.\n🏆 Defends title 9 consecutive times, avenging his only losses.\n🌍 Transcends sport in Canada and becomes global ambassador for MMA.",
+      "fr": "🇨🇦 GSP devient champion mi-moyen UFC et visage du MMA avec un ensemble de compétences complet.\n🧠 Pionnier du 'game planning' - étudie scientifiquement les adversaires et exploite les faiblesses.\n💪 Lutte d'élite, jab dévastateur, athlétisme explosif et BJJ de haut niveau.\n🏆 Défend son titre 9 fois consécutives, vengeant ses seules défaites.\n🌍 Transcende le sport au Canada et devient ambassadeur mondial du MMA."
+    },
+    "image": "images/mma/gsp.jpg",
+    "tags": ["champion", "complete", "intelligent", "canadian"]
+  },
+  {
+    "year": "2009",
+    "era": "Modern Era",
+    "title": {
+      "en": "Fedor Emelianenko",
+      "fr": "Fedor Emelianenko"
+    },
+    "description": {
+      "en": "👑 Fedor Emelianenko dominates PRIDE as the greatest heavyweight in MMA history.\n🥋 Combat sambo world champion with devastating ground and pound and submissions.\n😐 Emotionless demeanor and explosive finishing ability create mystique.\n🌟 Goes nearly 10 years undefeated against the world's best heavyweights.\n⚡ Never fights in UFC during prime, creating endless GOAT debates.",
+      "fr": "👑 Fedor Emelianenko domine PRIDE comme le plus grand poids lourd de l'histoire du MMA.\n🥋 Champion du monde de sambo de combat avec ground and pound dévastateur et soumissions.\n😐 Comportement sans émotion et capacité de finition explosive créent une mystique.\n🌟 Reste presque 10 ans invaincu contre les meilleurs poids lourds mondiaux.\n⚡ Ne combat jamais à l'UFC durant son apogée, créant d'interminables débats sur le GOAT."
+    },
+    "image": "images/mma/fedor.jpg",
+    "tags": ["heavyweight", "pride", "goat", "sambo"]
+  },
+  {
+    "year": "2010",
+    "era": "Modern Era",
+    "title": {
+      "en": "Jon Jones",
+      "fr": "Jon Jones"
+    },
+    "description": {
+      "en": "🦴 Jon Jones becomes youngest UFC champion at age 23, beginning historic Light Heavyweight reign.\n🎯 Unorthodox striking, creative techniques, incredible reach (84.5 inch wingspan).\n🧠 Fight IQ and adaptability make him virtually unbeatable inside the octagon.\n⚖️ Multiple controversies outside octagon tarnish legacy but skill is undeniable.\n👑 Many consider him the greatest fighter of all time despite personal issues.",
+      "fr": "🦴 Jon Jones devient le plus jeune champion UFC à 23 ans, commençant un règne historique chez les mi-lourds.\n🎯 Striking non orthodoxe, techniques créatives, allonge incroyable (214 cm d'envergure).\n🧠 QI de combat et adaptabilité le rendent virtuellement imbattable dans l'octogone.\n⚖️ Multiples controverses hors octogone ternissent l'héritage mais le talent est indéniable.\n👑 Beaucoup le considèrent comme le meilleur combattant de tous les temps malgré les problèmes personnels."
+    },
+    "image": "images/mma/jones.jpg",
+    "tags": ["champion", "youngest", "talented", "controversial"]
+  },
+  {
+    "year": "2012",
+    "era": "Evolution",
+    "title": {
+      "en": "Demetrious Johnson",
+      "fr": "Demetrious Johnson"
+    },
+    "description": {
+      "en": "🐭 'Mighty Mouse' becomes UFC's first Flyweight Champion, defending title record 11 times.\n⚡ Lightning-fast combinations, wrestling, and submissions make him most complete fighter.\n🎮 Gamification of fighting - studies opponents like video game patterns.\n🥋 Proves smaller fighters can be just as exciting and technical as larger divisions.\n💔 Underappreciated during UFC run, later dominates ONE Championship.",
+      "fr": "🐭 'Mighty Mouse' devient le premier champion poids mouche de l'UFC, défendant le titre 11 fois (record).\n⚡ Combinaisons ultra-rapides, lutte et soumissions le rendent combattant le plus complet.\n🎮 Gamification du combat - étudie les adversaires comme des patterns de jeux vidéo.\n🥋 Prouve que les combattants plus petits peuvent être aussi excitants et techniques que les divisions plus lourdes.\n💔 Sous-apprécié durant sa période UFC, domine plus tard ONE Championship."
+    },
+    "image": "images/mma/mighty_mouse.jpg",
+    "tags": ["flyweight", "technical", "speed", "underrated"]
+  },
+  {
+    "year": "2013",
+    "era": "Women's MMA",
+    "title": {
+      "en": "Ronda Rousey",
+      "fr": "Ronda Rousey"
+    },
+    "description": {
+      "en": "🥋 Olympic judoka Ronda Rousey becomes UFC's first female fighter and Women's Bantamweight Champion.\n💪 Armbar specialist finishes first 6 UFC opponents in first round, 3 in under a minute.\n🌟 Becomes mainstream celebrity, appearing on talk shows, movies, and magazine covers.\n📺 Proves women's MMA can be just as exciting and marketable as men's.\n⚡ Opens doors for all female fighters in UFC and changes landscape of MMA forever.",
+      "fr": "🥋 La judoka olympique Ronda Rousey devient la première combattante féminine de l'UFC et championne poids coq féminin.\n💪 Spécialiste du armbar, finit ses 6 premiers adversaires UFC au premier round, 3 en moins d'une minute.\n🌟 Devient célébrité mainstream, apparaissant dans des talk-shows, films et couvertures de magazines.\n📺 Prouve que le MMA féminin peut être aussi excitant et marketable que celui des hommes.\n⚡ Ouvre les portes à toutes les combattantes féminines à l'UFC et change le paysage du MMA à jamais."
+    },
+    "image": "images/mma/rousey.jpg",
+    "tags": ["women", "pioneer", "judo", "mainstream"]
+  },
+  {
+    "year": "2015",
+    "era": "Modern Era",
+    "title": {
+      "en": "Conor McGregor",
+      "fr": "Conor McGregor"
+    },
+    "description": {
+      "en": "🇮🇪 Irish striker Conor McGregor becomes UFC's biggest star through trash talk and knockout power.\n💰 First fighter to hold two UFC titles simultaneously (Featherweight & Lightweight).\n🎤 Master of promotion and mental warfare - sells fights through personality.\n🥊 Floyd Mayweather boxing match (2017) generates 4.3M PPV buys - biggest combat sports event ever.\n⚡ Transforms MMA fighter pay and proves combat athletes can become global superstars.",
+      "fr": "🇮🇪 Le striker irlandais Conor McGregor devient la plus grande star de l'UFC grâce au trash talk et au pouvoir de KO.\n💰 Premier combattant à détenir deux titres UFC simultanément (Poids plume & Léger).\n🎤 Maître de la promotion et de la guerre psychologique - vend les combats par sa personnalité.\n🥊 Le combat de boxe contre Floyd Mayweather (2017) génère 4,3M d'achats PPV - plus grand événement de sports de combat jamais vu.\n⚡ Transforme la rémunération des combattants MMA et prouve que les athlètes de combat peuvent devenir des superstars mondiales."
+    },
+    "image": "images/mma/mcgregor.jpg",
+    "tags": ["star", "promotion", "money", "knockout"]
+  },
+  {
+    "year": "2016",
+    "era": "WME Era",
+    "title": {
+      "en": "UFC Sale",
+      "fr": "Vente UFC"
+    },
+    "description": {
+      "en": "💰 WME-IMG (now Endeavor) purchases UFC for $4.2 billion - largest transaction in sports history.\n📈 From $2 million purchase in 2001 to $4.2 billion in 15 years - 2,100x return.\n🌍 Proves MMA has become legitimate mainstream sport.\n⚡ New ownership brings Hollywood connections and global expansion focus.\n📊 Demonstrates unprecedented growth of combat sports industry.",
+      "fr": "💰 WME-IMG (maintenant Endeavor) achète l'UFC pour 4,2 milliards $ - plus grande transaction de l'histoire du sport.\n📈 De 2 millions $ d'achat en 2001 à 4,2 milliards $ en 15 ans - retour de 2100x.\n🌍 Prouve que le MMA est devenu un sport mainstream légitime.\n⚡ La nouvelle propriété apporte des connexions Hollywood et focus sur l'expansion mondiale.\n📊 Démontre la croissance sans précédent de l'industrie des sports de combat."
+    },
+    "image": "images/mma/ufc_sale.png",
+    "tags": ["business", "sale", "growth", "mainstream"]
+  },
+  {
+    "year": "2018",
+    "era": "Modern Champions",
+    "title": {
+      "en": "Khabib Nurmagomedov",
+      "fr": "Khabib Nurmagomedov"
+    },
+    "description": {
+      "en": "🦅 Dagestani grappler Khabib Nurmagomedov retires undefeated 29-0 as Lightweight Champion.\n🤼 Dominant wrestling and ground control makes him virtually impossible to defeat.\n💔 Retires after death of father and coach Abdulmanap in 2020.\n🥊 McGregor rivalry and post-fight brawl at UFC 229 generates biggest UFC PPV (2.4M buys).\n👑 Considered one of the most dominant champions in UFC history.",
+      "fr": "🦅 Le grappler du Daghestan Khabib Nurmagomedov prend sa retraite invaincu 29-0 comme champion léger.\n🤼 Lutte dominante et contrôle au sol le rendent virtuellement impossible à battre.\n💔 Prend sa retraite après la mort de son père et coach Abdulmanap en 2020.\n🥊 La rivalité avec McGregor et la bagarre après combat à UFC 229 génère le plus gros PPV UFC (2,4M d'achats).\n👑 Considéré comme l'un des champions les plus dominants de l'histoire UFC."
+    },
+    "image": "images/mma/khabib.avif",
+    "tags": ["wrestling", "undefeated", "dominant", "legend"]
+  },
+  {
+    "year": "2019",
+    "era": "Modern Champions",
+    "title": {
+      "en": "Israel Adesanya",
+      "fr": "Israel Adesanya"
+    },
+    "description": {
+      "en": "🥋 Nigerian-New Zealand kickboxer Israel Adesanya brings elite striking to UFC Middleweight division.\n🎯 100+ kickboxing wins translate to pinpoint striking accuracy and fight IQ.\n🎮 Anime and gaming culture meets elite combat sports.\n⚡ Counterstriking mastery and creativity make him one of best strikers in MMA history.\n🌍 Represents new generation of globally trained, media-savvy fighters.",
+      "fr": "🥋 Le kickboxeur nigérian-néo-zélandais Israel Adesanya apporte un striking d'élite à la division mi-moyenne UFC.\n🎯 Plus de 100 victoires en kickboxing se traduisent par une précision de frappe au point et un QI de combat.\n🎮 La culture anime et gaming rencontre les sports de combat d'élite.\n⚡ Maîtrise du contre-striking et créativité le rendent l'un des meilleurs strikers de l'histoire MMA.\n🌍 Représente la nouvelle génération de combattants formés mondialement et à l'aise avec les médias."
+    },
+    "image": "images/mma/adesanya.jpg",
+    "tags": ["striking", "kickboxing", "technical", "modern"]
+  },
+  {
+    "year": "2020",
+    "era": "Modern Era",
+    "title": {
+      "en": "Amanda Nunes",
+      "fr": "Amanda Nunes"
+    },
+    "description": {
+      "en": "🦁 Brazilian Amanda Nunes becomes first female two-division champion and greatest female fighter ever.\n💥 Defeats Ronda Rousey (48 seconds), Cris Cyborg, Miesha Tate, Valentina Shevchenko (twice).\n🏆 Holds Bantamweight and Featherweight titles simultaneously for years.\n⚡ Devastating power, improved grappling, and championship mentality.\n👑 Retires in 2023 as undisputed women's MMA GOAT.",
+      "fr": "🦁 La Brésilienne Amanda Nunes devient la première championne féminine double division et la plus grande combattante féminine jamais vue.\n💥 Bat Ronda Rousey (48 secondes), Cris Cyborg, Miesha Tate, Valentina Shevchenko (deux fois).\n🏆 Détient les titres poids coq et poids plume simultanément pendant des années.\n⚡ Puissance dévastatrice, grappling amélioré et mentalité de championne.\n👑 Prend sa retraite en 2023 comme GOAT incontestée du MMA féminin."
+    },
+    "image": "images/mma/nunes.jpg",
+    "tags": ["women", "goat", "power", "champion"]
+  },
+  {
+    "year": "2021",
+    "era": "Global Era",
+    "title": {
+      "en": "Francis Ngannou",
+      "fr": "Francis Ngannou"
+    },
+    "description": {
+      "en": "🇨🇲 Cameroonian Francis Ngannou becomes UFC Heavyweight Champion with hardest punching power ever measured.\n💥 Ford Escort power - knockout power measured at 129,161 units on PowerKube.\n📚 Inspirational story from poverty and homelessness to world champion.\n🥊 Later leaves UFC for boxing, fighting Tyson Fury in 2023 and nearly winning.\n⚡ Represents global reach of MMA and fighter empowerment movement.",
+      "fr": "🇨🇲 Le Camerounais Francis Ngannou devient champion poids lourd UFC avec la puissance de frappe la plus forte jamais mesurée.\n💥 Puissance Ford Escort - pouvoir de KO mesuré à 129 161 unités sur PowerKube.\n📚 Histoire inspirante de la pauvreté et l'itinérance au champion du monde.\n🥊 Quitte plus tard l'UFC pour la boxe, combattant Tyson Fury en 2023 et manquant de peu la victoire.\n⚡ Représente la portée mondiale du MMA et le mouvement d'autonomisation des combattants."
+    },
+    "image": "images/mma/ngannou.jpg",
+    "tags": ["heavyweight", "power", "inspirational", "champion"]
+  },
+  {
+    "year": "2022-Present",
+    "era": "Modern Era",
+    "title": {
+      "en": "Islam Makhachev",
+      "fr": "Islam Makhachev"
+    },
+    "description": {
+      "en": "🦅 Khabib's protégé Islam Makhachev becomes Lightweight Champion, continuing Dagestani dominance.\n🤼 Same suffocating wrestling and ground control as Khabib but with more striking.\n🏆 Moves up to Welterweight to challenge for second title.\n⚡ Represents evolution of Dagestani grappling style in MMA.\n🌍 Part of wave of elite fighters from Dagestan and Caucasus region.",
+      "fr": "🦅 Le protégé de Khabib, Islam Makhachev, devient champion léger, continuant la domination du Daghestan.\n🤼 Même lutte étouffante et contrôle au sol que Khabib mais avec plus de striking.\n🏆 Monte aux mi-moyens pour défier pour un second titre.\n⚡ Représente l'évolution du style de grappling du Daghestan en MMA.\n🌍 Fait partie de la vague de combattants d'élite du Daghestan et de la région du Caucase."
+    },
+    "image": "images/mma/islam.webp",
+    "tags": ["wrestling", "champion", "dagestan", "evolution"]
+  },
+  {
+    "year": "2023-Present",
+    "era": "New Generation",
+    "title": {
+      "en": "Global Expansion",
+      "fr": "Expansion Mondiale"
+    },
+    "description": {
+      "en": "🌍 MMA reaches true global status with elite fighters from every continent.\n📱 Social media creates new stars and changes fight promotion.\n💰 Multiple major organizations (UFC, ONE, Bellator, PFL) provide opportunities.\n🏆 New generation combines all martial arts from childhood, creating complete fighters.\n⚡ Sport continues evolving with leg locks, wrestling becoming more dominant, and new techniques emerging.\n🎯 Future stars include Shavkat Rakhmonov, Muhammad Mokaev, Bo Nickal showcasing next evolution.",
+      "fr": "🌍 Le MMA atteint un véritable statut mondial avec des combattants d'élite de tous les continents.\n📱 Les réseaux sociaux créent de nouvelles stars et changent la promotion des combats.\n💰 Plusieurs organisations majeures (UFC, ONE, Bellator, PFL) offrent des opportunités.\n🏆 La nouvelle génération combine tous les arts martiaux depuis l'enfance, créant des combattants complets.\n⚡ Le sport continue d'évoluer avec les leg locks, la lutte devenant plus dominante et de nouvelles techniques émergentes.\n🎯 Les futures stars incluent Shavkat Rakhmonov, Muhammad Mokaev, Bo Nickal montrant la prochaine évolution."
+    },
+    "image": "images/mma/global_mma.webp",
+    "tags": ["global", "evolution", "future", "complete"]
+  }
+]

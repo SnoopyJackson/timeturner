@@ -1,0 +1,156 @@
+[
+  {
+    "year": "Before Time",
+    "era": "Ainulindalë (Creation)",
+    "title": {
+      "en": "Eru Ilúvatar",
+      "fr": "Eru Ilúvatar"
+    },
+    "description": {
+      "en": "🌌 The One, before all existence.\n🎶 Through the Music of the Ainur, Eru brings forth the vision of Arda.\n✨ His thought becomes reality — the universe, Eä, is born from His word.\n💫 The Elves and Men are His most beloved creations, destined to shape the world.",
+      "fr": "🌌 L'Unique, avant toute existence.\n🎶 Par la Musique des Ainur, Eru fait naître la vision d’Arda.\n✨ Sa pensée devient réalité — l’univers, Eä, est né de Sa parole.\n💫 Les Elfes et les Hommes sont Ses créations les plus chéries, destinées à façonner le monde."
+    },
+    "image": "images/middle_earth/eru_iluvatar.jpg",
+    "tags": ["creation", "eru", "ainulindale", "divine", "beginning"]
+  },
+  {
+    "year": "Music of the Ainur",
+    "era": "Creation",
+    "title": {
+      "en": "The Ainur",
+      "fr": "Les Ainur"
+    },
+    "description": {
+      "en": "🎵 The Ainur, holy spirits, sing the themes of Ilúvatar.\n🔥 Melkor introduces discord — seeking to shape creation for himself.\n🌍 Yet Ilúvatar turns all to his purpose, creating Arda, the World.\n⚡ Thus harmony and rebellion become part of the same great design.",
+      "fr": "🎵 Les Ainur, esprits saints, chantent les thèmes d’Ilúvatar.\n🔥 Melkor introduit la discorde — voulant façonner la création pour lui-même.\n🌍 Pourtant, Ilúvatar transforme tout selon son dessein, créant Arda, le Monde.\n⚡ Ainsi l’harmonie et la rébellion deviennent parties du même grand plan."
+    },
+    "image": "images/middle_earth/ainur.jpg",
+    "tags": ["ainur", "melkor", "music", "creation", "arda"]
+  },
+  {
+    "year": "First Age",
+    "era": "Elder Days",
+    "title": {
+      "en": "Morgoth",
+      "fr": "Morgoth"
+    },
+    "description": {
+      "en": "🔥 Melkor becomes Morgoth, the first Dark Lord.\n💎 He steals the Silmarils from Fëanor and spreads war across Beleriand.\n⚔️ The Elves, led by Fingolfin, Lúthien, and others, resist his power.\n🌋 After ages of ruin, the Valar defeat him and cast him into the Void.",
+      "fr": "🔥 Melkor devient Morgoth, le premier Seigneur des Ténèbres.\n💎 Il vole les Silmarils à Fëanor et répand la guerre sur le Beleriand.\n⚔️ Les Elfes, menés par Fingolfin, Lúthien et d’autres, résistent à son pouvoir.\n🌋 Après des âges de ruine, les Valar le vainquent et le jettent dans le Vide."
+    },
+    "image": "images/middle_earth/morgoth.jpg",
+    "tags": ["first age", "morgoth", "dark lord", "silmarils", "elves"]
+  },
+  {
+    "year": "First Age",
+    "era": "Elder Days",
+    "title": {
+      "en": "Fëanor",
+      "fr": "Fëanor"
+    },
+    "description": {
+      "en": "💎 The greatest of the Noldor craftsmen, creator of the Silmarils.\n🔥 Swears a terrible oath to reclaim them, leading to rebellion and exile.\n⚔️ His pride brings both glory and doom to the Elves of Middle-earth.\n🌠 His legacy endures through the beauty and tragedy of his creations.",
+      "fr": "💎 Le plus grand artisan des Noldor, créateur des Silmarils.\n🔥 Jure un terrible serment pour les récupérer, entraînant rébellion et exil.\n⚔️ Son orgueil apporte à la fois gloire et ruine aux Elfes de la Terre du Milieu.\n🌠 Son héritage perdure dans la beauté et la tragédie de ses créations."
+    },
+    "image": "images/middle_earth/feanor.jpg",
+    "tags": ["feanor", "noldor", "silmarils", "first age", "elves"]
+  },
+  {
+    "year": "Second Age",
+    "era": "Rise of Númenor",
+    "title": {
+      "en": "Númenor",
+      "fr": "Númenor"
+    },
+    "description": {
+      "en": "🏝️ Gifted to Men by the Valar, the island of Númenor rises in the western sea.\n👑 Founded by Elros Tar-Minyatur, it becomes a realm of wisdom and power.\n🌅 For long they prosper, sailing far and aiding Middle-earth.\n⚓ But pride and envy grow, turning Númenor toward its doom.",
+      "fr": "🏝️ Donnée aux Hommes par les Valar, l’île de Númenor s’élève dans la mer de l’Ouest.\n👑 Fondée par Elros Tar-Minyatur, elle devient un royaume de sagesse et de puissance.\n🌅 Longtemps ils prospèrent, naviguant loin et aidant la Terre du Milieu.\n⚓ Mais l’orgueil et l’envie croissent, menant Númenor à sa perte."
+    },
+    "image": "images/middle_earth/numenor.jpg",
+    "tags": ["numenor", "second age", "men", "valar", "sea"]
+  },
+  {
+    "year": "Late Second Age",
+    "era": "The Shadow Rises",
+    "title": {
+      "en": "Sauron",
+      "fr": "Sauron"
+    },
+    "description": {
+      "en": "💍 Once a Maia of Aulë, Sauron turns to evil under Morgoth’s shadow.\n🔥 He forges the One Ring to dominate all Rings of Power.\n🕍 His fortress, Barad-dûr, rises in Mordor as darkness spreads.\n⚔️ Defeated by the Last Alliance, he loses the Ring — but not his malice.",
+      "fr": "💍 Autrefois Maia d’Aulë, Sauron se tourne vers le mal sous l’influence de Morgoth.\n🔥 Il forge l’Anneau Unique pour dominer tous les Anneaux de Pouvoir.\n🕍 Sa forteresse, Barad-dûr, s’élève au Mordor tandis que l’ombre s’étend.\n⚔️ Vaincu par la Dernière Alliance, il perd l’Anneau — mais non sa malveillance."
+    },
+    "image": "images/middle_earth/sauron.jpg",
+    "tags": ["sauron", "dark lord", "ring", "second age", "mordor"]
+  },
+  {
+    "year": "End of Second Age",
+    "era": "Downfall of Númenor",
+    "title": {
+      "en": "Ar-Pharazôn",
+      "fr": "Ar-Pharazôn"
+    },
+    "description": {
+      "en": "👑 The last king of Númenor, proud and mighty.\n🔥 He captures Sauron, who corrupts him with lies and pride.\n🌊 Seeking immortality, he sails against the Valar — and the sea swallows Númenor.\n💀 The world is changed forever, and the faithful flee to Middle-earth.",
+      "fr": "👑 Le dernier roi de Númenor, fier et puissant.\n🔥 Il capture Sauron, qui le corrompt par le mensonge et l’orgueil.\n🌊 Cherchant l’immortalité, il navigue contre les Valar — et la mer engloutit Númenor.\n💀 Le monde change à jamais, et les Fidèles fuient vers la Terre du Milieu."
+    },
+    "image": "images/middle_earth/ar_pharazon.jpg",
+    "tags": ["numenor", "ar-pharazon", "downfall", "valar", "second age"]
+  },
+  {
+    "year": "Third Age",
+    "era": "The Realms in Exile",
+    "title": {
+      "en": "Elendil and Isildur",
+      "fr": "Elendil et Isildur"
+    },
+    "description": {
+      "en": "⚔️ Survivors of Númenor, Elendil and his sons found Arnor and Gondor.\n🕍 They unite Elves and Men against Sauron in the Last Alliance.\n💍 Isildur cuts the One Ring from Sauron’s hand but keeps it for himself.\n🌒 Sauron falls, yet the Ring’s evil endures through the ages.",
+      "fr": "⚔️ Rescapés de Númenor, Elendil et ses fils fondent Arnor et le Gondor.\n🕍 Ils unissent Elfes et Hommes contre Sauron dans la Dernière Alliance.\n💍 Isildur coupe l’Anneau Unique de la main de Sauron mais le garde pour lui.\n🌒 Sauron tombe, mais le mal de l’Anneau perdure à travers les âges."
+    },
+    "image": "images/middle_earth/elendil_isildur.jpg",
+    "tags": ["elendil", "isildur", "gondor", "arnor", "third age"]
+  },
+  {
+    "year": "Third Age",
+    "era": "The War of the Ring",
+    "title": {
+      "en": "Gandalf",
+      "fr": "Gandalf"
+    },
+    "description": {
+      "en": "🕊️ A Maia sent by the Valar as a guide to the Free Peoples.\n🔥 Wielder of Narya, the Ring of Fire, he inspires hope and courage.\n⚔️ Leads the Fellowship and counsels the wise in the struggle against Sauron.\n🌟 Returns as Gandalf the White, a symbol of renewal and victory.",
+      "fr": "🕊️ Un Maia envoyé par les Valar pour guider les Peuples Libres.\n🔥 Porteur de Narya, l’Anneau de Feu, il inspire espoir et courage.\n⚔️ Mène la Communauté et conseille les sages dans la lutte contre Sauron.\n🌟 Revient en Gandalf le Blanc, symbole de renouveau et de victoire."
+    },
+    "image": "images/middle_earth/gandalf.jpg",
+    "tags": ["gandalf", "third age", "wizard", "maiar", "ring"]
+  },
+  {
+    "year": "Third Age",
+    "era": "War of the Ring",
+    "title": {
+      "en": "Aragorn",
+      "fr": "Aragorn"
+    },
+    "description": {
+      "en": "⚔️ Heir of Isildur and leader of the Dúnedain.\n🕊️ Joins the Fellowship to restore the line of kings.\n👑 Crowned King Elessar, he reunites Gondor and Arnor.\n🌿 His reign begins the Fourth Age — the Age of Men.",
+      "fr": "⚔️ Héritier d’Isildur et chef des Dúnedain.\n🕊️ Rejoint la Communauté pour restaurer la lignée des rois.\n👑 Couronné Roi Elessar, il réunit le Gondor et l’Arnor.\n🌿 Son règne inaugure le Quatrième Âge — l’Âge des Hommes."
+    },
+    "image": "images/middle_earth/aragorn.jpg",
+    "tags": ["aragorn", "gondor", "arnor", "war of the ring", "king"]
+  },
+  {
+    "year": "Fourth Age",
+    "era": "The Dominion of Men",
+    "title": {
+      "en": "The Fourth Age",
+      "fr": "Le Quatrième Âge"
+    },
+    "description": {
+      "en": "🌅 With Sauron’s fall, the world is renewed.\n🚢 The Elves depart over the Sea to the Undying Lands.\n🌳 Middle-earth heals and grows quiet under the rule of Men.\n🕊️ The age of wonder fades, but peace endures for a time.",
+      "fr": "🌅 Après la chute de Sauron, le monde est renouvelé.\n🚢 Les Elfes quittent la Terre du Milieu vers les Terres Immortelles.\n🌳 La Terre du Milieu guérit et s’apaise sous le règne des Hommes.\n🕊️ L’âge des merveilles s’efface, mais la paix perdure un temps."
+    },
+    "image": "images/middle_earth/fourth_age.jpg",
+    "tags": ["fourth age", "men", "elves", "peace", "end"]
+  }
+]
