@@ -17,7 +17,7 @@ const availableTopics = [
     { id: 'harry_potter', name: { en: 'Harry Potter', fr: 'Harry Potter' }, icon: '🪄' },
     { id: 'middle_earth', name: { en: 'Middle-earth', fr: 'Terre du Milieu' }, icon: '🌋' },
     { id: 'dune', name: { en: 'Dune', fr: 'Dune' }, icon: '🏜️' },
-    { id: 'ideas/star_wars', name: { en: 'Star Wars', fr: 'Star Wars' }, icon: '⭐' },
+    { id: 'star_wars', name: { en: 'Star Wars', fr: 'Star Wars' }, icon: '⭐' },
     // Countries & Empires
     { id: 'roman', name: { en: 'Rome', fr: 'Rome' }, icon: '🏛️' },
     { id: 'france', name: { en: 'France', fr: 'France' }, icon: '🇫🇷' },

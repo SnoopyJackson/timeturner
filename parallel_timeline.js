@@ -121,11 +121,13 @@ const topicLabels = {
     'pandemics': '🦠 Pandemics',
     'bjj': '🥋 Brazilian Jiu Jitsu',
     'mma': '🥊 MMA',
-    'metal': '� Heavy Metal',
-    'dune': '🏜️ Dune',
-    'harry_potter': '🪄 Harry Potter',
-    'middle_earth': '🌋 Middle-earth',
-    'ideas/star_wars': '⭐ Star Wars'
+    'metal': '🎸 Heavy Metal',
+    'ideas/black_metal': '🐼 Black Metal',
+    'ideas/dune': '🏜️ Dune',
+    'ideas/harry_potter': '🪄 Harry Potter',
+    'ideas/middle_earth': '🌋 Middle-earth',
+    'ideas/star_wars': '⭐ Star Wars',
+    'ideas/wwii': '🪖 World War II'
 };
 
 function setMode(mode) {
