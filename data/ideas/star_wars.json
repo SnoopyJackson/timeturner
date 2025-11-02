@@ -101,6 +101,20 @@
     "year": "57 BBY",
     "era": "Old Republic",
     "title": {
+      "en": "Birth of Obi-Wan Kenobi",
+      "fr": "Naissance d'Obi-Wan Kenobi"
+    },
+    "description": {
+      "en": "👶 Obi-Wan Kenobi born on planet Stewjon.\n⚔️ Taken to Jedi Temple, trained in Jedi ways.\n🌟 Initially struggles with attachment and emotion.\n📚 Eventually becomes Padawan to Qui-Gon Jinn.\n💪 Known for his defensive Form III lightsaber combat.\n🧘 Masters patience and diplomacy as Jedi virtues.\n⚖️ Destined to train both Skywalkers across generations.",
+      "fr": "👶 Obi-Wan Kenobi né sur planète Stewjon.\n⚔️ Emmené au Temple Jedi, formé dans voies Jedi.\n🌟 Initialement lutte avec attachement et émotion.\n📚 Devient finalement Padawan de Qui-Gon Jinn.\n💪 Connu pour combat défensif au sabre laser Forme III.\n🧘 Maîtrise patience et diplomatie comme vertus Jedi.\n⚖️ Destiné à former les deux Skywalker à travers générations."
+    },
+    "image": "images/star_wars/obi_wan_birth.jpg",
+    "tags": ["obi-wan", "kenobi", "jedi", "birth", "padawan"]
+  },
+  {
+    "year": "57 BBY",
+    "era": "Old Republic",
+    "title": {
       "en": "Birth of Qui-Gon Jinn",
       "fr": "Naissance de Qui-Gon Jinn"
     },
@@ -124,6 +138,20 @@
     },
     "image": "images/star_wars/anakin_birth.jpg",
     "tags": ["anakin", "chosen-one", "tatooine", "birth", "prophecy"]
+  },
+  {
+    "year": "32 BBY",
+    "era": "Prequel Era",
+    "title": {
+      "en": "Murder of Darth Plagueis",
+      "fr": "Meurtre de Dark Plagueis"
+    },
+    "description": {
+      "en": "💀 Palpatine murders his master Darth Plagueis in his sleep.\n⚫ 'Ironic. He could save others from death, but not himself.'\n😈 Sidious becomes the sole Sith Master.\n📚 Plagueis had discovered how to manipulate midi-chlorians to create life.\n🌙 Killed on night of Palpatine's election as Chancellor.\n⚡ His knowledge of cheating death coveted by Anakin years later.\n💀 Rule of Two continues: Sidious seeks new apprentice.",
+      "fr": "💀 Palpatine assassine son maître Dark Plagueis dans son sommeil.\n⚫ 'Ironique. Il pouvait sauver les autres de la mort, mais pas lui-même.'\n😈 Sidious devient seul Maître Sith.\n📚 Plagueis avait découvert comment manipuler midi-chloriens pour créer vie.\n🌙 Tué nuit de l'élection de Palpatine comme Chancelier.\n⚡ Sa connaissance de tricher la mort convoitée par Anakin années plus tard.\n💀 Règle des Deux continue : Sidious cherche nouvel apprenti."
+    },
+    "image": "images/star_wars/plagueis_death.jpg",
+    "tags": ["plagueis", "sidious", "sith", "murder", "tragedy"]
   },
   {
     "year": "32 BBY",
@@ -166,6 +194,20 @@
     },
     "image": "images/star_wars/clone_wars.jpg",
     "tags": ["clone-wars", "war", "anakin", "jedi", "separatists"]
+  },
+  {
+    "year": "20 BBY",
+    "era": "Clone Wars",
+    "title": {
+      "en": "Siege of Mandalore",
+      "fr": "Siège de Mandalore"
+    },
+    "description": {
+      "en": "⚔️ Ahsoka Tano leads Clone Battalion against Maul on Mandalore.\n👤 Former Padawan of Anakin, left Jedi Order after being framed.\n😈 Darth Maul rules Mandalore with Shadow Collective crime syndicate.\n💔 Maul foresees Anakin's fall, warns of Sidious's plans.\n🤝 Ahsoka captures Maul with help of Mandalorian warriors.\n⚡ Battle occurs simultaneously with Palpatine's kidnapping and Anakin's turn.\n🚀 Ahsoka's ship crashes during Order 66 execution.\n💀 She fakes her death, goes into hiding.",
+      "fr": "⚔️ Ahsoka Tano mène Bataillon Clone contre Maul sur Mandalore.\n👤 Ancienne Padawan d'Anakin, quitté Ordre Jedi après avoir été piégée.\n😈 Dark Maul gouverne Mandalore avec syndicat crime Shadow Collective.\n💔 Maul prévoit chute d'Anakin, prévient des plans de Sidious.\n🤝 Ahsoka capture Maul avec aide de guerriers Mandaloriens.\n⚡ Bataille se déroule simultanément avec enlèvement de Palpatine et tournant d'Anakin.\n🚀 Vaisseau d'Ahsoka s'écrase pendant exécution Ordre 66.\n💀 Elle simule sa mort, se cache."
+    },
+    "image": "images/star_wars/siege_mandalore.jpg",
+    "tags": ["ahsoka", "mandalore", "maul", "clone-wars", "siege"]
   },
   {
     "year": "19 BBY",
@@ -224,6 +266,48 @@
     "tags": ["purge", "vader", "jedi", "inquisitors", "dark-times"]
   },
   {
+    "year": "13-10 BBY",
+    "era": "Age of the Empire",
+    "title": {
+      "en": "Solo - Han's Early Adventures",
+      "fr": "Solo - Premières Aventures de Han"
+    },
+    "description": {
+      "en": "🎲 Young Han Solo escapes Corellia and Imperial service.\n🐻 Meets Chewbacca — beginning of legendary friendship.\n🚀 Wins Millennium Falcon from Lando Calrissian in sabacc.\n⚡ Makes legendary Kessel Run in less than 12 parsecs.\n💎 Gets involved with criminal syndicates and smuggling.\n🎭 Qi'ra joins Crimson Dawn under Darth Maul.\n😎 Han becomes cynical smuggler we meet in A New Hope.\n💪 'I've got a really good feeling about this.'",
+      "fr": "🎲 Jeune Han Solo échappe Corellia et service Impérial.\n🐻 Rencontre Chewbacca — début amitié légendaire.\n🚀 Gagne Faucon Millenium de Lando Calrissian au sabacc.\n⚡ Effectue légendaire Course Kessel en moins de 12 parsecs.\n💎 S'implique avec syndicats criminels et contrebande.\n🎭 Qi'ra rejoint Aube Écarlate sous Dark Maul.\n😎 Han devient contrebandier cynique qu'on rencontre dans Un Nouvel Espoir.\n💪 'J'ai vraiment bon pressentiment à ce sujet.'"
+    },
+    "image": "images/star_wars/solo.jpg",
+    "tags": ["han-solo", "chewbacca", "lando", "millennium-falcon", "kessel-run"]
+  },
+  {
+    "year": "10 BBY",
+    "era": "Dark Times",
+    "title": {
+      "en": "Obi-Wan Kenobi's Mission",
+      "fr": "Mission d'Obi-Wan Kenobi"
+    },
+    "description": {
+      "en": "🏜️ Obi-Wan watches over Luke from distance on Tatooine.\n😢 Haunted by guilt over Anakin's fall.\n🔥 Leia kidnapped by Inquisitors to lure Obi-Wan out of hiding.\n⚔️ Obi-Wan confronts Vader for first time since Mustafar.\n💔 Vader: 'I am not your failure, Obi-Wan. You didn't kill Anakin Skywalker. I did.'\n😱 Obi-Wan sees Anakin's face beneath broken mask.\n💪 Defeats Vader in rematch, accepts he can't save him.\n🤫 Returns to exile, commits to protecting Luke.",
+      "fr": "🏜️ Obi-Wan surveille Luke de loin sur Tatooine.\n😢 Hanté par culpabilité de chute d'Anakin.\n🔥 Leia kidnappée par Inquisiteurs pour attirer Obi-Wan hors de cachette.\n⚔️ Obi-Wan confronte Vader pour première fois depuis Mustafar.\n💔 Vader : 'Je ne suis pas ton échec, Obi-Wan. Tu n'as pas tué Anakin Skywalker. C'est moi.'\n😱 Obi-Wan voit visage d'Anakin sous masque brisé.\n💪 Vainc Vader en revanche, accepte qu'il ne peut le sauver.\n🤫 Retourne en exil, s'engage à protéger Luke."
+    },
+    "image": "images/star_wars/obi_wan_series.jpg",
+    "tags": ["obi-wan", "vader", "leia", "exile", "duel"]
+  },
+  {
+    "year": "5-1 BBY",
+    "era": "Rebellion Begins",
+    "title": {
+      "en": "Star Wars Rebels",
+      "fr": "Star Wars Rebels"
+    },
+    "description": {
+      "en": "🌟 Ezra Bridger discovers Force abilities, joins crew of Ghost.\n👻 Kanan Jarrus, survivor of Order 66, trains Ezra as Padawan.\n⚔️ Rebels fight against Empire on planet Lothal.\n😈 Grand Inquisitor hunts Jedi survivors.\n🔦 Darksaber recovered, ancient Mandalorian weapon.\n💜 Ahsoka Tano revealed to be alive, joins Rebellion.\n⚔️ Ahsoka duels Vader, learns he's Anakin.\n🐙 Grand Admiral Thrawn becomes major Imperial threat.\n🌀 Ezra sacrifices himself, disappears with Thrawn into hyperspace.",
+      "fr": "🌟 Ezra Bridger découvre capacités Force, rejoint équipage du Ghost.\n👻 Kanan Jarrus, survivant Ordre 66, forme Ezra comme Padawan.\n⚔️ Rebelles combattent Empire sur planète Lothal.\n😈 Grand Inquisiteur chasse survivants Jedi.\n🔦 Darksaber récupéré, ancienne arme Mandalorienne.\n💜 Ahsoka Tano révélée vivante, rejoint Rébellion.\n⚔️ Ahsoka affronte Vader en duel, apprend qu'il est Anakin.\n🐙 Grand Amiral Thrawn devient menace Impériale majeure.\n🌀 Ezra se sacrifie, disparaît avec Thrawn dans hyperespace."
+    },
+    "image": "images/star_wars/rebels.jpg",
+    "tags": ["rebels", "ezra", "ahsoka", "thrawn", "lothal"]
+  },
+  {
     "year": "5-0 BBY",
     "era": "Rebellion Begins",
     "title": {
@@ -236,6 +320,34 @@
     },
     "image": "images/star_wars/rebel_alliance.jpg",
     "tags": ["rebellion", "alliance", "resistance", "hope", "freedom"]
+  },
+  {
+    "year": "5 BBY",
+    "era": "Rebellion Begins",
+    "title": {
+      "en": "Andor - Rise of the Rebellion",
+      "fr": "Andor - Montée de la Rébellion"
+    },
+    "description": {
+      "en": "🕵️ Cassian Andor recruited into Rebellion as spy.\n🏭 Discovers Empire's brutal prison labor systems.\n💪 Prison break on Narkina 5 inspires resistance.\n📜 Mon Mothma risks everything to finance Rebellion.\n⚡ Empire's tyranny pushes ordinary people to fight.\n😢 'Freedom is a pure idea. It occurs spontaneously.'\n🔥 Small acts of defiance grow into organized rebellion.\n💀 Imperial Security Bureau hunts rebel cells ruthlessly.",
+      "fr": "🕵️ Cassian Andor recruté dans Rébellion comme espion.\n🏭 Découvre systèmes brutaux travail forcé de l'Empire.\n💪 Évasion prison sur Narkina 5 inspire résistance.\n📜 Mon Mothma risque tout pour financer Rébellion.\n⚡ Tyrannie de l'Empire pousse gens ordinaires à combattre.\n😢 'La liberté est une idée pure. Elle survient spontanément.'\n🔥 Petits actes de défi croissent en rébellion organisée.\n💀 Bureau Sécurité Impériale traque cellules rebelles impitoyablement."
+    },
+    "image": "images/star_wars/andor.jpg",
+    "tags": ["andor", "rebellion", "spy", "resistance", "tyranny"]
+  },
+  {
+    "year": "0 BBY",
+    "era": "Galactic Civil War",
+    "title": {
+      "en": "Rogue One - Stealing the Death Star Plans",
+      "fr": "Rogue One - Vol des Plans de l'Étoile de la Mort"
+    },
+    "description": {
+      "en": "💾 Jyn Erso leads mission to steal Death Star plans from Scarif.\n👨‍🔬 Her father Galen Erso designed fatal flaw into station.\n⚔️ Rogue One team sacrifices themselves to transmit plans.\n😢 'Rebellions are built on hope.'\n🏖️ Battle of Scarif — entire Rogue One crew dies heroes.\n⚡ Darth Vader slaughters rebels in hallway to retrieve plans.\n📡 Princess Leia receives plans just before capture.\n💀 Death Star destroys Scarif base to prevent leaks.\n🌟 Their sacrifice makes destruction of Death Star possible.",
+      "fr": "💾 Jyn Erso mène mission pour voler plans Étoile de la Mort de Scarif.\n👨‍🔬 Son père Galen Erso conçut faille fatale dans station.\n⚔️ Équipe Rogue One se sacrifie pour transmettre plans.\n😢 'Les rébellions se construisent sur l'espoir.'\n🏖️ Bataille de Scarif — toute équipe Rogue One meurt en héros.\n⚡ Dark Vader massacre rebelles dans couloir pour récupérer plans.\n📡 Princesse Leia reçoit plans juste avant capture.\n💀 Étoile de la Mort détruit base Scarif pour empêcher fuites.\n🌟 Leur sacrifice rend destruction Étoile de la Mort possible."
+    },
+    "image": "images/star_wars/rogue_one.jpg",
+    "tags": ["rogue-one", "jyn-erso", "death-star", "sacrifice", "scarif"]
   },
   {
     "year": "0 BBY",
@@ -278,6 +390,34 @@
     },
     "image": "images/star_wars/return_jedi.jpg",
     "tags": ["endor", "redemption", "vader", "emperor", "victory"]
+  },
+  {
+    "year": "9 ABY",
+    "era": "New Republic",
+    "title": {
+      "en": "The Mandalorian & Book of Boba Fett",
+      "fr": "Le Mandalorien & Le Livre de Boba Fett"
+    },
+    "description": {
+      "en": "🪖 Din Djarin, lone Mandalorian bounty hunter, finds Grogu (The Child).\n💚 'Baby Yoda' — young Force-sensitive creature of Yoda's species.\n⚔️ Din protects Grogu from Imperial remnants seeking him.\n🔦 Darksaber recovered, Din becomes reluctant leader of Mandalore.\n🏜️ Boba Fett survives Sarlacc, becomes daimyo of Tatooine.\n👑 Boba and Fennec Shand rule Tatooine's underworld.\n🏛️ Mandalore begins restoration after Imperial purge.\n💪 Bo-Katan Kryze helps reclaim Mandalorian homeworld.\n📚 Grogu trains with Luke but chooses to return to Din.",
+      "fr": "🪖 Din Djarin, chasseur de primes Mandalorien solitaire, trouve Grogu (L'Enfant).\n💚 'Bébé Yoda' — jeune créature sensible Force de l'espèce de Yoda.\n⚔️ Din protège Grogu des vestiges Impériaux le cherchant.\n🔦 Darksaber récupéré, Din devient leader réticent de Mandalore.\n🏜️ Boba Fett survit Sarlacc, devient daimyo de Tatooine.\n👑 Boba et Fennec Shand règnent pègre de Tatooine.\n🏛️ Mandalore commence restauration après purge Impériale.\n💪 Bo-Katan Kryze aide à reconquérir monde natal Mandalorien.\n📚 Grogu s'entraîne avec Luke mais choisit retourner vers Din."
+    },
+    "image": "images/star_wars/mandalorian.jpg",
+    "tags": ["mandalorian", "grogu", "din-djarin", "boba-fett", "darksaber"]
+  },
+  {
+    "year": "11 ABY",
+    "era": "New Republic",
+    "title": {
+      "en": "Ahsoka - Search for Ezra and Thrawn",
+      "fr": "Ahsoka - Recherche d'Ezra et Thrawn"
+    },
+    "description": {
+      "en": "🔍 Ahsoka Tano searches for Ezra Bridger, missing since Rebels.\n🐙 Grand Admiral Thrawn also lost in hyperspace with Ezra.\n🗺️ Ancient star map leads to distant galaxy Peridea.\n⚔️ Sabine Wren becomes Ahsoka's reluctant Padawan.\n👻 Force ghosts of Anakin help Ahsoka complete training.\n🌌 Journey through World Between Worlds.\n🧙 Dark Jedi and Nightsisters serve Thrawn.\n🌟 Ezra found alive, returns to main galaxy.\n⚠️ Thrawn returns as threat to New Republic.",
+      "fr": "🔍 Ahsoka Tano cherche Ezra Bridger, disparu depuis Rebels.\n🐙 Grand Amiral Thrawn aussi perdu dans hyperespace avec Ezra.\n🗺️ Ancienne carte stellaire mène à galaxie distante Peridea.\n⚔️ Sabine Wren devient Padawan réticente d'Ahsoka.\n👻 Fantômes Force d'Anakin aident Ahsoka compléter formation.\n🌌 Voyage à travers Monde Entre les Mondes.\n🧙 Jedi Noirs et Sœurs de Nuit servent Thrawn.\n🌟 Ezra trouvé vivant, retourne à galaxie principale.\n⚠️ Thrawn revient comme menace pour Nouvelle République."
+    },
+    "image": "images/star_wars/ahsoka.jpg",
+    "tags": ["ahsoka", "ezra", "thrawn", "sabine", "peridea"]
   },
   {
     "year": "5-28 ABY",
