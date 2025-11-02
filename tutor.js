@@ -3,29 +3,39 @@ let filteredData = []; // Data filtered by selected topic
 let currentTopic = 'all';
 let currentLang = 'en';
 const availableTopics = [
-    // Main data folder
-    { id: 'arthur', name: { en: 'King Arthur', fr: 'Roi Arthur' }, icon: '⚔️' },
-    { id: 'bjj', name: { en: 'Brazilian Jiu Jitsu', fr: 'Jiu Jitsu Brésilien' }, icon: '🥋' },
+    // Mythology & Fiction
+    { id: 'universe', name: { en: 'Universe', fr: 'Univers' }, icon: '🌌' },
     { id: 'egypt_myth', name: { en: 'Egypt Mythology', fr: 'Mythologie Égyptienne' }, icon: '🦅' },
     { id: 'france', name: { en: 'France', fr: 'France' }, icon: '�🇷' },
     { id: 'greek_myth', name: { en: 'Greek Mythology', fr: 'Mythologie Grecque' }, icon: '🇷' },
     { id: 'hindu_myth', name: { en: 'Hindu Mythology', fr: 'Mythologie Hindoue' }, icon: '🕉️' },
+    { id: 'greek_myth', name: { en: 'Greek Mythology', fr: 'Mythologie Grecque' }, icon: '🇬🇷' },
+    { id: 'hindu_myth', name: { en: 'Hindu Mythology', fr: 'Mythologie Hindoue' }, icon: '🕉️' },
+    { id: 'bible', name: { en: 'Bible Mythology', fr: 'Mythologie Biblique' }, icon: '📖' },
+    { id: 'norse_myth', name: { en: 'Norse Mythology', fr: 'Mythologie Nordique' }, icon: '⚡' },
+    { id: 'arthur', name: { en: 'King Arthur', fr: 'Roi Arthur' }, icon: '⚔️' },
+    { id: 'harry_potter', name: { en: 'Harry Potter', fr: 'Harry Potter' }, icon: '🪄' },
+    { id: 'middle_earth', name: { en: 'Middle-earth', fr: 'Terre du Milieu' }, icon: '🌋' },
+    { id: 'dune', name: { en: 'Dune', fr: 'Dune' }, icon: '🏜️' },
+    { id: 'ideas/star_wars', name: { en: 'Star Wars', fr: 'Star Wars' }, icon: '⭐' },
+    // Countries & Empires
+    { id: 'roman', name: { en: 'Rome', fr: 'Rome' }, icon: '🏛️' },
+    { id: 'france', name: { en: 'France', fr: 'France' }, icon: '🇫🇷' },
+    { id: 'china', name: { en: 'China', fr: 'Chine' }, icon: '🇨🇳' },
+    { id: 'japan', name: { en: 'Japan', fr: 'Japon' }, icon: '🇯🇵' },
+    { id: 'russia', name: { en: 'Russia', fr: 'Russie' }, icon: '🇷🇺' },
+    { id: 'uk', name: { en: 'UK', fr: 'Royaume-Uni' }, icon: '🇬🇧' },
+    { id: 'india', name: { en: 'India', fr: 'Inde' }, icon: '🇮🇳' },
+    { id: 'usa', name: { en: 'USA', fr: 'États-Unis' }, icon: '🇺🇸' },
+    // Topics & Themes
     { id: 'inventions', name: { en: 'Inventions', fr: 'Inventions' }, icon: '💡' },
-    { id: 'metal', name: { en: 'Heavy Metal', fr: 'Heavy Metal' }, icon: '�' },
-    { id: 'pandemics', name: { en: 'Pandemics', fr: 'Pandémies' }, icon: '🦠' },
-    { id: 'revolutions', name: { en: 'Revolutions', fr: 'Révolutions' }, icon: '✊' },
-    { id: 'roman', name: { en: 'Rome', fr: 'Rome' }, icon: '�️' },
-    { id: 'universe', name: { en: 'Universe', fr: 'Univers' }, icon: '�' },
-    { id: 'usa', name: { en: 'USA', fr: 'États-Unis' }, icon: '��' },
     { id: 'wars', name: { en: 'Wars', fr: 'Guerres' }, icon: '⚔️' },
-    // Ideas subfolder
-    { id: 'ideas/bible', name: { en: 'Bible', fr: 'Bible' }, icon: '📖' },
-    { id: 'ideas/china', name: { en: 'China', fr: 'Chine' }, icon: '🇨🇳' },
-    { id: 'ideas/germany', name: { en: 'Germany', fr: 'Allemagne' }, icon: '🇩🇪' },
-    { id: 'ideas/india', name: { en: 'India', fr: 'Inde' }, icon: '🇮🇳' },
-    { id: 'ideas/japan', name: { en: 'Japan', fr: 'Japon' }, icon: '🇯🇵' },
-    { id: 'ideas/russia', name: { en: 'Russia', fr: 'Russie' }, icon: '🇷�' },
-    { id: 'ideas/uk', name: { en: 'UK', fr: 'Royaume-Uni' }, icon: '🇬🇧' }
+    { id: 'revolutions', name: { en: 'Revolutions', fr: 'Révolutions' }, icon: '✊' },
+    { id: 'pandemics', name: { en: 'Pandemics', fr: 'Pandémies' }, icon: '🦠' },
+    // Sports & Culture
+    { id: 'bjj', name: { en: 'Brazilian Jiu Jitsu', fr: 'Jiu Jitsu Brésilien' }, icon: '🥋' },
+    { id: 'mma', name: { en: 'MMA', fr: 'MMA' }, icon: '🥊' },
+    { id: 'metal', name: { en: 'Heavy Metal', fr: 'Heavy Metal' }, icon: '🎸' }
 ];
 
 // Topic data mapping

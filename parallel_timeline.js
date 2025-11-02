@@ -100,22 +100,32 @@ let zoomLevel = 1;
 let originalYearRange = null;
 const topicColors = ['#667eea', '#f093fb', '#4facfe', '#43e97b', '#fa709a', '#fee140', '#30cfd0', '#a8edea'];
 const topicLabels = {
-    'france': '🇫🇷 France',
-    'usa': '🇺🇸 USA',
+    'universe': '� Universe',
+    'egypt_myth': '🦅 Egyptian Mythology',
+    'greek_myth': '�🇷 Greek Mythology',
+    'hindu_myth': '🕉️ Hindu Mythology',
+    'bible': '📖 Bible Mythology',
+    'norse_myth': '⚡ Norse Mythology',
+    'arthur': '⚔️ King Arthur',
     'roman': '🏛️ Roman Empire',
+    'france': '🇫🇷 France',
+    'china': '�� China',
+    'japan': '🇯🇵 Japan',
+    'russia': '🇷🇺 Russia',
+    'uk': '�� UK',
+    'india': '🇮🇳 India',
+    'usa': '🇺🇸 USA',
+    'inventions': '💡 Inventions',
     'wars': '⚔️ Wars',
     'revolutions': '✊ Revolutions',
-    'inventions': '💡 Inventions',
     'pandemics': '🦠 Pandemics',
-    'ideas/uk': '🇬🇧 UK',
-    'ideas/japan': '🇯🇵 Japan',
-    'ideas/china': '🇨🇳 China',
-    'ideas/india': '🇮🇳 India',
-    'ideas/russia': '🇷🇺 Russia',
-    'ideas/germany': '🇩🇪 Germany',
-    'greek_myth': '⚡ Greek Mythology',
-    'hindu_myth': '🕉️ Hindu Mythology',
-    'egypt_myth': '𓂀 Egyptian Mythology'
+    'bjj': '🥋 Brazilian Jiu Jitsu',
+    'mma': '🥊 MMA',
+    'metal': '� Heavy Metal',
+    'dune': '🏜️ Dune',
+    'harry_potter': '🪄 Harry Potter',
+    'middle_earth': '🌋 Middle-earth',
+    'ideas/star_wars': '⭐ Star Wars'
 };
 
 function setMode(mode) {
@@ -159,12 +169,12 @@ function updateTopicSelection() {
     selectedTopics = Array.from(checkboxes).map(cb => cb.value);
     
     const loadBtn = document.getElementById('loadTopicsBtn');
-    loadBtn.disabled = selectedTopics.length < 2 || selectedTopics.length > 4;
+    loadBtn.disabled = selectedTopics.length < 1 || selectedTopics.length > 8;
 }
 
 async function loadSelectedTopics() {
-    if (selectedTopics.length < 2 || selectedTopics.length > 4) {
-        alert('Please select between 2 and 4 topics to compare.');
+    if (selectedTopics.length < 1 || selectedTopics.length > 8) {
+        alert('Please select between 1 and 8 topics to compare.');
         return;
     }
     
@@ -313,10 +323,11 @@ function renderTopicTimeline() {
             return;
         }
         
-        // Sample events if there are too many (keep max 20 per topic)
+        // Sample events if there are too many (adjust based on number of topics)
+        const maxEventsPerTopic = Math.max(10, Math.floor(30 / selectedTopics.length));
         let eventsToShow = data;
-        if (data.length > 20) {
-            const step = Math.floor(data.length / 20);
+        if (data.length > maxEventsPerTopic) {
+            const step = Math.floor(data.length / maxEventsPerTopic);
             eventsToShow = data.filter((_, i) => i % step === 0);
         }
         
