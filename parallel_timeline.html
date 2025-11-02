@@ -28,7 +28,7 @@
 
         <div class="topic-controls" id="topicControls" style="display: none;">
             <div class="topic-selection">
-                <label>📚 Select Topics to Compare (choose 2-4):</label>
+                <label>📚 Select Topics to Compare (choose 1-8):</label>
                 <div class="topic-grid">
                     <label class="topic-checkbox">
                         <input type="checkbox" value="france" onchange="updateTopicSelection()">
@@ -59,28 +59,24 @@
                         <span>🦠 Pandemics</span>
                     </label>
                     <label class="topic-checkbox">
-                        <input type="checkbox" value="ideas/uk" onchange="updateTopicSelection()">
+                        <input type="checkbox" value="uk" onchange="updateTopicSelection()">
                         <span>🇬🇧 UK</span>
                     </label>
                     <label class="topic-checkbox">
-                        <input type="checkbox" value="ideas/japan" onchange="updateTopicSelection()">
+                        <input type="checkbox" value="japan" onchange="updateTopicSelection()">
                         <span>🇯🇵 Japan</span>
                     </label>
                     <label class="topic-checkbox">
-                        <input type="checkbox" value="ideas/china" onchange="updateTopicSelection()">
+                        <input type="checkbox" value="china" onchange="updateTopicSelection()">
                         <span>🇨🇳 China</span>
                     </label>
                     <label class="topic-checkbox">
-                        <input type="checkbox" value="ideas/india" onchange="updateTopicSelection()">
+                        <input type="checkbox" value="india" onchange="updateTopicSelection()">
                         <span>🇮🇳 India</span>
                     </label>
                     <label class="topic-checkbox">
-                        <input type="checkbox" value="ideas/russia" onchange="updateTopicSelection()">
+                        <input type="checkbox" value="russia" onchange="updateTopicSelection()">
                         <span>🇷🇺 Russia</span>
-                    </label>
-                    <label class="topic-checkbox">
-                        <input type="checkbox" value="ideas/germany" onchange="updateTopicSelection()">
-                        <span>🇩🇪 Germany</span>
                     </label>
                     <label class="topic-checkbox">
                         <input type="checkbox" value="greek_myth" onchange="updateTopicSelection()">
@@ -92,7 +88,51 @@
                     </label>
                     <label class="topic-checkbox">
                         <input type="checkbox" value="egypt_myth" onchange="updateTopicSelection()">
-                        <span>𓂀 Egyptian Mythology</span>
+                        <span>🦅 Egyptian Mythology</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="bible" onchange="updateTopicSelection()">
+                        <span>📖 Bible Mythology</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="norse_myth" onchange="updateTopicSelection()">
+                        <span>⚡ Norse Mythology</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="arthur" onchange="updateTopicSelection()">
+                        <span>⚔️ King Arthur</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="universe" onchange="updateTopicSelection()">
+                        <span>🌌 Universe</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="bjj" onchange="updateTopicSelection()">
+                        <span>🥋 Brazilian Jiu Jitsu</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="mma" onchange="updateTopicSelection()">
+                        <span>🥊 MMA</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="metal" onchange="updateTopicSelection()">
+                        <span>🎸 Heavy Metal</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="dune" onchange="updateTopicSelection()">
+                        <span>🏜️ Dune</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="harry_potter" onchange="updateTopicSelection()">
+                        <span>🪄 Harry Potter</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="middle_earth" onchange="updateTopicSelection()">
+                        <span>🌋 Middle-earth</span>
+                    </label>
+                    <label class="topic-checkbox">
+                        <input type="checkbox" value="ideas/star_wars" onchange="updateTopicSelection()">
+                        <span>⭐ Star Wars</span>
                     </label>
                 </div>
                 <button onclick="loadSelectedTopics()" class="load-btn" id="loadTopicsBtn" disabled>Load Timeline</button>
