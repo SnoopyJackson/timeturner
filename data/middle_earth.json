@@ -1,0 +1,422 @@
+[
+  {
+    "year": "Before Time",
+    "era": "Ainulindalë (Creation)",
+    "title": {
+      "en": "Eru Ilúvatar",
+      "fr": "Eru Ilúvatar"
+    },
+    "description": {
+      "en": "🌌 The One, before all existence.\n🎶 Through the Music of the Ainur, Eru brings forth the vision of Arda.\n✨ His thought becomes reality — the universe, Eä, is born from His word.\n💫 The Elves and Men are His most beloved creations, destined to shape the world.",
+      "fr": "🌌 L'Unique, avant toute existence.\n🎶 Par la Musique des Ainur, Eru fait naître la vision d’Arda.\n✨ Sa pensée devient réalité — l’univers, Eä, est né de Sa parole.\n💫 Les Elfes et les Hommes sont Ses créations les plus chéries, destinées à façonner le monde."
+    },
+    "image": "images/middle_earth/eru_iluvatar.webp",
+    "tags": ["creation", "eru", "ainulindale", "divine", "beginning"]
+  },
+  {
+    "year": "Music of the Ainur",
+    "era": "Creation",
+    "title": {
+      "en": "The Ainur",
+      "fr": "Les Ainur"
+    },
+    "description": {
+      "en": "🎵 The Ainur, holy spirits, sing the themes of Ilúvatar.\n🔥 Melkor introduces discord — seeking to shape creation for himself.\n🌍 Yet Ilúvatar turns all to his purpose, creating Arda, the World.\n⚡ Thus harmony and rebellion become part of the same great design.",
+      "fr": "🎵 Les Ainur, esprits saints, chantent les thèmes d'Ilúvatar.\n🔥 Melkor introduit la discorde — voulant façonner la création pour lui-même.\n🌍 Pourtant, Ilúvatar transforme tout selon son dessein, créant Arda, le Monde.\n⚡ Ainsi l'harmonie et la rébellion deviennent parties du même grand plan."
+    },
+    "image": "images/middle_earth/ainur.jpg",
+    "tags": ["ainur", "melkor", "music", "creation", "arda"]
+  },
+  {
+    "year": "Years of the Lamps",
+    "era": "Ancient Days",
+    "title": {
+      "en": "The Valar Enter Arda",
+      "fr": "Les Valar Entrent en Arda"
+    },
+    "description": {
+      "en": "🌟 Fourteen Valar descend into Arda to shape and order the world.\n🏔️ Manwë, King of the Valar, commands the winds from Mount Taniquetil.\n🌊 Ulmo, Lord of Waters, fills the seas and rivers.\n🌿 Yavanna, Giver of Fruits, brings forth plants and growing things.\n💡 Two great Lamps, Illuin and Ormal, light the world.\n💥 Melkor destroys the Lamps, bringing the first ruin to Arda.",
+      "fr": "🌟 Quatorze Valar descendent en Arda pour façonner et ordonner le monde.\n🏔️ Manwë, Roi des Valar, commande les vents depuis le Mont Taniquetil.\n🌊 Ulmo, Seigneur des Eaux, remplit les mers et rivières.\n🌿 Yavanna, Donneuse de Fruits, fait naître plantes et êtres vivants.\n💡 Deux grandes Lampes, Illuin et Ormal, éclairent le monde.\n💥 Melkor détruit les Lampes, apportant la première ruine à Arda."
+    },
+    "image": "images/middle_earth/valar.jpg",
+    "tags": ["valar", "lamps", "melkor", "creation", "ancient"]
+  },
+  {
+    "year": "Years of the Trees",
+    "era": "Ancient Days",
+    "title": {
+      "en": "The Two Trees of Valinor",
+      "fr": "Les Deux Arbres de Valinor"
+    },
+    "description": {
+      "en": "🌳 Yavanna sings the Two Trees into being in Valinor.\n✨ Telperion, the elder, bears silver light like dew.\n🔥 Laurelin, the younger, shines with golden radiance.\n🌟 Their light illuminates the Blessed Realm, bringing day and night.\n⏰ Each Tree waxes and wanes in seven-hour cycles.\n🏰 Valinor becomes a realm of eternal beauty and peace.",
+      "fr": "🌳 Yavanna chante les Deux Arbres pour les faire naître à Valinor.\n✨ Telperion, l'aîné, porte une lumière d'argent comme la rosée.\n🔥 Laurelin, le cadet, brille d'un éclat doré.\n🌟 Leur lumière illumine le Royaume Béni, apportant jour et nuit.\n⏰ Chaque Arbre croît et décroît en cycles de sept heures.\n🏰 Valinor devient un royaume de beauté et paix éternelles."
+    },
+    "image": "images/middle_earth/two_trees.jpg",
+    "tags": ["trees", "valinor", "light", "yavanna", "blessed-realm"]
+  },
+  {
+    "year": "Years of the Trees",
+    "era": "Awakening",
+    "title": {
+      "en": "The Awakening of the Elves",
+      "fr": "L'Éveil des Elfes"
+    },
+    "description": {
+      "en": "⭐ The Firstborn awaken by Cuiviénen under starlight.\n🌌 They are immortal, bound to Arda until its end.\n🎵 Blessed with song, craft, and beauty beyond mortal measure.\n🏃 Oromë discovers them and summons them to Valinor.\n💫 Three kindreds arise: Vanyar, Noldor, and Teleri.\n😈 But Melkor hunts and corrupts some into Orcs.",
+      "fr": "⭐ Les Premiers-Nés s'éveillent près de Cuiviénen sous la lumière des étoiles.\n🌌 Ils sont immortels, liés à Arda jusqu'à sa fin.\n🎵 Bénis de chant, d'artisanat et de beauté au-delà de toute mesure mortelle.\n🏃 Oromë les découvre et les convoque à Valinor.\n💫 Trois lignées naissent: Vanyar, Noldor et Teleri.\n😈 Mais Melkor en chasse et en corrompt certains en Orques."
+    },
+    "image": "images/middle_earth/elves_awakening.jpg",
+    "tags": ["elves", "awakening", "firstborn", "cuivienen", "immortal"]
+  },
+  {
+    "year": "Years of the Trees - End",
+    "era": "Darkening",
+    "title": {
+      "en": "The Darkening of Valinor",
+      "fr": "L'Obscurcissement de Valinor"
+    },
+    "description": {
+      "en": "🕷️ Melkor and Ungoliant attack Valinor during a feast.\n🌳 They drain and destroy the Two Trees, plunging the world into darkness.\n💎 Melkor steals the Silmarils and flees to Middle-earth.\n⚫ Ungoliant nearly devours Melkor before his Balrogs save him.\n😢 The Trees die, their last fruits becoming Sun and Moon.\n💔 The greatest tragedy of the Ages, ending eternal light.",
+      "fr": "🕷️ Melkor et Ungoliant attaquent Valinor durant une fête.\n🌳 Ils drainent et détruisent les Deux Arbres, plongeant le monde dans l'obscurité.\n💎 Melkor vole les Silmarils et fuit vers la Terre du Milieu.\n⚫ Ungoliant faillit dévorer Melkor avant que ses Balrogs ne le sauvent.\n😢 Les Arbres meurent, leurs derniers fruits devenant Soleil et Lune.\n💔 La plus grande tragédie des Âges, mettant fin à la lumière éternelle."
+    },
+    "image": "images/middle_earth/darkening.jpg",
+    "tags": ["darkening", "ungoliant", "trees", "melkor", "tragedy"]
+  },
+  {
+    "year": "First Age",
+    "era": "Elder Days",
+    "title": {
+      "en": "Morgoth",
+      "fr": "Morgoth"
+    },
+    "description": {
+      "en": "🔥 Melkor becomes Morgoth, the first Dark Lord.\n💎 He steals the Silmarils from Fëanor and spreads war across Beleriand.\n⚔️ The Elves, led by Fingolfin, Lúthien, and others, resist his power.\n🌋 After ages of ruin, the Valar defeat him and cast him into the Void.",
+      "fr": "🔥 Melkor devient Morgoth, le premier Seigneur des Ténèbres.\n💎 Il vole les Silmarils à Fëanor et répand la guerre sur le Beleriand.\n⚔️ Les Elfes, menés par Fingolfin, Lúthien et d'autres, résistent à son pouvoir.\n🌋 Après des âges de ruine, les Valar le vainquent et le jettent dans le Vide."
+    },
+    "image": "images/middle_earth/morgoth.webp",
+    "tags": ["first age", "morgoth", "dark lord", "silmarils", "elves"]
+  },
+  {
+    "year": "First Age",
+    "era": "Elder Days",
+    "title": {
+      "en": "Fëanor",
+      "fr": "Fëanor"
+    },
+    "description": {
+      "en": "💎 The greatest of the Noldor craftsmen, creator of the Silmarils.\n🔥 Swears a terrible oath to reclaim them, leading to rebellion and exile.\n⚔️ His pride brings both glory and doom to the Elves of Middle-earth.\n🌠 His legacy endures through the beauty and tragedy of his creations.",
+      "fr": "💎 Le plus grand artisan des Noldor, créateur des Silmarils.\n🔥 Jure un terrible serment pour les récupérer, entraînant rébellion et exil.\n⚔️ Son orgueil apporte à la fois gloire et ruine aux Elfes de la Terre du Milieu.\n🌠 Son héritage perdure dans la beauté et la tragédie de ses créations."
+    },
+    "image": "images/middle_earth/feanor.webp",
+    "tags": ["feanor", "noldor", "silmarils", "first age", "elves"]
+  },
+  {
+    "year": "First Age",
+    "era": "Noldor Exile",
+    "title": {
+      "en": "The Flight of the Noldor",
+      "fr": "La Fuite des Noldor"
+    },
+    "description": {
+      "en": "🔥 Fëanor and his seven sons swear the Oath of Fëanor.\n⚔️ The Noldor rebel against the Valar and depart Valinor.\n🚢 They commit the Kinslaying at Alqualondë, stealing Teleri ships.\n❄️ Cross the Helcaraxë grinding ice, many perish in cold.\n⚡ Fingolfin leads those abandoned by Fëanor across the ice.\n😢 The Noldor are exiled, cursed by Mandos' Doom.",
+      "fr": "🔥 Fëanor et ses sept fils prêtent le Serment de Fëanor.\n⚔️ Les Noldor se rebellent contre les Valar et quittent Valinor.\n🚢 Ils commettent le Fratricide d'Alqualondë, volant les navires Teleri.\n❄️ Traversent l'Helcaraxë de glace broyante, beaucoup périssent dans le froid.\n⚡ Fingolfin mène ceux abandonnés par Fëanor à travers la glace.\n😢 Les Noldor sont exilés, maudits par le Destin de Mandos."
+    },
+    "image": "images/middle_earth/noldor_flight.jpg",
+    "tags": ["noldor", "exile", "feanor", "kinslaying", "oath"]
+  },
+  {
+    "year": "First Age 455",
+    "era": "Battle",
+    "title": {
+      "en": "Dagor Bragollach",
+      "fr": "Dagor Bragollach"
+    },
+    "description": {
+      "en": "🔥 The Battle of Sudden Flame — Morgoth breaks the Siege of Angband.\n🐉 Dragons and rivers of fire devastate the northern realms.\n⚔️ Fingolfin, High King of Noldor, challenges Morgoth to single combat.\n💔 Fingolfin wounds Morgoth seven times before falling.\n🦅 Thorondor rescues Fingolfin's body from desecration.\n😢 The long defeat begins — Elves can no longer hope to overthrow Morgoth alone.",
+      "fr": "🔥 La Bataille de la Flamme Subite — Morgoth brise le Siège d'Angband.\n🐉 Dragons et rivières de feu dévastent les royaumes du nord.\n⚔️ Fingolfin, Haut Roi des Noldor, défie Morgoth en combat singulier.\n💔 Fingolfin blesse Morgoth sept fois avant de tomber.\n🦅 Thorondor sauve le corps de Fingolfin de la profanation.\n😢 La longue défaite commence — les Elfes ne peuvent plus espérer renverser Morgoth seuls."
+    },
+    "image": "images/middle_earth/dagor_bragollach.jpg",
+    "tags": ["battle", "fingolfin", "morgoth", "dragons", "siege"]
+  },
+  {
+    "year": "First Age 465-467",
+    "era": "Love and Loss",
+    "title": {
+      "en": "Beren and Lúthien",
+      "fr": "Beren et Lúthien"
+    },
+    "description": {
+      "en": "💕 Beren, a mortal Man, falls in love with Lúthien, immortal daughter of Thingol.\n💎 Thingol demands a Silmaril from Morgoth's crown as bride-price.\n🐺 They face Sauron, werewolves, and enter Angband itself.\n✨ Lúthien's song puts Morgoth to sleep, Beren cuts a Silmaril free.\n🐺 Carcharoth the wolf bites off Beren's hand with the Silmaril.\n💔 Beren dies, but Lúthien's love moves Mandos — both return to mortal life.\n🌟 Their love unites Elves and Men forever.",
+      "fr": "💕 Beren, un Homme mortel, tombe amoureux de Lúthien, fille immortelle de Thingol.\n💎 Thingol exige un Silmaril de la couronne de Morgoth comme prix de la mariée.\n🐺 Ils affrontent Sauron, loups-garous et pénètrent Angband même.\n✨ Le chant de Lúthien endort Morgoth, Beren coupe un Silmaril.\n🐺 Carcharoth le loup mord la main de Beren avec le Silmaril.\n💔 Beren meurt, mais l'amour de Lúthien émeut Mandos — tous deux reviennent en vie mortelle.\n🌟 Leur amour unit Elfes et Hommes pour toujours."
+    },
+    "image": "images/middle_earth/beren_luthien.jpg",
+    "tags": ["beren", "luthien", "love", "silmaril", "morgoth"]
+  },
+  {
+    "year": "First Age 510",
+    "era": "Hidden City",
+    "title": {
+      "en": "The Fall of Gondolin",
+      "fr": "La Chute de Gondolin"
+    },
+    "description": {
+      "en": "🏰 Gondolin, the hidden city of Turgon, last great Elven realm.\n😈 Betrayed by Maeglin to Morgoth after torture.\n🐉 Dragons, Balrogs, and orcs assault the city.\n⚔️ Ecthelion slays Gothmog, Lord of Balrogs, in fountain square.\n🗡️ Glorfindel fights a Balrog, both fall from mountain peak.\n🏃 Tuor and Idril lead survivors through secret tunnel to safety.\n💔 Gondolin falls, but survivors preserve hope for future.",
+      "fr": "🏰 Gondolin, la cité cachée de Turgon, dernier grand royaume Elfe.\n😈 Trahi par Maeglin à Morgoth après torture.\n🐉 Dragons, Balrogs et orques assaillent la cité.\n⚔️ Ecthelion tue Gothmog, Seigneur des Balrogs, sur place de fontaine.\n🗡️ Glorfindel combat un Balrog, tous deux tombent du pic montagneux.\n🏃 Tuor et Idril mènent survivants par tunnel secret vers sécurité.\n💔 Gondolin tombe, mais survivants préservent espoir pour avenir."
+    },
+    "image": "images/middle_earth/gondolin_fall.webp",
+    "tags": ["gondolin", "fall", "balrog", "dragons", "turgon"]
+  },
+  {
+    "year": "First Age 545-587",
+    "era": "War of Wrath",
+    "title": {
+      "en": "The War of Wrath",
+      "fr": "La Guerre de la Colère"
+    },
+    "description": {
+      "en": "⚔️ The Valar finally intervene, sending vast host from Valinor.\n🦅 Eärendil the Mariner sails the skies with Silmaril on his brow.\n🐉 Ancalagon the Black, mightiest dragon, leads Morgoth's forces.\n💥 War rages for 40 years, reshaping northern Middle-earth.\n⚡ Eärendil and great eagles cast down Ancalagon upon Thangorodrim.\n🔗 Morgoth bound in chains, cast through Door of Night into Void.\n🌊 Beleriand sinks beneath waves, First Age ends in victory and ruin.",
+      "fr": "⚔️ Les Valar interviennent enfin, envoyant vaste armée de Valinor.\n🦅 Eärendil le Marin navigue les cieux avec Silmaril sur son front.\n🐉 Ancalagon le Noir, plus puissant dragon, mène forces de Morgoth.\n💥 Guerre fait rage pendant 40 ans, refaçonne Terre du Milieu du nord.\n⚡ Eärendil et grands aigles précipitent Ancalagon sur Thangorodrim.\n🔗 Morgoth enchaîné, jeté par Porte de la Nuit dans le Vide.\n🌊 Beleriand s'enfonce sous les vagues, Premier Âge se termine en victoire et ruine."
+    },
+    "image": "images/middle_earth/war_of_wrath.jpg",
+    "tags": ["war", "valar", "morgoth", "earendil", "ancalagon"]
+  },
+  {
+    "year": "Second Age",
+    "era": "Rise of Númenor",
+    "title": {
+      "en": "Númenor",
+      "fr": "Númenor"
+    },
+    "description": {
+      "en": "🏝️ Gifted to Men by the Valar, the island of Númenor rises in the western sea.\n👑 Founded by Elros Tar-Minyatur, it becomes a realm of wisdom and power.\n🌅 For long they prosper, sailing far and aiding Middle-earth.\n⚓ But pride and envy grow, turning Númenor toward its doom.",
+      "fr": "🏝️ Donnée aux Hommes par les Valar, l'île de Númenor s'élève dans la mer de l'Ouest.\n👑 Fondée par Elros Tar-Minyatur, elle devient un royaume de sagesse et de puissance.\n🌅 Longtemps ils prospèrent, naviguant loin et aidant la Terre du Milieu.\n⚓ Mais l'orgueil et l'envie croissent, menant Númenor à sa perte."
+    },
+    "image": "images/middle_earth/numenor.webp",
+    "tags": ["numenor", "second age", "men", "valar", "sea"]
+  },
+  {
+    "year": "Second Age 1200-1600",
+    "era": "Forging",
+    "title": {
+      "en": "The Rings of Power",
+      "fr": "Les Anneaux de Pouvoir"
+    },
+    "description": {
+      "en": "💍 Sauron, disguised as Annatar 'Lord of Gifts', teaches ring-craft to Celebrimbor.\n✨ Together they forge Rings of Power — Nine for Men, Seven for Dwarves.\n🌟 Celebrimbor alone creates Three Rings for Elves: Vilya, Narya, Nenya.\n🔥 Sauron returns to Mordor, forges One Ring in fires of Mount Doom.\n⚡ 'One Ring to rule them all, One Ring to find them...'\n😱 Elves sense his treachery, hide the Three Rings.\n⚔️ War of the Elves and Sauron begins.",
+      "fr": "💍 Sauron, déguisé en Annatar 'Seigneur des Dons', enseigne l'art des anneaux à Celebrimbor.\n✨ Ensemble ils forgent Anneaux de Pouvoir — Neuf pour Hommes, Sept pour Nains.\n🌟 Celebrimbor seul crée Trois Anneaux pour Elfes: Vilya, Narya, Nenya.\n🔥 Sauron retourne au Mordor, forge Anneau Unique dans feux du Mont Doom.\n⚡ 'Un Anneau pour les gouverner tous, Un Anneau pour les trouver...'\n😱 Elfes sentent sa traîtrise, cachent les Trois Anneaux.\n⚔️ Guerre des Elfes et Sauron commence."
+    },
+    "image": "images/middle_earth/rings_forging.jpg",
+    "tags": ["rings", "sauron", "celebrimbor", "one-ring", "power"]
+  },
+  {
+    "year": "Late Second Age",
+    "era": "The Shadow Rises",
+    "title": {
+      "en": "Sauron",
+      "fr": "Sauron"
+    },
+    "description": {
+      "en": "💍 Once a Maia of Aulë, Sauron turns to evil under Morgoth's shadow.\n🔥 He forges the One Ring to dominate all Rings of Power.\n🕍 His fortress, Barad-dûr, rises in Mordor as darkness spreads.\n⚔️ Defeated by the Last Alliance, he loses the Ring — but not his malice.",
+      "fr": "💍 Autrefois Maia d'Aulë, Sauron se tourne vers le mal sous l'influence de Morgoth.\n🔥 Il forge l'Anneau Unique pour dominer tous les Anneaux de Pouvoir.\n🕍 Sa forteresse, Barad-dûr, s'élève au Mordor tandis que l'ombre s'étend.\n⚔️ Vaincu par la Dernière Alliance, il perd l'Anneau — mais non sa malveillance."
+    },
+    "image": "images/middle_earth/sauron.webp",
+    "tags": ["sauron", "dark lord", "ring", "second age", "mordor"]
+  },
+  {
+    "year": "End of Second Age",
+    "era": "Downfall of Númenor",
+    "title": {
+      "en": "Ar-Pharazôn",
+      "fr": "Ar-Pharazôn"
+    },
+    "description": {
+      "en": "👑 The last king of Númenor, proud and mighty.\n🔥 He captures Sauron, who corrupts him with lies and pride.\n🌊 Seeking immortality, he sails against the Valar — and the sea swallows Númenor.\n💀 The world is changed forever, and the faithful flee to Middle-earth.",
+      "fr": "👑 Le dernier roi de Númenor, fier et puissant.\n🔥 Il capture Sauron, qui le corrompt par le mensonge et l’orgueil.\n🌊 Cherchant l’immortalité, il navigue contre les Valar — et la mer engloutit Númenor.\n💀 Le monde change à jamais, et les Fidèles fuient vers la Terre du Milieu."
+    },
+    "image": "images/middle_earth/ar_pharazon.jpg",
+    "tags": ["numenor", "ar-pharazon", "downfall", "valar", "second age"]
+  },
+  {
+    "year": "Second Age 3319 - Third Age 2",
+    "era": "Last Alliance",
+    "title": {
+      "en": "The Last Alliance",
+      "fr": "La Dernière Alliance"
+    },
+    "description": {
+      "en": "⚔️ Elendil of Gondor and Gil-galad of Lindon unite against Sauron.\n🏔️ Vast armies march through lands, gathering strength.\n🕍 Seven-year siege of Barad-dûr in Mordor.\n💥 Final battle on slopes of Mount Doom — Sauron slays both kings.\n💍 Isildur cuts the Ring from Sauron's hand with broken Narsil.\n😈 Sauron's spirit flees, defeated but not destroyed.\n💔 Elrond counsels Isildur to destroy Ring — but he refuses.",
+      "fr": "⚔️ Elendil du Gondor et Gil-galad de Lindon s'unissent contre Sauron.\n🏔️ Vastes armées marchent à travers terres, rassemblant force.\n🕍 Siège de sept ans de Barad-dûr au Mordor.\n💥 Bataille finale sur pentes du Mont Doom — Sauron tue les deux rois.\n💍 Isildur coupe l'Anneau de la main de Sauron avec Narsil brisée.\n😈 L'esprit de Sauron s'enfuit, vaincu mais non détruit.\n💔 Elrond conseille Isildur de détruire l'Anneau — mais il refuse."
+    },
+    "image": "images/middle_earth/last_alliance.jpg",
+    "tags": ["last-alliance", "elendil", "gil-galad", "sauron", "war"]
+  },
+  {
+    "year": "Third Age 2",
+    "era": "Disaster",
+    "title": {
+      "en": "Isildur's Bane",
+      "fr": "Le Fléau d'Isildur"
+    },
+    "description": {
+      "en": "💍 Isildur claims One Ring as weregild for his father and brother.\n🚶 Travels north with his three eldest sons toward Arnor.\n⚫ Ambushed by Orcs at Gladden Fields.\n💔 His sons slain defending him in desperate battle.\n👻 Isildur puts on Ring to escape, but it betrays him.\n🌊 Ring slips from his finger, Isildur shot by Orc arrows in river.\n😢 Ring lost in depths of Anduin for 2,500 years.",
+      "fr": "💍 Isildur revendique Anneau Unique comme weregild pour son père et frère.\n🚶 Voyage vers nord avec ses trois fils aînés vers Arnor.\n⚫ Pris en embuscade par Orques aux Champs de Gladden.\n💔 Ses fils tués le défendant dans bataille désespérée.\n👻 Isildur met l'Anneau pour s'échapper, mais il le trahit.\n🌊 Anneau glisse de son doigt, Isildur abattu par flèches Orques dans rivière.\n😢 Anneau perdu dans profondeurs de l'Anduin pendant 2500 ans."
+    },
+    "image": "images/middle_earth/isildur_bane.webp",
+    "tags": ["isildur", "ring", "gladden-fields", "death", "lost"]
+  },
+  {
+    "year": "Third Age",
+    "era": "The Realms in Exile",
+    "title": {
+      "en": "Elendil and Isildur",
+      "fr": "Elendil et Isildur"
+    },
+    "description": {
+      "en": "⚔️ Survivors of Númenor, Elendil and his sons found Arnor and Gondor.\n🕍 They unite Elves and Men against Sauron in the Last Alliance.\n💍 Isildur cuts the One Ring from Sauron's hand but keeps it for himself.\n🌒 Sauron falls, yet the Ring's evil endures through the ages.",
+      "fr": "⚔️ Rescapés de Númenor, Elendil et ses fils fondent Arnor et le Gondor.\n🕍 Ils unissent Elfes et Hommes contre Sauron dans la Dernière Alliance.\n💍 Isildur coupe l'Anneau Unique de la main de Sauron mais le garde pour lui.\n🌒 Sauron tombe, mais le mal de l'Anneau perdure à travers les âges."
+    },
+    "image": "images/middle_earth/elendil_isildur.jpg",
+    "tags": ["elendil", "isildur", "gondor", "arnor", "third age"]
+  },
+  {
+    "year": "Third Age 2463",
+    "era": "Discovery",
+    "title": {
+      "en": "Sméagol Finds the Ring",
+      "fr": "Sméagol Trouve l'Anneau"
+    },
+    "description": {
+      "en": "🎣 Déagol finds golden ring while fishing in Gladden River.\n😈 His friend Sméagol murders him, takes the Ring as birthday gift.\n💍 Ring corrupts Sméagol, he becomes Gollum over centuries.\n🌑 Driven out by his people, hides in Misty Mountains.\n🐟 Lives in darkness, eating raw fish, speaking to 'Precious'.\n👁️ Ring extends his life unnaturally for nearly 500 years.\n💔 'My precious... my own... my love...'",
+      "fr": "🎣 Déagol trouve anneau doré en pêchant dans rivière Gladden.\n😈 Son ami Sméagol l'assassine, prend l'Anneau comme cadeau d'anniversaire.\n💍 Anneau corrompt Sméagol, il devient Gollum au fil des siècles.\n🌑 Chassé par son peuple, se cache dans Montagnes de Brume.\n🐟 Vit dans obscurité, mangeant poisson cru, parlant à 'Mon Précieux'.\n👁️ Anneau prolonge sa vie anormalement pendant presque 500 ans.\n💔 'Mon précieux... mon propre... mon amour...'"
+    },
+    "image": "images/middle_earth/gollum_ring.jpg",
+    "tags": ["gollum", "smeagol", "ring", "murder", "corruption"]
+  },
+  {
+    "year": "Third Age 2941",
+    "era": "The Hobbit",
+    "title": {
+      "en": "Bilbo's Adventure",
+      "fr": "L'Aventure de Bilbo"
+    },
+    "description": {
+      "en": "🏠 Bilbo Baggins recruited by Gandalf for quest to Lonely Mountain.\n🐉 Thirteen Dwarves seek to reclaim Erebor from Smaug the Dragon.\n💍 Bilbo finds the One Ring in Gollum's cave beneath Misty Mountains.\n🗡️ Discovers power of invisibility, escapes using riddles.\n🐉 Enters Smaug's lair, discovers dragon's weakness.\n⚔️ Battle of Five Armies unites Free Peoples against Orcs.\n🏔️ Bilbo returns home with Ring, forever changed by adventure.",
+      "fr": "🏠 Bilbo Sacquet recruté par Gandalf pour quête vers Montagne Solitaire.\n🐉 Treize Nains cherchent à reconquérir Erebor de Smaug le Dragon.\n💍 Bilbo trouve l'Anneau Unique dans grotte de Gollum sous Montagnes de Brume.\n🗡️ Découvre pouvoir d'invisibilité, s'échappe en utilisant énigmes.\n🐉 Entre dans antre de Smaug, découvre faiblesse du dragon.\n⚔️ Bataille des Cinq Armées unit Peuples Libres contre Orques.\n🏔️ Bilbo rentre chez lui avec Anneau, changé à jamais par aventure."
+    },
+    "image": "images/middle_earth/bilbo_adventure.jpg",
+    "tags": ["bilbo", "hobbit", "smaug", "ring", "erebor"]
+  },
+  {
+    "year": "Third Age 3018",
+    "era": "Quest Begins",
+    "title": {
+      "en": "The Council of Elrond",
+      "fr": "Le Conseil d'Elrond"
+    },
+    "description": {
+      "en": "🏰 Representatives gather at Rivendell — Elves, Dwarves, Men, Hobbits.\n💍 Gandalf reveals true nature of Bilbo's ring — the One Ring.\n📖 Tale of Ring told from creation to present danger.\n😱 Sauron seeks Ring to regain full power and conquer all.\n🔥 Only solution: Ring must be destroyed in Mount Doom.\n🚶 Frodo volunteers to bear the burden to Mordor.\n⚔️ Fellowship of Nine formed: four Hobbits, two Men, Elf, Dwarf, Wizard.",
+      "fr": "🏰 Représentants se rassemblent à Rivendell — Elfes, Nains, Hommes, Hobbits.\n💍 Gandalf révèle vraie nature de l'anneau de Bilbo — l'Anneau Unique.\n📖 Histoire de l'Anneau racontée de création au danger présent.\n😱 Sauron cherche Anneau pour regagner plein pouvoir et conquérir tout.\n🔥 Seule solution: Anneau doit être détruit au Mont Doom.\n🚶 Frodo se porte volontaire pour porter fardeau au Mordor.\n⚔️ Communauté des Neuf formée: quatre Hobbits, deux Hommes, Elfe, Nain, Magicien."
+    },
+    "image": "images/middle_earth/council_elrond.jpg",
+    "tags": ["council", "fellowship", "elrond", "rivendell", "quest"]
+  },
+  {
+    "year": "Third Age 3019 January",
+    "era": "Breaking",
+    "title": {
+      "en": "The Breaking of the Fellowship",
+      "fr": "La Dissolution de la Communauté"
+    },
+    "description": {
+      "en": "⚔️ Fellowship passes through Moria, ancient Dwarf kingdom.\n🔥 Gandalf faces Balrog of Morgoth on Bridge of Khazad-dûm.\n💔 'You shall not pass!' — both fall into abyss.\n🌳 Company reaches Lothlórien, receives gifts from Galadriel.\n😈 Boromir succumbs to Ring's temptation, tries to take it from Frodo.\n⚔️ Uruk-hai attack — Boromir dies defending Merry and Pippin.\n🚶 Fellowship breaks: Frodo and Sam go to Mordor alone.",
+      "fr": "⚔️ Communauté traverse Moria, ancien royaume Nain.\n🔥 Gandalf affronte Balrog de Morgoth sur Pont de Khazad-dûm.\n💔 'Vous ne passerez pas!' — tous deux tombent dans abîme.\n🌳 Compagnie atteint Lothlórien, reçoit dons de Galadriel.\n😈 Boromir succombe à tentation de l'Anneau, tente de le prendre à Frodo.\n⚔️ Uruk-hai attaquent — Boromir meurt défendant Merry et Pippin.\n🚶 Communauté se brise: Frodo et Sam vont au Mordor seuls."
+    },
+    "image": "images/middle_earth/fellowship_breaking.webp",
+    "tags": ["fellowship", "moria", "balrog", "gandalf", "boromir"]
+  },
+  {
+    "year": "Third Age",
+    "era": "War of the Ring",
+    "title": {
+      "en": "Gandalf",
+      "fr": "Gandalf"
+    },
+    "description": {
+      "en": "🕊️ A Maia sent by the Valar as a guide to the Free Peoples.\n🔥 Wielder of Narya, the Ring of Fire, he inspires hope and courage.\n⚔️ Leads the Fellowship and counsels the wise in the struggle against Sauron.\n🌟 Returns as Gandalf the White, a symbol of renewal and victory.",
+      "fr": "🕊️ Un Maia envoyé par les Valar pour guider les Peuples Libres.\n🔥 Porteur de Narya, l'Anneau de Feu, il inspire espoir et courage.\n⚔️ Mène la Communauté et conseille les sages dans la lutte contre Sauron.\n🌟 Revient en Gandalf le Blanc, symbole de renouveau et de victoire."
+    },
+    "image": "images/middle_earth/gandalf.jpg",
+    "tags": ["gandalf", "third age", "wizard", "maiar", "ring"]
+  },
+  {
+    "year": "Third Age 3019 March",
+    "era": "Battle",
+    "title": {
+      "en": "The Battle of Helm's Deep",
+      "fr": "La Bataille du Gouffre de Helm"
+    },
+    "description": {
+      "en": "🏰 10,000 Uruk-hai besiege Helm's Deep fortress in Rohan.\n⚔️ Aragorn, Legolas, Gimli defend with Théoden's warriors.\n🌧️ Night battle in rain — defenders desperately hold walls.\n💥 Uruk-hai breach wall with Saruman's explosive device.\n🌅 At dawn, Gandalf arrives with Éomer and 2,000 riders.\n🐴 Charge down mountainside — Uruk-hai army destroyed.\n🌳 Huorns of Fangorn Forest finish remaining enemies.\n✨ First major victory against Saruman's forces.",
+      "fr": "🏰 10,000 Uruk-hai assiègent forteresse du Gouffre de Helm en Rohan.\n⚔️ Aragorn, Legolas, Gimli défendent avec guerriers de Théoden.\n🌧️ Bataille nocturne sous pluie — défenseurs tiennent murs désespérément.\n💥 Uruk-hai percent mur avec explosif de Saroumane.\n🌅 À l'aube, Gandalf arrive avec Éomer et 2000 cavaliers.\n🐴 Charge descend flanc montagne — armée Uruk-hai détruite.\n🌳 Huorns de Forêt de Fangorn finissent ennemis restants.\n✨ Première victoire majeure contre forces de Saroumane."
+    },
+    "image": "images/middle_earth/helms_deep.jpg",
+    "tags": ["helms-deep", "rohan", "battle", "uruk-hai", "gandalf"]
+  },
+  {
+    "year": "Third Age 3019 March",
+    "era": "Battle",
+    "title": {
+      "en": "The Battle of Pelennor Fields",
+      "fr": "La Bataille des Champs du Pelennor"
+    },
+    "description": {
+      "en": "🏰 Sauron's forces besiege Minas Tirith with 200,000 Orcs.\n😱 Witch-king of Angmar leads Nazgûl, breaks city gates.\n🐴 Rohirrim arrive — 6,000 riders charge at dawn.\n👑 King Théoden slain by Witch-king and his fell beast.\n⚔️ Éowyn and Merry destroy Witch-king: 'I am no man!'\n🚢 Aragorn arrives with Army of the Dead via Corsair ships.\n⚡ Sauron's army routed, Gondor saved.\n💔 Denethor, Steward of Gondor, immolates himself in madness.",
+      "fr": "🏰 Forces de Sauron assiègent Minas Tirith avec 200,000 Orques.\n😱 Roi-Sorcier d'Angmar mène Nazgûl, brise portes de cité.\n🐴 Rohirrim arrivent — 6000 cavaliers chargent à l'aube.\n👑 Roi Théoden tué par Roi-Sorcier et sa bête maléfique.\n⚔️ Éowyn et Merry détruisent Roi-Sorcier: 'Je ne suis pas un homme!'\n🚢 Aragorn arrive avec Armée des Morts via navires Corsaires.\n⚡ Armée de Sauron mise en déroute, Gondor sauvé.\n💔 Denethor, Intendant du Gondor, s'immole dans folie."
+    },
+    "image": "images/middle_earth/pelennor.jpg",
+    "tags": ["pelennor", "gondor", "battle", "eowyn", "witch-king"]
+  },
+  {
+    "year": "Third Age 3019 March",
+    "era": "Final Battle",
+    "title": {
+      "en": "The Black Gate Opens",
+      "fr": "La Porte Noire s'Ouvre"
+    },
+    "description": {
+      "en": "⚔️ Aragorn leads 7,000 troops to Morannon, Black Gate of Mordor.\n🎯 Desperate diversion to draw Sauron's Eye from Frodo.\n👁️ Sauron's forces number tens of thousands — certain doom.\n💍 Frodo reaches Crack of Doom but cannot destroy Ring.\n😈 Gollum attacks, bites off Frodo's finger with Ring.\n🔥 Gollum falls into lava with Ring — Ring destroyed.\n💥 Barad-dûr collapses, Sauron vanquished forever.\n🦅 Great Eagles rescue Frodo and Sam from Mount Doom.",
+      "fr": "⚔️ Aragorn mène 7000 troupes à Morannon, Porte Noire du Mordor.\n🎯 Diversion désespérée pour détourner Œil de Sauron de Frodo.\n👁️ Forces de Sauron comptent dizaines de milliers — mort certaine.\n💍 Frodo atteint Failles du Destin mais ne peut détruire Anneau.\n😈 Gollum attaque, mord doigt de Frodo avec Anneau.\n🔥 Gollum tombe dans lave avec Anneau — Anneau détruit.\n💥 Barad-dûr s'effondre, Sauron vaincu pour toujours.\n🦅 Grands Aigles sauvent Frodo et Sam du Mont Doom."
+    },
+    "image": "images/middle_earth/black_gate.jpg",
+    "tags": ["black-gate", "mordor", "ring", "destruction", "victory"]
+  },
+  {
+    "year": "Third Age",
+    "era": "War of the Ring",
+    "title": {
+      "en": "Aragorn",
+      "fr": "Aragorn"
+    },
+    "description": {
+      "en": "⚔️ Heir of Isildur and leader of the Dúnedain.\n🕊️ Joins the Fellowship to restore the line of kings.\n👑 Crowned King Elessar, he reunites Gondor and Arnor.\n🌿 His reign begins the Fourth Age — the Age of Men.",
+      "fr": "⚔️ Héritier d'Isildur et chef des Dúnedain.\n🕊️ Rejoint la Communauté pour restaurer la lignée des rois.\n👑 Couronné Roi Elessar, il réunit le Gondor et l'Arnor.\n🌿 Son règne inaugure le Quatrième Âge — l'Âge des Hommes."
+    },
+    "image": "images/middle_earth/aragorn.jpg",
+    "tags": ["aragorn", "gondor", "arnor", "war of the ring", "king"]
+  },
+  {
+    "year": "Fourth Age",
+    "era": "The Dominion of Men",
+    "title": {
+      "en": "The Fourth Age",
+      "fr": "Le Quatrième Âge"
+    },
+    "description": {
+      "en": "🌅 With Sauron’s fall, the world is renewed.\n🚢 The Elves depart over the Sea to the Undying Lands.\n🌳 Middle-earth heals and grows quiet under the rule of Men.\n🕊️ The age of wonder fades, but peace endures for a time.",
+      "fr": "🌅 Après la chute de Sauron, le monde est renouvelé.\n🚢 Les Elfes quittent la Terre du Milieu vers les Terres Immortelles.\n🌳 La Terre du Milieu guérit et s’apaise sous le règne des Hommes.\n🕊️ L’âge des merveilles s’efface, mais la paix perdure un temps."
+    },
+    "image": "images/middle_earth/fourth_age.jpg",
+    "tags": ["fourth age", "men", "elves", "peace", "end"]
+  }
+]

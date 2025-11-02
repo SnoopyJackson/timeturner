@@ -84,6 +84,20 @@
     "tags": ["dumbledore", "headmaster", "wizard", "leader", "powerful"]
   },
   {
+    "year": "1960s",
+    "era": "Dark Transformation",
+    "title": {
+      "en": "Tom Riddle Becomes Voldemort",
+      "fr": "Tom Jedusor Devient Voldemort"
+    },
+    "description": {
+      "en": "💀 Tom Riddle completed transformation into Lord Voldemort.\n🗺️ Traveled world learning darkest magic.\n📖 Created first Horcruxes: diary, ring, locket, cup, diadem.\n🐍 Lost human appearance through dark magic.\n⚡ Name 'Voldemort' struck fear in hearts of wizards.\n🔮 Began gathering followers who would become Death Eaters.",
+      "fr": "💀 Tom Jedusor compléta transformation en Lord Voldemort.\n🗺️ Voyagea dans monde apprenant magie la plus sombre.\n📖 Créa premiers Horcruxes : journal, bague, médaillon, coupe, diadème.\n🐍 Perdit apparence humaine par magie noire.\n⚡ Nom 'Voldemort' inspira terreur dans cœurs des sorciers.\n🔮 Commença rassembler disciples qui deviendraient Mangemorts."
+    },
+    "image": "images/harry_potter/voldemort_transformation.jpg",
+    "tags": ["voldemort", "transformation", "horcrux", "dark-magic", "evil"]
+  },
+  {
     "year": "1970s",
     "era": "First Wizarding War",
     "title": {
@@ -110,6 +124,20 @@
     },
     "image": "images/harry_potter/order_phoenix.jpg",
     "tags": ["order", "phoenix", "resistance", "dumbledore", "war"]
+  },
+  {
+    "year": "1978-1979",
+    "era": "First Wizarding War",
+    "title": {
+      "en": "Regulus Black's Sacrifice",
+      "fr": "Sacrifice de Regulus Black"
+    },
+    "description": {
+      "en": "🐍 Regulus Black, Death Eater and Sirius's brother, turned against Voldemort.\n📿 Discovered secret of Horcruxes, stole Slytherin's locket.\n🏠 Ordered house-elf Kreacher to destroy locket.\n💀 Drank poisoned potion in cave, dragged underwater by Inferi.\n💔 Died at age 18, trying to bring down Dark Lord.\n✍️ Left note signed 'R.A.B.' — 'I face death in the hope...'\n⚫ True hero whose sacrifice was unknown for years.",
+      "fr": "🐍 Regulus Black, Mangemort et frère de Sirius, se retourna contre Voldemort.\n📿 Découvrit secret des Horcruxes, vola médaillon de Serpentard.\n🏠 Ordonna à elfe de maison Kreatur de détruire médaillon.\n💀 But potion empoisonnée dans grotte, traîné sous l'eau par Inferis.\n💔 Mort à 18 ans, essayant de renverser Seigneur des Ténèbres.\n✍️ Laissa note signée 'R.A.B.' — 'J'affronte la mort dans l'espoir...'\n⚫ Véritable héros dont sacrifice fut inconnu pendant des années."
+    },
+    "image": "images/harry_potter/regulus.jpg",
+    "tags": ["regulus", "sacrifice", "horcrux", "locket", "hero"]
   },
   {
     "year": "1980",
@@ -141,6 +169,20 @@
   },
   {
     "year": "October 31, 1981",
+    "era": "Betrayal",
+    "title": {
+      "en": "Peter Pettigrew's Betrayal",
+      "fr": "Trahison de Peter Pettigrew"
+    },
+    "description": {
+      "en": "🐀 Peter Pettigrew, Secret Keeper, betrayed Potters to Voldemort.\n🔒 Fidelius Charm broken, Voldemort found Godric's Hollow.\n💔 Former best friend revealed as Death Eater spy.\n🎭 Framed Sirius Black for his crimes.\n😈 Killed 12 Muggles with one curse.\n🐀 Faked his own death, lived as rat for 12 years.",
+      "fr": "🐀 Peter Pettigrow, Gardien du Secret, trahit Potters à Voldemort.\n🔒 Charme Fidelitas brisé, Voldemort trouva Godric's Hollow.\n💔 Ancien meilleur ami révélé comme espion Mangemort.\n🎭 Incrimina Sirius Black pour ses crimes.\n😈 Tua 12 Moldus avec un sortilège.\n🐀 Simula sa propre mort, vécut comme rat pendant 12 ans."
+    },
+    "image": "images/harry_potter/pettigrew_betrayal.webp",
+    "tags": ["pettigrew", "betrayal", "secret-keeper", "death-eater", "traitor"]
+  },
+  {
+    "year": "October 31, 1981",
     "era": "The Fall",
     "title": {
       "en": "The Boy Who Lived",
@@ -164,7 +206,7 @@
       "en": "🏠 Harry sent to live with his Muggle aunt and uncle, the Dursleys.\n😢 Treated as a burden, forced to live in a cupboard under the stairs.\n🚫 Never told the truth about his parents or the wizarding world.\n💔 The Dursleys tried to stamp out the magic in him.\n📧 Strange things kept happening around Harry when he was angry or scared.",
       "fr": "🏠 Harry envoyé vivre avec sa tante et son oncle Moldus, les Dursley.\n😢 Traité comme un fardeau, forcé de vivre dans un placard sous l'escalier.\n🚫 Jamais informé de la vérité sur ses parents ou le monde des sorciers.\n💔 Les Dursley tentèrent d'étouffer la magie en lui.\n📧 Des choses étranges continuaient de se produire autour de Harry quand il était en colère ou effrayé."
     },
-    "image": "images/harry_potter/dursleys.jpg",
+    "image": "images/harry_potter/dursleys.png",
     "tags": ["dursleys", "privet-drive", "muggle", "childhood", "abuse"]
   },
   {
@@ -199,12 +241,26 @@
     "year": "1993",
     "era": "Third Year",
     "title": {
-      "en": "Sirius Black",
-      "fr": "Sirius Black"
+      "en": "Dementors at Hogwarts",
+      "fr": "Détraqueurs à Poudlard"
     },
     "description": {
-      "en": "🐺 Sirius Black escaped from Azkaban, supposedly seeking Harry.\n🗺️ Harry received the Marauder's Map showing everyone in Hogwarts.\n🐀 Peter Pettigrew revealed to be alive, disguised as Ron's rat Scabbers.\n💔 Sirius was innocent — Pettigrew betrayed Harry's parents.\n🦌 Harry learned the Patronus Charm, producing a stag like his father.\n⏰ Time-Turner used to save Sirius and Buckbeak the Hippogriff.",
-      "fr": "🐺 Sirius Black s'échappa d'Azkaban, supposément pour chercher Harry.\n🗺️ Harry reçut la Carte du Maraudeur montrant tout le monde à Poudlard.\n🐀 Peter Pettigrow révélé vivant, déguisé en rat de Ron, Croûtard.\n💔 Sirius était innocent — Pettigrow trahit les parents de Harry.\n🦌 Harry apprit le sortilège du Patronus, produisant un cerf comme son père.\n⏰ Retourneur de Temps utilisé pour sauver Sirius et Buck l'Hippogriffe."
+      "en": "😱 Dementors stationed at Hogwarts to catch Sirius Black.\n💀 Harry particularly affected, relived parents' murder.\n🦌 Lupin taught Harry Patronus Charm to defend against them.\n🐺 Discovered Lupin was werewolf, resigned from teaching.\n🌕 Sirius and Lupin revealed truth about Marauders.\n🗺️ Marauders: Moony (Lupin), Wormtail (Pettigrew), Padfoot (Sirius), Prongs (James).",
+      "fr": "😱 Détraqueurs stationnés à Poudlard pour capturer Sirius Black.\n💀 Harry particulièrement affecté, revécut meurtre des parents.\n🦌 Lupin enseigna Patronus à Harry pour se défendre.\n🐺 Découvrit que Lupin était loup-garou, démissionna de l'enseignement.\n🌕 Sirius et Lupin révélèrent vérité sur Maraudeurs.\n🗺️ Maraudeurs: Lunard (Lupin), Queudver (Pettigrew), Patmol (Sirius), Cornedrue (James)."
+    },
+    "image": "images/harry_potter/dementors.jpg",
+    "tags": ["dementors", "patronus", "lupin", "marauders", "fear"]
+  },
+  {
+    "year": "June 1993",
+    "era": "Third Year",
+    "title": {
+      "en": "Sirius Black Escapes",
+      "fr": "Sirius Black s'échappe"
+    },
+    "description": {
+      "en": "🐺 Sirius Black escaped from Azkaban, supposedly seeking Harry.\n🗺️ Harry received the Marauder's Map showing everyone in Hogwarts.\n🐀 Peter Pettigrew revealed to be alive, disguised as Ron's rat Scabbers.\n💔 Sirius was innocent — Pettigrew betrayed Harry's parents.\n🦌 Harry learned the Patronus Charm, producing a stag like his father.\n⏰ Time-Turner used to save Sirius and Buckbeak the Hippogriff.\n🏃 Sirius remained fugitive, couldn't clear his name.",
+      "fr": "🐺 Sirius Black s'échappa d'Azkaban, supposément pour chercher Harry.\n🗺️ Harry reçut la Carte du Maraudeur montrant tout le monde à Poudlard.\n🐀 Peter Pettigrow révélé vivant, déguisé en rat de Ron, Croûtard.\n💔 Sirius était innocent — Pettigrow trahit les parents de Harry.\n🦌 Harry apprit le sortilège du Patronus, produisant un cerf comme son père.\n⏰ Retourneur de Temps utilisé pour sauver Sirius et Buck l'Hippogriffe.\n🏃 Sirius resta fugitif, ne put blanchir son nom."
     },
     "image": "images/harry_potter/sirius.jpg",
     "tags": ["sirius", "prisoner", "marauders", "patronus", "innocence"]
@@ -252,6 +308,20 @@
     "tags": ["dumbledore", "death", "horcrux", "snape", "tragedy"]
   },
   {
+    "year": "December 1997",
+    "era": "Horcrux Hunt",
+    "title": {
+      "en": "Godric's Hollow and Nagini",
+      "fr": "Godric's Hollow et Nagini"
+    },
+    "description": {
+      "en": "🏠 Harry and Hermione visited Harry's birthplace, Godric's Hollow.\n🪦 Paid respects at parents' grave, saw their house memorial.\n👵 Bathilda Bagshot revealed as Nagini in disguise.\n🐍 Voldemort's snake attacked, Harry's wand broken in escape.\n💔 Harry devastated without his wand, felt helpless.\n📖 Discovered clue about Deathly Hallows from Grindelwald symbol.",
+      "fr": "🏠 Harry et Hermione visitèrent lieu de naissance de Harry, Godric's Hollow.\n🪦 Rendirent hommage sur tombe des parents, virent mémorial de maison.\n👵 Bathilda Tourdesac révélée comme Nagini déguisé.\n🐍 Serpent de Voldemort attaqua, baguette de Harry brisée pendant fuite.\n💔 Harry dévasté sans sa baguette, se sentit impuissant.\n📖 Découvrit indice sur Reliques de la Mort du symbole de Grindelwald."
+    },
+    "image": "images/harry_potter/godrics_hollow.jpg",
+    "tags": ["godrics-hollow", "nagini", "wand", "parents", "danger"]
+  },
+  {
     "year": "1997",
     "era": "Second Wizarding War",
     "title": {
@@ -264,6 +334,20 @@
     },
     "image": "images/harry_potter/seven_potters.jpg",
     "tags": ["flight", "horcrux", "hunt", "locket", "trio"]
+  },
+  {
+    "year": "March 1998",
+    "era": "Horcrux Hunt",
+    "title": {
+      "en": "Captured by Snatchers",
+      "fr": "Capturés par les Rafleurs"
+    },
+    "description": {
+      "en": "🎣 Trio captured by Snatchers, taken to Malfoy Manor.\n💎 Hermione tortured by Bellatrix about Gringotts sword.\n🗡️ Dobby rescued them, but was killed by Bellatrix's knife.\n😢 Harry buried Dobby at Shell Cottage, 'Here Lies Dobby, A Free Elf.'\n💔 First real funeral Harry dug with his own hands.\n🏖️ Grieved at Bill and Fleur's seaside cottage.",
+      "fr": "🎣 Trio capturé par Rafleurs, amené au Manoir Malefoy.\n💎 Hermione torturée par Bellatrix à propos de l'épée de Gringotts.\n🗡️ Dobby les sauva, mais fut tué par couteau de Bellatrix.\n😢 Harry enterra Dobby à Shell Cottage, 'Ci-gît Dobby, Un Elfe Libre.'\n💔 Premier vrai enterrement que Harry creusa de ses propres mains.\n🏖️ Fit son deuil au cottage côtier de Bill et Fleur."
+    },
+    "image": "images/harry_potter/dobby_death.jpg",
+    "tags": ["dobby", "death", "malfoy-manor", "snatchers", "sacrifice"]
   },
   {
     "year": "1997-1998",
@@ -322,18 +406,144 @@
     "tags": ["peace", "epilogue", "future", "family", "happy-ending"]
   },
   {
-    "year": "September 1, 2017",
-    "era": "Next Generation",
+    "year": "990s",
+    "era": "Foundation",
     "title": {
-      "en": "Nineteen Years Later",
-      "fr": "Dix-neuf ans plus tard"
+      "en": "Founding of Hogwarts",
+      "fr": "Fondation de Poudlard"
     },
     "description": {
-      "en": "🚂 Harry's son Albus Severus Potter departed for Hogwarts from Platform 9¾.\n👨‍👦 Harry reassured Albus, named after two great wizards.\n🏰 New generation of witches and wizards began their journey.\n💚 'Those we love never truly leave us.'\n✨ The legacy continues — magic lives on.",
-      "fr": "🚂 Le fils de Harry, Albus Severus Potter, partit pour Poudlard depuis la voie 9¾.\n👨‍👦 Harry rassura Albus, nommé d'après deux grands sorciers.\n🏰 Une nouvelle génération de sorcières et sorciers commença leur voyage.\n💚 'Ceux que nous aimons ne nous quittent jamais vraiment.'\n✨ L'héritage continue — la magie perdure."
+      "en": "🏰 Hogwarts School founded around 990 AD by four greatest wizards of the age.\n📚 Created to educate young witches and wizards away from Muggle persecution.\n🎓 Four houses established, each reflecting founder's values.\n🔮 Enchanted castle with moving staircases, talking portraits, hidden passages.\n🛡️ Protected by powerful magic making it Unplottable.\n⚡ 'Draco dormiens nunquam titillandus' — Never tickle a sleeping dragon.",
+      "fr": "🏰 École Poudlard fondée vers 990 après J.-C. par quatre plus grands sorciers de l'époque.\n📚 Créée pour éduquer jeunes sorcières et sorciers loin de persécution Moldue.\n🎓 Quatre maisons établies, chacune reflétant valeurs de son fondateur.\n🔮 Château enchanté avec escaliers mobiles, portraits parlants, passages secrets.\n🛡️ Protégé par magie puissante le rendant incartable.\n⚡ 'Draco dormiens nunquam titillandus' — Ne chatouillez jamais un dragon qui dort."
     },
-    "image": "images/harry_potter/nineteen_years.jpg",
-    "tags": ["next-generation", "albus", "future", "legacy", "platform"]
+    "image": "images/harry_potter/hogwarts_founding.jpg",
+    "tags": ["hogwarts", "founding", "castle", "school", "ancient"]
+  },
+  {
+    "year": "11th Century",
+    "era": "Foundation",
+    "title": {
+      "en": "Salazar's Departure",
+      "fr": "Départ de Salazar"
+    },
+    "description": {
+      "en": "🐍 Salazar Slytherin disagreed with other founders.\n🚫 Wanted to accept only pure-blood students.\n💔 Split with Godric Gryffindor over admissions policy.\n🚪 Built Chamber of Secrets before leaving Hogwarts.\n🐉 Left Basilisk monster to purge school of Muggle-borns.\n👑 Only his true heir could open the Chamber.\n😢 Founders' friendship ended in bitterness.",
+      "fr": "🐍 Salazar Serpentard en désaccord avec autres fondateurs.\n🚫 Voulait accepter seulement étudiants de sang-pur.\n💔 Rupture avec Godric Gryffondor sur politique d'admission.\n🚪 Construisit Chambre des Secrets avant de quitter Poudlard.\n🐉 Laissa monstre Basilic pour purger école des Nés-Moldus.\n👑 Seul son véritable héritier pouvait ouvrir la Chambre.\n😢 Amitié des fondateurs se termina dans amertume."
+    },
+    "image": "images/harry_potter/salazar_departure.webp",
+    "tags": ["slytherin", "chamber", "founders", "split", "pure-blood"]
+  },
+  {
+    "year": "1692",
+    "era": "Secrecy",
+    "title": {
+      "en": "Statute of Secrecy",
+      "fr": "Statut du Secret"
+    },
+    "description": {
+      "en": "� International law requiring wizards to hide from Muggle world.\n🔥 Created after witch burnings and persecution.\n🌍 Wizarding communities worldwide went into hiding.\n🏛️ Ministry of Magic formed to enforce the statute.\n⚖️ Breaking the statute became serious crime.\n👻 Muggles' memories could be modified to maintain secrecy.",
+      "fr": "📜 Loi internationale obligeant sorciers à se cacher du monde Moldu.\n🔥 Créée après bûchers de sorcières et persécution.\n🌍 Communautés de sorciers du monde entier entrèrent dans clandestinité.\n🏛️ Ministère de la Magie formé pour faire respecter le statut.\n⚖️ Enfreindre le statut devint crime grave.\n👻 Souvenirs des Moldus pouvaient être modifiés pour maintenir secret."
+    },
+    "image": "images/harry_potter/statute_secrecy.webp",
+    "tags": ["statute", "secrecy", "ministry", "law", "hiding"]
+  },
+  {
+    "year": "1899",
+    "era": "Tragedy",
+    "title": {
+      "en": "Ariana Dumbledore",
+      "fr": "Ariana Dumbledore"
+    },
+    "description": {
+      "en": "💔 Young Dumbledore befriended Gellert Grindelwald.\n⚰️ Both obsessed with Deathly Hallows and ruling Muggles.\n😢 Three-way duel killed Ariana, Dumbledore's sister.\n🚶 Grindelwald fled, Dumbledore forever guilt-ridden.\n💔 Tragedy shaped Dumbledore's rejection of power.",
+      "fr": "💔 Jeune Dumbledore se lia d'amitié avec Gellert Grindelwald.\n⚰️ Tous deux obsédés par Reliques de la Mort et dominer Moldus.\n😢 Duel à trois tua Ariana, sœur de Dumbledore.\n🚶 Grindelwald s'enfuit, Dumbledore rongé par culpabilité.\n💔 Tragédie façonna rejet du pouvoir par Dumbledore."
+    },
+    "image": "images/harry_potter/ariana.jpg",
+    "tags": ["dumbledore", "grindelwald", "tragedy", "ariana", "hallows"]
+  },
+  {
+    "year": "1945",
+    "era": "Legendary Duel",
+    "title": {
+      "en": "Dumbledore vs Grindelwald",
+      "fr": "Dumbledore contre Grindelwald"
+    },
+    "description": {
+      "en": "⚔️ Legendary duel between two most powerful wizards.\n🌍 Grindelwald terrorized Europe for decades.\n� Greatest wizarding duel in history.\n🏰 Grindelwald imprisoned in Nurmengard.\n🪄 Dumbledore won the Elder Wand.",
+      "fr": "⚔️ Duel légendaire entre deux sorciers les plus puissants.\n🌍 Grindelwald terrorisa Europe pendant décennies.\n💥 Plus grand duel de sorciers de l'histoire.\n🏰 Grindelwald emprisonné à Nurmengard.\n🪄 Dumbledore gagna Baguette de Sureau."
+    },
+    "image": "images/harry_potter/duel_1945.webp",
+    "tags": ["duel", "dumbledore", "grindelwald", "elder-wand", "victory"]
+  },
+  {
+    "year": "1970",
+    "era": "Marauders",
+    "title": {
+      "en": "The Marauders",
+      "fr": "Les Maraudeurs"
+    },
+    "description": {
+      "en": "� James Potter, Sirius Black, Remus Lupin, Peter Pettigrew at Hogwarts.\n🗺️ Created the Marauder's Map.\n🐺 Became Animagi to help Remus during full moons.\n⚡ Prongs (stag), Padfoot (dog), Wormtail (rat), Moony (werewolf).\n🎭 Notorious pranksters at school.",
+      "fr": "👥 James Potter, Sirius Black, Remus Lupin, Peter Pettigrew à Poudlard.\n🗺️ Créèrent Carte du Maraudeur.\n🐺 Devinrent Animagi pour aider Remus durant pleines lunes.\n⚡ Cornedrue (cerf), Patmol (chien), Queudver (rat), Lunard (loup-garou).\n🎭 Farceurs notoires à l'école."
+    },
+    "image": "images/harry_potter/marauders.jpg",
+    "tags": ["marauders", "james", "sirius", "remus", "peter"]
+  },
+  {
+    "year": "2017-2020",
+    "era": "Cursed Child",
+    "title": {
+      "en": "Albus in Slytherin",
+      "fr": "Albus à Serpentard"
+    },
+    "description": {
+      "en": "🐍 Albus Severus sorted into Slytherin, shocking his family.\n� Struggled with being Harry Potter's son.\n� Befriended Scorpius Malfoy, Draco's son.\n⚡ Didn't inherit Harry's talents.\n💔 Strained relationship with father.\n🎭 'Sometimes I wish you weren't my father!'",
+      "fr": "🐍 Albus Severus réparti à Serpentard, choquant sa famille.\n😔 Lutta avec être fils de Harry Potter.\n👥 Se lia d'amitié avec Scorpius Malefoy, fils de Draco.\n⚡ N'hérita pas des talents de Harry.\n💔 Relation tendue avec père.\n🎭 'Parfois je voudrais que tu ne sois pas mon père !'"
+    },
+    "image": "images/harry_potter/albus_slytherin.jpg",
+    "tags": ["albus", "slytherin", "scorpius", "cursed-child", "struggle"]
+  },
+  {
+    "year": "2020",
+    "era": "Cursed Child",
+    "title": {
+      "en": "Time-Turner Mission",
+      "fr": "Mission du Retourneur"
+    },
+    "description": {
+      "en": "⏰ Albus and Scorpius stole experimental Time-Turner.\n💔 Planned to save Cedric Diggory.\n� Created alternate realities with catastrophic consequences.\n😱 In one timeline, Voldemort won.\n🐍 Discovered Voldemort had daughter: Delphi.\n⚡ Must fix timeline and stop Delphi.",
+      "fr": "⏰ Albus et Scorpius volèrent Retourneur de Temps expérimental.\n💔 Planifièrent sauver Cedric Diggory.\n🌀 Créèrent réalités alternatives avec conséquences catastrophiques.\n� Dans une timeline, Voldemort gagna.\n🐍 Découvrirent que Voldemort avait fille : Delphi.\n⚡ Doivent réparer timeline et arrêter Delphi."
+    },
+    "image": "images/harry_potter/time_turner.jpg",
+    "tags": ["time-turner", "albus", "scorpius", "cursed-child", "timeline"]
+  },
+  {
+    "year": "2020",
+    "era": "Cursed Child",
+    "title": {
+      "en": "Voldemort's Daughter",
+      "fr": "Fille de Voldemort"
+    },
+    "description": {
+      "en": "🐍 Delphi revealed as daughter of Voldemort and Bellatrix.\n⚡ Born before Battle of Hogwarts.\n🕰️ Seeks to prevent Voldemort's death.\n💀 Plans to change past at Godric's Hollow.\n⚔️ Harry, Albus, Draco unite to stop her.\n🦅 Final confrontation on night of James and Lily's death.",
+      "fr": "🐍 Delphi révélée comme fille de Voldemort et Bellatrix.\n⚡ Née avant Bataille de Poudlard.\n🕰️ Cherche empêcher mort de Voldemort.\n💀 Planifie changer passé à Godric's Hollow.\n⚔️ Harry, Albus, Draco s'unissent pour l'arrêter.\n🦅 Confrontation finale nuit de mort de James et Lily."
+    },
+    "image": "images/harry_potter/delphi.jpg",
+    "tags": ["delphi", "voldemort", "daughter", "time-travel", "cursed-child"]
+  },
+  {
+    "year": "2020",
+    "era": "Cursed Child",
+    "title": {
+      "en": "Father and Son",
+      "fr": "Père et Fils"
+    },
+    "description": {
+      "en": "💚 Harry and Albus reconcile.\n👥 Friendship between Albus and Scorpius heals old wounds.\n🤝 Draco and Harry make peace.\n⏰ Timeline restored, Delphi imprisoned.\n🏰 Next generation ready for their story.\n⚡ 'Those we love never truly leave us.'",
+      "fr": "💚 Harry et Albus se réconcilient.\n👥 Amitié entre Albus et Scorpius guérit vieilles blessures.\n🤝 Draco et Harry font la paix.\n⏰ Timeline restaurée, Delphi emprisonnée.\n🏰 Nouvelle génération prête pour son histoire.\n⚡ 'Ceux que nous aimons ne nous quittent jamais vraiment.'"
+    },
+    "image": "images/harry_potter/reconciliation.jpg",
+    "tags": ["reconciliation", "father", "son", "peace", "cursed-child"]
   },
   {
     "year": "Throughout",
@@ -346,7 +556,7 @@
       "en": "📚 Brightest witch of her age, Muggle-born genius.\n🧠 Brilliant student, mastered complex magic beyond her years.\n⚔️ Founding member of Dumbledore's Army.\n🗡️ Destroyed Hufflepuff's Cup Horcrux with Basilisk fang.\n💼 Became Minister for Magic, fought for house-elf rights (S.P.E.W.).\n💡 'Books! And cleverness! There are more important things — friendship and bravery.'",
       "fr": "📚 Sorcière la plus brillante de sa génération, génie née-Moldue.\n🧠 Étudiante brillante, maîtrisa une magie complexe au-delà de son âge.\n⚔️ Membre fondatrice de l'Armée de Dumbledore.\n🗡️ Détruisit l'Horcruxe de la Coupe de Poufsouffle avec un croc de Basilic.\n💼 Devint Ministre de la Magie, lutta pour les droits des elfes de maison (S.A.L.E.).\n💡 'Les livres ! Et l'intelligence ! Il y a des choses plus importantes — l'amitié et le courage.'"
     },
-    "image": "images/harry_potter/hermione.jpg",
+    "image": "images/harry_potter/hermione.webp",
     "tags": ["hermione", "granger", "brilliant", "minister", "leader"]
   },
   {
@@ -360,7 +570,7 @@
       "en": "♟️ Harry's loyal best friend, pure-blood from loving Weasley family.\n🎮 Chess master, strategist in times of need.\n🗡️ Destroyed the locket Horcrux with Gryffindor's Sword.\n⚔️ Fought bravely in both wizarding wars.\n💼 Became an Auror alongside Harry.\n💖 'Don't let the Muggles get you down!'",
       "fr": "♟️ Meilleur ami loyal de Harry, sang-pur de la famille Weasley aimante.\n🎮 Maître aux échecs, stratège en temps de besoin.\n🗡️ Détruisit l'Horcruxe du médaillon avec l'épée de Gryffondor.\n⚔️ Combattit courageusement dans les deux guerres de sorciers.\n💼 Devint Auror aux côtés de Harry.\n💖 'Ne laisse pas les Moldus te démoraliser !'"
     },
-    "image": "images/harry_potter/ron.jpg",
+    "image": "images/harry_potter/ron.webp",
     "tags": ["ron", "weasley", "loyal", "friend", "auror"]
   },
   {

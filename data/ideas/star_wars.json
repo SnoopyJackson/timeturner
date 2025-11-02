@@ -1,0 +1,450 @@
+[
+  {
+    "year": "25,000 BBY",
+    "era": "Ancient History",
+    "title": {
+      "en": "Formation of the Galactic Republic",
+      "fr": "Formation de la République Galactique"
+    },
+    "description": {
+      "en": "🏛️ Founding of the Galactic Republic on Coruscant.\n🌟 Thousands of star systems unite under democratic governance.\n⚖️ Galactic Senate established to represent all member worlds.\n🕊️ Beginning of an era of peace and cooperation across the galaxy.\n📜 Republic Constitution written to protect freedom and justice.\n✨ Golden age of exploration and expansion begins.",
+      "fr": "🏛️ Fondation de la République Galactique sur Coruscant.\n🌟 Des milliers de systèmes stellaires s'unissent sous gouvernance démocratique.\n⚖️ Sénat Galactique établi pour représenter tous les mondes membres.\n🕊️ Début d'une ère de paix et coopération à travers la galaxie.\n📜 Constitution de la République écrite pour protéger liberté et justice.\n✨ Âge d'or d'exploration et expansion commence."
+    },
+    "image": "images/star_wars/republic_formation.jpg",
+    "tags": ["republic", "coruscant", "senate", "founding", "ancient"]
+  },
+  {
+    "year": "5,000 BBY",
+    "era": "Ancient History",
+    "title": {
+      "en": "Great Hyperspace War",
+      "fr": "Grande Guerre Hyperspatiale"
+    },
+    "description": {
+      "en": "⚔️ Sith Empire invades Republic space in devastating war.\n🔥 Dark Side users clash with Jedi Order for first time.\n💀 Massive casualties across multiple star systems.\n🏆 Republic and Jedi emerge victorious, Sith retreat.\n📚 Jedi Archives record the threat of the Dark Side.\n⚠️ Sith believed destroyed, but they survive in hiding.",
+      "fr": "⚔️ Empire Sith envahit espace de la République dans guerre dévastatrice.\n🔥 Utilisateurs du Côté Obscur affrontent Ordre Jedi pour première fois.\n💀 Pertes massives à travers plusieurs systèmes stellaires.\n🏆 République et Jedi émergent victorieux, Sith battent en retraite.\n📚 Archives Jedi enregistrent menace du Côté Obscur.\n⚠️ Sith crus détruits, mais survivent dans l'ombre."
+    },
+    "image": "images/star_wars/hyperspace_war.jpg",
+    "tags": ["sith", "war", "jedi", "dark-side", "ancient"]
+  },
+  {
+    "year": "1,000 BBY",
+    "era": "Ancient History",
+    "title": {
+      "en": "Rule of Two Established",
+      "fr": "Règle des Deux Établie"
+    },
+    "description": {
+      "en": "👤 Darth Bane creates Rule of Two after Sith near-extinction.\n🎭 Only two Sith shall exist: one master, one apprentice.\n🔒 Sith operate in secret, plotting revenge against Jedi.\n📖 'Always two there are, no more, no less.'\n⚫ Master holds power, apprentice craves it.\n🕰️ Patient conspiracy spanning a millennium begins.\n😈 Sith will wait generations for ultimate revenge.",
+      "fr": "👤 Dark Bane crée Règle des Deux après quasi-extinction Sith.\n🎭 Seulement deux Sith existeront : un maître, un apprenti.\n🔒 Sith opèrent en secret, complotant vengeance contre Jedi.\n📖 'Toujours deux il y a, pas plus, pas moins.'\n⚫ Maître détient pouvoir, apprenti le convoite.\n🕰️ Conspiration patiente sur un millénaire commence.\n😈 Sith attendront générations pour vengeance ultime."
+    },
+    "image": "images/star_wars/rule_of_two.jpg",
+    "tags": ["sith", "darth-bane", "rule-of-two", "conspiracy", "secret"]
+  },
+  {
+    "year": "896 BBY",
+    "era": "Old Republic",
+    "title": {
+      "en": "Birth of Yoda",
+      "fr": "Naissance de Yoda"
+    },
+    "description": {
+      "en": "👶 Yoda born on unknown planet of mysterious species.\n🌟 Destined to become greatest Jedi Master in history.\n💚 Small in stature but immensely powerful in the Force.\n📚 Will train Jedi for 800 years, teaching wisdom and patience.\n⚖️ His teachings shape entire generations of Jedi Knights.\n🧘 Master of lightsaber combat and Force abilities.",
+      "fr": "👶 Yoda né sur planète inconnue d'espèce mystérieuse.\n🌟 Destiné à devenir plus grand Maître Jedi de l'histoire.\n💚 Petit en stature mais immensément puissant dans la Force.\n📚 Formera Jedi pendant 800 ans, enseignant sagesse et patience.\n⚖️ Ses enseignements façonnent générations entières de Chevaliers Jedi.\n🧘 Maître du combat au sabre laser et capacités de la Force."
+    },
+    "image": "images/star_wars/yoda_young.jpg",
+    "tags": ["yoda", "jedi", "master", "birth", "force"]
+  },
+  {
+    "year": "102 BBY",
+    "era": "Old Republic",
+    "title": {
+      "en": "Birth of Count Dooku",
+      "fr": "Naissance du Comte Dooku"
+    },
+    "description": {
+      "en": "👶 Dooku born into noble family on planet Serenno.\n⚔️ Discovered to be Force-sensitive, taken to Jedi Temple.\n🌟 Becomes one of most skilled Jedi of his generation.\n📚 Trained by Yoda himself in the ways of the Force.\n👑 Retains his title as Count while serving as Jedi.\n💭 Early signs of doubt about Republic's corruption.\n⚠️ Seeds of his eventual fall to Dark Side planted.",
+      "fr": "👶 Dooku né dans famille noble sur planète Serenno.\n⚔️ Découvert sensible à la Force, emmené au Temple Jedi.\n🌟 Devient un des Jedi les plus habiles de sa génération.\n📚 Formé par Yoda lui-même dans les voies de la Force.\n👑 Conserve son titre de Comte tout en servant comme Jedi.\n💭 Premiers signes de doute sur corruption de la République.\n⚠️ Graines de sa chute future au Côté Obscur plantées."
+    },
+    "image": "images/star_wars/dooku_young.jpg",
+    "tags": ["dooku", "jedi", "serenno", "birth", "noble"]
+  },
+  {
+    "year": "92 BBY",
+    "era": "Old Republic",
+    "title": {
+      "en": "Birth of Sheev Palpatine",
+      "fr": "Naissance de Sheev Palpatine"
+    },
+    "description": {
+      "en": "👶 Palpatine born on planet Naboo into wealthy family.\n😈 Discovers Force abilities, secretly trained by Darth Plagueis.\n🎭 Becomes Sith apprentice while maintaining public persona.\n📚 Studies both Jedi and Sith philosophy extensively.\n⚫ Takes name Darth Sidious as Sith Lord.\n🕴️ Begins long game to destroy Jedi and seize galactic power.\n💀 Most patient and cunning Sith in history.",
+      "fr": "👶 Palpatine né sur planète Naboo dans famille riche.\n😈 Découvre capacités de Force, secrètement formé par Dark Plagueis.\n🎭 Devient apprenti Sith tout en maintenant persona publique.\n📚 Étudie philosophie Jedi et Sith extensivement.\n⚫ Prend nom Dark Sidious comme Seigneur Sith.\n🕴️ Commence long jeu pour détruire Jedi et saisir pouvoir galactique.\n💀 Sith le plus patient et rusé de l'histoire."
+    },
+    "image": "images/star_wars/palpatine_young.jpg",
+    "tags": ["palpatine", "sidious", "sith", "naboo", "birth"]
+  },
+  {
+    "year": "72 BBY",
+    "era": "Old Republic",
+    "title": {
+      "en": "Birth of Mace Windu",
+      "fr": "Naissance de Mace Windu"
+    },
+    "description": {
+      "en": "👶 Mace Windu born on planet Haruun Kal.\n⚔️ Taken to Jedi Temple as infant, extremely Force-sensitive.\n💜 Develops unique purple lightsaber, reflecting his mastery.\n🥋 Creates Vaapad fighting style, channels darkness without succumbing.\n📚 Becomes Jedi Master and eventually sits on Jedi Council.\n⚖️ Known for unwavering commitment to Jedi Code.\n🛡️ One of greatest warriors and leaders in Jedi Order.",
+      "fr": "👶 Mace Windu né sur planète Haruun Kal.\n⚔️ Emmené au Temple Jedi comme nourrisson, extrêmement sensible Force.\n💜 Développe unique sabre laser violet, reflétant sa maîtrise.\n🥋 Crée style de combat Vaapad, canalise obscurité sans succomber.\n📚 Devient Maître Jedi et siège finalement au Conseil Jedi.\n⚖️ Connu pour engagement inébranlable au Code Jedi.\n🛡️ Un des plus grands guerriers et leaders de l'Ordre Jedi."
+    },
+    "image": "images/star_wars/mace_windu_young.jpg",
+    "tags": ["mace-windu", "jedi", "council", "birth", "warrior"]
+  },
+  {
+    "year": "57 BBY",
+    "era": "Old Republic",
+    "title": {
+      "en": "Birth of Qui-Gon Jinn",
+      "fr": "Naissance de Qui-Gon Jinn"
+    },
+    "description": {
+      "en": "👶 Qui-Gon Jinn born and brought to Jedi Temple.\n📚 Trained by Count Dooku in Jedi arts.\n🧘 Develops deep connection to Living Force.\n💭 Often questions Jedi Council's rigid interpretations.\n🌟 Becomes maverick Jedi Master who follows his instincts.\n⚖️ Believes in balance and trusting in the Force.\n👨‍🏫 Will eventually train Obi-Wan Kenobi as Padawan.",
+      "fr": "👶 Qui-Gon Jinn né et amené au Temple Jedi.\n📚 Formé par Comte Dooku dans arts Jedi.\n🧘 Développe connexion profonde à Force Vivante.\n💭 Questionne souvent interprétations rigides du Conseil Jedi.\n🌟 Devient Maître Jedi indépendant qui suit ses instincts.\n⚖️ Croit en équilibre et confiance en la Force.\n👨‍🏫 Formera éventuellement Obi-Wan Kenobi comme Padawan."
+    },
+    "image": "images/star_wars/qui_gon_young.jpg",
+    "tags": ["qui-gon", "jedi", "maverick", "birth", "living-force"]
+  },
+  {
+    "year": "41 BBY",
+    "era": "Old Republic",
+    "title": {
+      "en": "Birth of Anakin Skywalker",
+      "fr": "Naissance d'Anakin Skywalker"
+    },
+    "description": {
+      "en": "👶 Anakin born on desert planet Tatooine to slave Shmi Skywalker.\n⭐ No father — conceived by the Force itself.\n🌟 Highest midi-chlorian count ever recorded.\n📜 Prophecy speaks of Chosen One who will bring balance to Force.\n😢 Born into slavery, works as mechanic with his mother.\n💫 Destined to become greatest Jedi, then fall to darkness.\n⚡ His choices will reshape the galaxy for generations.",
+      "fr": "👶 Anakin né sur planète désertique Tatooine d'esclave Shmi Skywalker.\n⭐ Pas de père — conçu par la Force elle-même.\n🌟 Plus haut taux de midi-chloriens jamais enregistré.\n📜 Prophétie parle de l'Élu qui apportera équilibre à la Force.\n😢 Né dans esclavage, travaille comme mécanicien avec sa mère.\n💫 Destiné à devenir plus grand Jedi, puis tomber dans ténèbres.\n⚡ Ses choix remodèleront galaxie pour générations."
+    },
+    "image": "images/star_wars/anakin_birth.jpg",
+    "tags": ["anakin", "chosen-one", "tatooine", "birth", "prophecy"]
+  },
+  {
+    "year": "32 BBY",
+    "era": "Prequel Era",
+    "title": {
+      "en": "The Phantom Menace",
+      "fr": "La Menace Fantôme"
+    },
+    "description": {
+      "en": "🚢 Trade Federation blockades planet Naboo in political dispute.\n👑 Queen Amidala seeks help from Galactic Senate.\n🌟 Qui-Gon Jinn and Obi-Wan Kenobi discover young Anakin on Tatooine.\n🏎️ Anakin wins podrace, earning freedom from slavery.\n⚔️ Qui-Gon killed by mysterious Sith warrior Darth Maul.\n😈 First appearance of Sith in 1,000 years shocks Jedi Order.\n✨ Anakin accepted for Jedi training despite Council's concerns.",
+      "fr": "🚢 Fédération du Commerce bloque planète Naboo dans dispute politique.\n👑 Reine Amidala cherche aide du Sénat Galactique.\n🌟 Qui-Gon Jinn et Obi-Wan Kenobi découvrent jeune Anakin sur Tatooine.\n🏎️ Anakin gagne course de podracers, gagnant liberté de l'esclavage.\n⚔️ Qui-Gon tué par mystérieux guerrier Sith Dark Maul.\n😈 Première apparition de Sith en 1000 ans choque Ordre Jedi.\n✨ Anakin accepté pour formation Jedi malgré inquiétudes du Conseil."
+    },
+    "image": "images/star_wars/phantom_menace.jpg",
+    "tags": ["naboo", "qui-gon", "anakin", "darth-maul", "discovery"]
+  },
+  {
+    "year": "22 BBY",
+    "era": "Clone Wars",
+    "title": {
+      "en": "Attack of the Clones",
+      "fr": "L'Attaque des Clones"
+    },
+    "description": {
+      "en": "💥 Assassination attempts on Senator Padmé Amidala.\n🔍 Obi-Wan discovers secret clone army on Kamino.\n😈 Count Dooku revealed as Separatist leader and Sith Lord.\n⚔️ First Battle of Geonosis begins Clone Wars.\n👨‍👩‍👦 Thousands of Jedi fight alongside clone troopers.\n💔 Anakin and Padmé secretly marry despite Jedi Code.\n🦾 Anakin loses arm in duel with Dooku, receives prosthetic.",
+      "fr": "💥 Tentatives d'assassinat sur Sénatrice Padmé Amidala.\n🔍 Obi-Wan découvre armée de clones secrète sur Kamino.\n😈 Comte Dooku révélé comme leader Séparatiste et Seigneur Sith.\n⚔️ Première Bataille de Geonosis commence Guerres des Clones.\n👨‍👩‍👦 Milliers de Jedi combattent aux côtés de soldats clones.\n💔 Anakin et Padmé se marient secrètement malgré Code Jedi.\n🦾 Anakin perd bras en duel avec Dooku, reçoit prothèse."
+    },
+    "image": "images/star_wars/attack_clones.jpg",
+    "tags": ["clone-wars", "padme", "dooku", "geonosis", "marriage"]
+  },
+  {
+    "year": "22-19 BBY",
+    "era": "Clone Wars",
+    "title": {
+      "en": "The Clone Wars",
+      "fr": "Les Guerres des Clones"
+    },
+    "description": {
+      "en": "⚔️ Galaxy-wide conflict between Republic and Separatists.\n🎖️ Anakin becomes war hero, 'The Hero With No Fear'.\n👥 Jedi serve as generals, leading clone armies into battle.\n🤖 Separatists deploy endless droid armies across systems.\n💔 Jedi stretched thin, warrior monks becoming soldiers.\n🕵️ Palpatine secretly controls both sides of the war.\n😢 Countless lives lost, Republic weakened from within.",
+      "fr": "⚔️ Conflit galactique entre République et Séparatistes.\n🎖️ Anakin devient héros de guerre, 'Le Héros Sans Peur'.\n👥 Jedi servent comme généraux, menant armées clones au combat.\n🤖 Séparatistes déploient armées droïdes infinies à travers systèmes.\n💔 Jedi étendus trop fin, moines guerriers devenant soldats.\n🕵️ Palpatine contrôle secrètement deux côtés de guerre.\n😢 Innombrables vies perdues, République affaiblie de l'intérieur."
+    },
+    "image": "images/star_wars/clone_wars.jpg",
+    "tags": ["clone-wars", "war", "anakin", "jedi", "separatists"]
+  },
+  {
+    "year": "19 BBY",
+    "era": "Fall of the Republic",
+    "title": {
+      "en": "Revenge of the Sith",
+      "fr": "La Revanche des Sith"
+    },
+    "description": {
+      "en": "🛡️ Anakin and Obi-Wan rescue Chancellor Palpatine from Grievous.\n⚔️ Anakin kills Count Dooku in cold blood at Palpatine's urging.\n😰 Anakin tormented by visions of Padmé dying in childbirth.\n😈 Palpatine reveals himself as Darth Sidious, promises to save Padmé.\n💔 Anakin betrays Jedi, becomes Darth Vader to save his wife.\n🏛️ Order 66 activated — clones execute Jedi across galaxy.\n⚔️ Obi-Wan and Anakin duel on Mustafar — Anakin left burning.\n🤖 Vader encased in black armor, transformation complete.",
+      "fr": "🛡️ Anakin et Obi-Wan sauvent Chancelier Palpatine de Grievous.\n⚔️ Anakin tue Comte Dooku de sang froid sur incitation de Palpatine.\n😰 Anakin tourmenté par visions de Padmé mourant en couches.\n😈 Palpatine se révèle comme Dark Sidious, promet de sauver Padmé.\n💔 Anakin trahit Jedi, devient Dark Vader pour sauver sa femme.\n🏛️ Ordre 66 activé — clones exécutent Jedi à travers galaxie.\n⚔️ Obi-Wan et Anakin se battent en duel sur Mustafar — Anakin laissé brûlant.\n🤖 Vader enfermé dans armure noire, transformation complète."
+    },
+    "image": "images/star_wars/revenge_sith.jpg",
+    "tags": ["order-66", "vader", "jedi-purge", "palpatine", "fall"]
+  },
+  {
+    "year": "19 BBY",
+    "era": "Fall of the Republic",
+    "title": {
+      "en": "Birth of the Empire",
+      "fr": "Naissance de l'Empire"
+    },
+    "description": {
+      "en": "👑 Palpatine declares himself Emperor before Galactic Senate.\n🏛️ Republic reorganized into First Galactic Empire.\n👏 'So this is how liberty dies — with thunderous applause.'\n😢 Democracy replaced by authoritarian dictatorship.\n🎖️ Clone troopers become Imperial Stormtroopers.\n⚫ Dark times begin for the galaxy.\n📜 Imperial propaganda spreads, freedom crushed.",
+      "fr": "👑 Palpatine se déclare Empereur devant Sénat Galactique.\n🏛️ République réorganisée en Premier Empire Galactique.\n👏 'C'est ainsi que meurt la liberté — sous des applaudissements tonitruants.'\n😢 Démocratie remplacée par dictature autoritaire.\n🎖️ Soldats clones deviennent Stormtroopers Impériaux.\n⚫ Temps sombres commencent pour galaxie.\n📜 Propagande impériale se répand, liberté écrasée."
+    },
+    "image": "images/star_wars/empire_birth.jpg",
+    "tags": ["empire", "palpatine", "dictatorship", "tyranny", "dark-times"]
+  },
+  {
+    "year": "19 BBY",
+    "era": "New Hope",
+    "title": {
+      "en": "Birth of Luke and Leia",
+      "fr": "Naissance de Luke et Leia"
+    },
+    "description": {
+      "en": "👶👶 Padmé gives birth to twins: Luke and Leia.\n😢 Padmé dies after childbirth, heart broken by Anakin's fall.\n🤫 Twins separated to hide them from Empire and Vader.\n🏜️ Luke sent to Tatooine with Uncle Owen and Aunt Beru.\n👑 Leia adopted by Senator Bail Organa of Alderaan.\n⭐ Both children strong in Force, potential to become Jedi.\n🌟 New hope for galaxy born in darkest hour.",
+      "fr": "👶👶 Padmé donne naissance à jumeaux : Luke et Leia.\n😢 Padmé meurt après accouchement, cœur brisé par chute d'Anakin.\n🤫 Jumeaux séparés pour les cacher de l'Empire et Vader.\n🏜️ Luke envoyé sur Tatooine avec Oncle Owen et Tante Beru.\n👑 Leia adoptée par Sénateur Bail Organa d'Alderaan.\n⭐ Deux enfants forts dans Force, potentiel de devenir Jedi.\n🌟 Nouvel espoir pour galaxie né dans l'heure la plus sombre."
+    },
+    "image": "images/star_wars/twins_birth.jpg",
+    "tags": ["luke", "leia", "birth", "twins", "hope"]
+  },
+  {
+    "year": "19-0 BBY",
+    "era": "Dark Times",
+    "title": {
+      "en": "The Great Jedi Purge",
+      "fr": "La Grande Purge Jedi"
+    },
+    "description": {
+      "en": "💀 Darth Vader hunts surviving Jedi across galaxy.\n⚔️ Inquisitors recruited to track down Force-sensitives.\n😢 Most Jedi killed, Order nearly destroyed.\n🤫 Few survivors go into hiding, live in exile.\n🏛️ Jedi Temples destroyed or converted to Imperial use.\n📚 Jedi artifacts and holocrons seized or destroyed.\n🌑 Knowledge of Force becomes legend and myth.\n⚡ Obi-Wan and Yoda among few who survive.",
+      "fr": "💀 Dark Vader chasse Jedi survivants à travers galaxie.\n⚔️ Inquisiteurs recrutés pour traquer sensibles à Force.\n😢 Plupart des Jedi tués, Ordre presque détruit.\n🤫 Quelques survivants se cachent, vivent en exil.\n🏛️ Temples Jedi détruits ou convertis à usage Impérial.\n📚 Artefacts Jedi et holocrons saisis ou détruits.\n🌑 Connaissance de Force devient légende et mythe.\n⚡ Obi-Wan et Yoda parmi rares survivants."
+    },
+    "image": "images/star_wars/jedi_purge.jpg",
+    "tags": ["purge", "vader", "jedi", "inquisitors", "dark-times"]
+  },
+  {
+    "year": "5-0 BBY",
+    "era": "Rebellion Begins",
+    "title": {
+      "en": "Formation of Rebel Alliance",
+      "fr": "Formation de l'Alliance Rebelle"
+    },
+    "description": {
+      "en": "🔥 Various resistance cells unite against Empire.\n⭐ Senator Bail Organa and Mon Mothma lead organization.\n🛡️ Rebellion fights for freedom and restoration of Republic.\n🕵️ Secret bases established on remote worlds.\n⚔️ Small victories against overwhelming Imperial might.\n📜 Declaration of Rebellion published across galaxy.\n💪 'Rebellions are built on hope.'",
+      "fr": "🔥 Diverses cellules de résistance s'unissent contre Empire.\n⭐ Sénateur Bail Organa et Mon Mothma mènent organisation.\n🛡️ Rébellion combat pour liberté et restauration de République.\n🕵️ Bases secrètes établies sur mondes reculés.\n⚔️ Petites victoires contre puissance Impériale écrasante.\n📜 Déclaration de Rébellion publiée à travers galaxie.\n💪 'Les rébellions se construisent sur l'espoir.'"
+    },
+    "image": "images/star_wars/rebel_alliance.jpg",
+    "tags": ["rebellion", "alliance", "resistance", "hope", "freedom"]
+  },
+  {
+    "year": "0 BBY",
+    "era": "Galactic Civil War",
+    "title": {
+      "en": "A New Hope",
+      "fr": "Un Nouvel Espoir"
+    },
+    "description": {
+      "en": "⭐ Princess Leia steals Death Star plans, captured by Vader.\n🤖 R2-D2 and C-3PO escape with plans to Tatooine.\n🌟 Luke Skywalker meets Obi-Wan Kenobi, learns about Force.\n😢 Stormtroopers kill Luke's aunt and uncle.\n🚀 Luke, Obi-Wan, Han Solo, and Chewbacca rescue Leia from Death Star.\n⚔️ Obi-Wan sacrifices himself in duel with Vader.\n💥 Luke destroys Death Star with Force-guided shot.\n🏆 Rebellion's first major victory against Empire.",
+      "fr": "⭐ Princesse Leia vole plans de l'Étoile de la Mort, capturée par Vader.\n🤖 R2-D2 et C-3PO s'échappent avec plans vers Tatooine.\n🌟 Luke Skywalker rencontre Obi-Wan Kenobi, apprend sur Force.\n😢 Stormtroopers tuent oncle et tante de Luke.\n🚀 Luke, Obi-Wan, Han Solo et Chewbacca sauvent Leia de l'Étoile de la Mort.\n⚔️ Obi-Wan se sacrifie en duel avec Vader.\n💥 Luke détruit Étoile de la Mort avec tir guidé par Force.\n🏆 Première victoire majeure de Rébellion contre Empire."
+    },
+    "image": "images/star_wars/new_hope.jpg",
+    "tags": ["luke", "death-star", "leia", "obi-wan", "rebellion"]
+  },
+  {
+    "year": "3 ABY",
+    "era": "Galactic Civil War",
+    "title": {
+      "en": "The Empire Strikes Back",
+      "fr": "L'Empire Contre-Attaque"
+    },
+    "description": {
+      "en": "❄️ Empire discovers Rebel base on ice planet Hoth.\n⚔️ Imperial forces attack, Rebels forced to evacuate.\n🧘 Luke travels to Dagobah, trained by Jedi Master Yoda.\n💪 'Do or do not. There is no try.'\n😈 Han Solo frozen in carbonite, captured by bounty hunter Boba Fett.\n⚔️ Luke duels Vader on Cloud City, loses hand.\n💔 Vader reveals shocking truth: 'I am your father.'\n😱 Luke traumatized, Rebellion's hope shaken.",
+      "fr": "❄️ Empire découvre base Rebelle sur planète glacée Hoth.\n⚔️ Forces Impériales attaquent, Rebelles forcés d'évacuer.\n🧘 Luke voyage vers Dagobah, formé par Maître Jedi Yoda.\n💪 'Fais-le ou ne le fais pas. Il n'y a pas d'essai.'\n😈 Han Solo congelé dans carbonite, capturé par chasseur de primes Boba Fett.\n⚔️ Luke affronte Vader en duel sur Cité des Nuages, perd main.\n💔 Vader révèle vérité choquante : 'Je suis ton père.'\n😱 Luke traumatisé, espoir de Rébellion ébranlé."
+    },
+    "image": "images/star_wars/empire_strikes.jpg",
+    "tags": ["hoth", "dagobah", "vader", "father", "revelation"]
+  },
+  {
+    "year": "4 ABY",
+    "era": "Galactic Civil War",
+    "title": {
+      "en": "Return of the Jedi",
+      "fr": "Le Retour du Jedi"
+    },
+    "description": {
+      "en": "🏜️ Luke, Leia, and allies rescue Han Solo from Jabba the Hutt.\n🌳 Alliance discovers second Death Star under construction near Endor.\n🐻 Ewoks join Rebellion, help destroy shield generator.\n⚔️ Luke confronts Vader and Emperor on Death Star.\n💔 Luke refuses to kill Vader, declares himself Jedi.\n⚡ Emperor attacks Luke with Force lightning.\n💚 Vader redeems himself, kills Emperor to save son.\n😢 Anakin Skywalker dies redeemed, balance restored to Force.\n🎉 Second Death Star destroyed, Empire defeated.",
+      "fr": "🏜️ Luke, Leia et alliés sauvent Han Solo de Jabba le Hutt.\n🌳 Alliance découvre seconde Étoile de la Mort en construction près Endor.\n🐻 Ewoks rejoignent Rébellion, aident à détruire générateur de bouclier.\n⚔️ Luke confronte Vader et Empereur sur Étoile de la Mort.\n💔 Luke refuse de tuer Vader, se déclare Jedi.\n⚡ Empereur attaque Luke avec éclairs de Force.\n💚 Vader se rachète, tue Empereur pour sauver son fils.\n😢 Anakin Skywalker meurt racheté, équilibre restauré à Force.\n🎉 Seconde Étoile de la Mort détruite, Empire vaincu."
+    },
+    "image": "images/star_wars/return_jedi.jpg",
+    "tags": ["endor", "redemption", "vader", "emperor", "victory"]
+  },
+  {
+    "year": "5-28 ABY",
+    "era": "New Republic",
+    "title": {
+      "en": "The New Republic Era",
+      "fr": "L'Ère de la Nouvelle République"
+    },
+    "description": {
+      "en": "🏛️ New Republic established with Mon Mothma as Chancellor.\n⚖️ Democratic government restored across galaxy.\n🕊️ Imperial remnants continue guerrilla warfare.\n📚 Luke begins rebuilding Jedi Order, searches for Force lore.\n👨‍👩‍👦 Han and Leia marry, have son Ben Solo.\n🌟 Luke trains new generation of Jedi Knights.\n⚠️ Seeds of First Order planted by Imperial survivors.",
+      "fr": "🏛️ Nouvelle République établie avec Mon Mothma comme Chancelière.\n⚖️ Gouvernement démocratique restauré à travers galaxie.\n🕊️ Vestiges Impériaux continuent guerre de guérilla.\n📚 Luke commence à reconstruire Ordre Jedi, cherche savoir Force.\n👨‍👩‍👦 Han et Leia se marient, ont fils Ben Solo.\n🌟 Luke forme nouvelle génération de Chevaliers Jedi.\n⚠️ Graines du Premier Ordre plantées par survivants Impériaux."
+    },
+    "image": "images/star_wars/new_republic.jpg",
+    "tags": ["new-republic", "peace", "luke", "jedi", "rebuilding"]
+  },
+  {
+    "year": "28 ABY",
+    "era": "Dark Times Return",
+    "title": {
+      "en": "Fall of Ben Solo",
+      "fr": "Chute de Ben Solo"
+    },
+    "description": {
+      "en": "😈 Supreme Leader Snoke corrupts Ben Solo from afar.\n💔 Luke senses darkness growing in his nephew.\n🌙 Luke considers killing Ben in moment of weakness.\n😱 Ben awakens, believes Luke betrayed him.\n🔥 Ben destroys Luke's Jedi Temple, kills students.\n⚫ Takes name Kylo Ren, joins Knights of Ren.\n😢 Luke exiles himself, blames himself for failure.\n💀 Snoke completes Ben's fall to Dark Side.",
+      "fr": "😈 Leader Suprême Snoke corrompt Ben Solo de loin.\n💔 Luke sent obscurité grandissant en son neveu.\n🌙 Luke considère tuer Ben dans moment de faiblesse.\n😱 Ben se réveille, croit que Luke l'a trahi.\n🔥 Ben détruit Temple Jedi de Luke, tue étudiants.\n⚫ Prend nom Kylo Ren, rejoint Chevaliers de Ren.\n😢 Luke s'exile, se blâme pour échec.\n💀 Snoke complète chute de Ben au Côté Obscur."
+    },
+    "image": "images/star_wars/ben_fall.jpg",
+    "tags": ["kylo-ren", "ben-solo", "luke", "temple", "betrayal"]
+  },
+  {
+    "year": "34 ABY",
+    "era": "Sequel Era",
+    "title": {
+      "en": "The Force Awakens",
+      "fr": "Le Réveil de la Force"
+    },
+    "description": {
+      "en": "🌟 Rey, scavenger on Jakku, discovers she's Force-sensitive.\n🤖 BB-8 carries map to Luke's location, sought by First Order.\n💥 First Order destroys New Republic capital with Starkiller Base.\n⚔️ Kylo Ren kills his father Han Solo on Starkiller Base.\n💔 Han dies trying to bring Ben back to the light.\n⚡ Rey defeats Kylo in lightsaber duel, escapes.\n🗺️ Rey finds Luke Skywalker on planet Ahch-To.\n🌊 Luke has exiled himself on remote island.",
+      "fr": "🌟 Rey, récupératrice sur Jakku, découvre qu'elle est sensible Force.\n🤖 BB-8 porte carte vers localisation de Luke, recherchée par Premier Ordre.\n💥 Premier Ordre détruit capitale Nouvelle République avec Base Starkiller.\n⚔️ Kylo Ren tue son père Han Solo sur Base Starkiller.\n💔 Han meurt en essayant de ramener Ben vers lumière.\n⚡ Rey vainc Kylo en duel au sabre laser, s'échappe.\n🗺️ Rey trouve Luke Skywalker sur planète Ahch-To.\n🌊 Luke s'est exilé sur île reculée."
+    },
+    "image": "images/star_wars/force_awakens.jpg",
+    "tags": ["rey", "kylo-ren", "first-order", "starkiller", "han-death"]
+  },
+  {
+    "year": "34 ABY",
+    "era": "Sequel Era",
+    "title": {
+      "en": "The Last Jedi",
+      "fr": "Les Derniers Jedi"
+    },
+    "description": {
+      "en": "🏝️ Rey trains with reluctant Luke on Ahch-To.\n💭 Force bond connects Rey and Kylo across galaxy.\n⚔️ Kylo kills Supreme Leader Snoke, becomes Supreme Leader.\n👑 'Let the past die. Kill it, if you have to.'\n🔥 Battle of Crait — Resistance nearly destroyed.\n👻 Luke projects himself across galaxy, confronts Kylo.\n😢 Luke sacrifices himself, becomes one with Force.\n✨ 'The rebellion is reborn today. The war is just beginning.'\n📚 Ancient Jedi texts preserved by Rey.",
+      "fr": "🏝️ Rey s'entraîne avec Luke réticent sur Ahch-To.\n💭 Lien de Force connecte Rey et Kylo à travers galaxie.\n⚔️ Kylo tue Leader Suprême Snoke, devient Leader Suprême.\n👑 'Laisse mourir le passé. Tue-le, si tu dois.'\n🔥 Bataille de Crait — Résistance presque détruite.\n👻 Luke se projette à travers galaxie, confronte Kylo.\n😢 Luke se sacrifie, devient un avec Force.\n✨ 'La rébellion renaît aujourd'hui. La guerre ne fait que commencer.'\n📚 Textes Jedi anciens préservés par Rey."
+    },
+    "image": "images/star_wars/last_jedi.jpg",
+    "tags": ["luke", "rey", "kylo-ren", "crait", "sacrifice"]
+  },
+  {
+    "year": "35 ABY",
+    "era": "Sequel Era",
+    "title": {
+      "en": "The Rise of Skywalker",
+      "fr": "L'Ascension de Skywalker"
+    },
+    "description": {
+      "en": "😱 Emperor Palpatine revealed to be alive on Exegol.\n⚡ 'The dark side of the Force is a pathway to many abilities some consider to be unnatural.'\n🌟 Rey discovers she is Palpatine's granddaughter.\n💔 Kylo Ren redeemed, returns as Ben Solo to help Rey.\n⚔️ Rey and Ben face Palpatine together on Exegol.\n⚡ Palpatine drains their Force energy, restored to full power.\n🌟 Rey channels all Jedi, destroys Palpatine forever.\n😢 Ben gives his life force to resurrect Rey, dies redeemed.\n✨ Rey takes Skywalker name, honors legacy.\n🌅 Twin suns of Tatooine rise — Skywalker saga complete.",
+      "fr": "😱 Empereur Palpatine révélé vivant sur Exegol.\n⚡ 'Le Côté Obscur de la Force mène à des capacités que certains considèrent contre-nature.'\n🌟 Rey découvre qu'elle est petite-fille de Palpatine.\n💔 Kylo Ren racheté, revient comme Ben Solo pour aider Rey.\n⚔️ Rey et Ben affrontent Palpatine ensemble sur Exegol.\n⚡ Palpatine draine leur énergie de Force, restauré pleine puissance.\n🌟 Rey canalise tous les Jedi, détruit Palpatine pour toujours.\n😢 Ben donne sa force vitale pour ressusciter Rey, meurt racheté.\n✨ Rey prend nom Skywalker, honore héritage.\n🌅 Soleils jumeaux de Tatooine se lèvent — saga Skywalker complète."
+    },
+    "image": "images/star_wars/rise_skywalker.jpg",
+    "tags": ["rey", "palpatine", "ben-solo", "exegol", "finale"]
+  },
+  {
+    "year": "Throughout",
+    "era": "Legends",
+    "title": {
+      "en": "The Force",
+      "fr": "La Force"
+    },
+    "description": {
+      "en": "✨ Mystical energy field binding galaxy together.\n⚖️ Light Side brings peace, healing, and harmony.\n⚫ Dark Side fueled by anger, fear, and hatred.\n🧘 Jedi serve as guardians of peace and justice.\n😈 Sith seek power and domination through darkness.\n💫 'The Force will be with you, always.'\n🌟 Balance between light and dark is eternal struggle.",
+      "fr": "✨ Champ d'énergie mystique liant galaxie ensemble.\n⚖️ Côté Lumineux apporte paix, guérison et harmonie.\n⚫ Côté Obscur alimenté par colère, peur et haine.\n🧘 Jedi servent comme gardiens de paix et justice.\n😈 Sith recherchent pouvoir et domination par ténèbres.\n💫 'Que la Force soit avec toi, toujours.'\n🌟 Équilibre entre lumière et obscurité est lutte éternelle."
+    },
+    "image": "images/star_wars/the_force.jpg",
+    "tags": ["force", "jedi", "sith", "light", "dark"]
+  },
+  {
+    "year": "Throughout",
+    "era": "Legends",
+    "title": {
+      "en": "Yoda",
+      "fr": "Yoda"
+    },
+    "description": {
+      "en": "👴 900-year-old Jedi Master, wisest of his Order.\n💚 Small in size but immense in wisdom and power.\n📚 Trained Jedi for 800 years on Coruscant.\n🧘 'Size matters not. Judge me by my size, do you?'\n⚔️ Master of all forms of lightsaber combat.\n👻 Learned secret of Force immortality.\n💭 'Do or do not. There is no try.'\n🌟 His teachings echo through generations.",
+      "fr": "👴 Maître Jedi de 900 ans, le plus sage de son Ordre.\n💚 Petit en taille mais immense en sagesse et pouvoir.\n📚 Forma Jedi pendant 800 ans sur Coruscant.\n🧘 'Taille importe peu. Me juges-tu sur ma taille?'\n⚔️ Maître de toutes formes de combat au sabre laser.\n👻 Apprit secret de l'immortalité de Force.\n💭 'Fais-le ou ne le fais pas. Il n'y a pas d'essai.'\n🌟 Ses enseignements résonnent à travers générations."
+    },
+    "image": "images/star_wars/yoda.jpg",
+    "tags": ["yoda", "master", "wisdom", "jedi", "teacher"]
+  },
+  {
+    "year": "Throughout",
+    "era": "Legends",
+    "title": {
+      "en": "Darth Vader",
+      "fr": "Dark Vador"
+    },
+    "description": {
+      "en": "🤖 Once Anakin Skywalker, now more machine than man.\n⚫ Dark Lord of the Sith, Emperor's enforcer.\n😈 'I find your lack of faith disturbing.'\n⚔️ Feared throughout galaxy for his power and cruelty.\n💔 Haunted by memories of life as Jedi and loss of Padmé.\n👨‍👦 Ultimately redeemed by love for his son Luke.\n✨ 'Tell your sister... you were right about me.'\n🌟 Prophecy fulfilled — brought balance to Force through sacrifice.",
+      "fr": "🤖 Autrefois Anakin Skywalker, maintenant plus machine qu'homme.\n⚫ Seigneur Noir des Sith, exécuteur de l'Empereur.\n😈 'Je trouve votre manque de foi perturbant.'\n⚔️ Craint à travers galaxie pour son pouvoir et cruauté.\n💔 Hanté par souvenirs de vie comme Jedi et perte de Padmé.\n👨‍👦 Finalement racheté par amour pour son fils Luke.\n✨ 'Dis à ta sœur... tu avais raison à mon sujet.'\n🌟 Prophétie accomplie — apporta équilibre à Force par sacrifice."
+    },
+    "image": "images/star_wars/vader.jpg",
+    "tags": ["vader", "anakin", "sith", "redemption", "chosen-one"]
+  },
+  {
+    "year": "Throughout",
+    "era": "Legends",
+    "title": {
+      "en": "Princess Leia Organa",
+      "fr": "Princesse Leia Organa"
+    },
+    "description": {
+      "en": "👑 Princess of Alderaan, leader of Rebel Alliance.\n💪 'Someone has to save our skins!'\n🔥 Fearless, intelligent, and determined fighter for freedom.\n⚡ Strong in Force like her brother Luke.\n👨‍👩‍👦 Marries Han Solo, mother of Ben Solo.\n📜 Becomes General and senator in New Republic.\n⚖️ Dedicated entire life to fighting tyranny.\n✨ Hope and inspiration for entire galaxy.",
+      "fr": "👑 Princesse d'Alderaan, leader de l'Alliance Rebelle.\n💪 'Quelqu'un doit sauver nos peaux!'\n🔥 Combattante intrépide, intelligente et déterminée pour liberté.\n⚡ Forte dans Force comme son frère Luke.\n👨‍👩‍👦 Épouse Han Solo, mère de Ben Solo.\n📜 Devient Générale et sénatrice dans Nouvelle République.\n⚖️ Consacra vie entière à combattre tyrannie.\n✨ Espoir et inspiration pour galaxie entière."
+    },
+    "image": "images/star_wars/leia.jpg",
+    "tags": ["leia", "princess", "rebellion", "general", "leader"]
+  },
+  {
+    "year": "Throughout",
+    "era": "Legends",
+    "title": {
+      "en": "Han Solo",
+      "fr": "Han Solo"
+    },
+    "description": {
+      "en": "🚀 Smuggler turned hero, captain of Millennium Falcon.\n🐕 'Never tell me the odds!'\n💰 Initially motivated by money, finds greater cause.\n👨‍❤️‍👨 Best friend to Chewbacca for decades.\n💕 Falls in love with Leia despite their differences.\n⚔️ Becomes general in Rebel Alliance.\n💔 Killed by son Kylo Ren, dies trying to redeem him.\n✨ Scoundrel with heart of gold.",
+      "fr": "🚀 Contrebandier devenu héros, capitaine du Faucon Millenium.\n🐕 'Ne me dites jamais les probabilités!'\n💰 Initialement motivé par argent, trouve plus grande cause.\n👨‍❤️‍👨 Meilleur ami de Chewbacca pendant décennies.\n💕 Tombe amoureux de Leia malgré leurs différences.\n⚔️ Devient général dans Alliance Rebelle.\n💔 Tué par fils Kylo Ren, meurt en essayant de le racheter.\n✨ Voyou avec cœur d'or."
+    },
+    "image": "images/star_wars/han_solo.jpg",
+    "tags": ["han-solo", "smuggler", "falcon", "scoundrel", "hero"]
+  },
+  {
+    "year": "Throughout",
+    "era": "Legends",
+    "title": {
+      "en": "Obi-Wan Kenobi",
+      "fr": "Obi-Wan Kenobi"
+    },
+    "description": {
+      "en": "⚔️ Jedi Master, trained Anakin and Luke Skywalker.\n🧘 'These aren't the droids you're looking for.'\n💔 Witnessed Anakin's fall, blamed himself for years.\n🏜️ Lived in exile on Tatooine watching over Luke.\n👻 First Jedi to achieve Force immortality.\n💫 'If you strike me down, I shall become more powerful than you can possibly imagine.'\n📚 Wise mentor and skilled warrior.\n✨ Guided Luke from beyond death as Force ghost.",
+      "fr": "⚔️ Maître Jedi, forma Anakin et Luke Skywalker.\n🧘 'Ce ne sont pas les droïdes que vous cherchez.'\n💔 Témoin de chute d'Anakin, se blâma pendant des années.\n🏜️ Vécut en exil sur Tatooine surveillant Luke.\n👻 Premier Jedi à atteindre immortalité de Force.\n💫 'Si tu me frappes, je deviendrai plus puissant que tu ne peux l'imaginer.'\n📚 Mentor sage et guerrier habile.\n✨ Guida Luke au-delà de mort comme fantôme de Force."
+    },
+    "image": "images/star_wars/obi_wan.jpg",
+    "tags": ["obi-wan", "jedi", "master", "mentor", "wise"]
+  },
+  {
+    "year": "Throughout",
+    "era": "Legends",
+    "title": {
+      "en": "Emperor Palpatine",
+      "fr": "Empereur Palpatine"
+    },
+    "description": {
+      "en": "😈 Darth Sidious, most powerful Sith Lord in history.\n🎭 Orchestrated Clone Wars from both sides.\n👑 Destroyed Republic, created Galactic Empire.\n⚡ Master of Force lightning and manipulation.\n🕴️ 'Everything is proceeding as I have foreseen.'\n💀 Killed by Anakin but returned through dark science.\n⚫ Embodiment of pure evil and corruption.\n🔥 Finally destroyed by Rey, all Sith ending with him.",
+      "fr": "😈 Dark Sidious, Seigneur Sith le plus puissant de l'histoire.\n🎭 Orchestra Guerres des Clones des deux côtés.\n👑 Détruisit République, créa Empire Galactique.\n⚡ Maître des éclairs de Force et manipulation.\n🕴️ 'Tout se déroule comme je l'ai prévu.'\n💀 Tué par Anakin mais revenu par science obscure.\n⚫ Incarnation du mal pur et corruption.\n🔥 Finalement détruit par Rey, tous les Sith finissant avec lui."
+    },
+    "image": "images/star_wars/palpatine.jpg",
+    "tags": ["palpatine", "sidious", "emperor", "sith", "evil"]
+  }
+]

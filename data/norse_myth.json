@@ -1,0 +1,268 @@
+[
+  {
+    "year": "Before Time",
+    "era": "Creation",
+    "title": {
+      "en": "Ginnungagap",
+      "fr": "Ginnungagap"
+    },
+    "description": {
+      "en": "🌌 Before all things, there was only Ginnungagap — the yawning void, vast and silent.\n❄️ To the north lay Niflheim, a realm of frost and mist; to the south, Muspelheim, a realm of fire and light.\n🔥 From the clash of ice and flame in this void, the first stirrings of creation began.\n✨ Ginnungagap is not nothingness, but the fertile space where opposites meet and creation awakens.",
+      "fr": "🌌 Avant toute chose, il n’existait que Ginnungagap — le gouffre béant, vaste et silencieux.\n❄️ Au nord se trouvait Niflheim, royaume de glace et de brume ; au sud, Muspelheim, royaume de feu et de lumière.\n🔥 De la rencontre entre la glace et la flamme dans ce vide naquirent les premiers mouvements de la création.\n✨ Ginnungagap n’est pas le néant, mais l’espace fertile où les opposés se rencontrent et où la création s’éveille."
+    },
+    "image": "images/norse_myth/ginnungagap.webp",
+    "tags": ["creation", "void", "primordial", "chaos"]
+  },
+  {
+    "year": "The Dawn of Beings",
+    "era": "Creation",
+    "title": {
+      "en": "Ymir",
+      "fr": "Ymir"
+    },
+    "description": {
+      "en": "❄️ From the melting frost of Ginnungagap came Ymir, the first living being — a giant formed of chaos.\n💧 As he slept, more giants were born from his sweat, giving rise to the race of frost giants.\n🐄 The cosmic cow Audhumla nourished Ymir and licked the salty ice, revealing Búri — ancestor of the gods.\n🌍 Ymir’s body contained the potential of all worlds, destined to become the foundation of existence itself.",
+      "fr": "❄️ De la glace fondue de Ginnungagap naquit Ymir, le premier être vivant — un géant né du chaos.\n💧 Pendant son sommeil, d'autres géants naquirent de sa sueur, donnant naissance à la race des géants du givre.\n🐄 La vache cosmique Audhumla nourrit Ymir et lécha la glace salée, révélant Búri — l’ancêtre des dieux.\n🌍 Le corps d’Ymir contenait le potentiel de tous les mondes, destiné à devenir la base même de l’existence."
+    },
+    "image": "images/norse_myth/ymir.jpg",
+    "tags": ["creation", "giants", "primordial", "cosmos"]
+  },
+  {
+    "year": "Birth of the Gods",
+    "era": "Early Gods",
+    "title": {
+      "en": "Odin, Vili, and Vé",
+      "fr": "Odin, Vili et Vé"
+    },
+    "description": {
+      "en": "⚔️ From Búri’s line came Bor, whose sons were Odin, Vili, and Vé — the first gods.\n💀 They slew Ymir, and from his colossal body they shaped the world: his flesh became earth, his blood the seas, his skull the sky.\n🌟 Odin and his brothers brought order to chaos, creating Midgard, the realm of men.\n🌈 Their act marks the dawn of divine power and the beginning of the Norse cosmos.",
+      "fr": "⚔️ De la lignée de Búri vint Bor, dont les fils étaient Odin, Vili et Vé — les premiers dieux.\n💀 Ils tuèrent Ymir et, de son corps colossal, façonnèrent le monde : sa chair devint la terre, son sang les mers, son crâne le ciel.\n🌟 Odin et ses frères apportèrent l’ordre au chaos, créant Midgard, le royaume des hommes.\n🌈 Leur acte marque l’aube du pouvoir divin et le commencement du cosmos nordique."
+    },
+    "image": "images/norse_myth/odin_vili_ve.jpg",
+    "tags": ["creation", "gods", "odin", "world-creation", "midgard"]
+  },
+  {
+    "year": "Age of Asgard",
+    "era": "Divine Realms",
+    "title": {
+      "en": "Asgard",
+      "fr": "Asgard"
+    },
+    "description": {
+      "en": "🏰 The gods built Asgard high above Midgard, a realm of divine halls and shining bridges.\n⚡ Odin became Allfather, ruling with wisdom and foresight alongside Frigg, Thor, Baldr, and others.\n🌩️ The Æsir embodied war, strength, and order, maintaining balance against the chaotic Jötnar.\n🌿 From this time, the fate of gods and men became intertwined — bound by destiny and the threads of the Norns.",
+      "fr": "🏰 Les dieux bâtirent Asgard, haut au-dessus de Midgard, un royaume de salles divines et de ponts étincelants.\n⚡ Odin devint le Père de Tout, régnant avec sagesse et clairvoyance aux côtés de Frigg, Thor, Baldr et d’autres.\n🌩️ Les Ases incarnaient la guerre, la force et l’ordre, maintenant l’équilibre face aux Jötnar chaotiques.\n🌿 Dès lors, le destin des dieux et des hommes fut lié — tissé par les Nornes."
+    },
+    "image": "images/norse_myth/asgard.jpg",
+    "tags": ["asgard", "aesir", "odin", "thor", "creation", "order"]
+  },
+  {
+    "year": "Age of Wisdom",
+    "era": "The Allfather",
+    "title": {
+      "en": "Odin",
+      "fr": "Odin"
+    },
+    "description": {
+      "en": "👁️ Odin, ever hungry for wisdom, sacrificed one of his eyes at Mimir’s well to gain cosmic insight.\n🪶 He hung himself upon Yggdrasil for nine days and nights, discovering the runes — symbols of divine power.\n⚙️ Odin rules not through brute strength, but through cunning, foresight, and sacrifice.\n🌌 He embodies the endless quest for knowledge and the burden of leadership in a fated world.",
+      "fr": "👁️ Odin, avide de sagesse, sacrifia un de ses yeux au puits de Mimir pour obtenir une connaissance cosmique.\n🪶 Il se pendit à Yggdrasil pendant neuf jours et neuf nuits, découvrant les runes — symboles du pouvoir divin.\n⚙️ Odin règne non par la force brute, mais par la ruse, la clairvoyance et le sacrifice.\n🌌 Il incarne la quête infinie du savoir et le fardeau du leadership dans un monde régi par le destin."
+    },
+    "image": "images/norse_myth/odin.jpg",
+    "tags": ["odin", "wisdom", "sacrifice", "runes", "knowledge"]
+  },
+  {
+    "year": "Age of the Æsir",
+    "era": "The Gods",
+    "title": {
+      "en": "Thor",
+      "fr": "Thor"
+    },
+    "description": {
+      "en": "⚡ Thor, mightiest son of Odin, wields Mjölnir — the hammer that levels mountains and slays giants.\n🌩️ Red-bearded and fierce, he protects both Asgard and Midgard from the chaos of the Jötnar.\n🐐 He rides a chariot pulled by goats Tanngrisnir and Tanngnjóstr, bringing thunder across the sky.\n💪 His strength is unmatched among gods, and his courage unwavering in the face of darkness.",
+      "fr": "⚡ Thor, fils le plus puissant d'Odin, manie Mjölnir — le marteau qui rase les montagnes et tue les géants.\n🌩️ Barbu roux et féroce, il protège Asgard et Midgard du chaos des Jötnar.\n🐐 Il chevauche un chariot tiré par des chèvres Tanngrisnir et Tanngnjóstr, apportant le tonnerre dans le ciel.\n💪 Sa force est sans égale parmi les dieux, et son courage inébranlable face aux ténèbres."
+    },
+    "image": "images/norse_myth/thor.jpg",
+    "tags": ["thor", "thunder", "mjolnir", "strength", "giants"]
+  },
+  {
+    "year": "Age of the Æsir",
+    "era": "The Gods",
+    "title": {
+      "en": "Frigg",
+      "fr": "Frigg"
+    },
+    "description": {
+      "en": "👑 Frigg, wife of Odin and queen of the Æsir, possesses the gift of prophecy and knows all fates.\n🌙 Goddess of marriage, motherhood, and domestic arts, she spins the clouds from her hall Fensalir.\n💔 She sees the future but cannot change it, bearing the burden of foreknowledge.\n🕊️ She is mother to Baldr, the most beloved of gods, whose fate she tried in vain to prevent.",
+      "fr": "👑 Frigg, épouse d'Odin et reine des Ases, possède le don de prophétie et connaît tous les destins.\n🌙 Déesse du mariage, de la maternité et des arts domestiques, elle file les nuages de sa salle Fensalir.\n💔 Elle voit l'avenir mais ne peut le changer, portant le fardeau de la prescience.\n🕊️ Elle est mère de Baldr, le plus aimé des dieux, dont elle tenta en vain de prévenir le destin."
+    },
+    "image": "images/norse_myth/frigg.webp",
+    "tags": ["frigg", "queen", "prophecy", "motherhood", "fate"]
+  },
+  {
+    "year": "Age of the Æsir",
+    "era": "The Gods",
+    "title": {
+      "en": "Loki",
+      "fr": "Loki"
+    },
+    "description": {
+      "en": "🎭 Loki, blood brother to Odin, is a shapeshifter of giant blood who dwells among the gods.\n🔥 Cunning, charming, and dangerous, he brings both solutions and disasters to Asgard.\n🐍 Father of monsters: the wolf Fenrir, the serpent Jörmungandr, and Hel, goddess of death.\n⚡ His mischief grows darker over time, leading ultimately to betrayal and the doom of gods.",
+      "fr": "🎭 Loki, frère de sang d'Odin, est un métamorphe de sang géant qui demeure parmi les dieux.\n🔥 Rusé, charmant et dangereux, il apporte à la fois solutions et désastres à Asgard.\n🐍 Père de monstres : le loup Fenrir, le serpent Jörmungandr et Hel, déesse de la mort.\n⚡ Ses méfaits s'assombrissent avec le temps, menant finalement à la trahison et la perte des dieux."
+    },
+    "image": "images/norse_myth/loki.jpg",
+    "tags": ["loki", "trickster", "shapeshifter", "chaos", "betrayal"]
+  },
+  {
+    "year": "Age of the Æsir",
+    "era": "The Gods",
+    "title": {
+      "en": "Týr",
+      "fr": "Týr"
+    },
+    "description": {
+      "en": "⚔️ Týr, the one-handed god, embodies courage, honor, and the law of combat.\n🐺 He sacrificed his right hand to bind Fenrir, placing it in the wolf's mouth as pledge of good faith.\n⚖️ When the gods broke their oath and trapped Fenrir, the wolf bit off Týr's hand.\n💪 Despite his loss, Týr remains the bravest of the Æsir, willing to sacrifice for the greater good.",
+      "fr": "⚔️ Týr, le dieu manchot, incarne courage, honneur et loi du combat.\n🐺 Il sacrifia sa main droite pour lier Fenrir, la plaçant dans la gueule du loup en gage de bonne foi.\n⚖️ Quand les dieux brisèrent leur serment et piégèrent Fenrir, le loup arracha la main de Týr.\n💪 Malgré sa perte, Týr reste le plus brave des Ases, prêt à se sacrifier pour le bien commun."
+    },
+    "image": "images/norse_myth/tyr.jpg",
+    "tags": ["tyr", "war", "justice", "sacrifice", "courage"]
+  },
+  {
+    "year": "Age of the Vanir",
+    "era": "The Gods",
+    "title": {
+      "en": "Freya",
+      "fr": "Freyja"
+    },
+    "description": {
+      "en": "💖 Freya, most beautiful of the Vanir, is goddess of love, fertility, beauty, and battle.\n✨ She wears the precious necklace Brísingamen and rides a chariot pulled by cats.\n⚔️ She claims half of the slain warriors in battle, bringing them to her hall Fólkvangr.\n🪶 Mistress of seiðr magic, she taught Odin the arts of prophecy and transformation.",
+      "fr": "💖 Freyja, la plus belle des Vanes, est déesse de l'amour, de la fertilité, de la beauté et de la bataille.\n✨ Elle porte le précieux collier Brísingamen et chevauche un chariot tiré par des chats.\n⚔️ Elle revendique la moitié des guerriers tués au combat, les amenant à sa salle Fólkvangr.\n🪶 Maîtresse de la magie seiðr, elle enseigna à Odin les arts de prophétie et transformation."
+    },
+    "image": "images/norse_myth/freya.jpg",
+    "tags": ["freya", "love", "war", "magic", "beauty"]
+  },
+  {
+    "year": "Age of the Vanir",
+    "era": "The Gods",
+    "title": {
+      "en": "Freyr",
+      "fr": "Freyr"
+    },
+    "description": {
+      "en": "🌾 Freyr, brother of Freya and lord of the Vanir, brings prosperity, sunshine, and rain.\n⚔️ He owns the magical ship Skíðblaðnir and the golden boar Gullinbursti.\n💔 He gave away his sword for love of the giantess Gerðr, leaving him weaponless for Ragnarök.\n☀️ He ensures bountiful harvests and is invoked for peace and plenty.",
+      "fr": "🌾 Freyr, frère de Freyja et seigneur des Vanes, apporte prospérité, soleil et pluie.\n⚔️ Il possède le navire magique Skíðblaðnir et le sanglier doré Gullinbursti.\n💔 Il donna son épée par amour pour la géante Gerðr, le laissant sans arme pour Ragnarök.\n☀️ Il assure récoltes abondantes et est invoqué pour paix et abondance."
+    },
+    "image": "images/norse_myth/freyr.jpg",
+    "tags": ["freyr", "fertility", "prosperity", "harvest", "peace"]
+  },
+  {
+    "year": "Age of the Æsir",
+    "era": "The Gods",
+    "title": {
+      "en": "Heimdall",
+      "fr": "Heimdall"
+    },
+    "description": {
+      "en": "🌈 Heimdall, the white god, guards Bifröst bridge connecting Asgard to other realms.\n👂 His senses are so acute he can hear grass growing and see for hundreds of miles.\n📯 He possesses Gjallarhorn, whose blast will summon gods to the final battle.\n⚔️ At Ragnarök, he and Loki will slay each other in their destined duel.",
+      "fr": "🌈 Heimdall, le dieu blanc, garde le pont Bifröst reliant Asgard aux autres royaumes.\n👂 Ses sens sont si aiguisés qu'il peut entendre l'herbe pousser et voir à des centaines de kilomètres.\n📯 Il possède Gjallarhorn, dont le son convoquera les dieux à la bataille finale.\n⚔️ À Ragnarök, lui et Loki s'entre-tueront dans leur duel destiné."
+    },
+    "image": "images/norse_myth/heimdall.jpg",
+    "tags": ["heimdall", "guardian", "bifrost", "watchman", "senses"]
+  },
+  {
+    "year": "Age of Heroes",
+    "era": "Mythic Events",
+    "title": {
+      "en": "Asgard's Wall",
+      "fr": "Le Mur d'Asgard"
+    },
+    "description": {
+      "en": "🏰 A mysterious builder offers to fortify Asgard with an impregnable wall in exchange for Freya, the sun, and moon.\n🐴 The gods agree if he completes it in one winter, aided only by his stallion Svaðilfari.\n🎭 Loki transforms into a mare to distract the stallion, preventing completion.\n😈 The builder reveals himself as a giant — Thor slays him with Mjölnir.\n🐴 Loki later gives birth to Sleipnir, Odin's eight-legged horse.",
+      "fr": "🏰 Un constructeur mystérieux offre de fortifier Asgard avec un mur imprenable en échange de Freyja, du soleil et de la lune.\n🐴 Les dieux acceptent s'il termine en un hiver, aidé seulement de son étalon Svaðilfari.\n🎭 Loki se transforme en jument pour distraire l'étalon, empêchant l'achèvement.\n😈 Le constructeur se révèle être un géant — Thor le tue avec Mjölnir.\n🐴 Loki donne plus tard naissance à Sleipnir, le cheval à huit pattes d'Odin."
+    },
+    "image": "images/norse_myth/asgard_wall.webp",
+    "tags": ["asgard", "loki", "thor", "giants", "trickery"]
+  },
+  {
+    "year": "Age of Heroes",
+    "era": "Mythic Events",
+    "title": {
+      "en": "Thor's Fishing",
+      "fr": "Pêche de Thor"
+    },
+    "description": {
+      "en": "🎣 Thor goes fishing with the giant Hymir, using an ox head as bait.\n🐍 He hooks Jörmungandr, the World Serpent, and begins to pull it from the depths.\n⚡ Thor raises Mjölnir to strike the serpent, but Hymir cuts the line in terror.\n🌊 The serpent sinks back into the ocean — their final battle postponed until Ragnarök.\n💪 Thor's rage is terrible — he strikes Hymir and walks home across the sea.",
+      "fr": "🎣 Thor va pêcher avec le géant Hymir, utilisant une tête de bœuf comme appât.\n🐍 Il ferre Jörmungandr, le Serpent du Monde, et commence à le tirer des profondeurs.\n⚡ Thor lève Mjölnir pour frapper le serpent, mais Hymir coupe la ligne de terreur.\n🌊 Le serpent replonge dans l'océan — leur bataille finale reportée jusqu'à Ragnarök.\n💪 La rage de Thor est terrible — il frappe Hymir et rentre chez lui en marchant sur la mer."
+    },
+    "image": "images/norse_myth/thor_fishing.webp",
+    "tags": ["thor", "jormungandr", "fishing", "serpent", "giants"]
+  },
+  {
+    "year": "Age of Heroes",
+    "era": "Mythic Events",
+    "title": {
+      "en": "Death of Baldr",
+      "fr": "Mort de Baldr"
+    },
+    "description": {
+      "en": "💔 Baldr dreams of his death — Frigg makes all things swear not to harm him.\n🎯 The gods amuse themselves throwing objects at invulnerable Baldr.\n🌿 Loki discovers mistletoe was overlooked, fashions it into a dart.\n😈 He tricks blind Höðr into throwing it — Baldr dies, piercing the gods with grief.\n🔥 Hermod rides to Hel to bargain for Baldr's return.\n😢 Hel agrees if all things weep for Baldr — only one giantess (Loki in disguise) refuses.\n⛓️ Baldr remains in Hel until after Ragnarök.",
+      "fr": "💔 Baldr rêve de sa mort — Frigg fait jurer à toutes choses de ne pas lui nuire.\n🎯 Les dieux s'amusent à lancer des objets sur Baldr invulnérable.\n🌿 Loki découvre que le gui fut oublié, le façonne en dard.\n😈 Il trompe Höðr l'aveugle pour le lancer — Baldr meurt, transperçant les dieux de chagrin.\n🔥 Hermod chevauche vers Hel pour négocier le retour de Baldr.\n😢 Hel accepte si toutes choses pleurent pour Baldr — seule une géante (Loki déguisé) refuse.\n⛓️ Baldr reste en Hel jusqu'après Ragnarök."
+    },
+    "image": "images/norse_myth/baldr_death.jpg",
+    "tags": ["baldr", "death", "loki", "mistletoe", "tragedy"]
+  },
+  {
+    "year": "Age of Heroes",
+    "era": "Mythic Events",
+    "title": {
+      "en": "Binding of Fenrir",
+      "fr": "Enchaînement de Fenrir"
+    },
+    "description": {
+      "en": "🐺 Fenrir, Loki's monstrous wolf son, grows so large the gods fear him.\n⛓️ They challenge him to test his strength against magical chains.\n💪 He breaks Leyding and Dromi easily, growing ever stronger.\n🧵 Dwarves forge Gleipnir from impossible things: cat's footfall, woman's beard, mountain's roots, bear's sinews, fish's breath, bird's spittle.\n🤝 Fenrir agrees to be bound only if a god places a hand in his mouth.\n✋ Týr volunteers — when Fenrir cannot break free, he bites off Týr's hand.\n😈 Fenrir remains bound until Ragnarök, when he will break free to devour Odin.",
+      "fr": "🐺 Fenrir, fils loup monstrueux de Loki, grandit tant que les dieux le craignent.\n⛓️ Ils le défient de tester sa force contre des chaînes magiques.\n💪 Il brise Leyding et Dromi facilement, devenant toujours plus fort.\n🧵 Les nains forgent Gleipnir de choses impossibles : pas de chat, barbe de femme, racines de montagne, tendons d'ours, souffle de poisson, salive d'oiseau.\n🤝 Fenrir accepte d'être lié seulement si un dieu place sa main dans sa gueule.\n✋ Týr se porte volontaire — quand Fenrir ne peut se libérer, il arrache la main de Týr.\n😈 Fenrir reste lié jusqu'à Ragnarök, quand il se libérera pour dévorer Odin."
+    },
+    "image": "images/norse_myth/fenrir_binding.jpg",
+    "tags": ["fenrir", "tyr", "binding", "wolf", "prophecy"]
+  },
+  {
+    "year": "Age of Heroes",
+    "era": "Mythic Events",
+    "title": {
+      "en": "Theft of Mjölnir",
+      "fr": "Vol de Mjölnir"
+    },
+    "description": {
+      "en": "😱 Thor awakens to find Mjölnir stolen — Loki learns the giant Thrym has taken it.\n💍 Thrym demands Freya as bride in exchange for the hammer's return.\n🎭 Heimdall suggests Thor disguise himself as Freya to retrieve it.\n👰 Thor dresses in bridal clothes, accompanied by Loki as bridesmaid.\n🔨 At the wedding feast, Thrym places Mjölnir on the bride's lap to consecrate the union.\n⚡ Thor seizes his hammer and slays Thrym and all the giants present.\n😂 The gods mock Thor for his bridal disguise, but Mjölnir is recovered.",
+      "fr": "😱 Thor se réveille pour découvrir Mjölnir volé — Loki apprend que le géant Thrym l'a pris.\n💍 Thrym exige Freyja comme épouse en échange du retour du marteau.\n🎭 Heimdall suggère à Thor de se déguiser en Freyja pour le récupérer.\n👰 Thor s'habille en tenue nuptiale, accompagné de Loki comme demoiselle d'honneur.\n🔨 Au festin de mariage, Thrym place Mjölnir sur les genoux de la mariée pour consacrer l'union.\n⚡ Thor saisit son marteau et tue Thrym et tous les géants présents.\n😂 Les dieux se moquent de Thor pour son déguisement nuptial, mais Mjölnir est récupéré."
+    },
+    "image": "images/norse_myth/thor_bride.webp",
+    "tags": ["thor", "mjolnir", "loki", "giants", "trickery"]
+  },
+  {
+    "year": "Age of Heroes",
+    "era": "Mythic Events",
+    "title": {
+      "en": "Punishment of Loki",
+      "fr": "Châtiment de Loki"
+    },
+    "description": {
+      "en": "😈 After engineering Baldr's death, Loki flees and hides in a waterfall as a salmon.\n🎣 The gods catch him with a net of his own design.\n⛓️ They bind him to three rocks with the entrails of his own son.\n🐍 Skadi places a venomous serpent above him, dripping poison onto his face.\n💕 His wife Sigyn holds a bowl to catch the venom, but when she empties it, drops fall on Loki.\n🌍 His writhing in agony causes earthquakes throughout the world.\n🔥 He will remain bound until Ragnarök, when he breaks free to lead giants against the gods.",
+      "fr": "😈 Après avoir orchestré la mort de Baldr, Loki fuit et se cache dans une cascade sous forme de saumon.\n🎣 Les dieux le capturent avec un filet de sa propre conception.\n⛓️ Ils le lient à trois rochers avec les entrailles de son propre fils.\n🐍 Skadi place un serpent venimeux au-dessus de lui, gouttant poison sur son visage.\n💕 Sa femme Sigyn tient un bol pour attraper le venin, mais quand elle le vide, des gouttes tombent sur Loki.\n🌍 Ses contorsions d'agonie causent tremblements de terre à travers le monde.\n🔥 Il restera lié jusqu'à Ragnarök, quand il se libérera pour mener les géants contre les dieux."
+    },
+    "image": "images/norse_myth/loki_punishment.jpg",
+    "tags": ["loki", "punishment", "binding", "sigyn", "torture"]
+  },
+  {
+    "year": "Final Era",
+    "era": "Ragnarök",
+    "title": {
+      "en": "Ragnarök",
+      "fr": "Ragnarök"
+    },
+    "description": {
+      "en": "🔥 Ragnarök — the prophesied end when gods and giants clash in the final battle.\n🐍 Jörmungandr rises from the sea, Fenrir breaks his bonds, and Surtr sets the world aflame.\n⚔️ Odin falls to Fenrir, Thor to the serpent, and Asgard is consumed by fire.\n🌱 Yet from the ashes, a new world will rise — reborn, purified, and green once more.",
+      "fr": "🔥 Ragnarök — la fin prophétisée où dieux et géants s’affrontent dans la bataille finale.\n🐍 Jörmungandr surgit de la mer, Fenrir brise ses chaînes, et Surtr embrase le monde.\n⚔️ Odin tombe face à Fenrir, Thor face au serpent, et Asgard est consumée par les flammes.\n🌱 Mais des cendres renaîtra un nouveau monde — purifié, verdoyant et prêt à recommencer."
+    },
+    "image": "images/norse_myth/ragnarok.jpg",
+    "tags": ["ragnarok", "apocalypse", "rebirth", "end-times", "renewal"]
+  }
+]
