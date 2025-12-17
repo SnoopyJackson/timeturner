@@ -1,0 +1,450 @@
+[
+  {
+    "year": "469–399 BC",
+    "era": "Ancient Greek Philosophy",
+    "title": {
+      "en": "Socrates",
+      "fr": "Socrate"
+    },
+    "description": {
+      "en": "🏛️ Father of Western philosophy, founder of Socratic method\n💭 'The unexamined life is not worth living'\n📚 Themes: Ethics, virtue, knowledge, self-examination\n🔍 Philosophy: Questioned assumptions, sought truth through dialogue, believed virtue is knowledge\n⚖️ Executed by Athens for 'corrupting youth', refused to escape",
+      "fr": "🏛️ Père de la philosophie occidentale, fondateur de la méthode socratique\n💭 'Une vie sans examen ne vaut pas la peine d'être vécue'\n📚 Thèmes : Éthique, vertu, connaissance, examen de soi\n🔍 Philosophie : Questionnait les présupposés, cherchait la vérité par le dialogue, croyait que la vertu est connaissance\n⚖️ Exécuté par Athènes pour 'corruption de la jeunesse', refusa de s'échapper"
+    },
+    "image": "images/philosophy/socrates.webp",
+    "tags": ["ancient", "greek", "ethics", "dialectic"]
+  },
+  {
+    "year": "428–348 BC",
+    "era": "Ancient Greek Philosophy",
+    "title": {
+      "en": "Plato",
+      "fr": "Platon"
+    },
+    "description": {
+      "en": "🏛️ Student of Socrates, founder of the Academy\n💭 'The measure of a man is what he does with power'\n📚 Themes: Idealism, forms, justice, knowledge, politics\n🔍 Philosophy: Theory of Forms (perfect ideals exist beyond physical world), divided soul (reason/spirit/appetite), philosopher-kings should rule\n📖 Famous works: The Republic, Symposium, Allegory of the Cave",
+      "fr": "🏛️ Élève de Socrate, fondateur de l'Académie\n💭 'La mesure d'un homme est ce qu'il fait avec le pouvoir'\n📚 Thèmes : Idéalisme, formes, justice, connaissance, politique\n🔍 Philosophie : Théorie des Formes (idéaux parfaits existent au-delà du monde physique), âme tripartite (raison/courage/appétit), les philosophes-rois devraient gouverner\n📖 Œuvres célèbres : La République, Le Banquet, Allégorie de la Caverne"
+    },
+    "image": "images/philosophy/plato.jpg",
+    "tags": ["ancient", "greek", "idealism", "forms"]
+  },
+  {
+    "year": "384–322 BC",
+    "era": "Ancient Greek Philosophy",
+    "title": {
+      "en": "Aristotle",
+      "fr": "Aristote"
+    },
+    "description": {
+      "en": "🏛️ Student of Plato, tutor of Alexander the Great\n💭 'We are what we repeatedly do. Excellence, then, is not an act, but a habit'\n📚 Themes: Logic, metaphysics, ethics, politics, natural sciences\n🔍 Philosophy: Empiricism, virtue ethics (golden mean), four causes, teleology, the unmoved mover\n🌟 Founded Western logic, systematic classification of knowledge",
+      "fr": "🏛️ Élève de Platon, précepteur d'Alexandre le Grand\n💭 'Nous sommes ce que nous faisons répétitivement. L'excellence n'est donc pas un acte, mais une habitude'\n📚 Thèmes : Logique, métaphysique, éthique, politique, sciences naturelles\n🔍 Philosophie : Empirisme, éthique de la vertu (juste milieu), quatre causes, téléologie, le premier moteur immobile\n🌟 Fonda la logique occidentale, classification systématique du savoir"
+    },
+    "image": "images/philosophy/aristotle.webp",
+    "tags": ["ancient", "greek", "logic", "empiricism"]
+  },
+  {
+    "year": "341–270 BC",
+    "era": "Hellenistic Philosophy",
+    "title": {
+      "en": "Epicurus",
+      "fr": "Épicure"
+    },
+    "description": {
+      "en": "🌿 Founder of Epicureanism, philosophy of happiness\n💭 'Not what we have but what we enjoy constitutes our abundance'\n📚 Themes: Pleasure, happiness, atomism, mortality\n🔍 Philosophy: Pursue simple pleasures, avoid pain, friendship is key to happiness, no afterlife (atoms disperse at death), gods don't intervene\n☮️ Advocated withdrawal from politics, living in modest communities",
+      "fr": "🌿 Fondateur de l'épicurisme, philosophie du bonheur\n💭 'Ce n'est pas ce que nous avons mais ce dont nous jouissons qui constitue notre abondance'\n📚 Thèmes : Plaisir, bonheur, atomisme, mortalité\n🔍 Philosophie : Rechercher les plaisirs simples, éviter la douleur, l'amitié est clé du bonheur, pas d'au-delà (atomes se dispersent à la mort), les dieux n'interviennent pas\n☮️ Prônait le retrait de la politique, vie en communautés modestes"
+    },
+    "image": "images/philosophy/epicurus.jpg",
+    "tags": ["hellenistic", "greek", "epicureanism", "pleasure"]
+  },
+  {
+    "year": "334–262 BC",
+    "era": "Hellenistic Philosophy",
+    "title": {
+      "en": "Zeno of Citium",
+      "fr": "Zénon de Citium"
+    },
+    "description": {
+      "en": "🏛️ Founder of Stoicism, taught at Stoa Poikile (painted porch)\n💭 'Man conquers the world by conquering himself'\n📚 Themes: Virtue, reason, fate, self-control, cosmopolitanism\n🔍 Philosophy: Live according to nature/reason, accept what you cannot control, virtue is the only good, emotions stem from false judgments\n🌍 All humans are part of universal rational order",
+      "fr": "🏛️ Fondateur du stoïcisme, enseignait au Stoa Poikile (portique peint)\n💭 'L'homme conquiert le monde en se conquérant lui-même'\n📚 Thèmes : Vertu, raison, destin, maîtrise de soi, cosmopolitisme\n🔍 Philosophie : Vivre selon la nature/raison, accepter ce qu'on ne peut contrôler, la vertu est le seul bien, les émotions viennent de faux jugements\n🌍 Tous les humains font partie de l'ordre rationnel universel"
+    },
+    "image": "images/philosophy/zeno.jpg",
+    "tags": ["hellenistic", "stoicism", "virtue", "reason"]
+  },
+  {
+    "year": "4 BC–65 AD",
+    "era": "Roman Philosophy",
+    "title": {
+      "en": "Seneca the Younger",
+      "fr": "Sénèque le Jeune"
+    },
+    "description": {
+      "en": "🏛️ Stoic philosopher, advisor to Emperor Nero, playwright\n💭 'Luck is what happens when preparation meets opportunity'\n📚 Themes: Stoicism, ethics, time, mortality, adversity\n🔍 Philosophy: Master your emotions, use time wisely, hardship builds character, practice voluntary discomfort, death is natural\n⚔️ Forced to commit suicide by Nero after being accused of conspiracy",
+      "fr": "🏛️ Philosophe stoïcien, conseiller de l'empereur Néron, dramaturge\n💭 'La chance, c'est quand la préparation rencontre l'opportunité'\n📚 Thèmes : Stoïcisme, éthique, temps, mortalité, adversité\n🔍 Philosophie : Maîtriser ses émotions, utiliser le temps sagement, l'épreuve forge le caractère, pratiquer l'inconfort volontaire, la mort est naturelle\n⚔️ Forcé au suicide par Néron après avoir été accusé de complot"
+    },
+    "image": "images/philosophy/seneca.jpg",
+    "tags": ["roman", "stoicism", "ethics", "mortality"]
+  },
+  {
+    "year": "121–180 AD",
+    "era": "Roman Philosophy",
+    "title": {
+      "en": "Marcus Aurelius",
+      "fr": "Marc Aurèle"
+    },
+    "description": {
+      "en": "👑 Roman Emperor and Stoic philosopher, 'Philosopher King'\n💭 'You have power over your mind - not outside events. Realize this, and you will find strength'\n📚 Themes: Stoicism, duty, acceptance, inner peace\n🔍 Philosophy: Focus on what you can control, accept fate, be virtuous, impermanence of all things, serve the common good\n📖 Meditations: personal journal, never meant for publication",
+      "fr": "👑 Empereur romain et philosophe stoïcien, 'Roi Philosophe'\n💭 'Tu as pouvoir sur ton esprit - pas sur les événements extérieurs. Réalise cela, et tu trouveras la force'\n📚 Thèmes : Stoïcisme, devoir, acceptation, paix intérieure\n🔍 Philosophie : Se concentrer sur ce qu'on peut contrôler, accepter le destin, être vertueux, impermanence de toutes choses, servir le bien commun\n📖 Pensées pour moi-même : journal personnel, jamais destiné à publication"
+    },
+    "image": "images/philosophy/marcus_aurelius.jpg",
+    "tags": ["roman", "stoicism", "emperor", "meditations"]
+  },
+  {
+    "year": "354–430",
+    "era": "Medieval Philosophy",
+    "title": {
+      "en": "Augustine of Hippo",
+      "fr": "Augustin d'Hippone"
+    },
+    "description": {
+      "en": "⛪ Christian theologian and philosopher, Church Father\n💭 'The world is a book, and those who do not travel read only one page'\n📚 Themes: Faith, reason, time, evil, free will, grace\n🔍 Philosophy: Reconciled Christianity with Platonism, problem of evil (privation of good), predestination, just war theory\n📖 Confessions: autobiography and spiritual journey",
+      "fr": "⛪ Théologien et philosophe chrétien, Père de l'Église\n💭 'Le monde est un livre, et ceux qui ne voyagent pas n'en lisent qu'une page'\n📚 Thèmes : Foi, raison, temps, mal, libre arbitre, grâce\n🔍 Philosophie : Réconcilia christianisme et platonisme, problème du mal (privation du bien), prédestination, théorie de la guerre juste\n📖 Confessions : autobiographie et voyage spirituel"
+    },
+    "image": "images/philosophy/augustine.jpg",
+    "tags": ["medieval", "christianity", "theology", "platonism"]
+  },
+  {
+    "year": "1225–1274",
+    "era": "Medieval Philosophy",
+    "title": {
+      "en": "Thomas Aquinas",
+      "fr": "Thomas d'Aquin"
+    },
+    "description": {
+      "en": "⛪ Dominican friar, synthesized Aristotelian philosophy with Christianity\n💭 'To one who has faith, no explanation is necessary. To one without faith, no explanation is possible'\n📚 Themes: Faith and reason, natural law, existence of God\n🔍 Philosophy: Five Ways (proofs of God), reconciled reason with revelation, natural law theory, virtue ethics\n📖 Summa Theologica: comprehensive theological and philosophical work",
+      "fr": "⛪ Frère dominicain, synthétisa la philosophie aristotélicienne avec le christianisme\n💭 'Pour celui qui a la foi, aucune explication n'est nécessaire. Pour celui sans foi, aucune explication n'est possible'\n📚 Thèmes : Foi et raison, loi naturelle, existence de Dieu\n🔍 Philosophie : Cinq Voies (preuves de Dieu), réconcilia raison et révélation, théorie de la loi naturelle, éthique de la vertu\n📖 Somme théologique : œuvre théologique et philosophique exhaustive"
+    },
+    "image": "images/philosophy/aquinas.jpg",
+    "tags": ["medieval", "christianity", "scholasticism", "aristotelian"]
+  },
+  {
+    "year": "1469–1527",
+    "era": "Renaissance Philosophy",
+    "title": {
+      "en": "Niccolò Machiavelli",
+      "fr": "Nicolas Machiavel"
+    },
+    "description": {
+      "en": "🏛️ Political philosopher, father of modern political science\n💭 'It is better to be feared than loved, if you cannot be both'\n📚 Themes: Power, politics, pragmatism, republicanism\n🔍 Philosophy: Separated ethics from politics, leaders should use any means necessary, political realism over idealism, virtue (virtù) is strength and cunning\n📖 The Prince: controversial guide to acquiring and maintaining power",
+      "fr": "🏛️ Philosophe politique, père de la science politique moderne\n💭 'Il vaut mieux être craint qu'aimé, si l'on ne peut être les deux'\n📚 Thèmes : Pouvoir, politique, pragmatisme, républicanisme\n🔍 Philosophie : Sépara éthique et politique, les dirigeants doivent user de tous moyens nécessaires, réalisme politique plutôt qu'idéalisme, vertu (virtù) est force et ruse\n📖 Le Prince : guide controversé pour acquérir et maintenir le pouvoir"
+    },
+    "image": "images/philosophy/machiavelli.jpg",
+    "tags": ["renaissance", "politics", "realism", "power"]
+  },
+  {
+    "year": "1596–1650",
+    "era": "Early Modern Philosophy",
+    "title": {
+      "en": "René Descartes",
+      "fr": "René Descartes"
+    },
+    "description": {
+      "en": "🧠 Father of modern philosophy, mathematician, scientist\n💭 'Cogito, ergo sum' (I think, therefore I am)\n📚 Themes: Rationalism, skepticism, dualism, method\n🔍 Philosophy: Method of doubt, mind-body dualism, innate ideas, deductive reasoning, mathematical approach to philosophy\n🔬 Founded analytic geometry, revolutionized mathematics and philosophy",
+      "fr": "🧠 Père de la philosophie moderne, mathématicien, scientifique\n💭 'Cogito, ergo sum' (Je pense, donc je suis)\n📚 Thèmes : Rationalisme, scepticisme, dualisme, méthode\n🔍 Philosophie : Méthode du doute, dualisme corps-esprit, idées innées, raisonnement déductif, approche mathématique de la philosophie\n🔬 Fonda la géométrie analytique, révolutionna mathématiques et philosophie"
+    },
+    "image": "images/philosophy/descartes.jpg",
+    "tags": ["modern", "rationalism", "dualism", "epistemology"]
+  },
+  {
+    "year": "1632–1677",
+    "era": "Early Modern Philosophy",
+    "title": {
+      "en": "Baruch Spinoza",
+      "fr": "Baruch Spinoza"
+    },
+    "description": {
+      "en": "🌟 Rationalist philosopher, lens grinder, excommunicated from Judaism\n💭 'Peace is not the absence of war, but a virtue that springs from strength of soul'\n📚 Themes: Monism, determinism, freedom, ethics, God/Nature\n🔍 Philosophy: God and Nature are one (pantheism), everything is determined, freedom is understanding necessity, intellectual love of God\n📖 Ethics: geometric method applied to philosophy and life",
+      "fr": "🌟 Philosophe rationaliste, polisseur de lentilles, excommunié du judaïsme\n💭 'La paix n'est pas l'absence de guerre, mais une vertu qui naît de la force de l'âme'\n📚 Thèmes : Monisme, déterminisme, liberté, éthique, Dieu/Nature\n🔍 Philosophie : Dieu et Nature sont un (panthéisme), tout est déterminé, liberté est comprendre la nécessité, amour intellectuel de Dieu\n📖 Éthique : méthode géométrique appliquée à la philosophie et à la vie"
+    },
+    "image": "images/philosophy/spinoza.jpg",
+    "tags": ["modern", "rationalism", "pantheism", "determinism"]
+  },
+  {
+    "year": "1632–1704",
+    "era": "Early Modern Philosophy",
+    "title": {
+      "en": "John Locke",
+      "fr": "John Locke"
+    },
+    "description": {
+      "en": "📜 Father of liberalism, empiricist philosopher, political theorist\n💭 'No man's knowledge here can go beyond his experience'\n📚 Themes: Empiricism, natural rights, social contract, government\n🔍 Philosophy: Tabula rasa (blank slate), knowledge from experience, life/liberty/property are natural rights, government by consent\n🏛️ Influenced American and French Revolutions, modern democracy",
+      "fr": "📜 Père du libéralisme, philosophe empiriste, théoricien politique\n💭 'La connaissance d'aucun homme ne peut aller au-delà de son expérience'\n📚 Thèmes : Empirisme, droits naturels, contrat social, gouvernement\n🔍 Philosophie : Tabula rasa (table rase), connaissance par expérience, vie/liberté/propriété sont droits naturels, gouvernement par consentement\n🏛️ Influença les révolutions américaine et française, démocratie moderne"
+    },
+    "image": "images/philosophy/locke.webp",
+    "tags": ["modern", "empiricism", "liberalism", "politics"]
+  },
+  {
+    "year": "1711–1776",
+    "era": "Enlightenment",
+    "title": {
+      "en": "David Hume",
+      "fr": "David Hume"
+    },
+    "description": {
+      "en": "🧐 Scottish Enlightenment philosopher, historian, skeptic\n💭 'Reason is, and ought only to be the slave of the passions'\n📚 Themes: Empiricism, skepticism, causation, morality, religion\n🔍 Philosophy: Problem of induction, no rational basis for causation, is-ought problem, emotions drive morals not reason, critique of religious belief\n💡 Influenced Kant, challenged rationalist certainty",
+      "fr": "🧐 Philosophe des Lumières écossaises, historien, sceptique\n💭 'La raison est et ne doit être que l'esclave des passions'\n📚 Thèmes : Empirisme, scepticisme, causalité, moralité, religion\n🔍 Philosophie : Problème de l'induction, aucune base rationnelle pour causalité, problème être-devoir être, émotions guident morale pas raison, critique de la croyance religieuse\n💡 Influença Kant, défia la certitude rationaliste"
+    },
+    "image": "images/philosophy/hume.webp",
+    "tags": ["enlightenment", "empiricism", "skepticism", "causation"]
+  },
+  {
+    "year": "1712–1778",
+    "era": "Enlightenment",
+    "title": {
+      "en": "Jean-Jacques Rousseau",
+      "fr": "Jean-Jacques Rousseau"
+    },
+    "description": {
+      "en": "📚 Philosopher, writer, composer, political theorist\n💭 'Man is born free, and everywhere he is in chains'\n📚 Themes: Social contract, general will, nature, education, inequality\n🔍 Philosophy: Natural goodness of humans, society corrupts, general will (common good), popular sovereignty, direct democracy\n🌿 Noble savage concept, back to nature, emotional over reason",
+      "fr": "📚 Philosophe, écrivain, compositeur, théoricien politique\n💭 'L'homme est né libre, et partout il est dans les fers'\n📚 Thèmes : Contrat social, volonté générale, nature, éducation, inégalité\n🔍 Philosophie : Bonté naturelle de l'homme, la société corrompt, volonté générale (bien commun), souveraineté populaire, démocratie directe\n🌿 Concept du bon sauvage, retour à la nature, émotion sur raison"
+    },
+    "image": "images/philosophy/rousseau.jpg",
+    "tags": ["enlightenment", "politics", "social-contract", "romanticism"]
+  },
+  {
+    "year": "1724–1804",
+    "era": "Enlightenment",
+    "title": {
+      "en": "Immanuel Kant",
+      "fr": "Emmanuel Kant"
+    },
+    "description": {
+      "en": "🧠 Central figure of modern philosophy, synthesized rationalism and empiricism\n💭 'Act only according to that maxim whereby you can at the same time will that it should become a universal law'\n📚 Themes: Epistemology, ethics, metaphysics, aesthetics, reason\n🔍 Philosophy: Categorical imperative, transcendental idealism, synthetic a priori knowledge, duty-based ethics, autonomy of reason\n📖 Critique of Pure Reason: revolutionized philosophy",
+      "fr": "🧠 Figure centrale de la philosophie moderne, synthétisa rationalisme et empirisme\n💭 'Agis uniquement d'après la maxime qui fait que tu peux vouloir en même temps qu'elle devienne une loi universelle'\n📚 Thèmes : Épistémologie, éthique, métaphysique, esthétique, raison\n🔍 Philosophie : Impératif catégorique, idéalisme transcendantal, connaissance synthétique a priori, éthique du devoir, autonomie de la raison\n📖 Critique de la raison pure : révolutionna la philosophie"
+    },
+    "image": "images/philosophy/kant.jpg",
+    "tags": ["enlightenment", "epistemology", "ethics", "idealism"]
+  },
+  {
+    "year": "1770–1831",
+    "era": "German Idealism",
+    "title": {
+      "en": "Georg Wilhelm Friedrich Hegel",
+      "fr": "Georg Wilhelm Friedrich Hegel"
+    },
+    "description": {
+      "en": "🧠 German idealist, systematic philosopher, influenced Marx\n💭 'Nothing great in the world has ever been accomplished without passion'\n📚 Themes: Dialectics, history, spirit, freedom, state\n🔍 Philosophy: Dialectical method (thesis-antithesis-synthesis), Absolute Spirit, history as progress of freedom, master-slave dialectic\n🏛️ Philosophy of history: rational unfolding of Spirit",
+      "fr": "🧠 Idéaliste allemand, philosophe systématique, influença Marx\n💭 'Rien de grand dans le monde n'a jamais été accompli sans passion'\n📚 Thèmes : Dialectique, histoire, esprit, liberté, État\n🔍 Philosophie : Méthode dialectique (thèse-antithèse-synthèse), Esprit Absolu, histoire comme progrès de la liberté, dialectique maître-esclave\n🏛️ Philosophie de l'histoire : déploiement rationnel de l'Esprit"
+    },
+    "image": "images/philosophy/hegel.jpg",
+    "tags": ["idealism", "dialectics", "history", "spirit"]
+  },
+  {
+    "year": "1788–1860",
+    "era": "German Idealism",
+    "title": {
+      "en": "Arthur Schopenhauer",
+      "fr": "Arthur Schopenhauer"
+    },
+    "description": {
+      "en": "😔 Pessimist philosopher, influenced by Eastern philosophy\n💭 'Life swings like a pendulum backward and forward between pain and boredom'\n📚 Themes: Will, suffering, aesthetics, pessimism, compassion\n🔍 Philosophy: The world as will and representation, life is suffering, asceticism and art as escape, compassion as moral foundation\n🎨 Influenced Nietzsche, Freud, Wagner, and existentialists",
+      "fr": "😔 Philosophe pessimiste, influencé par la philosophie orientale\n💭 'La vie oscille comme un pendule entre la souffrance et l'ennui'\n📚 Thèmes : Volonté, souffrance, esthétique, pessimisme, compassion\n🔍 Philosophie : Le monde comme volonté et représentation, la vie est souffrance, ascétisme et art comme échappatoire, compassion comme fondement moral\n🎨 Influença Nietzsche, Freud, Wagner, et les existentialistes"
+    },
+    "image": "images/philosophy/schopenhauer.jpg",
+    "tags": ["idealism", "pessimism", "will", "eastern-philosophy"]
+  },
+  {
+    "year": "1813–1855",
+    "era": "Existentialism",
+    "title": {
+      "en": "Søren Kierkegaard",
+      "fr": "Søren Kierkegaard"
+    },
+    "description": {
+      "en": "⛪ Father of existentialism, Christian philosopher, Danish thinker\n💭 'Life can only be understood backwards; but it must be lived forwards'\n📚 Themes: Existence, anxiety, faith, subjectivity, choice\n🔍 Philosophy: Three stages of life (aesthetic/ethical/religious), leap of faith, subjective truth, anxiety of freedom, critique of Christendom\n🎭 Wrote under pseudonyms exploring different viewpoints",
+      "fr": "⛪ Père de l'existentialisme, philosophe chrétien, penseur danois\n💭 'La vie ne peut être comprise qu'en regardant en arrière ; mais elle doit être vécue en regardant en avant'\n📚 Thèmes : Existence, angoisse, foi, subjectivité, choix\n🔍 Philosophie : Trois stades de la vie (esthétique/éthique/religieux), saut de la foi, vérité subjective, angoisse de la liberté, critique de la chrétienté\n🎭 Écrivit sous pseudonymes explorant différents points de vue"
+    },
+    "image": "images/philosophy/kierkegaard.jpg",
+    "tags": ["existentialism", "christianity", "anxiety", "subjectivity"]
+  },
+  {
+    "year": "1818–1883",
+    "era": "Political Philosophy",
+    "title": {
+      "en": "Karl Marx",
+      "fr": "Karl Marx"
+    },
+    "description": {
+      "en": "🚩 Revolutionary philosopher, economist, father of communism\n💭 'The philosophers have only interpreted the world, in various ways. The point, however, is to change it'\n📚 Themes: Capitalism, class struggle, alienation, materialism, revolution\n🔍 Philosophy: Historical materialism, dialectical materialism, surplus value, class warfare, communist society as end of history\n📖 Das Kapital, Communist Manifesto: shaped modern history",
+      "fr": "🚩 Philosophe révolutionnaire, économiste, père du communisme\n💭 'Les philosophes n'ont fait qu'interpréter le monde de diverses manières. Ce qui importe, c'est de le transformer'\n📚 Thèmes : Capitalisme, lutte des classes, aliénation, matérialisme, révolution\n🔍 Philosophie : Matérialisme historique, matérialisme dialectique, plus-value, lutte des classes, société communiste comme fin de l'histoire\n📖 Le Capital, Manifeste communiste : ont façonné l'histoire moderne"
+    },
+    "image": "images/philosophy/marx.jpg",
+    "tags": ["political", "communism", "materialism", "revolution"]
+  },
+  {
+    "year": "1844–1900",
+    "era": "Existentialism",
+    "title": {
+      "en": "Friedrich Nietzsche",
+      "fr": "Friedrich Nietzsche"
+    },
+    "description": {
+      "en": "⚡ Revolutionary philosopher, cultural critic, philologist\n💭 'God is dead. God remains dead. And we have killed him'\n📚 Themes: Will to power, nihilism, Übermensch, eternal recurrence\n🔍 Philosophy: Critique of Christianity and morality, master-slave morality, perspectivism, amor fati, create your own values\n🎭 Thus Spoke Zarathustra: poetic philosophical masterpiece",
+      "fr": "⚡ Philosophe révolutionnaire, critique culturel, philologue\n💭 'Dieu est mort. Dieu reste mort. Et c'est nous qui l'avons tué'\n📚 Thèmes : Volonté de puissance, nihilisme, Surhomme, éternel retour\n🔍 Philosophie : Critique du christianisme et de la morale, morale du maître et de l'esclave, perspectivisme, amor fati, créer ses propres valeurs\n🎭 Ainsi parlait Zarathoustra : chef-d'œuvre philosophique poétique"
+    },
+    "image": "images/philosophy/nietzsche.jpg",
+    "tags": ["existentialism", "nihilism", "will-to-power", "ubermensch"]
+  },
+  {
+    "year": "1859–1941",
+    "era": "Pragmatism",
+    "title": {
+      "en": "John Dewey",
+      "fr": "John Dewey"
+    },
+    "description": {
+      "en": "🎓 American philosopher, psychologist, educational reformer\n💭 'Education is not preparation for life; education is life itself'\n📚 Themes: Pragmatism, democracy, education, experience, inquiry\n🔍 Philosophy: Learning by doing, scientific method in philosophy, democracy as way of life, instrumental theory of knowledge\n🏫 Revolutionized education: progressive education movement",
+      "fr": "🎓 Philosophe américain, psychologue, réformateur de l'éducation\n💭 'L'éducation n'est pas une préparation à la vie ; l'éducation est la vie elle-même'\n📚 Thèmes : Pragmatisme, démocratie, éducation, expérience, enquête\n🔍 Philosophie : Apprendre en faisant, méthode scientifique en philosophie, démocratie comme mode de vie, théorie instrumentale de la connaissance\n🏫 Révolutionna l'éducation : mouvement de l'éducation progressive"
+    },
+    "image": "images/philosophy/dewey.jpg",
+    "tags": ["pragmatism", "education", "democracy", "american"]
+  },
+  {
+    "year": "1872–1970",
+    "era": "Analytic Philosophy",
+    "title": {
+      "en": "Bertrand Russell",
+      "fr": "Bertrand Russell"
+    },
+    "description": {
+      "en": "🧮 Logician, mathematician, philosopher, social critic, Nobel laureate\n💭 'The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts'\n📚 Themes: Logic, language, mathematics, epistemology, peace\n🔍 Philosophy: Logical atomism, theory of descriptions, mathematical logic, scientific philosophy, pacifism and social reform\n📖 Principia Mathematica: foundational work in logic",
+      "fr": "🧮 Logicien, mathématicien, philosophe, critique social, lauréat du Nobel\n💭 'Le problème avec le monde est que les idiots et les fanatiques sont toujours si sûrs d'eux, et les gens sages si pleins de doutes'\n📚 Thèmes : Logique, langage, mathématiques, épistémologie, paix\n🔍 Philosophie : Atomisme logique, théorie des descriptions, logique mathématique, philosophie scientifique, pacifisme et réforme sociale\n📖 Principia Mathematica : œuvre fondamentale en logique"
+    },
+    "image": "images/philosophy/russell.jpg",
+    "tags": ["analytic", "logic", "mathematics", "pacifism"]
+  },
+  {
+    "year": "1889–1976",
+    "era": "Phenomenology",
+    "title": {
+      "en": "Martin Heidegger",
+      "fr": "Martin Heidegger"
+    },
+    "description": {
+      "en": "🌲 German philosopher, existentialist, phenomenologist\n💭 'The most thought-provoking thing in our thought-provoking time is that we are still not thinking'\n📚 Themes: Being, time, existence, technology, authenticity\n🔍 Philosophy: Question of Being (Dasein), being-toward-death, thrownness, care, critique of technology, authenticity vs inauthenticity\n📖 Being and Time: influential but controversial (Nazi involvement)",
+      "fr": "🌲 Philosophe allemand, existentialiste, phénoménologue\n💭 'Ce qui donne le plus à penser dans notre temps qui donne à penser est que nous ne pensons pas encore'\n📚 Thèmes : Être, temps, existence, technologie, authenticité\n🔍 Philosophie : Question de l'Être (Dasein), être-pour-la-mort, déréliction, souci, critique de la technologie, authenticité vs inauthenticité\n📖 Être et Temps : influent mais controversé (implication nazie)"
+    },
+    "image": "images/philosophy/heidegger.jpg",
+    "tags": ["phenomenology", "existentialism", "being", "technology"]
+  },
+  {
+    "year": "1905–1980",
+    "era": "Existentialism",
+    "title": {
+      "en": "Jean-Paul Sartre",
+      "fr": "Jean-Paul Sartre"
+    },
+    "description": {
+      "en": "📚 Existentialist philosopher, novelist, playwright, political activist\n💭 'Existence precedes essence' - we create our own meaning\n📚 Themes: Freedom, responsibility, bad faith, authenticity, absurdity\n🔍 Philosophy: Radical freedom, 'condemned to be free', existence before essence, bad faith (self-deception), atheistic existentialism\n🎭 Refused Nobel Prize in Literature (1964), engaged intellectual",
+      "fr": "📚 Philosophe existentialiste, romancier, dramaturge, activiste politique\n💭 'L'existence précède l'essence' - nous créons notre propre sens\n📚 Thèmes : Liberté, responsabilité, mauvaise foi, authenticité, absurdité\n🔍 Philosophie : Liberté radicale, 'condamné à être libre', existence avant essence, mauvaise foi (auto-tromperie), existentialisme athée\n🎭 Refusa le prix Nobel de littérature (1964), intellectuel engagé"
+    },
+    "image": "images/philosophy/sartre.jpg",
+    "tags": ["existentialism", "freedom", "absurdity", "atheism"]
+  },
+  {
+    "year": "1908–1986",
+    "era": "Existentialism",
+    "title": {
+      "en": "Simone de Beauvoir",
+      "fr": "Simone de Beauvoir"
+    },
+    "description": {
+      "en": "👩 Feminist philosopher, novelist, existentialist, social theorist\n💭 'One is not born, but rather becomes, a woman'\n📚 Themes: Feminism, existentialism, gender, freedom, ethics\n🔍 Philosophy: Women as 'Other', gender as social construct, existential ethics applied to feminism, ambiguity of human condition\n📖 The Second Sex: foundational text of contemporary feminism",
+      "fr": "👩 Philosophe féministe, romancière, existentialiste, théoricienne sociale\n💭 'On ne naît pas femme : on le devient'\n📚 Thèmes : Féminisme, existentialisme, genre, liberté, éthique\n🔍 Philosophie : Les femmes comme 'Autre', genre comme construction sociale, éthique existentielle appliquée au féminisme, ambiguïté de la condition humaine\n📖 Le Deuxième Sexe : texte fondateur du féminisme contemporain"
+    },
+    "image": "images/philosophy/beauvoir.jpg",
+    "tags": ["existentialism", "feminism", "gender", "ethics"]
+  },
+  {
+    "year": "1913–1960",
+    "era": "Existentialism",
+    "title": {
+      "en": "Albert Camus",
+      "fr": "Albert Camus"
+    },
+    "description": {
+      "en": "📚 Absurdist philosopher, novelist, playwright, journalist, Nobel laureate\n💭 'The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion'\n📚 Themes: Absurdity, rebellion, freedom, solidarity, happiness\n🔍 Philosophy: The absurd (life has no inherent meaning), must imagine Sisyphus happy, revolt without hope, Mediterranean thought, solidarity\n📖 The Stranger, The Myth of Sisyphus: masterpieces of absurdism",
+      "fr": "📚 Philosophe absurdiste, romancier, dramaturge, journaliste, lauréat du Nobel\n💭 'La seule façon de traiter un monde non libre est de devenir si absolument libre que votre existence même est un acte de rébellion'\n📚 Thèmes : Absurdité, révolte, liberté, solidarité, bonheur\n🔍 Philosophie : L'absurde (la vie n'a pas de sens inhérent), il faut imaginer Sisyphe heureux, révolte sans espoir, pensée méditerranéenne, solidarité\n📖 L'Étranger, Le Mythe de Sisyphe : chefs-d'œuvre de l'absurdisme"
+    },
+    "image": "images/philosophy/camus.jpg",
+    "tags": ["existentialism", "absurdism", "rebellion", "freedom"]
+  },
+  {
+    "year": "1926–1984",
+    "era": "Post-Structuralism",
+    "title": {
+      "en": "Michel Foucault",
+      "fr": "Michel Foucault"
+    },
+    "description": {
+      "en": "🔍 Historian of ideas, social theorist, post-structuralist\n💭 'Power is not an institution, and not a structure; neither is it a certain strength we are endowed with; it is the name that one attributes to a complex strategical situation'\n📚 Themes: Power, knowledge, discourse, sexuality, madness\n🔍 Philosophy: Power/knowledge, disciplinary society, biopolitics, archaeology/genealogy methods, critique of institutions\n📖 Analyzed prisons, hospitals, sexuality: power shapes reality",
+      "fr": "🔍 Historien des idées, théoricien social, post-structuraliste\n💭 'Le pouvoir n'est pas une institution, ni une structure ; ce n'est pas non plus une certaine force dont nous serions dotés ; c'est le nom qu'on prête à une situation stratégique complexe'\n📚 Thèmes : Pouvoir, savoir, discours, sexualité, folie\n🔍 Philosophie : Pouvoir/savoir, société disciplinaire, biopolitique, méthodes archéologie/généalogie, critique des institutions\n📖 Analysa prisons, hôpitaux, sexualité : le pouvoir façonne la réalité"
+    },
+    "image": "images/philosophy/foucault.jpg",
+    "tags": ["post-structuralism", "power", "discourse", "sexuality"]
+  },
+  {
+    "year": "1929–2007",
+    "era": "Postmodernism",
+    "title": {
+      "en": "Jean Baudrillard",
+      "fr": "Jean Baudrillard"
+    },
+    "description": {
+      "en": "📺 Sociologist, philosopher, cultural critic, postmodernist\n💭 'We live in a world where there is more and more information, and less and less meaning'\n📚 Themes: Simulacra, hyperreality, consumerism, media, simulation\n🔍 Philosophy: Simulacra and simulation (copy without original), hyperreality (simulation more real than reality), Gulf War 'did not take place'\n🎬 Influenced The Matrix and modern understanding of media",
+      "fr": "📺 Sociologue, philosophe, critique culturel, postmoderniste\n💭 'Nous vivons dans un monde où il y a de plus en plus d'information, et de moins en moins de sens'\n📚 Thèmes : Simulacres, hyperréalité, consumérisme, médias, simulation\n🔍 Philosophie : Simulacres et simulation (copie sans original), hyperréalité (simulation plus réelle que réalité), guerre du Golfe 'n'a pas eu lieu'\n🎬 Influença Matrix et compréhension moderne des médias"
+    },
+    "image": "images/philosophy/baudrillard.jpg",
+    "tags": ["postmodernism", "simulacra", "hyperreality", "media"]
+  },
+  {
+    "year": "1930–2004",
+    "era": "Post-Structuralism",
+    "title": {
+      "en": "Jacques Derrida",
+      "fr": "Jacques Derrida"
+    },
+    "description": {
+      "en": "📖 Philosopher, founder of deconstruction, literary theorist\n💭 'There is nothing outside the text'\n📚 Themes: Deconstruction, différance, language, writing, meaning\n🔍 Philosophy: Deconstruction method, critique of logocentrism, différance (difference and deferral), undecidability, trace\n🔤 Challenged Western metaphysics, influenced literary criticism",
+      "fr": "📖 Philosophe, fondateur de la déconstruction, théoricien littéraire\n💭 'Il n'y a pas de hors-texte'\n📚 Thèmes : Déconstruction, différance, langage, écriture, sens\n🔍 Philosophie : Méthode de déconstruction, critique du logocentrisme, différance (différence et différé), indécidabilité, trace\n🔤 Défia la métaphysique occidentale, influença la critique littéraire"
+    },
+    "image": "images/philosophy/derrida.jpg",
+    "tags": ["post-structuralism", "deconstruction", "language", "text"]
+  },
+  {
+    "year": "1931–2017",
+    "era": "Ethics",
+    "title": {
+      "en": "Zygmunt Bauman",
+      "fr": "Zygmunt Bauman"
+    },
+    "description": {
+      "en": "🌐 Sociologist, philosopher, social theorist\n💭 'In liquid modernity, all power is in the hands of those who are liquid, who can leave a trace of decisions'\n📚 Themes: Liquid modernity, consumerism, ethics, ambivalence, strangers\n🔍 Philosophy: Liquid modernity (solid forms melting), postmodern ethics, Holocaust as modern phenomenon, globalization and identity\n🌊 Contrasted solid/liquid modernity: flux vs stability",
+      "fr": "🌐 Sociologue, philosophe, théoricien social\n💭 'Dans la modernité liquide, tout le pouvoir est entre les mains de ceux qui sont liquides, qui peuvent laisser une trace de décisions'\n📚 Thèmes : Modernité liquide, consumérisme, éthique, ambivalence, étrangers\n🔍 Philosophie : Modernité liquide (formes solides qui fondent), éthique postmoderne, Holocauste comme phénomène moderne, mondialisation et identité\n🌊 Opposa modernité solide/liquide : flux vs stabilité"
+    },
+    "image": "images/philosophy/bauman.jpg",
+    "tags": ["sociology", "modernity", "ethics", "globalization"]
+  },
+  {
+    "year": "1953–Present",
+    "era": "Contemporary Philosophy",
+    "title": {
+      "en": "Slavoj Žižek",
+      "fr": "Slavoj Žižek"
+    },
+    "description": {
+      "en": "🎭 Slovenian philosopher, cultural critic, provocateur\n💭 'We feel free because we lack the very language to articulate our unfreedom'\n📚 Themes: Ideology, psychoanalysis, capitalism, culture, ideology\n🔍 Philosophy: Lacanian psychoanalysis applied to culture/politics, ideology critique, enjoys perversely through symptoms, radical emancipation\n🎬 Analyzes popular culture through philosophical lens",
+      "fr": "🎭 Philosophe slovène, critique culturel, provocateur\n💭 'Nous nous sentons libres parce qu'il nous manque le langage même pour articuler notre non-liberté'\n📚 Thèmes : Idéologie, psychanalyse, capitalisme, culture, idéologie\n🔍 Philosophie : Psychanalyse lacanienne appliquée à culture/politique, critique de l'idéologie, jouissance perverse à travers symptômes, émancipation radicale\n🎬 Analyse la culture populaire à travers un prisme philosophique"
+    },
+    "image": "images/philosophy/zizek.jpg",
+    "tags": ["contemporary", "ideology", "psychoanalysis", "culture"]
+  }
+]
