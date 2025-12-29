@@ -1,0 +1,520 @@
+[
+  {
+    "year": "1919–1923",
+    "era": "Seeds of War",
+    "title": {
+      "en": "Treaty of Versailles Resentment",
+      "fr": "Ressentiment du Traité de Versailles"
+    },
+    "description": {
+      "en": "📜 Germany forced to accept war guilt and harsh terms\n💰 Crushing reparations: 132 billion gold marks\n🗺️ Lost 13% of territory, all colonies\n⚔️ Army limited to 100,000, no air force\n😤 'Stab in the back' myth: betrayed, not defeated",
+      "fr": "📜 L'Allemagne forcée d'accepter culpabilité et termes durs\n💰 Réparations écrasantes : 132 milliards de marks-or\n🗺️ Perdu 13% du territoire, toutes colonies\n⚔️ Armée limitée à 100 000, pas d'aviation\n😤 Mythe du 'coup de poignard dans le dos' : trahis, pas vaincus"
+    },
+    "image": "images/wwii/versailles.jpg",
+    "tags": ["origins", "versailles", "germany", "resentment"]
+  },
+  {
+    "year": "1922",
+    "era": "Rise of Fascism",
+    "title": {
+      "en": "Mussolini's March on Rome",
+      "fr": "Marche sur Rome de Mussolini"
+    },
+    "description": {
+      "en": "🇮🇹 Benito Mussolini and Fascists seize power in Italy\n🖤 Blackshirts march on Rome\n👑 King Victor Emmanuel III appoints Mussolini PM\n✊ First fascist regime in Europe\n📚 Model for Hitler and other authoritarians",
+      "fr": "🇮🇹 Benito Mussolini et les Fascistes prennent le pouvoir en Italie\n🖤 Chemises noires marchent sur Rome\n👑 Le roi Victor-Emmanuel III nomme Mussolini PM\n✊ Premier régime fasciste en Europe\n📚 Modèle pour Hitler et autres autoritaires"
+    },
+    "image": "images/wwii/mussolini.webp",
+    "tags": ["fascism", "italy", "mussolini", "origins"]
+  },
+  {
+    "year": "1929",
+    "era": "Economic Crisis",
+    "title": {
+      "en": "Great Depression",
+      "fr": "Grande Dépression"
+    },
+    "description": {
+      "en": "📉 Wall Street Crash triggers global economic collapse\n💼 Millions unemployed worldwide\n🇩🇪 Germany hit especially hard, hyperinflation\n😤 Desperation fuels extremist parties\n🗳️ Democratic governments discredited",
+      "fr": "📉 Krach de Wall Street déclenche effondrement économique mondial\n💼 Millions de chômeurs dans le monde\n🇩🇪 L'Allemagne particulièrement touchée, hyperinflation\n😤 Le désespoir alimente les partis extrémistes\n🗳️ Gouvernements démocratiques discrédités"
+    },
+    "image": "images/wwii/great_depression.jpg",
+    "tags": ["depression", "economy", "crisis", "origins"]
+  },
+  {
+    "year": "1933",
+    "era": "Nazi Rise",
+    "title": {
+      "en": "Hitler Becomes Chancellor",
+      "fr": "Hitler devient Chancelier"
+    },
+    "description": {
+      "en": "🇩🇪 Adolf Hitler appointed Chancellor of Germany\n🗳️ Nazi Party largest in Reichstag\n🔥 Reichstag Fire used to seize emergency powers\n📜 Enabling Act: Hitler becomes dictator\n✡️ Persecution of Jews begins immediately",
+      "fr": "🇩🇪 Adolf Hitler nommé Chancelier d'Allemagne\n🗳️ Parti nazi le plus grand au Reichstag\n🔥 Incendie du Reichstag utilisé pour pouvoirs d'urgence\n📜 Loi des pleins pouvoirs : Hitler devient dictateur\n✡️ Persécution des Juifs commence immédiatement"
+    },
+    "image": "images/wwii/hitler_chancellor.jpg",
+    "tags": ["hitler", "nazi", "germany", "dictatorship"]
+  },
+  {
+    "year": "1935–1936",
+    "era": "Aggression Begins",
+    "title": {
+      "en": "Germany Rearms & Rhineland",
+      "fr": "Réarmement allemand et Rhénanie"
+    },
+    "description": {
+      "en": "⚔️ Germany announces rearmament, violating Versailles\n✈️ Luftwaffe revealed, conscription restored\n🗺️ March 1936: troops enter demilitarized Rhineland\n😰 Britain and France do nothing\n💪 Hitler gains confidence, appeasement begins",
+      "fr": "⚔️ L'Allemagne annonce réarmement, violant Versailles\n✈️ Luftwaffe révélée, conscription rétablie\n🗺️ Mars 1936 : troupes entrent en Rhénanie démilitarisée\n😰 Grande-Bretagne et France ne font rien\n💪 Hitler gagne en confiance, apaisement commence"
+    },
+    "image": "images/wwii/rhineland.jpg",
+    "tags": ["rearmament", "rhineland", "appeasement", "violation"]
+  },
+  {
+    "year": "1936–1939",
+    "era": "Prelude",
+    "title": {
+      "en": "Spanish Civil War",
+      "fr": "Guerre civile espagnole"
+    },
+    "description": {
+      "en": "🇪🇸 Nationalists vs Republicans tear Spain apart\n✈️ Germany and Italy support Franco's fascists\n🇷🇺 Soviet Union aids Republicans\n💣 Guernica bombed by German Condor Legion\n🎭 'Dress rehearsal' for World War II",
+      "fr": "🇪🇸 Nationalistes vs Républicains déchirent l'Espagne\n✈️ Allemagne et Italie soutiennent fascistes de Franco\n🇷🇺 Union soviétique aide les Républicains\n💣 Guernica bombardée par Légion Condor allemande\n🎭 'Répétition générale' pour la Seconde Guerre mondiale"
+    },
+    "image": "images/wwii/spanish_civil_war.jpg",
+    "tags": ["spain", "civil-war", "franco", "prelude"]
+  },
+  {
+    "year": "1937",
+    "era": "Asian Theater",
+    "title": {
+      "en": "Second Sino-Japanese War",
+      "fr": "Seconde guerre sino-japonaise"
+    },
+    "description": {
+      "en": "🇯🇵 Japan launches full-scale invasion of China\n🇨🇳 Marco Polo Bridge Incident triggers war\n💀 Nanjing Massacre: 200,000+ civilians killed\n😱 Rape, murder, destruction shock the world\n⚔️ China fights on, tying down Japanese forces",
+      "fr": "🇯🇵 Le Japon lance invasion à grande échelle de la Chine\n🇨🇳 Incident du pont Marco Polo déclenche guerre\n💀 Massacre de Nankin : 200 000+ civils tués\n😱 Viols, meurtres, destruction choquent le monde\n⚔️ La Chine combat, immobilisant forces japonaises"
+    },
+    "image": "images/wwii/sino_japanese.jpg",
+    "tags": ["japan", "china", "nanjing", "asia"]
+  },
+  {
+    "year": "March 1938",
+    "era": "Expansion",
+    "title": {
+      "en": "Anschluss: Annexation of Austria",
+      "fr": "Anschluss : Annexion de l'Autriche"
+    },
+    "description": {
+      "en": "🇦🇹 Germany annexes Austria without resistance\n🎉 Hitler enters Vienna to cheering crowds\n🇩🇪 'Greater Germany' grows stronger\n🚫 Forbidden by Versailles, ignored by Allies\n✡️ Austrian Jews immediately persecuted",
+      "fr": "🇦🇹 L'Allemagne annexe l'Autriche sans résistance\n🎉 Hitler entre à Vienne sous les acclamations\n🇩🇪 'Grande Allemagne' se renforce\n🚫 Interdit par Versailles, ignoré par Alliés\n✡️ Juifs autrichiens immédiatement persécutés"
+    },
+    "image": "images/wwii/anschluss.jpg",
+    "tags": ["anschluss", "austria", "expansion", "annexation"]
+  },
+  {
+    "year": "September 1938",
+    "era": "Appeasement",
+    "title": {
+      "en": "Munich Agreement",
+      "fr": "Accords de Munich"
+    },
+    "description": {
+      "en": "🤝 Britain and France allow Germany to annex Sudetenland\n🇨🇿 Czechoslovakia betrayed, not consulted\n☮️ Chamberlain: 'Peace for our time'\n😤 Churchill: 'Total and unmitigated defeat'\n❌ Appeasement fails, Hitler wants more",
+      "fr": "🤝 Grande-Bretagne et France permettent annexion des Sudètes\n🇨🇿 Tchécoslovaquie trahie, pas consultée\n☮️ Chamberlain : 'La paix pour notre temps'\n😤 Churchill : 'Défaite totale et sans atténuation'\n❌ Apaisement échoue, Hitler veut plus"
+    },
+    "image": "images/wwii/munich.jpg",
+    "tags": ["munich", "appeasement", "chamberlain", "sudetenland"]
+  },
+  {
+    "year": "November 1938",
+    "era": "Persecution",
+    "title": {
+      "en": "Kristallnacht",
+      "fr": "Nuit de Cristal"
+    },
+    "description": {
+      "en": "🔥 Nazi pogrom against Jews across Germany\n💔 'Night of Broken Glass': synagogues burned\n🏪 7,500 Jewish businesses destroyed\n💀 91 killed, 30,000 sent to concentration camps\n⚠️ Clear signal of Nazi genocidal intent",
+      "fr": "🔥 Pogrom nazi contre Juifs dans toute l'Allemagne\n💔 'Nuit de Cristal' : synagogues brûlées\n🏪 7 500 commerces juifs détruits\n💀 91 tués, 30 000 envoyés en camps de concentration\n⚠️ Signal clair de l'intention génocidaire nazie"
+    },
+    "image": "images/wwii/kristallnacht.jpg",
+    "tags": ["kristallnacht", "holocaust", "persecution", "jews"]
+  },
+  {
+    "year": "March 1939",
+    "era": "Expansion",
+    "title": {
+      "en": "Invasion of Czechoslovakia",
+      "fr": "Invasion de la Tchécoslovaquie"
+    },
+    "description": {
+      "en": "🇨🇿 Germany occupies rest of Czechoslovakia\n📜 Munich Agreement violated within 6 months\n😤 Britain and France finally see Hitler cannot be trusted\n🛡️ Guarantee given to Poland\n⚔️ War now seems inevitable",
+      "fr": "🇨🇿 L'Allemagne occupe le reste de la Tchécoslovaquie\n📜 Accords de Munich violés en 6 mois\n😤 Grande-Bretagne et France voient enfin qu'Hitler ne peut être cru\n🛡️ Garantie donnée à la Pologne\n⚔️ La guerre semble maintenant inévitable"
+    },
+    "image": "images/wwii/czechoslovakia.jpg",
+    "tags": ["czechoslovakia", "invasion", "expansion", "violation"]
+  },
+  {
+    "year": "August 1939",
+    "era": "Pact",
+    "title": {
+      "en": "Nazi-Soviet Pact",
+      "fr": "Pacte germano-soviétique"
+    },
+    "description": {
+      "en": "🤝 Hitler and Stalin sign non-aggression pact\n😱 Ideological enemies become partners\n🗺️ Secret protocol divides Eastern Europe\n🇵🇱 Poland to be split between them\n⚡ Hitler now free to attack West without two-front war",
+      "fr": "🤝 Hitler et Staline signent pacte de non-agression\n😱 Ennemis idéologiques deviennent partenaires\n🗺️ Protocole secret divise l'Europe de l'Est\n🇵🇱 Pologne sera divisée entre eux\n⚡ Hitler libre d'attaquer l'Ouest sans guerre sur deux fronts"
+    },
+    "image": "images/wwii/molotov_ribbentrop.jpg",
+    "tags": ["nazi-soviet-pact", "stalin", "hitler", "diplomacy"]
+  },
+  {
+    "year": "September 1, 1939",
+    "era": "War Begins",
+    "title": {
+      "en": "Invasion of Poland",
+      "fr": "Invasion de la Pologne"
+    },
+    "description": {
+      "en": "🇩🇪 Germany invades Poland at dawn\n⚡ Blitzkrieg: tanks, aircraft, speed\n🇬🇧🇫🇷 Sept 3: Britain and France declare war\n🇷🇺 Sept 17: Soviet Union invades from east\n💀 Poland crushed in 5 weeks, divided",
+      "fr": "🇩🇪 L'Allemagne envahit la Pologne à l'aube\n⚡ Blitzkrieg : chars, avions, vitesse\n🇬🇧🇫🇷 3 sept : Grande-Bretagne et France déclarent guerre\n🇷🇺 17 sept : Union soviétique envahit par l'est\n💀 Pologne écrasée en 5 semaines, divisée"
+    },
+    "image": "images/wwii/poland_invasion.avif",
+    "tags": ["poland", "invasion", "blitzkrieg", "september-1939"]
+  },
+  {
+    "year": "1939–1940",
+    "era": "Phoney War",
+    "title": {
+      "en": "The Phoney War",
+      "fr": "La Drôle de guerre"
+    },
+    "description": {
+      "en": "😴 Little fighting on Western Front for months\n🛡️ French trust Maginot Line\n🇬🇧 British Expeditionary Force deploys to France\n❄️ Winter War: Soviet Union attacks Finland\n⏳ Calm before the storm",
+      "fr": "😴 Peu de combats sur le Front Ouest pendant des mois\n🛡️ Français font confiance à la Ligne Maginot\n🇬🇧 Corps expéditionnaire britannique déployé en France\n❄️ Guerre d'Hiver : Union soviétique attaque Finlande\n⏳ Le calme avant la tempête"
+    },
+    "image": "images/wwii/phoney_war.jpg",
+    "tags": ["phoney-war", "maginot", "finland", "waiting"]
+  },
+  {
+    "year": "April–June 1940",
+    "era": "Fall of Europe",
+    "title": {
+      "en": "Germany Conquers Western Europe",
+      "fr": "L'Allemagne conquiert l'Europe occidentale"
+    },
+    "description": {
+      "en": "🇳🇴🇩🇰 April: Denmark and Norway fall\n🇳🇱🇧🇪 May 10: Netherlands, Belgium invaded\n⚡ Blitzkrieg through Ardennes forest\n🇫🇷 French army outflanked, collapses\n😱 Allied forces trapped at Dunkirk",
+      "fr": "🇳🇴🇩🇰 Avril : Danemark et Norvège tombent\n🇳🇱🇧🇪 10 mai : Pays-Bas, Belgique envahis\n⚡ Blitzkrieg à travers forêt des Ardennes\n🇫🇷 Armée française débordée, s'effondre\n😱 Forces alliées piégées à Dunkerque"
+    },
+    "image": "images/wwii/fall_of_france.webp",
+    "tags": ["blitzkrieg", "france", "netherlands", "belgium"]
+  },
+  {
+    "year": "May–June 1940",
+    "era": "Dunkirk",
+    "title": {
+      "en": "Dunkirk Evacuation",
+      "fr": "Évacuation de Dunkerque"
+    },
+    "description": {
+      "en": "🏖️ 400,000 Allied troops trapped on beaches\n🚤 'Little ships' rescue 338,000 soldiers\n🇬🇧 'Miracle of Dunkirk' saves British army\n⚔️ Churchill: 'Wars are not won by evacuations'\n💪 But Britain fights on alone",
+      "fr": "🏖️ 400 000 soldats alliés piégés sur les plages\n🚤 'Petits bateaux' sauvent 338 000 soldats\n🇬🇧 'Miracle de Dunkerque' sauve l'armée britannique\n⚔️ Churchill : 'Les guerres ne se gagnent pas par évacuations'\n💪 Mais la Grande-Bretagne combat seule"
+    },
+    "image": "images/wwii/dunkirk.jpg",
+    "tags": ["dunkirk", "evacuation", "britain", "miracle"]
+  },
+  {
+    "year": "June 1940",
+    "era": "Fall of France",
+    "title": {
+      "en": "France Surrenders",
+      "fr": "La France se rend"
+    },
+    "description": {
+      "en": "🇫🇷 June 22: France signs armistice with Germany\n🚃 Signed in same railway car as 1918 armistice\n🗺️ Northern France occupied, Vichy regime in south\n🇬🇧 De Gaulle flees to London, leads Free French\n😔 France's humiliation, Hitler triumphant",
+      "fr": "🇫🇷 22 juin : La France signe armistice avec l'Allemagne\n🚃 Signé dans le même wagon qu'armistice de 1918\n🗺️ Nord de la France occupé, régime de Vichy au sud\n🇬🇧 De Gaulle fuit à Londres, dirige France Libre\n😔 Humiliation de la France, Hitler triomphant"
+    },
+    "image": "images/wwii/france_surrender.png",
+    "tags": ["france", "surrender", "vichy", "de-gaulle"]
+  },
+  {
+    "year": "July–October 1940",
+    "era": "Britain Alone",
+    "title": {
+      "en": "Battle of Britain",
+      "fr": "Bataille d'Angleterre"
+    },
+    "description": {
+      "en": "✈️ Luftwaffe vs Royal Air Force for air supremacy\n🎯 Germany must control skies before invasion\n🦅 'The Few': outnumbered RAF pilots fight back\n🏙️ Blitz: bombing of London and British cities\n🇬🇧 Britain survives, Hitler cancels invasion",
+      "fr": "✈️ Luftwaffe vs Royal Air Force pour suprématie aérienne\n🎯 L'Allemagne doit contrôler le ciel avant invasion\n🦅 'The Few' : pilotes RAF en infériorité numérique résistent\n🏙️ Blitz : bombardement de Londres et villes britanniques\n🇬🇧 La Grande-Bretagne survit, Hitler annule invasion"
+    },
+    "image": "images/wwii/battle_of_britain.jpg",
+    "tags": ["britain", "air-war", "raf", "blitz"]
+  },
+  {
+    "year": "1940–1941",
+    "era": "Mediterranean",
+    "title": {
+      "en": "North African Campaign Begins",
+      "fr": "Début de la campagne d'Afrique du Nord"
+    },
+    "description": {
+      "en": "🇮🇹 Italy attacks British Egypt from Libya\n🇬🇧 British counterattack crushes Italians\n🇩🇪 Rommel's Afrika Korps sent to rescue\n🦊 'Desert Fox' pushes British back\n🏜️ Back-and-forth desert war for years",
+      "fr": "🇮🇹 L'Italie attaque l'Égypte britannique depuis la Libye\n🇬🇧 Contre-attaque britannique écrase les Italiens\n🇩🇪 Afrika Korps de Rommel envoyé en renfort\n🦊 Le 'Renard du désert' repousse les Britanniques\n🏜️ Guerre du désert va-et-vient pendant des années"
+    },
+    "image": "images/wwii/north_africa.jpg",
+    "tags": ["africa", "rommel", "desert", "mediterranean"]
+  },
+  {
+    "year": "June 22, 1941",
+    "era": "Eastern Front",
+    "title": {
+      "en": "Operation Barbarossa",
+      "fr": "Opération Barbarossa"
+    },
+    "description": {
+      "en": "🇩🇪 Germany invades Soviet Union: largest invasion in history\n⚔️ 3 million soldiers, 3,000 tanks, 2,500 aircraft\n😱 Stalin caught by surprise despite warnings\n🏃 Rapid advances: millions of Soviets captured\n❄️ But winter comes, and Moscow holds",
+      "fr": "🇩🇪 L'Allemagne envahit Union soviétique : plus grande invasion de l'histoire\n⚔️ 3 millions de soldats, 3 000 chars, 2 500 avions\n😱 Staline surpris malgré avertissements\n🏃 Avances rapides : millions de Soviétiques capturés\n❄️ Mais l'hiver arrive, et Moscou tient"
+    },
+    "image": "images/wwii/barbarossa.jpg",
+    "tags": ["barbarossa", "soviet-union", "eastern-front", "invasion"]
+  },
+  {
+    "year": "December 7, 1941",
+    "era": "Global War",
+    "title": {
+      "en": "Pearl Harbor",
+      "fr": "Pearl Harbor"
+    },
+    "description": {
+      "en": "🇯🇵 Japan launches surprise attack on US Pacific Fleet\n💣 2,400 Americans killed, 8 battleships damaged/sunk\n📻 'A date which will live in infamy' - FDR\n🇺🇸 December 8: US declares war on Japan\n🇩🇪 December 11: Germany declares war on US",
+      "fr": "🇯🇵 Le Japon lance attaque surprise sur flotte US du Pacifique\n💣 2 400 Américains tués, 8 cuirassés endommagés/coulés\n📻 'Une date qui vivra dans l'infamie' - FDR\n🇺🇸 8 décembre : Les États-Unis déclarent guerre au Japon\n🇩🇪 11 décembre : L'Allemagne déclare guerre aux États-Unis"
+    },
+    "image": "images/wwii/pearl_harbor.webp",
+    "tags": ["pearl-harbor", "japan", "usa", "pacific"]
+  },
+  {
+    "year": "1941–1945",
+    "era": "Holocaust",
+    "title": {
+      "en": "The Holocaust",
+      "fr": "La Shoah"
+    },
+    "description": {
+      "en": "✡️ Nazi genocide of 6 million Jews\n💀 'Final Solution': systematic extermination\n🏚️ Death camps: Auschwitz, Treblinka, Sobibor\n😢 Also targeted: Roma, disabled, homosexuals, Slavs\n⚖️ Greatest crime in human history",
+      "fr": "✡️ Génocide nazi de 6 millions de Juifs\n💀 'Solution finale' : extermination systématique\n🏚️ Camps de la mort : Auschwitz, Treblinka, Sobibor\n😢 Aussi ciblés : Roms, handicapés, homosexuels, Slaves\n⚖️ Plus grand crime de l'histoire humaine"
+    },
+    "image": "images/wwii/holocaust.jpg",
+    "tags": ["holocaust", "genocide", "auschwitz", "jews"]
+  },
+  {
+    "year": "1942",
+    "era": "Pacific",
+    "title": {
+      "en": "Japanese Expansion & Midway",
+      "fr": "Expansion japonaise et Midway"
+    },
+    "description": {
+      "en": "🇯🇵 Japan conquers Southeast Asia, Pacific islands\n🇵🇭 Philippines fall, Bataan Death March\n🇸🇬 Singapore falls: worst British defeat\n⚓ June: Battle of Midway turns the tide\n🇺🇸 US sinks 4 Japanese carriers, Japan on defensive",
+      "fr": "🇯🇵 Le Japon conquiert Asie du Sud-Est, îles du Pacifique\n🇵🇭 Les Philippines tombent, Marche de la mort de Bataan\n🇸🇬 Singapour tombe : pire défaite britannique\n⚓ Juin : Bataille de Midway renverse la tendance\n🇺🇸 Les US coulent 4 porte-avions japonais, Japon sur la défensive"
+    },
+    "image": "images/wwii/midway.jpg",
+    "tags": ["pacific", "midway", "japan", "turning-point"]
+  },
+  {
+    "year": "August 1942–February 1943",
+    "era": "Eastern Front",
+    "title": {
+      "en": "Battle of Stalingrad",
+      "fr": "Bataille de Stalingrad"
+    },
+    "description": {
+      "en": "🏙️ Brutal urban combat, building by building\n🇷🇺 'Not one step back!' - Order 227\n❄️ Soviet counteroffensive encircles German 6th Army\n💀 300,000 Germans trapped, 91,000 surrender\n🔄 Turning point of war in Europe",
+      "fr": "🏙️ Combat urbain brutal, bâtiment par bâtiment\n🇷🇺 'Pas un pas en arrière !' - Ordre 227\n❄️ Contre-offensive soviétique encercle 6e armée allemande\n💀 300 000 Allemands piégés, 91 000 se rendent\n🔄 Tournant de la guerre en Europe"
+    },
+    "image": "images/wwii/stalingrad.jpg",
+    "tags": ["stalingrad", "eastern-front", "turning-point", "soviet"]
+  },
+  {
+    "year": "October–November 1942",
+    "era": "North Africa",
+    "title": {
+      "en": "El Alamein & Operation Torch",
+      "fr": "El Alamein et Opération Torch"
+    },
+    "description": {
+      "en": "🇬🇧 Montgomery defeats Rommel at El Alamein\n🔔 Churchill: 'Before Alamein we never had a victory'\n🇺🇸 November: US lands in Morocco and Algeria\n🦊 Afrika Korps caught in pincer\n🌍 Allies control North Africa by May 1943",
+      "fr": "🇬🇧 Montgomery bat Rommel à El Alamein\n🔔 Churchill : 'Avant Alamein nous n'avions jamais eu de victoire'\n🇺🇸 Novembre : Les US débarquent au Maroc et Algérie\n🦊 Afrika Korps pris en tenaille\n🌍 Alliés contrôlent Afrique du Nord en mai 1943"
+    },
+    "image": "images/wwii/el_alamein.jpg",
+    "tags": ["el-alamein", "north-africa", "montgomery", "torch"]
+  },
+  {
+    "year": "July 1943",
+    "era": "Italy",
+    "title": {
+      "en": "Allied Invasion of Sicily & Italy",
+      "fr": "Invasion alliée de la Sicile et de l'Italie"
+    },
+    "description": {
+      "en": "🇮🇹 Allies invade Sicily, Mussolini overthrown\n🏔️ September: Italy surrenders, Germany takes over\n⚔️ Brutal fighting up Italian peninsula\n🏰 Monte Cassino, Anzio: costly battles\n🐢 Slow advance, Italy campaign until 1945",
+      "fr": "🇮🇹 Alliés envahissent Sicile, Mussolini renversé\n🏔️ Septembre : L'Italie se rend, l'Allemagne prend le relais\n⚔️ Combats brutaux remontant péninsule italienne\n🏰 Monte Cassino, Anzio : batailles coûteuses\n🐢 Avance lente, campagne d'Italie jusqu'en 1945"
+    },
+    "image": "images/wwii/sicily.webp",
+    "tags": ["italy", "sicily", "mussolini", "mediterranean"]
+  },
+  {
+    "year": "July 1943",
+    "era": "Eastern Front",
+    "title": {
+      "en": "Battle of Kursk",
+      "fr": "Bataille de Koursk"
+    },
+    "description": {
+      "en": "🚜 Largest tank battle in history\n🇩🇪 Germany's last major offensive in East\n🇷🇺 Soviets knew attack coming, prepared defenses\n💥 6,000 tanks, 2 million soldiers engaged\n📉 Germany never recovers, Soviets advance west",
+      "fr": "🚜 Plus grande bataille de chars de l'histoire\n🇩🇪 Dernière grande offensive allemande à l'Est\n🇷🇺 Les Soviétiques savaient, préparèrent défenses\n💥 6 000 chars, 2 millions de soldats engagés\n📉 L'Allemagne ne se remet jamais, Soviétiques avancent vers l'ouest"
+    },
+    "image": "images/wwii/kursk.webp",
+    "tags": ["kursk", "tanks", "eastern-front", "turning-point"]
+  },
+  {
+    "year": "June 6, 1944",
+    "era": "D-Day",
+    "title": {
+      "en": "D-Day: Normandy Invasion",
+      "fr": "Jour J : Débarquement en Normandie"
+    },
+    "description": {
+      "en": "🏖️ Largest amphibious invasion in history\n🇺🇸🇬🇧🇨🇦 156,000 troops land on 5 beaches\n☂️ Paratroopers drop behind enemy lines\n💀 Heavy casualties, but beachheads secured\n🗺️ Liberation of Western Europe begins",
+      "fr": "🏖️ Plus grande invasion amphibie de l'histoire\n🇺🇸🇬🇧🇨🇦 156 000 soldats débarquent sur 5 plages\n☂️ Parachutistes sautent derrière lignes ennemies\n💀 Lourdes pertes, mais têtes de pont sécurisées\n🗺️ Libération de l'Europe occidentale commence"
+    },
+    "image": "images/wwii/d_day.jpg",
+    "tags": ["d-day", "normandy", "invasion", "liberation"]
+  },
+  {
+    "year": "August 1944",
+    "era": "Liberation",
+    "title": {
+      "en": "Liberation of Paris",
+      "fr": "Libération de Paris"
+    },
+    "description": {
+      "en": "🇫🇷 August 25: Paris liberated after 4 years\n✊ French Resistance uprising aids Allies\n🎖️ De Gaulle leads victory parade\n😭 Emotional scenes, end of occupation\n🏃 Allies race across France toward Germany",
+      "fr": "🇫🇷 25 août : Paris libéré après 4 ans\n✊ Soulèvement de la Résistance aide les Alliés\n🎖️ De Gaulle mène défilé de la victoire\n😭 Scènes émouvantes, fin de l'occupation\n🏃 Alliés foncent à travers la France vers l'Allemagne"
+    },
+    "image": "images/wwii/paris_liberation.jpg",
+    "tags": ["paris", "liberation", "france", "de-gaulle"]
+  },
+  {
+    "year": "December 1944–January 1945",
+    "era": "Western Front",
+    "title": {
+      "en": "Battle of the Bulge",
+      "fr": "Bataille des Ardennes"
+    },
+    "description": {
+      "en": "🇩🇪 Germany's last major offensive in West\n❄️ Surprise attack through Ardennes forest\n🇺🇸 'Nuts!' - General McAuliffe refuses surrender\n💪 American resistance holds, Germans pushed back\n📉 Germany exhausts last reserves",
+      "fr": "🇩🇪 Dernière grande offensive allemande à l'Ouest\n❄️ Attaque surprise à travers forêt des Ardennes\n🇺🇸 'Nuts !' - Général McAuliffe refuse de se rendre\n💪 Résistance américaine tient, Allemands repoussés\n📉 L'Allemagne épuise dernières réserves"
+    },
+    "image": "images/wwii/battle_bulge.jpg",
+    "tags": ["bulge", "ardennes", "offensive", "1944"]
+  },
+  {
+    "year": "1944–1945",
+    "era": "Pacific",
+    "title": {
+      "en": "Island Hopping to Japan",
+      "fr": "Sauts d'île en île vers le Japon"
+    },
+    "description": {
+      "en": "🏝️ US 'island hops' across Pacific\n⚔️ Brutal battles: Saipan, Iwo Jima, Okinawa\n🇯🇵 Kamikaze attacks intensify\n✈️ B-29 bombers firebomb Japanese cities\n💀 Massive casualties on both sides",
+      "fr": "🏝️ Les US 'sautent d'île en île' à travers le Pacifique\n⚔️ Batailles brutales : Saipan, Iwo Jima, Okinawa\n🇯🇵 Attaques kamikaze s'intensifient\n✈️ B-29 bombardent villes japonaises au napalm\n💀 Pertes massives des deux côtés"
+    },
+    "image": "images/wwii/iwo_jima.jpg",
+    "tags": ["pacific", "island-hopping", "iwo-jima", "okinawa"]
+  },
+  {
+    "year": "February 1945",
+    "era": "Conferences",
+    "title": {
+      "en": "Yalta Conference",
+      "fr": "Conférence de Yalta"
+    },
+    "description": {
+      "en": "🤝 Roosevelt, Churchill, Stalin plan post-war world\n🗺️ Germany to be divided into zones\n🇵🇱 Poland's borders redrawn\n🇷🇺 Soviets promise free elections (broken)\n🌍 Seeds of Cold War planted",
+      "fr": "🤝 Roosevelt, Churchill, Staline planifient monde d'après-guerre\n🗺️ L'Allemagne sera divisée en zones\n🇵🇱 Frontières de la Pologne redessinées\n🇷🇺 Soviétiques promettent élections libres (non tenu)\n🌍 Graines de la Guerre froide plantées"
+    },
+    "image": "images/wwii/yalta.jpg",
+    "tags": ["yalta", "conference", "allies", "post-war"]
+  },
+  {
+    "year": "April–May 1945",
+    "era": "Fall of Reich",
+    "title": {
+      "en": "Fall of Berlin",
+      "fr": "Chute de Berlin"
+    },
+    "description": {
+      "en": "🇷🇺 Red Army encircles Berlin\n🏚️ Street-by-street fighting in ruined city\n💀 April 30: Hitler commits suicide in bunker\n🚩 May 2: Soviet flag over Reichstag\n🎉 May 8: V-E Day, Germany surrenders",
+      "fr": "🇷🇺 L'Armée rouge encercle Berlin\n🏚️ Combats rue par rue dans ville en ruines\n💀 30 avril : Hitler se suicide dans son bunker\n🚩 2 mai : Drapeau soviétique sur le Reichstag\n🎉 8 mai : Jour V-E, l'Allemagne se rend"
+    },
+    "image": "images/wwii/berlin_fall.webp",
+    "tags": ["berlin", "fall", "hitler", "victory-europe"]
+  },
+  {
+    "year": "August 6 & 9, 1945",
+    "era": "Atomic Age",
+    "title": {
+      "en": "Atomic Bombs on Japan",
+      "fr": "Bombes atomiques sur le Japon"
+    },
+    "description": {
+      "en": "☢️ August 6: 'Little Boy' dropped on Hiroshima\n💥 80,000 killed instantly, city destroyed\n☢️ August 9: 'Fat Man' dropped on Nagasaki\n💀 40,000 killed instantly\n🔬 Nuclear age begins with horrific destruction",
+      "fr": "☢️ 6 août : 'Little Boy' largué sur Hiroshima\n💥 80 000 tués instantanément, ville détruite\n☢️ 9 août : 'Fat Man' largué sur Nagasaki\n💀 40 000 tués instantanément\n🔬 L'ère nucléaire commence avec destruction horrifique"
+    },
+    "image": "images/wwii/atomic_bomb.jpg",
+    "tags": ["atomic", "hiroshima", "nagasaki", "nuclear"]
+  },
+  {
+    "year": "August 15, 1945",
+    "era": "Victory",
+    "title": {
+      "en": "Japan Surrenders",
+      "fr": "Le Japon se rend"
+    },
+    "description": {
+      "en": "🇯🇵 Emperor Hirohito announces surrender\n📻 First time Japanese hear Emperor's voice\n🎉 V-J Day: celebrations worldwide\n✍️ September 2: formal surrender on USS Missouri\n🕊️ World War II finally ends",
+      "fr": "🇯🇵 L'empereur Hirohito annonce la reddition\n📻 Première fois que les Japonais entendent la voix de l'Empereur\n🎉 Jour V-J : célébrations dans le monde\n✍️ 2 septembre : reddition formelle sur USS Missouri\n🕊️ La Seconde Guerre mondiale se termine enfin"
+    },
+    "image": "images/wwii/japan_surrender.jpg",
+    "tags": ["surrender", "japan", "victory", "end"]
+  },
+  {
+    "year": "1945–1946",
+    "era": "Justice",
+    "title": {
+      "en": "Nuremberg Trials",
+      "fr": "Procès de Nuremberg"
+    },
+    "description": {
+      "en": "⚖️ Nazi leaders tried for crimes against humanity\n👨‍⚖️ International Military Tribunal\n💀 12 sentenced to death, executed\n📜 Established precedent for international law\n🌍 'Following orders' not a defense",
+      "fr": "⚖️ Dirigeants nazis jugés pour crimes contre l'humanité\n👨‍⚖️ Tribunal militaire international\n💀 12 condamnés à mort, exécutés\n📜 Établit précédent pour droit international\n🌍 'Obéir aux ordres' n'est pas une défense"
+    },
+    "image": "images/wwii/nuremberg.jpg",
+    "tags": ["nuremberg", "trials", "justice", "war-crimes"]
+  },
+  {
+    "year": "Legacy",
+    "era": "Aftermath",
+    "title": {
+      "en": "World War II Legacy",
+      "fr": "Héritage de la Seconde Guerre mondiale"
+    },
+    "description": {
+      "en": "💀 70–85 million dead (3% of world population)\n🏚️ Europe and Asia in ruins\n🇺🇸🇷🇺 USA and USSR emerge as superpowers\n❄️ Cold War begins immediately\n🇺🇳 United Nations founded to prevent future wars\n🗺️ Decolonization reshapes world",
+      "fr": "💀 70–85 millions de morts (3% de la population mondiale)\n🏚️ Europe et Asie en ruines\n🇺🇸🇷🇺 USA et URSS émergent comme superpuissances\n❄️ Guerre froide commence immédiatement\n🇺🇳 Nations Unies fondées pour prévenir guerres futures\n🗺️ Décolonisation remodèle le monde"
+    },
+    "image": "images/wwii/legacy.jpg",
+    "tags": ["legacy", "aftermath", "cold-war", "united-nations"]
+  }
+]

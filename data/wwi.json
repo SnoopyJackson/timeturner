@@ -1,0 +1,436 @@
+[
+  {
+    "year": "1871",
+    "era": "Seeds of Conflict",
+    "title": {
+      "en": "German Unification",
+      "fr": "Unification allemande"
+    },
+    "description": {
+      "en": "🇩🇪 Prussia defeats France, German Empire proclaimed at Versailles\n👑 Wilhelm I crowned Kaiser, Bismarck as Chancellor\n🗺️ France loses Alsace-Lorraine, seeds of revenge planted\n⚖️ Balance of power in Europe fundamentally shifts\n💔 French humiliation fuels decades of resentment",
+      "fr": "🇩🇪 La Prusse bat la France, Empire allemand proclamé à Versailles\n👑 Guillaume Ier couronné Kaiser, Bismarck comme Chancelier\n🗺️ La France perd l'Alsace-Lorraine, graines de revanche plantées\n⚖️ L'équilibre des pouvoirs en Europe change fondamentalement\n💔 L'humiliation française alimente des décennies de ressentiment"
+    },
+    "image": "images/wwi/german_unification.webp",
+    "tags": ["origins", "germany", "france", "unification"]
+  },
+  {
+    "year": "1882",
+    "era": "Alliance Systems",
+    "title": {
+      "en": "Triple Alliance Formed",
+      "fr": "Formation de la Triple Alliance"
+    },
+    "description": {
+      "en": "🤝 Germany, Austria-Hungary, and Italy form defensive alliance\n🛡️ Bismarck's system to isolate France diplomatically\n⚔️ Mutual defense pact against attack\n🗺️ Central Powers bloc takes shape\n⚠️ Europe divides into armed camps",
+      "fr": "🤝 L'Allemagne, l'Autriche-Hongrie et l'Italie forment alliance défensive\n🛡️ Système de Bismarck pour isoler la France diplomatiquement\n⚔️ Pacte de défense mutuelle contre attaque\n🗺️ Le bloc des Puissances centrales prend forme\n⚠️ L'Europe se divise en camps armés"
+    },
+    "image": "images/wwi/triple_alliance.jpg",
+    "tags": ["alliances", "germany", "austria-hungary", "italy"]
+  },
+  {
+    "year": "1894",
+    "era": "Alliance Systems",
+    "title": {
+      "en": "Franco-Russian Alliance",
+      "fr": "Alliance franco-russe"
+    },
+    "description": {
+      "en": "🇫🇷🇷🇺 France and Russia sign military alliance\n🔄 Germany now faces two-front war threat\n💰 French loans finance Russian industrialization\n⚖️ Balance against German power\n🕸️ Web of alliances tightens across Europe",
+      "fr": "🇫🇷🇷🇺 La France et la Russie signent alliance militaire\n🔄 L'Allemagne fait face à menace de guerre sur deux fronts\n💰 Prêts français financent industrialisation russe\n⚖️ Contrepoids au pouvoir allemand\n🕸️ Toile d'alliances se resserre en Europe"
+    },
+    "image": "images/wwi/franco_russian.jpg",
+    "tags": ["alliances", "france", "russia", "diplomacy"]
+  },
+  {
+    "year": "1898–1912",
+    "era": "Naval Arms Race",
+    "title": {
+      "en": "Anglo-German Naval Race",
+      "fr": "Course navale anglo-allemande"
+    },
+    "description": {
+      "en": "🚢 Kaiser Wilhelm II builds High Seas Fleet\n🇬🇧 Britain responds with Dreadnought battleships\n⚓ Naval supremacy becomes existential for Britain\n💰 Massive military spending strains economies\n😤 Tensions rise between former friends",
+      "fr": "🚢 Le Kaiser Guillaume II construit la Flotte de haute mer\n🇬🇧 La Grande-Bretagne répond avec cuirassés Dreadnought\n⚓ La suprématie navale devient existentielle pour la Grande-Bretagne\n💰 Dépenses militaires massives pèsent sur les économies\n😤 Tensions montent entre anciens amis"
+    },
+    "image": "images/wwi/naval_race.jpg",
+    "tags": ["naval", "arms-race", "britain", "germany"]
+  },
+  {
+    "year": "1904–1907",
+    "era": "Alliance Systems",
+    "title": {
+      "en": "Triple Entente Formed",
+      "fr": "Formation de la Triple Entente"
+    },
+    "description": {
+      "en": "🤝 Britain, France, and Russia align\n🇬🇧 Entente Cordiale (1904) ends Anglo-French rivalry\n🇷🇺 Anglo-Russian Convention (1907) settles Asian disputes\n⚖️ Europe now divided into two armed camps\n💣 Any conflict risks continental war",
+      "fr": "🤝 Grande-Bretagne, France et Russie s'alignent\n🇬🇧 Entente Cordiale (1904) met fin à rivalité anglo-française\n🇷🇺 Convention anglo-russe (1907) règle disputes asiatiques\n⚖️ L'Europe maintenant divisée en deux camps armés\n💣 Tout conflit risque guerre continentale"
+    },
+    "image": "images/wwi/triple_entente.jpg",
+    "tags": ["alliances", "britain", "france", "russia"]
+  },
+  {
+    "year": "1905–1911",
+    "era": "Crises",
+    "title": {
+      "en": "Moroccan Crises",
+      "fr": "Crises marocaines"
+    },
+    "description": {
+      "en": "🇲🇦 Germany challenges French influence in Morocco\n🚢 1905: Kaiser visits Tangier, demands conference\n⚓ 1911: Agadir Crisis, gunboat diplomacy\n😤 Germany humiliated, France gains Morocco\n🔥 War nearly breaks out, tensions escalate",
+      "fr": "🇲🇦 L'Allemagne conteste l'influence française au Maroc\n🚢 1905 : Le Kaiser visite Tanger, exige conférence\n⚓ 1911 : Crise d'Agadir, diplomatie de la canonnière\n😤 L'Allemagne humiliée, la France gagne le Maroc\n🔥 La guerre manque d'éclater, tensions s'intensifient"
+    },
+    "image": "images/wwi/moroccan_crisis.jpg",
+    "tags": ["crisis", "morocco", "germany", "france"]
+  },
+  {
+    "year": "1912–1913",
+    "era": "Balkan Powder Keg",
+    "title": {
+      "en": "Balkan Wars",
+      "fr": "Guerres balkaniques"
+    },
+    "description": {
+      "en": "🗺️ Ottoman Empire loses almost all European territory\n⚔️ Serbia doubles in size, threatens Austria-Hungary\n🇷🇺 Russia backs Slavic nations, Pan-Slavism rises\n🇦🇹 Austria-Hungary sees Serbia as existential threat\n💣 Balkans become 'powder keg of Europe'",
+      "fr": "🗺️ L'Empire ottoman perd presque tout territoire européen\n⚔️ La Serbie double de taille, menace l'Autriche-Hongrie\n🇷🇺 La Russie soutient nations slaves, panslavisme monte\n🇦🇹 L'Autriche-Hongrie voit la Serbie comme menace existentielle\n💣 Les Balkans deviennent 'poudrière de l'Europe'"
+    },
+    "image": "images/wwi/balkan_wars.jpg",
+    "tags": ["balkans", "serbia", "ottoman", "austria-hungary"]
+  },
+  {
+    "year": "June 28, 1914",
+    "era": "Spark",
+    "title": {
+      "en": "Assassination of Archduke Franz Ferdinand",
+      "fr": "Assassinat de l'archiduc François-Ferdinand"
+    },
+    "description": {
+      "en": "💀 Gavrilo Princip assassinates heir to Austro-Hungarian throne\n🇧🇦 Shooting in Sarajevo, Bosnia\n👫 Archduke and wife Sophie both killed\n🖤 Black Hand Serbian nationalist group behind plot\n🔥 Spark that ignites the Great War",
+      "fr": "💀 Gavrilo Princip assassine l'héritier du trône austro-hongrois\n🇧🇦 Fusillade à Sarajevo, Bosnie\n👫 L'archiduc et sa femme Sophie tous deux tués\n🖤 Groupe nationaliste serbe Main Noire derrière le complot\n🔥 L'étincelle qui déclenche la Grande Guerre"
+    },
+    "image": "images/wwi/franz_ferdinand.jpg",
+    "tags": ["assassination", "sarajevo", "franz-ferdinand", "spark"]
+  },
+  {
+    "year": "July 1914",
+    "era": "July Crisis",
+    "title": {
+      "en": "July Crisis & Ultimatums",
+      "fr": "Crise de juillet et ultimatums"
+    },
+    "description": {
+      "en": "📜 Austria-Hungary issues harsh ultimatum to Serbia\n🇩🇪 Germany gives 'blank check' support to Austria\n🇷🇺 Russia mobilizes to defend Serbia\n🇫🇷 France supports Russia per alliance\n⏰ Diplomacy fails, countdown to war begins",
+      "fr": "📜 L'Autriche-Hongrie lance ultimatum dur à la Serbie\n🇩🇪 L'Allemagne donne soutien 'chèque en blanc' à l'Autriche\n🇷🇺 La Russie mobilise pour défendre la Serbie\n🇫🇷 La France soutient la Russie selon l'alliance\n⏰ La diplomatie échoue, compte à rebours vers la guerre commence"
+    },
+    "image": "images/wwi/july_crisis.webp",
+    "tags": ["crisis", "ultimatum", "diplomacy", "mobilization"]
+  },
+  {
+    "year": "August 1914",
+    "era": "War Begins",
+    "title": {
+      "en": "War Declarations",
+      "fr": "Déclarations de guerre"
+    },
+    "description": {
+      "en": "⚔️ Aug 1: Germany declares war on Russia\n⚔️ Aug 3: Germany declares war on France\n🇧🇪 Aug 4: Germany invades Belgium\n🇬🇧 Aug 4: Britain declares war on Germany\n🌍 World War has begun, 'lights going out all over Europe'",
+      "fr": "⚔️ 1er août : L'Allemagne déclare la guerre à la Russie\n⚔️ 3 août : L'Allemagne déclare la guerre à la France\n🇧🇪 4 août : L'Allemagne envahit la Belgique\n🇬🇧 4 août : La Grande-Bretagne déclare la guerre à l'Allemagne\n🌍 La guerre mondiale a commencé, 'lumières s'éteignent sur l'Europe'"
+    },
+    "image": "images/wwi/war_declaration.jpg",
+    "tags": ["war", "declaration", "august-1914", "beginning"]
+  },
+  {
+    "year": "August–September 1914",
+    "era": "Western Front",
+    "title": {
+      "en": "Schlieffen Plan & Battle of the Marne",
+      "fr": "Plan Schlieffen et Bataille de la Marne"
+    },
+    "description": {
+      "en": "🗺️ Germany executes Schlieffen Plan through Belgium\n🏃 Rapid advance toward Paris\n🚕 French 'Taxis of the Marne' rush troops to front\n⚔️ Battle of the Marne halts German advance\n🛑 'Race to the Sea' begins, war of movement ends",
+      "fr": "🗺️ L'Allemagne exécute le Plan Schlieffen à travers la Belgique\n🏃 Avance rapide vers Paris\n🚕 'Taxis de la Marne' français transportent troupes au front\n⚔️ Bataille de la Marne arrête l'avance allemande\n🛑 'Course à la mer' commence, guerre de mouvement finit"
+    },
+    "image": "images/wwi/marne.jpg",
+    "tags": ["schlieffen", "marne", "france", "belgium"]
+  },
+  {
+    "year": "1914–1918",
+    "era": "Western Front",
+    "title": {
+      "en": "Trench Warfare Begins",
+      "fr": "Début de la guerre des tranchées"
+    },
+    "description": {
+      "en": "🕳️ 400 miles of trenches from Switzerland to North Sea\n💀 No Man's Land: deadly zone between lines\n🔫 Machine guns, artillery, barbed wire dominate\n🐀 Mud, rats, disease, shell shock\n♻️ Millions die for yards of territory",
+      "fr": "🕳️ 640 km de tranchées de la Suisse à la mer du Nord\n💀 No Man's Land : zone mortelle entre les lignes\n🔫 Mitrailleuses, artillerie, barbelés dominent\n🐀 Boue, rats, maladies, traumatismes de guerre\n♻️ Des millions meurent pour quelques mètres de territoire"
+    },
+    "image": "images/wwi/trenches.jpg",
+    "tags": ["trenches", "western-front", "warfare", "stalemate"]
+  },
+  {
+    "year": "1914",
+    "era": "Eastern Front",
+    "title": {
+      "en": "Battle of Tannenberg",
+      "fr": "Bataille de Tannenberg"
+    },
+    "description": {
+      "en": "🇷🇺 Russian army invades East Prussia\n🇩🇪 Hindenburg and Ludendorff take command\n⚔️ Decisive German victory, 90,000 Russians captured\n💀 Russian General Samsonov commits suicide\n🌟 Hindenburg becomes German national hero",
+      "fr": "🇷🇺 L'armée russe envahit la Prusse orientale\n🇩🇪 Hindenburg et Ludendorff prennent le commandement\n⚔️ Victoire allemande décisive, 90 000 Russes capturés\n💀 Le général russe Samsonov se suicide\n🌟 Hindenburg devient héros national allemand"
+    },
+    "image": "images/wwi/tannenberg.jpg",
+    "tags": ["eastern-front", "tannenberg", "russia", "germany"]
+  },
+  {
+    "year": "1915",
+    "era": "New Fronts",
+    "title": {
+      "en": "Gallipoli Campaign",
+      "fr": "Campagne de Gallipoli"
+    },
+    "description": {
+      "en": "🇹🇷 Allies attempt to knock Ottoman Empire out of war\n🏖️ ANZAC troops land at Gallipoli peninsula\n💀 10 months of brutal fighting, 500,000+ casualties\n❌ Campaign fails, Allies evacuate\n🇦🇺🇳🇿 Birth of Australian and New Zealand national identity",
+      "fr": "🇹🇷 Les Alliés tentent d'éliminer l'Empire ottoman\n🏖️ Troupes ANZAC débarquent sur péninsule de Gallipoli\n💀 10 mois de combats brutaux, 500 000+ victimes\n❌ Campagne échoue, Alliés évacuent\n🇦🇺🇳🇿 Naissance de l'identité nationale australienne et néo-zélandaise"
+    },
+    "image": "images/wwi/gallipoli.sebp",
+    "tags": ["gallipoli", "ottoman", "anzac", "naval"]
+  },
+  {
+    "year": "1915",
+    "era": "New Weapons",
+    "title": {
+      "en": "First Poison Gas Attack",
+      "fr": "Première attaque au gaz toxique"
+    },
+    "description": {
+      "en": "☠️ Germany uses chlorine gas at Second Battle of Ypres\n😱 French and Canadian troops flee in terror\n🎭 Gas masks become standard equipment\n⚗️ Chemical warfare escalates: phosgene, mustard gas\n🚫 Horrific weapon, later banned by Geneva Protocol",
+      "fr": "☠️ L'Allemagne utilise gaz chloré à Deuxième Bataille d'Ypres\n😱 Troupes françaises et canadiennes fuient terrorisées\n🎭 Masques à gaz deviennent équipement standard\n⚗️ Guerre chimique s'intensifie : phosgène, gaz moutarde\n🚫 Arme horrifique, plus tard interdite par Protocole de Genève"
+    },
+    "image": "images/wwi/poison_gas.jpg",
+    "tags": ["gas", "chemical-warfare", "ypres", "weapons"]
+  },
+  {
+    "year": "1915",
+    "era": "Atrocities",
+    "title": {
+      "en": "Armenian Genocide",
+      "fr": "Génocide arménien"
+    },
+    "description": {
+      "en": "💀 Ottoman Empire systematically kills 1.5 million Armenians\n🚶 Death marches into Syrian desert\n🏚️ Deportations, massacres, starvation\n😔 First modern genocide of 20th century\n⚖️ Turkey still disputes genocide label today",
+      "fr": "💀 L'Empire ottoman tue systématiquement 1,5 million d'Arméniens\n🚶 Marches de la mort vers le désert syrien\n🏚️ Déportations, massacres, famine\n😔 Premier génocide moderne du 20e siècle\n⚖️ La Turquie conteste encore le terme génocide aujourd'hui"
+    },
+    "image": "images/wwi/armenian_genocide.jpg",
+    "tags": ["genocide", "armenian", "ottoman", "atrocity"]
+  },
+  {
+    "year": "1916",
+    "era": "Western Front",
+    "title": {
+      "en": "Battle of Verdun",
+      "fr": "Bataille de Verdun"
+    },
+    "description": {
+      "en": "🇩🇪 Germany attacks to 'bleed France white'\n⚔️ 10 months of fighting, longest battle of WWI\n💀 700,000+ casualties on both sides\n🏰 'Ils ne passeront pas!' (They shall not pass!)\n🇫🇷 Symbol of French resistance and sacrifice",
+      "fr": "🇩🇪 L'Allemagne attaque pour 'saigner la France à blanc'\n⚔️ 10 mois de combats, plus longue bataille de la WWI\n💀 700 000+ victimes des deux côtés\n🏰 'Ils ne passeront pas !'\n🇫🇷 Symbole de résistance et sacrifice français"
+    },
+    "image": "images/wwi/verdun.jpg",
+    "tags": ["verdun", "france", "germany", "attrition"]
+  },
+  {
+    "year": "1916",
+    "era": "Western Front",
+    "title": {
+      "en": "Battle of the Somme",
+      "fr": "Bataille de la Somme"
+    },
+    "description": {
+      "en": "🇬🇧 British launch massive offensive to relieve Verdun\n💀 20,000 British killed on first day alone\n🎖️ Over 1 million total casualties\n🚜 First use of tanks (Sept 15, 1916)\n😔 Symbol of war's futility and carnage",
+      "fr": "🇬🇧 Les Britanniques lancent offensive massive pour soulager Verdun\n💀 20 000 Britanniques tués le premier jour seul\n🎖️ Plus d'1 million de victimes au total\n🚜 Première utilisation des chars (15 sept 1916)\n😔 Symbole de la futilité et du carnage de la guerre"
+    },
+    "image": "images/wwi/somme.jpg",
+    "tags": ["somme", "britain", "tanks", "casualties"]
+  },
+  {
+    "year": "1916",
+    "era": "Naval War",
+    "title": {
+      "en": "Battle of Jutland",
+      "fr": "Bataille du Jutland"
+    },
+    "description": {
+      "en": "⚓ Largest naval battle in history at the time\n🇬🇧🇩🇪 British Grand Fleet vs German High Seas Fleet\n💀 Britain loses more ships but maintains blockade\n🚢 Germany never seriously challenges British navy again\n🔒 Naval blockade continues to strangle Germany",
+      "fr": "⚓ Plus grande bataille navale de l'histoire à l'époque\n🇬🇧🇩🇪 Grande Flotte britannique vs Flotte allemande\n💀 La Grande-Bretagne perd plus de navires mais maintient blocus\n🚢 L'Allemagne ne défie plus sérieusement la marine britannique\n🔒 Le blocus naval continue d'étrangler l'Allemagne"
+    },
+    "image": "images/wwi/jutland.webp",
+    "tags": ["naval", "jutland", "britain", "germany"]
+  },
+  {
+    "year": "1917",
+    "era": "Turning Point",
+    "title": {
+      "en": "United States Enters War",
+      "fr": "Les États-Unis entrent en guerre"
+    },
+    "description": {
+      "en": "🇺🇸 April 6: US declares war on Germany\n🚢 Unrestricted submarine warfare sinks US ships\n📜 Zimmermann Telegram proposes Mexico attack US\n💪 'Make the world safe for democracy' - Wilson\n🎖️ Fresh troops and resources tip the balance",
+      "fr": "🇺🇸 6 avril : Les États-Unis déclarent la guerre à l'Allemagne\n🚢 Guerre sous-marine illimitée coule navires américains\n📜 Télégramme Zimmermann propose au Mexique d'attaquer les US\n💪 'Rendre le monde sûr pour la démocratie' - Wilson\n🎖️ Troupes fraîches et ressources font pencher la balance"
+    },
+    "image": "images/wwi/us_enters.jpg",
+    "tags": ["usa", "entry", "zimmermann", "wilson"]
+  },
+  {
+    "year": "1917",
+    "era": "Collapse",
+    "title": {
+      "en": "Russian Revolution",
+      "fr": "Révolution russe"
+    },
+    "description": {
+      "en": "🇷🇺 February: Tsar Nicholas II abdicates\n🚩 October: Bolsheviks seize power under Lenin\n☮️ December: Russia seeks peace with Germany\n📜 Treaty of Brest-Litovsk (March 1918)\n🔄 Eastern Front collapses, Germany shifts troops west",
+      "fr": "🇷🇺 Février : Le tsar Nicolas II abdique\n🚩 Octobre : Les Bolcheviks prennent le pouvoir sous Lénine\n☮️ Décembre : La Russie cherche la paix avec l'Allemagne\n📜 Traité de Brest-Litovsk (mars 1918)\n🔄 Front de l'Est s'effondre, l'Allemagne déplace troupes à l'ouest"
+    },
+    "image": "images/wwi/russian_revolution.webp",
+    "tags": ["russia", "revolution", "lenin", "collapse"]
+  },
+  {
+    "year": "1917",
+    "era": "Western Front",
+    "title": {
+      "en": "French Army Mutinies",
+      "fr": "Mutineries de l'armée française"
+    },
+    "description": {
+      "en": "😤 Failed Nivelle Offensive causes mass mutinies\n✊ 50+ divisions refuse orders, demand peace\n🛑 Soldiers: 'We will defend but not attack'\n👨‍✈️ Pétain restores order with reforms and executions\n🤫 Mutinies kept secret from Germans",
+      "fr": "😤 L'offensive Nivelle ratée cause mutineries massives\n✊ 50+ divisions refusent les ordres, exigent la paix\n🛑 Soldats : 'Nous défendrons mais n'attaquerons pas'\n👨‍✈️ Pétain rétablit l'ordre avec réformes et exécutions\n🤫 Mutineries gardées secrètes des Allemands"
+    },
+    "image": "images/wwi/mutinies.jpg",
+    "tags": ["mutiny", "france", "morale", "petain"]
+  },
+  {
+    "year": "1917",
+    "era": "Western Front",
+    "title": {
+      "en": "Battle of Passchendaele",
+      "fr": "Bataille de Passchendaele"
+    },
+    "description": {
+      "en": "🇬🇧 British offensive in Flanders\n🌧️ Worst conditions of the war: mud, rain, shell craters\n💀 500,000 casualties for 5 miles gained\n😱 Men and horses drowned in mud\n😔 Epitome of WWI's senseless slaughter",
+      "fr": "🇬🇧 Offensive britannique en Flandres\n🌧️ Pires conditions de la guerre : boue, pluie, cratères\n💀 500 000 victimes pour 8 km gagnés\n😱 Hommes et chevaux noyés dans la boue\n😔 Épitomé du carnage insensé de la WWI"
+    },
+    "image": "images/wwi/passchendaele.jpg",
+    "tags": ["passchendaele", "britain", "mud", "casualties"]
+  },
+  {
+    "year": "Spring 1918",
+    "era": "Final Year",
+    "title": {
+      "en": "German Spring Offensive",
+      "fr": "Offensive de printemps allemande"
+    },
+    "description": {
+      "en": "🇩🇪 Ludendorff launches last major German offensive\n⚔️ Operation Michael: stormtrooper tactics breakthrough\n🏃 Germans advance 40 miles, closest to Paris since 1914\n😰 Allies nearly broken, unified command under Foch\n💪 But Germany exhausted, no reserves left",
+      "fr": "🇩🇪 Ludendorff lance dernière grande offensive allemande\n⚔️ Opération Michael : percée par tactiques de troupes d'assaut\n🏃 Les Allemands avancent de 65 km, plus près de Paris depuis 1914\n😰 Alliés presque brisés, commandement unifié sous Foch\n💪 Mais l'Allemagne épuisée, plus de réserves"
+    },
+    "image": "images/wwi/spring_offensive.jpg",
+    "tags": ["spring-offensive", "germany", "ludendorff", "1918"]
+  },
+  {
+    "year": "Summer–Fall 1918",
+    "era": "Final Year",
+    "title": {
+      "en": "Hundred Days Offensive",
+      "fr": "Offensive des Cent Jours"
+    },
+    "description": {
+      "en": "🇫🇷🇬🇧🇺🇸 Allied counteroffensive begins August 8\n🚜 Tanks, aircraft, combined arms tactics\n📉 'Black Day of the German Army' - Ludendorff\n🏃 Germans pushed back continuously\n🏳️ German High Command admits war is lost",
+      "fr": "🇫🇷🇬🇧🇺🇸 Contre-offensive alliée commence le 8 août\n🚜 Chars, aviation, tactiques d'armes combinées\n📉 'Jour noir de l'armée allemande' - Ludendorff\n🏃 Les Allemands repoussés continuellement\n🏳️ Le Haut Commandement allemand admet que la guerre est perdue"
+    },
+    "image": "images/wwi/hundred_days.jpg",
+    "tags": ["hundred-days", "allies", "victory", "offensive"]
+  },
+  {
+    "year": "1918",
+    "era": "Collapse",
+    "title": {
+      "en": "Central Powers Collapse",
+      "fr": "Effondrement des Puissances centrales"
+    },
+    "description": {
+      "en": "🇧🇬 September: Bulgaria surrenders\n🇹🇷 October: Ottoman Empire surrenders\n🇦🇹 November: Austria-Hungary collapses, empire dissolves\n🇩🇪 German navy mutinies, revolution spreads\n👑 Kaiser Wilhelm II abdicates, flees to Netherlands",
+      "fr": "🇧🇬 Septembre : La Bulgarie se rend\n🇹🇷 Octobre : L'Empire ottoman se rend\n🇦🇹 Novembre : L'Autriche-Hongrie s'effondre, empire se dissout\n🇩🇪 Marine allemande se mutine, révolution se propage\n👑 Le Kaiser Guillaume II abdique, fuit aux Pays-Bas"
+    },
+    "image": "images/wwi/collapse.jpg",
+    "tags": ["collapse", "surrender", "revolution", "austria-hungary"]
+  },
+  {
+    "year": "November 11, 1918",
+    "era": "Armistice",
+    "title": {
+      "en": "Armistice Day",
+      "fr": "Jour de l'Armistice"
+    },
+    "description": {
+      "en": "🕚 11th hour, 11th day, 11th month: guns fall silent\n✍️ Armistice signed in railway carriage at Compiègne\n🎉 Celebrations erupt across Allied nations\n💀 10 million soldiers dead, 20 million wounded\n😔 'The war to end all wars' - but only beginning",
+      "fr": "🕚 11e heure, 11e jour, 11e mois : les armes se taisent\n✍️ Armistice signé dans wagon à Compiègne\n🎉 Célébrations éclatent dans les nations alliées\n💀 10 millions de soldats morts, 20 millions blessés\n😔 'La guerre pour mettre fin à toutes les guerres' - mais seulement le début"
+    },
+    "image": "images/wwi/armistice.jpg",
+    "tags": ["armistice", "peace", "november-11", "end"]
+  },
+  {
+    "year": "1918–1920",
+    "era": "Aftermath",
+    "title": {
+      "en": "Spanish Flu Pandemic",
+      "fr": "Pandémie de grippe espagnole"
+    },
+    "description": {
+      "en": "🦠 Deadliest pandemic in modern history\n💀 50–100 million deaths worldwide\n🤒 War conditions helped spread disease\n👨‍⚕️ Young adults especially vulnerable\n📉 More deaths than WWI itself",
+      "fr": "🦠 Pandémie la plus meurtrière de l'histoire moderne\n💀 50–100 millions de morts dans le monde\n🤒 Conditions de guerre ont aidé à propager la maladie\n👨‍⚕️ Jeunes adultes particulièrement vulnérables\n📉 Plus de morts que la WWI elle-même"
+    },
+    "image": "images/wwi/spanish_flu.jpg",
+    "tags": ["pandemic", "spanish-flu", "disease", "aftermath"]
+  },
+  {
+    "year": "1919",
+    "era": "Peace",
+    "title": {
+      "en": "Treaty of Versailles",
+      "fr": "Traité de Versailles"
+    },
+    "description": {
+      "en": "📜 Peace treaty signed June 28, 1919\n🇩🇪 Germany accepts 'war guilt', loses territory\n💰 Massive reparations demanded (132 billion gold marks)\n🗺️ New nations created: Poland, Czechoslovakia, Yugoslavia\n😤 Germans humiliated, seeds of WWII planted",
+      "fr": "📜 Traité de paix signé le 28 juin 1919\n🇩🇪 L'Allemagne accepte 'culpabilité de guerre', perd territoire\n💰 Réparations massives exigées (132 milliards de marks-or)\n🗺️ Nouvelles nations créées : Pologne, Tchécoslovaquie, Yougoslavie\n😤 Allemands humiliés, graines de la WWII plantées"
+    },
+    "image": "images/wwi/versailles.avif",
+    "tags": ["versailles", "treaty", "peace", "reparations"]
+  },
+  {
+    "year": "1920",
+    "era": "New World Order",
+    "title": {
+      "en": "League of Nations",
+      "fr": "Société des Nations"
+    },
+    "description": {
+      "en": "🏛️ International organization to prevent future wars\n💡 Woodrow Wilson's vision for collective security\n🇺🇸 US Senate refuses to join\n⚠️ Lacks enforcement power\n❌ Would fail to prevent WWII",
+      "fr": "🏛️ Organisation internationale pour prévenir guerres futures\n💡 Vision de Woodrow Wilson pour sécurité collective\n🇺🇸 Le Sénat américain refuse d'adhérer\n⚠️ Manque de pouvoir d'application\n❌ Échouera à prévenir la WWII"
+    },
+    "image": "images/wwi/league_nations.avif",
+    "tags": ["league-of-nations", "wilson", "peace", "diplomacy"]
+  },
+  {
+    "year": "Legacy",
+    "era": "Impact",
+    "title": {
+      "en": "The Great War's Legacy",
+      "fr": "L'héritage de la Grande Guerre"
+    },
+    "description": {
+      "en": "💀 17 million dead, 20 million wounded\n👑 Four empires destroyed: German, Austro-Hungarian, Ottoman, Russian\n🗺️ Map of Europe and Middle East redrawn\n🔄 Russian Revolution changes world history\n😔 'Lost Generation' traumatized, disillusioned\n⏭️ Unresolved issues lead directly to WWII",
+      "fr": "💀 17 millions de morts, 20 millions de blessés\n👑 Quatre empires détruits : allemand, austro-hongrois, ottoman, russe\n🗺️ Carte d'Europe et Moyen-Orient redessinée\n🔄 Révolution russe change l'histoire mondiale\n😔 'Génération perdue' traumatisée, désillusionnée\n⏭️ Problèmes non résolus mènent directement à la WWII"
+    },
+    "image": "images/wwi/legacy.jpg",
+    "tags": ["legacy", "impact", "empires", "lost-generation"]
+  }
+]

@@ -1,0 +1,450 @@
+[
+  {
+    "year": "1943",
+    "era": "Foundations",
+    "title": {
+      "en": "McCulloch-Pitts Neuron Model",
+      "fr": "Modèle de neurone McCulloch-Pitts"
+    },
+    "description": {
+      "en": "🧠 Warren McCulloch and Walter Pitts create first mathematical model of artificial neurons\n💡 Showed how neurons could perform logical operations\n📐 Foundation for neural networks and computational neuroscience\n🔗 Inspired by biological neurons in the brain",
+      "fr": "🧠 Warren McCulloch et Walter Pitts créent le premier modèle mathématique de neurones artificiels\n💡 Montra comment les neurones pouvaient effectuer des opérations logiques\n📐 Fondation des réseaux de neurones et neurosciences computationnelles\n🔗 Inspiré par les neurones biologiques du cerveau"
+    },
+    "image": "images/ai/mcculloch_pitts.jpg",
+    "tags": ["foundations", "neural-networks", "mathematics", "neuroscience"]
+  },
+  {
+    "year": "1950",
+    "era": "Foundations",
+    "title": {
+      "en": "Turing Test Proposed",
+      "fr": "Test de Turing proposé"
+    },
+    "description": {
+      "en": "🤖 Alan Turing publishes 'Computing Machinery and Intelligence'\n💭 'Can machines think?' - proposed the imitation game\n📝 If a machine can fool a human, it exhibits intelligence\n🎯 Set benchmark for machine intelligence for decades\n🧪 Still debated and referenced in AI philosophy today",
+      "fr": "🤖 Alan Turing publie 'Computing Machinery and Intelligence'\n💭 'Les machines peuvent-elles penser ?' - proposa le jeu de l'imitation\n📝 Si une machine peut tromper un humain, elle exhibe de l'intelligence\n🎯 Établit un critère pour l'intelligence machine pendant des décennies\n🧪 Encore débattu et référencé en philosophie de l'IA aujourd'hui"
+    },
+    "image": "images/ai/turing.jpg",
+    "tags": ["foundations", "turing-test", "philosophy", "milestone"]
+  },
+  {
+    "year": "1956",
+    "era": "Birth of AI",
+    "title": {
+      "en": "Dartmouth Conference",
+      "fr": "Conférence de Dartmouth"
+    },
+    "description": {
+      "en": "🎓 John McCarthy coins the term 'Artificial Intelligence'\n🏛️ Workshop at Dartmouth College with Minsky, Shannon, Rochester\n📜 'Every aspect of learning can be precisely described for a machine to simulate'\n🌟 Birth of AI as a formal academic discipline\n💰 Sparked government and corporate funding for AI research",
+      "fr": "🎓 John McCarthy invente le terme 'Intelligence Artificielle'\n🏛️ Atelier au Dartmouth College avec Minsky, Shannon, Rochester\n📜 'Chaque aspect de l'apprentissage peut être décrit précisément pour qu'une machine le simule'\n🌟 Naissance de l'IA comme discipline académique formelle\n💰 Déclencha financements gouvernementaux et privés pour la recherche en IA"
+    },
+    "image": "images/ai/dartmouth.jpg",
+    "tags": ["birth", "milestone", "dartmouth", "mccarthy"]
+  },
+  {
+    "year": "1957",
+    "era": "Early AI",
+    "title": {
+      "en": "Perceptron Invented",
+      "fr": "Invention du Perceptron"
+    },
+    "description": {
+      "en": "🔬 Frank Rosenblatt creates the Perceptron at Cornell\n🧠 First machine capable of learning from data\n📊 Single-layer neural network for pattern recognition\n📰 Media hype: 'machine that thinks like a human brain'\n⚠️ Later criticized by Minsky & Papert (1969), causing AI winter",
+      "fr": "🔬 Frank Rosenblatt crée le Perceptron à Cornell\n🧠 Première machine capable d'apprendre des données\n📊 Réseau de neurones à une couche pour reconnaissance de formes\n📰 Battage médiatique : 'machine qui pense comme un cerveau humain'\n⚠️ Plus tard critiqué par Minsky & Papert (1969), causant l'hiver de l'IA"
+    },
+    "image": "images/ai/perceptron.jpg",
+    "tags": ["neural-networks", "perceptron", "learning", "rosenblatt"]
+  },
+  {
+    "year": "1958",
+    "era": "Early AI",
+    "title": {
+      "en": "LISP Programming Language",
+      "fr": "Langage de programmation LISP"
+    },
+    "description": {
+      "en": "💻 John McCarthy creates LISP at MIT\n🔧 First programming language designed for AI research\n🔄 Introduced recursion, garbage collection, dynamic typing\n📚 Became dominant AI programming language for decades\n🌳 Pioneered symbolic AI and knowledge representation",
+      "fr": "💻 John McCarthy crée LISP au MIT\n🔧 Premier langage de programmation conçu pour la recherche en IA\n🔄 Introduisit récursivité, garbage collection, typage dynamique\n📚 Devint le langage dominant en IA pendant des décennies\n🌳 Pionnier de l'IA symbolique et représentation des connaissances"
+    },
+    "image": "images/ai/lisp.jpg",
+    "tags": ["programming", "lisp", "mccarthy", "symbolic-ai"]
+  },
+  {
+    "year": "1965",
+    "era": "Early AI",
+    "title": {
+      "en": "ELIZA Chatbot",
+      "fr": "Chatbot ELIZA"
+    },
+    "description": {
+      "en": "💬 Joseph Weizenbaum creates ELIZA at MIT\n🩺 Simulated a Rogerian psychotherapist\n🎭 Used pattern matching to generate responses\n😮 Users formed emotional attachments despite simple rules\n⚠️ Weizenbaum later became AI critic, warning of overreliance",
+      "fr": "💬 Joseph Weizenbaum crée ELIZA au MIT\n🩺 Simulait un psychothérapeute rogérien\n🎭 Utilisait la correspondance de motifs pour générer des réponses\n😮 Les utilisateurs s'attachaient émotionnellement malgré règles simples\n⚠️ Weizenbaum devint plus tard critique de l'IA, avertissant de la dépendance excessive"
+    },
+    "image": "images/ai/eliza.jpg",
+    "tags": ["chatbot", "nlp", "weizenbaum", "early-ai"]
+  },
+  {
+    "year": "1966",
+    "era": "Early AI",
+    "title": {
+      "en": "Shakey the Robot",
+      "fr": "Shakey le Robot"
+    },
+    "description": {
+      "en": "🤖 SRI International builds first mobile robot using AI\n👁️ Combined vision, navigation, and problem-solving\n🗺️ Could plan routes and interact with environment\n🧩 Used STRIPS planner for goal-based reasoning\n🎬 Influenced robotics and autonomous systems for decades",
+      "fr": "🤖 SRI International construit le premier robot mobile utilisant l'IA\n👁️ Combinait vision, navigation et résolution de problèmes\n🗺️ Pouvait planifier des routes et interagir avec l'environnement\n🧩 Utilisait le planificateur STRIPS pour raisonnement par objectifs\n🎬 Influença la robotique et systèmes autonomes pendant des décennies"
+    },
+    "image": "images/ai/shakey.jpg",
+    "tags": ["robotics", "planning", "sri", "autonomous"]
+  },
+  {
+    "year": "1969",
+    "era": "First AI Winter",
+    "title": {
+      "en": "Perceptrons Book Critique",
+      "fr": "Critique du livre Perceptrons"
+    },
+    "description": {
+      "en": "📖 Minsky and Papert publish 'Perceptrons'\n❄️ Proved limitations of single-layer neural networks\n📉 Funding for neural network research collapsed\n🌨️ Triggered first 'AI Winter' lasting until mid-1980s\n🔄 Multi-layer networks would later overcome these limits",
+      "fr": "📖 Minsky et Papert publient 'Perceptrons'\n❄️ Prouvèrent les limites des réseaux à une couche\n📉 Financement de la recherche en réseaux de neurones s'effondra\n🌨️ Déclencha le premier 'Hiver de l'IA' jusqu'au milieu des années 1980\n🔄 Les réseaux multicouches surmonteraient plus tard ces limites"
+    },
+    "image": "images/ai/perceptrons_book.jpg",
+    "tags": ["ai-winter", "critique", "minsky", "neural-networks"]
+  },
+  {
+    "year": "1970s",
+    "era": "Expert Systems",
+    "title": {
+      "en": "Rise of Expert Systems",
+      "fr": "Essor des systèmes experts"
+    },
+    "description": {
+      "en": "🏥 MYCIN (1976): diagnosed bacterial infections\n🧪 DENDRAL: analyzed chemical compounds\n📋 Rule-based systems encoding human expertise\n💼 First commercial AI applications in industry\n🔍 Knowledge engineering became new paradigm",
+      "fr": "🏥 MYCIN (1976) : diagnostiquait les infections bactériennes\n🧪 DENDRAL : analysait les composés chimiques\n📋 Systèmes à base de règles encodant l'expertise humaine\n💼 Premières applications commerciales de l'IA dans l'industrie\n🔍 L'ingénierie des connaissances devint nouveau paradigme"
+    },
+    "image": "images/ai/expert_systems.jpg",
+    "tags": ["expert-systems", "mycin", "knowledge", "commercial"]
+  },
+  {
+    "year": "1980",
+    "era": "AI Renaissance",
+    "title": {
+      "en": "Commercial AI Boom",
+      "fr": "Boom commercial de l'IA"
+    },
+    "description": {
+      "en": "💰 AI industry grows from millions to billions\n🖥️ LISP machines and specialized AI hardware\n🇯🇵 Japan's Fifth Generation Computer Project launched\n🏢 Companies like Symbolics, IntelliCorp thrive\n📈 Venture capital floods into AI startups",
+      "fr": "💰 L'industrie de l'IA passe de millions à milliards\n🖥️ Machines LISP et matériel IA spécialisé\n🇯🇵 Projet japonais d'ordinateurs de cinquième génération lancé\n🏢 Entreprises comme Symbolics, IntelliCorp prospèrent\n📈 Le capital-risque afflue vers les startups IA"
+    },
+    "image": "images/ai/ai_boom_80s.jpg",
+    "tags": ["commercial", "boom", "lisp-machines", "japan"]
+  },
+  {
+    "year": "1986",
+    "era": "Neural Networks Revival",
+    "title": {
+      "en": "Backpropagation Popularized",
+      "fr": "Rétropropagation popularisée"
+    },
+    "description": {
+      "en": "🔄 Rumelhart, Hinton & Williams publish backpropagation paper\n🧠 Algorithm to train multi-layer neural networks\n📈 Overcame Perceptron limitations identified by Minsky\n🔥 Revived interest in connectionist AI\n🎯 Foundation for modern deep learning",
+      "fr": "🔄 Rumelhart, Hinton & Williams publient article sur rétropropagation\n🧠 Algorithme pour entraîner réseaux de neurones multicouches\n📈 Surmonta les limites du Perceptron identifiées par Minsky\n🔥 Raviva l'intérêt pour l'IA connexionniste\n🎯 Fondation de l'apprentissage profond moderne"
+    },
+    "image": "images/ai/backpropagation.jpg",
+    "tags": ["neural-networks", "backpropagation", "hinton", "deep-learning"]
+  },
+  {
+    "year": "1987–1993",
+    "era": "Second AI Winter",
+    "title": {
+      "en": "Second AI Winter",
+      "fr": "Deuxième hiver de l'IA"
+    },
+    "description": {
+      "en": "❄️ AI industry collapses, LISP machine market crashes\n💸 Expert systems fail to meet expectations\n🇯🇵 Japan's Fifth Generation Project abandoned\n📉 DARPA cuts AI funding dramatically\n🌨️ Researchers avoid term 'AI', use 'machine learning' instead",
+      "fr": "❄️ L'industrie de l'IA s'effondre, marché des machines LISP s'écroule\n💸 Les systèmes experts ne répondent pas aux attentes\n🇯🇵 Projet japonais de cinquième génération abandonné\n📉 DARPA réduit drastiquement le financement de l'IA\n🌨️ Les chercheurs évitent le terme 'IA', utilisent 'apprentissage automatique'"
+    },
+    "image": "images/ai/ai_winter.jpg",
+    "tags": ["ai-winter", "collapse", "funding", "expert-systems"]
+  },
+  {
+    "year": "1997",
+    "era": "AI Milestones",
+    "title": {
+      "en": "Deep Blue Defeats Kasparov",
+      "fr": "Deep Blue bat Kasparov"
+    },
+    "description": {
+      "en": "♟️ IBM's Deep Blue defeats world chess champion Garry Kasparov\n🖥️ Evaluated 200 million positions per second\n🏆 First computer to beat reigning world champion\n📰 Global media sensation, AI back in spotlight\n🤔 Debate: was it 'real' intelligence or brute force?",
+      "fr": "♟️ Deep Blue d'IBM bat le champion du monde d'échecs Garry Kasparov\n🖥️ Évaluait 200 millions de positions par seconde\n🏆 Premier ordinateur à battre un champion du monde en titre\n📰 Sensation médiatique mondiale, l'IA revient sous les projecteurs\n🤔 Débat : était-ce une 'vraie' intelligence ou force brute ?"
+    },
+    "image": "images/ai/deep_blue.jpg",
+    "tags": ["chess", "ibm", "kasparov", "milestone"]
+  },
+  {
+    "year": "1998",
+    "era": "Machine Learning Rise",
+    "title": {
+      "en": "MNIST & LeNet-5",
+      "fr": "MNIST et LeNet-5"
+    },
+    "description": {
+      "en": "🔢 Yann LeCun's LeNet-5 achieves digit recognition\n📊 MNIST dataset becomes benchmark for ML research\n🏦 Used by banks for check reading\n🔍 Convolutional Neural Networks (CNNs) validated\n📈 Practical commercial success for neural networks",
+      "fr": "🔢 LeNet-5 de Yann LeCun réalise reconnaissance de chiffres\n📊 Dataset MNIST devient référence pour recherche ML\n🏦 Utilisé par les banques pour lecture de chèques\n🔍 Réseaux de Neurones Convolutifs (CNNs) validés\n📈 Succès commercial pratique pour réseaux de neurones"
+    },
+    "image": "images/ai/lenet.jpg",
+    "tags": ["cnn", "lecun", "mnist", "computer-vision"]
+  },
+  {
+    "year": "2006",
+    "era": "Deep Learning Era",
+    "title": {
+      "en": "Deep Learning Breakthrough",
+      "fr": "Percée de l'apprentissage profond"
+    },
+    "description": {
+      "en": "🧠 Geoffrey Hinton introduces Deep Belief Networks\n🔓 Solved vanishing gradient problem with pre-training\n📚 'Deep Learning' term gains traction\n🔥 Sparked modern deep learning revolution\n🎓 Hinton, LeCun, Bengio: 'Godfathers of Deep Learning'",
+      "fr": "🧠 Geoffrey Hinton introduit les Deep Belief Networks\n🔓 Résolut le problème du gradient qui disparaît avec pré-entraînement\n📚 Le terme 'Deep Learning' gagne en popularité\n🔥 Déclencha la révolution moderne de l'apprentissage profond\n🎓 Hinton, LeCun, Bengio : 'Parrains du Deep Learning'"
+    },
+    "image": "images/ai/hinton.jpg",
+    "tags": ["deep-learning", "hinton", "breakthrough", "neural-networks"]
+  },
+  {
+    "year": "2011",
+    "era": "AI Assistants",
+    "title": {
+      "en": "Siri & Watson",
+      "fr": "Siri et Watson"
+    },
+    "description": {
+      "en": "📱 Apple launches Siri, first mainstream AI assistant\n🎯 IBM Watson wins Jeopardy! against champions\n🗣️ Voice recognition becomes consumer technology\n🤖 AI enters everyday life for millions\n💡 Natural language processing achieves new heights",
+      "fr": "📱 Apple lance Siri, premier assistant IA grand public\n🎯 IBM Watson gagne Jeopardy! contre des champions\n🗣️ La reconnaissance vocale devient technologie grand public\n🤖 L'IA entre dans la vie quotidienne de millions de personnes\n💡 Le traitement du langage naturel atteint de nouveaux sommets"
+    },
+    "image": "images/ai/siri_watson.jpg",
+    "tags": ["assistants", "siri", "watson", "nlp"]
+  },
+  {
+    "year": "2012",
+    "era": "Deep Learning Era",
+    "title": {
+      "en": "AlexNet & ImageNet Moment",
+      "fr": "AlexNet et le moment ImageNet"
+    },
+    "description": {
+      "en": "🏆 AlexNet wins ImageNet competition by huge margin\n📉 Cut error rate from 26% to 15%\n🖼️ Deep CNNs proven for image recognition\n💻 GPU computing enables deep learning scale\n🚀 Triggered explosion of deep learning research and investment",
+      "fr": "🏆 AlexNet gagne la compétition ImageNet avec une marge énorme\n📉 Réduisit le taux d'erreur de 26% à 15%\n🖼️ CNNs profonds prouvés pour reconnaissance d'images\n💻 Le calcul GPU permet l'échelle du deep learning\n🚀 Déclencha explosion de recherche et investissement en deep learning"
+    },
+    "image": "images/ai/alexnet.jpg",
+    "tags": ["deep-learning", "imagenet", "cnn", "gpu"]
+  },
+  {
+    "year": "2014",
+    "era": "Generative AI",
+    "title": {
+      "en": "GANs Invented",
+      "fr": "Invention des GANs"
+    },
+    "description": {
+      "en": "🎨 Ian Goodfellow invents Generative Adversarial Networks\n🥊 Two networks compete: generator vs discriminator\n🖼️ Can generate realistic images from noise\n🎭 Foundation for deepfakes and AI art\n🔮 Yann LeCun called it 'most interesting idea in ML in 10 years'",
+      "fr": "🎨 Ian Goodfellow invente les Generative Adversarial Networks\n🥊 Deux réseaux rivalisent : générateur vs discriminateur\n🖼️ Peut générer des images réalistes à partir de bruit\n🎭 Fondation pour deepfakes et art IA\n🔮 Yann LeCun l'appela 'idée la plus intéressante en ML en 10 ans'"
+    },
+    "image": "images/ai/gans.jpg",
+    "tags": ["generative", "gans", "goodfellow", "images"]
+  },
+  {
+    "year": "2016",
+    "era": "AI Milestones",
+    "title": {
+      "en": "AlphaGo Defeats Lee Sedol",
+      "fr": "AlphaGo bat Lee Sedol"
+    },
+    "description": {
+      "en": "🎮 DeepMind's AlphaGo beats world Go champion 4-1\n🧠 Combined deep learning with Monte Carlo tree search\n🌏 Watched by 200 million people, especially in Asia\n💫 Move 37 in Game 2: creative, non-human brilliance\n🔮 Proved AI could master intuition-based games",
+      "fr": "🎮 AlphaGo de DeepMind bat le champion du monde de Go 4-1\n🧠 Combinait deep learning et recherche arborescente Monte Carlo\n🌏 Regardé par 200 millions de personnes, surtout en Asie\n💫 Coup 37 de la partie 2 : créativité brillante, non-humaine\n🔮 Prouva que l'IA pouvait maîtriser des jeux basés sur l'intuition"
+    },
+    "image": "images/ai/alphago.jpg",
+    "tags": ["deepmind", "go", "alphago", "milestone"]
+  },
+  {
+    "year": "2017",
+    "era": "Transformer Revolution",
+    "title": {
+      "en": "Transformer Architecture",
+      "fr": "Architecture Transformer"
+    },
+    "description": {
+      "en": "📄 Google publishes 'Attention Is All You Need'\n🔄 Transformer replaces recurrent networks\n⚡ Enables massive parallelization in training\n🎯 Self-attention mechanism revolutionizes NLP\n🏗️ Foundation for GPT, BERT, and all modern LLMs",
+      "fr": "📄 Google publie 'Attention Is All You Need'\n🔄 Le Transformer remplace les réseaux récurrents\n⚡ Permet parallélisation massive dans l'entraînement\n🎯 Le mécanisme d'auto-attention révolutionne le NLP\n🏗️ Fondation pour GPT, BERT, et tous les LLMs modernes"
+    },
+    "image": "images/ai/transformer.jpg",
+    "tags": ["transformer", "attention", "google", "nlp"]
+  },
+  {
+    "year": "2018",
+    "era": "Language Models",
+    "title": {
+      "en": "BERT & GPT-1",
+      "fr": "BERT et GPT-1"
+    },
+    "description": {
+      "en": "📚 Google releases BERT: bidirectional understanding\n🤖 OpenAI releases GPT-1: generative pre-training\n🔄 Transfer learning transforms NLP capabilities\n🎯 Pre-train once, fine-tune for many tasks\n📈 State-of-the-art results across NLP benchmarks",
+      "fr": "📚 Google publie BERT : compréhension bidirectionnelle\n🤖 OpenAI publie GPT-1 : pré-entraînement génératif\n🔄 L'apprentissage par transfert transforme les capacités NLP\n🎯 Pré-entraîner une fois, affiner pour plusieurs tâches\n📈 Résultats état de l'art sur les benchmarks NLP"
+    },
+    "image": "images/ai/bert_gpt.jpg",
+    "tags": ["bert", "gpt", "language-models", "nlp"]
+  },
+  {
+    "year": "2020",
+    "era": "Large Language Models",
+    "title": {
+      "en": "GPT-3 Released",
+      "fr": "Sortie de GPT-3"
+    },
+    "description": {
+      "en": "🚀 OpenAI releases GPT-3 with 175 billion parameters\n✍️ Can write essays, code, poetry, answer questions\n🎭 Few-shot learning: learns from examples in prompt\n💰 API access model: AI-as-a-service business\n🤯 Sparks debate about AI capabilities and risks",
+      "fr": "🚀 OpenAI publie GPT-3 avec 175 milliards de paramètres\n✍️ Peut écrire essais, code, poésie, répondre aux questions\n🎭 Apprentissage few-shot : apprend des exemples dans le prompt\n💰 Modèle d'accès API : IA-comme-service\n🤯 Déclenche débat sur capacités et risques de l'IA"
+    },
+    "image": "images/ai/gpt3.jpg",
+    "tags": ["gpt-3", "openai", "llm", "language-models"]
+  },
+  {
+    "year": "2021",
+    "era": "Multimodal AI",
+    "title": {
+      "en": "DALL-E & Codex",
+      "fr": "DALL-E et Codex"
+    },
+    "description": {
+      "en": "🎨 DALL-E generates images from text descriptions\n💻 GitHub Copilot powered by Codex writes code\n🔗 AI bridges language and visual understanding\n🎭 Creative AI becomes accessible to everyone\n⚖️ Raises questions about copyright and creativity",
+      "fr": "🎨 DALL-E génère des images à partir de descriptions textuelles\n💻 GitHub Copilot propulsé par Codex écrit du code\n🔗 L'IA fait le pont entre langage et compréhension visuelle\n🎭 L'IA créative devient accessible à tous\n⚖️ Soulève questions sur droits d'auteur et créativité"
+    },
+    "image": "images/ai/dalle.jpg",
+    "tags": ["dalle", "codex", "multimodal", "creative-ai"]
+  },
+  {
+    "year": "2022",
+    "era": "Generative AI Explosion",
+    "title": {
+      "en": "ChatGPT Changes Everything",
+      "fr": "ChatGPT change tout"
+    },
+    "description": {
+      "en": "💬 OpenAI releases ChatGPT, reaches 100M users in 2 months\n🗣️ Conversational AI accessible to general public\n🎓 RLHF (Reinforcement Learning from Human Feedback)\n🌍 Fastest-growing consumer application in history\n🔥 Triggers global AI race among tech giants",
+      "fr": "💬 OpenAI publie ChatGPT, atteint 100M utilisateurs en 2 mois\n🗣️ IA conversationnelle accessible au grand public\n🎓 RLHF (Apprentissage par Renforcement avec Feedback Humain)\n🌍 Application grand public à la croissance la plus rapide de l'histoire\n🔥 Déclenche course mondiale à l'IA entre géants technologiques"
+    },
+    "image": "images/ai/chatgpt.jpg",
+    "tags": ["chatgpt", "openai", "conversational", "milestone"]
+  },
+  {
+    "year": "2022",
+    "era": "Generative AI Explosion",
+    "title": {
+      "en": "Stable Diffusion & Midjourney",
+      "fr": "Stable Diffusion et Midjourney"
+    },
+    "description": {
+      "en": "🎨 Stable Diffusion released as open-source\n🖼️ Midjourney creates stunning AI art\n🆓 Democratizes AI image generation\n👨‍🎨 Artists debate: tool or threat?\n⚖️ Legal battles over training data begin",
+      "fr": "🎨 Stable Diffusion publié en open-source\n🖼️ Midjourney crée de l'art IA époustouflant\n🆓 Démocratise la génération d'images par IA\n👨‍🎨 Les artistes débattent : outil ou menace ?\n⚖️ Batailles juridiques sur données d'entraînement commencent"
+    },
+    "image": "images/ai/stable_diffusion.jpg",
+    "tags": ["stable-diffusion", "midjourney", "image-generation", "open-source"]
+  },
+  {
+    "year": "2023",
+    "era": "AI Arms Race",
+    "title": {
+      "en": "GPT-4 & Multimodal LLMs",
+      "fr": "GPT-4 et LLMs multimodaux"
+    },
+    "description": {
+      "en": "🚀 OpenAI releases GPT-4: multimodal, more capable\n👁️ Can understand images and text together\n📊 Passes bar exam, medical licensing exams\n🤖 Google launches Bard, Microsoft integrates Copilot\n🏃 AI capabilities advancing at unprecedented pace",
+      "fr": "🚀 OpenAI publie GPT-4 : multimodal, plus capable\n👁️ Peut comprendre images et texte ensemble\n📊 Réussit examen du barreau, examens médicaux\n🤖 Google lance Bard, Microsoft intègre Copilot\n🏃 Capacités IA avancent à un rythme sans précédent"
+    },
+    "image": "images/ai/gpt4.jpg",
+    "tags": ["gpt-4", "multimodal", "openai", "llm"]
+  },
+  {
+    "year": "2023",
+    "era": "Open Source AI",
+    "title": {
+      "en": "LLaMA & Open Source LLMs",
+      "fr": "LLaMA et LLMs open source"
+    },
+    "description": {
+      "en": "🦙 Meta releases LLaMA, leaked and spawns ecosystem\n🔓 Open source models rival proprietary ones\n🌍 Mistral, Falcon, and others emerge\n💻 AI models run on consumer hardware\n⚖️ Debate: open vs closed AI development",
+      "fr": "🦙 Meta publie LLaMA, fuit et engendre un écosystème\n🔓 Modèles open source rivalisent avec les propriétaires\n🌍 Mistral, Falcon et autres émergent\n💻 Modèles IA tournent sur matériel grand public\n⚖️ Débat : développement IA ouvert vs fermé"
+    },
+    "image": "images/ai/llama.jpg",
+    "tags": ["llama", "open-source", "meta", "llm"]
+  },
+  {
+    "year": "2023",
+    "era": "AI Safety",
+    "title": {
+      "en": "AI Safety & Regulation Debates",
+      "fr": "Débats sur sécurité et régulation de l'IA"
+    },
+    "description": {
+      "en": "⚠️ Open letter calls for 6-month pause on AI development\n🏛️ US Senate hearings with Sam Altman\n🇪🇺 EU AI Act advances through legislation\n🤝 Frontier AI companies commit to safety testing\n🔮 Debates about existential risk and AGI",
+      "fr": "⚠️ Lettre ouverte appelle à pause de 6 mois sur développement IA\n🏛️ Auditions au Sénat américain avec Sam Altman\n🇪🇺 L'AI Act européen avance dans la législation\n🤝 Entreprises IA de pointe s'engagent sur tests de sécurité\n🔮 Débats sur risque existentiel et AGI"
+    },
+    "image": "images/ai/ai_safety.jpg",
+    "tags": ["safety", "regulation", "ethics", "agi"]
+  },
+  {
+    "year": "2024",
+    "era": "AI Agents",
+    "title": {
+      "en": "AI Agents & Autonomous Systems",
+      "fr": "Agents IA et systèmes autonomes"
+    },
+    "description": {
+      "en": "🤖 AI agents can browse web, write code, complete tasks\n🔄 AutoGPT, Claude, and agentic workflows emerge\n💼 AI assistants integrated into enterprise software\n🧠 Models gain reasoning and planning capabilities\n🔮 Moving from chatbots to autonomous agents",
+      "fr": "🤖 Les agents IA peuvent naviguer web, écrire code, accomplir tâches\n🔄 AutoGPT, Claude et workflows agentiques émergent\n💼 Assistants IA intégrés dans logiciels d'entreprise\n🧠 Modèles gagnent capacités de raisonnement et planification\n🔮 Passage des chatbots aux agents autonomes"
+    },
+    "image": "images/ai/ai_agents.jpg",
+    "tags": ["agents", "autonomous", "enterprise", "workflow"]
+  },
+  {
+    "year": "2024",
+    "era": "Video & Audio AI",
+    "title": {
+      "en": "Sora & Video Generation",
+      "fr": "Sora et génération vidéo"
+    },
+    "description": {
+      "en": "🎬 OpenAI announces Sora: text-to-video generation\n📹 Creates realistic minute-long videos from prompts\n🎭 Revolutionizes potential for content creation\n⚠️ Deepfake concerns intensify\n🎥 Hollywood and media industry face disruption",
+      "fr": "🎬 OpenAI annonce Sora : génération vidéo à partir de texte\n📹 Crée des vidéos réalistes d'une minute à partir de prompts\n🎭 Révolutionne le potentiel de création de contenu\n⚠️ Les inquiétudes sur deepfakes s'intensifient\n🎥 Hollywood et industrie des médias face à la disruption"
+    },
+    "image": "images/ai/sora.jpg",
+    "tags": ["sora", "video", "openai", "generative"]
+  },
+  {
+    "year": "2024–2025",
+    "era": "Present Day",
+    "title": {
+      "en": "AI Transforms Society",
+      "fr": "L'IA transforme la société"
+    },
+    "description": {
+      "en": "🌍 AI integrated into search, productivity, creativity tools\n💼 Millions of jobs augmented or displaced\n🏥 Medical AI assists diagnosis and drug discovery\n🎓 Education transformed by personalized AI tutors\n🔮 Race toward AGI continues amid safety debates",
+      "fr": "🌍 IA intégrée dans recherche, productivité, outils créatifs\n💼 Millions d'emplois augmentés ou déplacés\n🏥 IA médicale assiste diagnostic et découverte de médicaments\n🎓 Éducation transformée par tuteurs IA personnalisés\n🔮 Course vers l'AGI continue au milieu des débats sur la sécurité"
+    },
+    "image": "images/ai/ai_today.jpg",
+    "tags": ["present", "society", "transformation", "future"]
+  },
+  {
+    "year": "Future",
+    "era": "What's Next?",
+    "title": {
+      "en": "The Road to AGI",
+      "fr": "La route vers l'AGI"
+    },
+    "description": {
+      "en": "🔮 Artificial General Intelligence: human-level AI\n🧠 Current systems narrow, future may be general\n⚖️ Alignment problem: ensuring AI shares human values\n🌟 Potential: solve climate, disease, scientific mysteries\n⚠️ Risks: job displacement, misuse, existential concerns\n🤝 Future depends on choices made today",
+      "fr": "🔮 Intelligence Artificielle Générale : IA de niveau humain\n🧠 Systèmes actuels étroits, futur peut-être général\n⚖️ Problème d'alignement : s'assurer que l'IA partage valeurs humaines\n🌟 Potentiel : résoudre climat, maladies, mystères scientifiques\n⚠️ Risques : déplacement d'emplois, mauvais usage, préoccupations existentielles\n🤝 Le futur dépend des choix faits aujourd'hui"
+    },
+    "image": "images/ai/agi_future.jpg",
+    "tags": ["future", "agi", "alignment", "speculation"]
+  }
+]

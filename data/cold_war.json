@@ -1,0 +1,506 @@
+[
+  {
+    "year": "1945",
+    "era": "Origins",
+    "title": {
+      "en": "Potsdam Conference",
+      "fr": "Conférence de Potsdam"
+    },
+    "description": {
+      "en": "🤝 Truman, Stalin, Churchill/Attlee divide post-war Europe\n🇩🇪 Germany split into occupation zones\n😤 Growing tensions between former allies\n☢️ Truman hints at atomic bomb to Stalin\n🌍 Seeds of division already planted",
+      "fr": "🤝 Truman, Staline, Churchill/Attlee divisent l'Europe d'après-guerre\n🇩🇪 Allemagne divisée en zones d'occupation\n😤 Tensions croissantes entre anciens alliés\n☢️ Truman fait allusion à la bombe atomique à Staline\n🌍 Graines de division déjà plantées"
+    },
+    "image": "images/cold_war/potsdam.jpg",
+    "tags": ["potsdam", "origins", "division", "1945"]
+  },
+  {
+    "year": "1946",
+    "era": "Iron Curtain",
+    "title": {
+      "en": "Iron Curtain Speech",
+      "fr": "Discours du Rideau de fer"
+    },
+    "description": {
+      "en": "🎤 Churchill's speech in Fulton, Missouri\n🪟 'An iron curtain has descended across the Continent'\n🇷🇺 Stalin calls it 'declaration of war'\n🌍 East vs West division crystallizes\n📢 Marks public start of Cold War rhetoric",
+      "fr": "🎤 Discours de Churchill à Fulton, Missouri\n🪟 'Un rideau de fer s'est abattu sur le continent'\n🇷🇺 Staline appelle cela 'déclaration de guerre'\n🌍 Division Est vs Ouest se cristallise\n📢 Marque début public de rhétorique de Guerre froide"
+    },
+    "image": "images/cold_war/iron_curtain.jpg",
+    "tags": ["churchill", "iron-curtain", "speech", "rhetoric"]
+  },
+  {
+    "year": "1947",
+    "era": "Containment",
+    "title": {
+      "en": "Truman Doctrine",
+      "fr": "Doctrine Truman"
+    },
+    "description": {
+      "en": "🇺🇸 US pledges to support nations resisting communism\n🇬🇷🇹🇷 Aid to Greece and Turkey against communist insurgents\n🛡️ Policy of 'containment' begins\n💰 $400 million in military and economic aid\n🌍 America becomes global anti-communist leader",
+      "fr": "🇺🇸 Les US s'engagent à soutenir nations résistant au communisme\n🇬🇷🇹🇷 Aide à Grèce et Turquie contre insurgés communistes\n🛡️ Politique d'« endiguement » commence\n💰 400 millions $ d'aide militaire et économique\n🌍 L'Amérique devient leader anti-communiste mondial"
+    },
+    "image": "images/cold_war/truman_doctrine.jpg",
+    "tags": ["truman", "containment", "doctrine", "policy"]
+  },
+  {
+    "year": "1947",
+    "era": "Reconstruction",
+    "title": {
+      "en": "Marshall Plan",
+      "fr": "Plan Marshall"
+    },
+    "description": {
+      "en": "💰 $13 billion US aid to rebuild Western Europe\n🏭 Economic recovery to prevent communist influence\n🇷🇺 Soviets reject plan, forbid Eastern Bloc participation\n🌱 Foundations of European prosperity\n🤝 Ties Western Europe firmly to US",
+      "fr": "💰 13 milliards $ d'aide US pour reconstruire Europe occidentale\n🏭 Reprise économique pour prévenir influence communiste\n🇷🇺 Soviétiques rejettent plan, interdisent participation du Bloc de l'Est\n🌱 Fondations de la prospérité européenne\n🤝 Lie fermement Europe occidentale aux US"
+    },
+    "image": "images/cold_war/marshall_plan.jpg",
+    "tags": ["marshall", "aid", "reconstruction", "economy"]
+  },
+  {
+    "year": "1948–1949",
+    "era": "First Crisis",
+    "title": {
+      "en": "Berlin Blockade & Airlift",
+      "fr": "Blocus et pont aérien de Berlin"
+    },
+    "description": {
+      "en": "🚫 Soviets block all ground access to West Berlin\n✈️ Western Allies airlift supplies for 11 months\n📦 277,000 flights, 2.3 million tons of cargo\n💪 West refuses to abandon Berlin\n🇷🇺 Stalin lifts blockade May 1949, first Cold War defeat",
+      "fr": "🚫 Soviétiques bloquent tout accès terrestre à Berlin-Ouest\n✈️ Alliés occidentaux ravitaillent par air pendant 11 mois\n📦 277 000 vols, 2,3 millions de tonnes de cargo\n💪 L'Ouest refuse d'abandonner Berlin\n🇷🇺 Staline lève le blocus en mai 1949, première défaite de Guerre froide"
+    },
+    "image": "images/cold_war/berlin_airlift.jpg",
+    "tags": ["berlin", "blockade", "airlift", "crisis"]
+  },
+  {
+    "year": "1949",
+    "era": "Alliances",
+    "title": {
+      "en": "NATO Founded",
+      "fr": "Fondation de l'OTAN"
+    },
+    "description": {
+      "en": "🤝 North Atlantic Treaty Organization created\n🇺🇸🇬🇧🇫🇷 12 founding members commit to collective defense\n⚔️ 'An attack on one is an attack on all'\n🛡️ Western military alliance against Soviet threat\n🌍 First US peacetime military alliance",
+      "fr": "🤝 Organisation du Traité de l'Atlantique Nord créée\n🇺🇸🇬🇧🇫🇷 12 membres fondateurs s'engagent à défense collective\n⚔️ 'Une attaque contre l'un est une attaque contre tous'\n🛡️ Alliance militaire occidentale contre menace soviétique\n🌍 Première alliance militaire US en temps de paix"
+    },
+    "image": "images/cold_war/nato.jpg",
+    "tags": ["nato", "alliance", "defense", "west"]
+  },
+  {
+    "year": "1949",
+    "era": "Nuclear Race",
+    "title": {
+      "en": "Soviet Atomic Bomb",
+      "fr": "Bombe atomique soviétique"
+    },
+    "description": {
+      "en": "☢️ USSR tests 'First Lightning' (Joe-1)\n😱 US nuclear monopoly ends after only 4 years\n🕵️ Aided by espionage (Klaus Fuchs, Rosenbergs)\n⚖️ Balance of terror begins\n🏃 Nuclear arms race accelerates",
+      "fr": "☢️ L'URSS teste 'Premier Éclair' (Joe-1)\n😱 Monopole nucléaire US prend fin après seulement 4 ans\n🕵️ Aidé par espionnage (Klaus Fuchs, Rosenberg)\n⚖️ Équilibre de la terreur commence\n🏃 Course aux armements nucléaires s'accélère"
+    },
+    "image": "images/cold_war/soviet_bomb.jpg",
+    "tags": ["nuclear", "soviet", "bomb", "arms-race"]
+  },
+  {
+    "year": "1949",
+    "era": "Asia",
+    "title": {
+      "en": "Communist China",
+      "fr": "Chine communiste"
+    },
+    "description": {
+      "en": "🇨🇳 Mao Zedong proclaims People's Republic of China\n🔴 World's most populous nation turns communist\n🇹🇼 Nationalists flee to Taiwan\n😱 'Who lost China?' debate rocks US\n🌏 Cold War extends to Asia",
+      "fr": "🇨🇳 Mao Zedong proclame République populaire de Chine\n🔴 Nation la plus peuplée du monde devient communiste\n🇹🇼 Nationalistes fuient à Taiwan\n😱 Débat 'Qui a perdu la Chine ?' secoue les US\n🌏 Guerre froide s'étend à l'Asie"
+    },
+    "image": "images/cold_war/mao_china.jpg",
+    "tags": ["china", "mao", "communism", "asia"]
+  },
+  {
+    "year": "1950–1953",
+    "era": "Hot War",
+    "title": {
+      "en": "Korean War",
+      "fr": "Guerre de Corée"
+    },
+    "description": {
+      "en": "🇰🇵 North Korea invades South Korea\n🇺🇸 US leads UN forces to defend South\n🇨🇳 China enters when UN approaches Yalu River\n⚔️ 3 years of brutal fighting, 3 million dead\n🗺️ War ends in stalemate at 38th parallel",
+      "fr": "🇰🇵 Corée du Nord envahit Corée du Sud\n🇺🇸 US mènent forces ONU pour défendre le Sud\n🇨🇳 Chine intervient quand ONU approche fleuve Yalu\n⚔️ 3 ans de combats brutaux, 3 millions de morts\n🗺️ Guerre se termine en impasse au 38e parallèle"
+    },
+    "image": "images/cold_war/korean_war.jpg",
+    "tags": ["korea", "war", "proxy", "asia"]
+  },
+  {
+    "year": "1952",
+    "era": "Nuclear Race",
+    "title": {
+      "en": "Hydrogen Bomb",
+      "fr": "Bombe à hydrogène"
+    },
+    "description": {
+      "en": "💣 US tests first thermonuclear weapon\n💥 'Ivy Mike': 1000x more powerful than Hiroshima\n🇷🇺 Soviets follow with H-bomb in 1953\n☠️ Weapons now capable of destroying civilization\n😱 MAD (Mutual Assured Destruction) doctrine emerges",
+      "fr": "💣 US testent première arme thermonucléaire\n💥 'Ivy Mike' : 1000x plus puissante qu'Hiroshima\n🇷🇺 Soviétiques suivent avec bombe H en 1953\n☠️ Armes maintenant capables de détruire civilisation\n😱 Doctrine MAD (Destruction mutuelle assurée) émerge"
+    },
+    "image": "images/cold_war/hydrogen_bomb.jpg",
+    "tags": ["nuclear", "hydrogen", "bomb", "escalation"]
+  },
+  {
+    "year": "1953",
+    "era": "Death of Stalin",
+    "title": {
+      "en": "Stalin Dies",
+      "fr": "Mort de Staline"
+    },
+    "description": {
+      "en": "💀 Joseph Stalin dies after 30 years of rule\n🇷🇺 Power struggle in Soviet leadership\n👤 Nikita Khrushchev eventually emerges as leader\n🕊️ Brief hope for 'thaw' in Cold War\n📜 1956: Khrushchev denounces Stalin's crimes",
+      "fr": "💀 Joseph Staline meurt après 30 ans de règne\n🇷🇺 Lutte de pouvoir dans direction soviétique\n👤 Nikita Khrouchtchev émerge finalement comme leader\n🕊️ Bref espoir de 'dégel' dans Guerre froide\n📜 1956 : Khrouchtchev dénonce crimes de Staline"
+    },
+    "image": "images/cold_war/stalin_death.jpg",
+    "tags": ["stalin", "death", "khrushchev", "thaw"]
+  },
+  {
+    "year": "1954",
+    "era": "Alliances",
+    "title": {
+      "en": "SEATO & Domino Theory",
+      "fr": "OTASE et théorie des dominos"
+    },
+    "description": {
+      "en": "🌏 Southeast Asia Treaty Organization formed\n🎯 Contain communism in Asia after French defeat in Vietnam\n🀄 'Domino Theory': if one nation falls, others follow\n🇻🇳 US begins involvement in Vietnam\n🛡️ Network of anti-communist alliances worldwide",
+      "fr": "🌏 Organisation du Traité de l'Asie du Sud-Est formée\n🎯 Contenir communisme en Asie après défaite française au Vietnam\n🀄 'Théorie des dominos' : si une nation tombe, les autres suivent\n🇻🇳 US commencent implication au Vietnam\n🛡️ Réseau d'alliances anti-communistes mondial"
+    },
+    "image": "images/cold_war/seato.jpg",
+    "tags": ["seato", "domino", "asia", "containment"]
+  },
+  {
+    "year": "1955",
+    "era": "Alliances",
+    "title": {
+      "en": "Warsaw Pact",
+      "fr": "Pacte de Varsovie"
+    },
+    "description": {
+      "en": "🔴 Soviet response to NATO and West German rearmament\n🇷🇺 USSR and Eastern European satellites unite\n⚔️ Two armed camps face each other across Europe\n🗺️ Iron Curtain now has military structure\n⚖️ Balance of power formalized",
+      "fr": "🔴 Réponse soviétique à l'OTAN et réarmement ouest-allemand\n🇷🇺 URSS et satellites d'Europe de l'Est s'unissent\n⚔️ Deux camps armés se font face en Europe\n🗺️ Rideau de fer a maintenant structure militaire\n⚖️ Équilibre des puissances formalisé"
+    },
+    "image": "images/cold_war/warsaw_pact.jpg",
+    "tags": ["warsaw", "pact", "alliance", "east"]
+  },
+  {
+    "year": "1956",
+    "era": "Uprisings",
+    "title": {
+      "en": "Hungarian Revolution",
+      "fr": "Révolution hongroise"
+    },
+    "description": {
+      "en": "🇭🇺 Hungarians rise up against Soviet control\n✊ Imre Nagy promises reforms, leaves Warsaw Pact\n🚜 Soviet tanks crush revolution\n💀 2,500 Hungarians killed, 200,000 flee\n😔 West condemns but does nothing",
+      "fr": "🇭🇺 Hongrois se soulèvent contre contrôle soviétique\n✊ Imre Nagy promet réformes, quitte Pacte de Varsovie\n🚜 Chars soviétiques écrasent révolution\n💀 2 500 Hongrois tués, 200 000 fuient\n😔 L'Ouest condamne mais ne fait rien"
+    },
+    "image": "images/cold_war/hungary_1956.jpg",
+    "tags": ["hungary", "revolution", "uprising", "1956"]
+  },
+  {
+    "year": "1957",
+    "era": "Space Race",
+    "title": {
+      "en": "Sputnik",
+      "fr": "Spoutnik"
+    },
+    "description": {
+      "en": "🛰️ USSR launches first artificial satellite\n📡 Sputnik's 'beep beep' heard around world\n😱 'Sputnik crisis': Americans fear Soviet superiority\n🚀 Space race begins\n📚 US invests massively in science education",
+      "fr": "🛰️ L'URSS lance premier satellite artificiel\n📡 'Bip bip' de Spoutnik entendu dans le monde\n😱 'Crise Spoutnik' : Américains craignent supériorité soviétique\n🚀 Course spatiale commence\n📚 US investissent massivement dans éducation scientifique"
+    },
+    "image": "images/cold_war/sputnik.jpg",
+    "tags": ["sputnik", "space", "satellite", "race"]
+  },
+  {
+    "year": "1960",
+    "era": "Espionage",
+    "title": {
+      "en": "U-2 Incident",
+      "fr": "Incident de l'U-2"
+    },
+    "description": {
+      "en": "✈️ US spy plane shot down over USSR\n🕵️ Pilot Gary Powers captured\n😤 Khrushchev cancels Paris summit with Eisenhower\n🤥 US caught lying about 'weather research' plane\n❄️ Brief thaw in relations ends",
+      "fr": "✈️ Avion espion US abattu au-dessus de l'URSS\n🕵️ Pilote Gary Powers capturé\n😤 Khrouchtchev annule sommet de Paris avec Eisenhower\n🤥 US pris en train de mentir sur avion de 'recherche météo'\n❄️ Bref dégel des relations prend fin"
+    },
+    "image": "images/cold_war/u2_incident.jpg",
+    "tags": ["u2", "spy", "incident", "powers"]
+  },
+  {
+    "year": "1961",
+    "era": "Berlin",
+    "title": {
+      "en": "Berlin Wall Built",
+      "fr": "Construction du mur de Berlin"
+    },
+    "description": {
+      "en": "🧱 East Germany builds wall to stop emigration\n🚫 3.5 million had fled to West since 1945\n💔 Families divided overnight\n🗺️ Symbol of Cold War division\n💀 ~140 killed trying to cross over 28 years",
+      "fr": "🧱 Allemagne de l'Est construit mur pour stopper émigration\n🚫 3,5 millions avaient fui vers l'Ouest depuis 1945\n💔 Familles divisées du jour au lendemain\n🗺️ Symbole de la division de Guerre froide\n💀 ~140 tués en tentant de traverser sur 28 ans"
+    },
+    "image": "images/cold_war/berlin_wall.jpg",
+    "tags": ["berlin", "wall", "division", "symbol"]
+  },
+  {
+    "year": "1961",
+    "era": "Cuba",
+    "title": {
+      "en": "Bay of Pigs Invasion",
+      "fr": "Invasion de la Baie des Cochons"
+    },
+    "description": {
+      "en": "🇨🇺 CIA-backed Cuban exiles attempt to overthrow Castro\n💥 Invasion fails disastrously within 3 days\n😤 Embarrassment for new President Kennedy\n🇷🇺 Pushes Cuba closer to Soviet Union\n⚠️ Sets stage for Missile Crisis",
+      "fr": "🇨🇺 Exilés cubains soutenus par CIA tentent renverser Castro\n💥 Invasion échoue désastreusement en 3 jours\n😤 Embarras pour nouveau Président Kennedy\n🇷🇺 Pousse Cuba plus près de Union soviétique\n⚠️ Prépare terrain pour Crise des missiles"
+    },
+    "image": "images/cold_war/bay_of_pigs.jpg",
+    "tags": ["cuba", "bay-of-pigs", "cia", "kennedy"]
+  },
+  {
+    "year": "October 1962",
+    "era": "Brink of War",
+    "title": {
+      "en": "Cuban Missile Crisis",
+      "fr": "Crise des missiles de Cuba"
+    },
+    "description": {
+      "en": "☢️ Soviet nuclear missiles discovered in Cuba\n🇺🇸 Kennedy demands removal, orders naval blockade\n😰 World holds breath for 13 days\n🤝 Khrushchev backs down, removes missiles\n🌍 Closest the world came to nuclear war",
+      "fr": "☢️ Missiles nucléaires soviétiques découverts à Cuba\n🇺🇸 Kennedy exige retrait, ordonne blocus naval\n😰 Le monde retient son souffle 13 jours\n🤝 Khrouchtchev recule, retire missiles\n🌍 Plus près que le monde soit venu de guerre nucléaire"
+    },
+    "image": "images/cold_war/cuban_missile.jpg",
+    "tags": ["cuba", "missile", "crisis", "kennedy", "khrushchev"]
+  },
+  {
+    "year": "1963",
+    "era": "Arms Control",
+    "title": {
+      "en": "Limited Test Ban Treaty",
+      "fr": "Traité d'interdiction partielle des essais"
+    },
+    "description": {
+      "en": "☢️ US, USSR, UK ban nuclear tests in atmosphere\n🌍 First arms control agreement of Cold War\n📞 'Hotline' established between Washington and Moscow\n🕊️ Small step toward reducing tensions\n🏭 Underground testing continues",
+      "fr": "☢️ US, URSS, RU interdisent essais nucléaires atmosphériques\n🌍 Premier accord de contrôle des armes de Guerre froide\n📞 'Ligne rouge' établie entre Washington et Moscou\n🕊️ Petit pas vers réduction des tensions\n🏭 Essais souterrains continuent"
+    },
+    "image": "images/cold_war/test_ban.jpg",
+    "tags": ["treaty", "nuclear", "test-ban", "arms-control"]
+  },
+  {
+    "year": "1964–1973",
+    "era": "Vietnam",
+    "title": {
+      "en": "Vietnam War Escalation",
+      "fr": "Escalade de la guerre du Vietnam"
+    },
+    "description": {
+      "en": "🇻🇳 US escalates involvement after Gulf of Tonkin\n💣 500,000 US troops at peak, massive bombing\n✊ Anti-war movement grows worldwide\n💀 58,000 Americans, 2 million Vietnamese die\n😔 1973: US withdraws, 1975: Saigon falls",
+      "fr": "🇻🇳 US escaladent implication après Golfe du Tonkin\n💣 500 000 soldats US au pic, bombardement massif\n✊ Mouvement anti-guerre grandit mondialement\n💀 58 000 Américains, 2 millions de Vietnamiens meurent\n😔 1973 : US se retirent, 1975 : Saïgon tombe"
+    },
+    "image": "images/cold_war/vietnam.jpg",
+    "tags": ["vietnam", "war", "proxy", "escalation"]
+  },
+  {
+    "year": "1968",
+    "era": "Uprisings",
+    "title": {
+      "en": "Prague Spring",
+      "fr": "Printemps de Prague"
+    },
+    "description": {
+      "en": "🇨🇿 Alexander Dubček introduces 'socialism with human face'\n🌸 Reforms, free press, hope for change\n🚜 August: 500,000 Warsaw Pact troops invade\n💔 'Brezhnev Doctrine': no leaving Soviet sphere\n😢 Reforms crushed, 21 years of 'normalization'",
+      "fr": "🇨🇿 Alexander Dubček introduit 'socialisme à visage humain'\n🌸 Réformes, presse libre, espoir de changement\n🚜 Août : 500 000 soldats du Pacte de Varsovie envahissent\n💔 'Doctrine Brejnev' : pas de départ de sphère soviétique\n😢 Réformes écrasées, 21 ans de 'normalisation'"
+    },
+    "image": "images/cold_war/prague_spring.jpg",
+    "tags": ["prague", "spring", "czechoslovakia", "invasion"]
+  },
+  {
+    "year": "1969",
+    "era": "Space Race",
+    "title": {
+      "en": "Moon Landing",
+      "fr": "Alunissage"
+    },
+    "description": {
+      "en": "🌙 Apollo 11: Neil Armstrong walks on the Moon\n🇺🇸 'One small step for man, one giant leap for mankind'\n🏆 US wins space race\n📺 600 million watch worldwide\n🚀 Symbolizes American technological triumph",
+      "fr": "🌙 Apollo 11 : Neil Armstrong marche sur la Lune\n🇺🇸 'Un petit pas pour l'homme, un bond géant pour l'humanité'\n🏆 US gagnent course spatiale\n📺 600 millions regardent dans le monde\n🚀 Symbolise triomphe technologique américain"
+    },
+    "image": "images/cold_war/moon_landing.jpg",
+    "tags": ["moon", "apollo", "space", "armstrong"]
+  },
+  {
+    "year": "1972",
+    "era": "Détente",
+    "title": {
+      "en": "Nixon in China & SALT I",
+      "fr": "Nixon en Chine et SALT I"
+    },
+    "description": {
+      "en": "🇨🇳 Nixon visits Communist China, opens relations\n🤝 Exploits Sino-Soviet split\n☢️ SALT I: first strategic arms limitation treaty\n🕊️ Era of 'détente' (relaxation) begins\n🌍 Pragmatism over ideology",
+      "fr": "🇨🇳 Nixon visite Chine communiste, ouvre relations\n🤝 Exploite rupture sino-soviétique\n☢️ SALT I : premier traité de limitation des armes stratégiques\n🕊️ Ère de 'détente' commence\n🌍 Pragmatisme sur idéologie"
+    },
+    "image": "images/cold_war/nixon_china.jpg",
+    "tags": ["nixon", "china", "salt", "detente"]
+  },
+  {
+    "year": "1975",
+    "era": "Détente",
+    "title": {
+      "en": "Helsinki Accords",
+      "fr": "Accords d'Helsinki"
+    },
+    "description": {
+      "en": "🤝 35 nations sign agreement on European security\n🗺️ Post-WWII borders recognized\n📜 Human rights provisions included\n✊ Dissidents use to demand rights in East\n🕊️ High point of détente",
+      "fr": "🤝 35 nations signent accord sur sécurité européenne\n🗺️ Frontières d'après-WWII reconnues\n📜 Dispositions sur droits de l'homme incluses\n✊ Dissidents utilisent pour exiger droits à l'Est\n🕊️ Point culminant de la détente"
+    },
+    "image": "images/cold_war/helsinki.jpg",
+    "tags": ["helsinki", "accords", "human-rights", "detente"]
+  },
+  {
+    "year": "1979",
+    "era": "End of Détente",
+    "title": {
+      "en": "Soviet Invasion of Afghanistan",
+      "fr": "Invasion soviétique de l'Afghanistan"
+    },
+    "description": {
+      "en": "🇦🇫 USSR invades to support communist government\n⚔️ Mujahideen resistance with US/Saudi support\n🇺🇸 Carter Doctrine: US will defend Persian Gulf\n🏃 US boycotts 1980 Moscow Olympics\n💀 'Soviet Vietnam': 10-year quagmire begins",
+      "fr": "🇦🇫 L'URSS envahit pour soutenir gouvernement communiste\n⚔️ Résistance moudjahidine avec soutien US/saoudien\n🇺🇸 Doctrine Carter : US défendront Golfe Persique\n🏃 US boycottent JO de Moscou 1980\n💀 'Vietnam soviétique' : bourbier de 10 ans commence"
+    },
+    "image": "images/cold_war/afghanistan.jpg",
+    "tags": ["afghanistan", "invasion", "mujahideen", "carter"]
+  },
+  {
+    "year": "1980",
+    "era": "Poland",
+    "title": {
+      "en": "Solidarity Movement",
+      "fr": "Mouvement Solidarité"
+    },
+    "description": {
+      "en": "🇵🇱 Lech Wałęsa leads strikes at Gdańsk shipyard\n✊ First independent trade union in communist bloc\n👷 10 million members join Solidarity\n🚔 1981: Martial law declared, movement suppressed\n🌱 But seeds of change planted",
+      "fr": "🇵🇱 Lech Wałęsa mène grèves au chantier naval de Gdańsk\n✊ Premier syndicat indépendant dans bloc communiste\n👷 10 millions de membres rejoignent Solidarité\n🚔 1981 : Loi martiale déclarée, mouvement réprimé\n🌱 Mais graines du changement plantées"
+    },
+    "image": "images/cold_war/solidarity.jpg",
+    "tags": ["solidarity", "poland", "walesa", "union"]
+  },
+  {
+    "year": "1983",
+    "era": "Second Cold War",
+    "title": {
+      "en": "Reagan's 'Evil Empire' & SDI",
+      "fr": "'Empire du mal' de Reagan et IDS"
+    },
+    "description": {
+      "en": "😤 Reagan calls USSR 'evil empire'\n🛡️ Strategic Defense Initiative ('Star Wars') announced\n☢️ New arms race with cruise missiles in Europe\n😰 Relations at lowest point since Cuban crisis\n✈️ KAL 007 shot down, 269 killed",
+      "fr": "😤 Reagan appelle URSS 'empire du mal'\n🛡️ Initiative de défense stratégique ('Guerre des étoiles') annoncée\n☢️ Nouvelle course aux armes avec missiles de croisière en Europe\n😰 Relations au plus bas depuis crise de Cuba\n✈️ KAL 007 abattu, 269 tués"
+    },
+    "image": "images/cold_war/reagan_sdi.jpg",
+    "tags": ["reagan", "evil-empire", "sdi", "tensions"]
+  },
+  {
+    "year": "1985",
+    "era": "Reform",
+    "title": {
+      "en": "Gorbachev Comes to Power",
+      "fr": "Gorbatchev arrive au pouvoir"
+    },
+    "description": {
+      "en": "🇷🇺 Mikhail Gorbachev becomes Soviet leader\n🔄 Glasnost (openness) and Perestroika (restructuring)\n🤝 Willing to negotiate with West\n💔 Recognizes Soviet system is failing\n🌅 Beginning of the end for USSR",
+      "fr": "🇷🇺 Mikhaïl Gorbatchev devient leader soviétique\n🔄 Glasnost (transparence) et Perestroïka (restructuration)\n🤝 Prêt à négocier avec l'Ouest\n💔 Reconnaît que système soviétique échoue\n🌅 Début de la fin pour l'URSS"
+    },
+    "image": "images/cold_war/gorbachev.jpg",
+    "tags": ["gorbachev", "glasnost", "perestroika", "reform"]
+  },
+  {
+    "year": "1986",
+    "era": "Disasters",
+    "title": {
+      "en": "Chernobyl Disaster",
+      "fr": "Catastrophe de Tchernobyl"
+    },
+    "description": {
+      "en": "☢️ Nuclear reactor explodes in Ukraine\n💀 Worst nuclear disaster in history\n🤫 Initial Soviet cover-up exposed\n🌍 Radiation spreads across Europe\n📢 Gorbachev's glasnost put to test",
+      "fr": "☢️ Réacteur nucléaire explose en Ukraine\n💀 Pire catastrophe nucléaire de l'histoire\n🤫 Dissimulation soviétique initiale exposée\n🌍 Radiation se répand en Europe\n📢 Glasnost de Gorbatchev mis à l'épreuve"
+    },
+    "image": "images/cold_war/chernobyl.jpg",
+    "tags": ["chernobyl", "nuclear", "disaster", "ukraine"]
+  },
+  {
+    "year": "1987",
+    "era": "Arms Control",
+    "title": {
+      "en": "INF Treaty",
+      "fr": "Traité FNI"
+    },
+    "description": {
+      "en": "☢️ US and USSR eliminate intermediate-range nuclear missiles\n🚀 First treaty to reduce nuclear arsenals\n🤝 Reagan and Gorbachev sign in Washington\n✅ 2,692 missiles destroyed by 1991\n🕊️ Real progress in ending arms race",
+      "fr": "☢️ US et URSS éliminent missiles nucléaires à portée intermédiaire\n🚀 Premier traité à réduire arsenaux nucléaires\n🤝 Reagan et Gorbatchev signent à Washington\n✅ 2 692 missiles détruits d'ici 1991\n🕊️ Vrai progrès pour mettre fin à course aux armes"
+    },
+    "image": "images/cold_war/inf_treaty.jpg",
+    "tags": ["inf", "treaty", "missiles", "reagan", "gorbachev"]
+  },
+  {
+    "year": "1989",
+    "era": "Revolution",
+    "title": {
+      "en": "Fall of the Berlin Wall",
+      "fr": "Chute du mur de Berlin"
+    },
+    "description": {
+      "en": "🧱 November 9: Berlin Wall opens\n🎉 East and West Germans celebrate together\n🔨 Wall torn down by jubilant crowds\n🌍 Symbol of Cold War division falls\n🕊️ 'The end of history' declared",
+      "fr": "🧱 9 novembre : Mur de Berlin s'ouvre\n🎉 Allemands de l'Est et l'Ouest célèbrent ensemble\n🔨 Mur démoli par foules en liesse\n🌍 Symbole de division de Guerre froide tombe\n🕊️ 'La fin de l'histoire' déclarée"
+    },
+    "image": "images/cold_war/berlin_wall_fall.jpg",
+    "tags": ["berlin", "wall", "fall", "1989", "revolution"]
+  },
+  {
+    "year": "1989",
+    "era": "Revolution",
+    "title": {
+      "en": "Eastern European Revolutions",
+      "fr": "Révolutions d'Europe de l'Est"
+    },
+    "description": {
+      "en": "🇵🇱 Poland: Solidarity wins elections\n🇭🇺 Hungary opens border to Austria\n🇨🇿 Czechoslovakia: 'Velvet Revolution'\n🇷🇴 Romania: violent overthrow of Ceaușescu\n🌊 Communist regimes fall like dominoes",
+      "fr": "🇵🇱 Pologne : Solidarité gagne élections\n🇭🇺 Hongrie ouvre frontière à l'Autriche\n🇨🇿 Tchécoslovaquie : 'Révolution de velours'\n🇷🇴 Roumanie : renversement violent de Ceaușescu\n🌊 Régimes communistes tombent comme dominos"
+    },
+    "image": "images/cold_war/1989_revolutions.jpg",
+    "tags": ["1989", "revolutions", "eastern-europe", "communism"]
+  },
+  {
+    "year": "1990",
+    "era": "Reunification",
+    "title": {
+      "en": "German Reunification",
+      "fr": "Réunification allemande"
+    },
+    "description": {
+      "en": "🇩🇪 October 3: Germany officially reunited\n🗳️ East Germans vote to join West\n💰 Economic integration challenges\n🤝 NATO membership for unified Germany\n🌍 End of post-WWII division",
+      "fr": "🇩🇪 3 octobre : Allemagne officiellement réunifiée\n🗳️ Allemands de l'Est votent pour rejoindre l'Ouest\n💰 Défis d'intégration économique\n🤝 Appartenance à l'OTAN pour Allemagne unifiée\n🌍 Fin de division d'après-WWII"
+    },
+    "image": "images/cold_war/german_reunification.jpg",
+    "tags": ["germany", "reunification", "1990", "unity"]
+  },
+  {
+    "year": "1991",
+    "era": "Collapse",
+    "title": {
+      "en": "Dissolution of Soviet Union",
+      "fr": "Dissolution de l'Union soviétique"
+    },
+    "description": {
+      "en": "🇷🇺 August coup against Gorbachev fails\n👤 Yeltsin emerges as Russian leader\n🏳️ December 25: Soviet flag lowered for last time\n🌍 15 independent republics emerge\n🕊️ Cold War officially ends",
+      "fr": "🇷🇺 Coup d'août contre Gorbatchev échoue\n👤 Eltsine émerge comme leader russe\n🏳️ 25 décembre : Drapeau soviétique abaissé pour dernière fois\n🌍 15 républiques indépendantes émergent\n🕊️ Guerre froide prend officiellement fin"
+    },
+    "image": "images/cold_war/soviet_dissolution.jpg",
+    "tags": ["soviet", "dissolution", "1991", "end", "yeltsin"]
+  },
+  {
+    "year": "Legacy",
+    "era": "Aftermath",
+    "title": {
+      "en": "Cold War Legacy",
+      "fr": "Héritage de la Guerre froide"
+    },
+    "description": {
+      "en": "⏱️ 45 years of tension without direct US-Soviet war\n☢️ Thousands of nuclear weapons remain\n🌍 US emerges as sole superpower\n🇪🇺 Europe united, NATO expanded east\n❓ New tensions emerge with Russia and China",
+      "fr": "⏱️ 45 ans de tension sans guerre directe US-soviétique\n☢️ Milliers d'armes nucléaires restent\n🌍 US émergent comme seule superpuissance\n🇪🇺 Europe unie, OTAN élargie à l'est\n❓ Nouvelles tensions émergent avec Russie et Chine"
+    },
+    "image": "images/cold_war/legacy.jpg",
+    "tags": ["legacy", "aftermath", "nuclear", "superpower"]
+  }
+]
